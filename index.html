@@ -47,8 +47,7 @@
       let s = escHtml(String(str));
       s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
       s = s.replace(/\*(.+?)\*/g, '<em>$1</em>');
-      s = s.replace(/
-/g, '<br>');
+      s = s.replace(/\n/g, '<br>');
       return s;
     }
 
@@ -189,16 +188,7 @@
       // Optionally preselect Grade/Discipline for demo
       // gradeSel.value = '8'; discSel.value = 'PS'; populateStandards();
     });
-    // --- Override renderSelectedStandard to support Markdown + 
- ---
-    function renderSelectedStandard(){
-      const g = gradeSel.value, d = discSel.value, code = stdSel.value;
-      if(!g || !d || !code){ showHome(); return; }
-      const key = `${g}|${d}`;
-      const list = standardsIndex[key] || [];
-      const item = list.find(s=> s.code===code);
-      if(!item){ showHome(); return; }
-
+    
       // Header
       document.getElementById('std-code').textContent = code;
       document.getElementById('std-title').textContent = item.statement || '';
@@ -221,3 +211,4 @@
 </script>
 </body>
 </html>
+
