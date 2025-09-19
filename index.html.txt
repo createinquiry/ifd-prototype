@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IFD Prototype – Roller Shade Navigation</title>
+  <style>
+    /* (styles unchanged) */
+  
+    /* Biology band visibility: hidden by default unless Discipline = LS */
+    .bio-only{ display:none; }
+    body.discipline-ls .bio-only{ display:block; }
+  </style>
+</head>
+<body>
+  <!-- (HTML above unchanged) -->
+
+  <script>
+    const gradeSel = document.getElementById('grade');
+    const discSel  = document.getElementById('discipline');
+    const stdSel   = document.getElementById('standard');
+    const tabsNav  = document.querySelector('.tabs');
+    const home     = document.getElementById('home');
+    const stdWin   = document.getElementById('standard-window');
+    const searchEl = document.getElementById('search');
+
+    // Toggle LS discipline mode for Biology-only content visibility
+    function updateDisciplineMode(){
+      if (discSel.value === 'LS') {
+        document.body.classList.add('discipline-ls');
+      } else {
+        document.body.classList.remove('discipline-ls');
+      }
+    }
+
+    // --- Markdown-lite + newline renderer ---
+    function escHtml(str){
+      return String(str)
+        .replace(/&/g,"&amp;")
+        .replace(/</g,"&lt;")
+        .replace(/>/g,"&gt;")
+        .replace(/"/g,"&quot;")
+        .replace(/'/g,"&#39;");
+    }
+    function md(str){
+      if (str == null) return '';
+      let s = escHtml(String(str));
+      s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      s = s.replace(/\*(.+?)\*/g, '<em>$1</em>');
+      s = s.replace(/
+/g, '<br>');
+      return s;
+    }
+
+    // --- Demo dataset (replace later with JSON loader) ---
+    const standardsIndex = {
+      '8|PS': [
+        {
+          code: '8.PS2.1',
+          statement: 'Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object.',
+          bigIdea: 'Motion changes when forces are unbalanced; predictable patterns emerge when interactions are measured and represented consistently.',
+          scientificIdeas: [
+            'Forces have magnitude and direction; net force predicts change in motion.',
+            'Constant velocity indicates balanced forces; acceleration indicates unbalanced forces.',
+            'Diagrams, graphs, and computational models help compare interaction patterns.'
+          ],
+          studentIdeas: [
+            'Motion requires a force to keep going.',
+            'Heavier objects fall faster because they are heavier.',
+            'Action–reaction pairs act on the same object.'
+          ],
+          chapter: 'PS2.B'
+        }
+      ]
+    };
+
+    function formatMarkdown(text){
+      if(!text) return '';
+      return text
+        .replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')
+        .replace(/\*(.*?)\*/g,'<em>$1</em>')
+        .replace(/\n/g,'<br>');
+    }
+
+    function resetStandardUI(){
+      document.getElementById('std-code').textContent = '';
+      document.getElementById('std-title').innerHTML = '';
+      document.getElementById('big-idea').innerHTML = '';
+      document.getElementById('sci-ideas').innerHTML = '';
+      document.getElementById('stu-ideas').innerHTML = '';
+      document.getElementById('big-idea-section').hidden = true;
+      document.getElementById('sci-ideas-section').hidden = true;
+      document.getElementById('stu-ideas-section').hidden = true;
+    }
+
+    function showHome(){
+      home.hidden = false;
+      stdWin.hidden = true;
+      tabsNav.hidden = true;
+      document.body.classList.remove('mode-standard');
+      closeShade();
+    }
+
+    function showStandard(){
+      home.hidden = true;
+      stdWin.hidden = false;
+      tabsNav.hidden = false;
+      document.body.classList.add('mode-standard');
+      window.scrollTo({ top: 0, behavior: 'auto' });
+    }
+
+    function populateStandards(){
+      stdSel.innerHTML = '<option value="">Standard…</option>';
+      resetStandardUI();
+      const g = gradeSel.value; const d = discSel.value;
+      if(!g || !d){ showHome(); return; }
+      const key = `${g}|${d}`;
+      const list = standardsIndex[key] || [];
+      const byChapter = {};
+      list.forEach(s=>{ (byChapter[s.chapter]||(byChapter[s.chapter]=[])).push(s); });
+      Object.entries(byChapter).forEach(([chapter, items])=>{
+        const grp = document.createElement('optgroup');
+        grp.label = chapter;
+        items.forEach(s=>{
+          const opt = document.createElement('option');
+          opt.value = s.code;
+          opt.textContent = `${s.code} — ${s.statement}`;
+          grp.appendChild(opt);
+        });
+        stdSel.appendChild(grp);
+      });
+      showHome();
+    }
+
+    function renderSelectedStandard(){
+      const g = gradeSel.value, d = discSel.value, code = stdSel.value;
+      if(!g || !d || !code){ showHome(); return; }
+      const key = `${g}|${d}`;
+      const item = (standardsIndex[key]||[]).find(s=> s.code===code);
+      if(!item){ showHome(); return; }
+      document.getElementById('std-code').textContent = code;
+      document.getElementById('std-title').innerHTML = formatMarkdown(item.statement);
+      document.getElementById('big-idea').innerHTML = formatMarkdown(item.bigIdea || '');
+      document.getElementById('sci-ideas').innerHTML = (item.scientificIdeas||[]).map(t=>`<li>${formatMarkdown(t)}</li>`).join('');
+      document.getElementById('stu-ideas').innerHTML = (item.studentIdeas||[]).map(t=>`<li>${formatMarkdown(t)}</li>`).join('');
+      document.getElementById('big-idea-section').hidden = !item.bigIdea;
+      document.getElementById('sci-ideas-section').hidden = !(item.scientificIdeas&&item.scientificIdeas.length);
+      document.getElementById('stu-ideas-section').hidden = !(item.studentIdeas&&item.studentIdeas.length);
+      showStandard();
+    }
+
+    const tabs = document.querySelectorAll('.tab');
+    const shades = {
+      intro: document.getElementById('shade-intro'),
+      progression: document.getElementById('shade-progression'),
+      overview: document.getElementById('shade-overview')
+    };
+    function openShade(name){
+      Object.values(shades).forEach(el=>el.classList.remove('open'));
+      document.body.classList.add('shade-open');
+      shades[name].classList.add('open');
+    }
+    function closeShade(){
+      document.body.classList.remove('shade-open');
+      Object.values(shades).forEach(el=>el.classList.remove('open'));
+    }
+
+    gradeSel.addEventListener('change', populateStandards);
+    discSel.addEventListener('change', ()=>{ updateDisciplineMode(); populateStandards(); });
+    stdSel.addEventListener('change', renderSelectedStandard);
+    document.querySelector('.home-link').addEventListener('click', e=>{ e.preventDefault(); showHome(); });
+    tabs.forEach(btn=> btn.addEventListener('click', ()=> openShade(btn.dataset.shade)));
+    Object.values(shades).forEach(el=> el.addEventListener('click', closeShade));
+    window.addEventListener('keydown', (e)=>{ if (e.key==='Escape') closeShade(); });
+
+    searchEl.addEventListener('input', ()=>{
+      const q = searchEl.value.trim().toLowerCase();
+      for(const opt of stdSel.querySelectorAll('option')){
+        if(!opt.value) continue;
+        const show = opt.textContent.toLowerCase().includes(q);
+        opt.hidden = !show;
+      }
+    });
+
+    document.addEventListener('DOMContentLoaded', ()=>{
+      // Ensure home is visible and tabs are hidden on first paint
+      showHome();
+      updateDisciplineMode();
+      // Optionally preselect Grade/Discipline for demo
+      // gradeSel.value = '8'; discSel.value = 'PS'; populateStandards();
+    });
+    // --- Override renderSelectedStandard to support Markdown + 
+ ---
+    function renderSelectedStandard(){
+      const g = gradeSel.value, d = discSel.value, code = stdSel.value;
+      if(!g || !d || !code){ showHome(); return; }
+      const key = `${g}|${d}`;
+      const list = standardsIndex[key] || [];
+      const item = list.find(s=> s.code===code);
+      if(!item){ showHome(); return; }
+
+      // Header
+      document.getElementById('std-code').textContent = code;
+      document.getElementById('std-title').textContent = item.statement || '';
+
+      // Body sections using Markdown-lite and 
+ → <br>
+      const big = item.bigIdea ? `<div class="section" id="big-idea-section"><h2>Big Idea</h2><p>${md(item.bigIdea)}</p></div>` : '';
+      const sci = (item.scientificIdeas && item.scientificIdeas.length)
+        ? `<div class="section" id="sci-ideas-section"><h2>Scientific Ideas</h2><ul>${item.scientificIdeas.map(t=>`<li>${md(t)}</li>`).join('')}</ul></div>`
+        : '';
+      const stu = (item.studentIdeas && item.studentIdeas.length)
+        ? `<div class="section" id="stu-ideas-section"><h2>Common Student Ideas</h2><ul>${item.studentIdeas.map(t=>`<li>${md(t)}</li>`).join('')}</ul></div>`
+        : '';
+      const html = big + sci + stu;
+      const container = document.getElementById('std-content');
+      if (container) container.innerHTML = html;
+
+      showStandard();
+    }
+</script>
+</body>
+</html>

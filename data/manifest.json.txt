@@ -1,0 +1,10 @@
+{
+  "chapters": [
+    {
+      "id": "ps1a",
+      "discipline": "PS",
+      "componentIdea": "PS1.A",
+      "path": "data/ps1a.json"
+    }
+  ]
+}
