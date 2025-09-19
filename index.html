@@ -194,7 +194,7 @@
       document.getElementById('std-title').textContent = item.statement || '';
 
       // Body sections using Markdown-lite and 
-<br>
+
       const big = item.bigIdea ? `<div class="section" id="big-idea-section"><h2>Big Idea</h2><p>${md(item.bigIdea)}</p></div>` : '';
       const sci = (item.scientificIdeas && item.scientificIdeas.length)
         ? `<div class="section" id="sci-ideas-section"><h2>Scientific Ideas</h2><ul>${item.scientificIdeas.map(t=>`<li>${md(t)}</li>`).join('')}</ul></div>`
@@ -211,5 +211,6 @@
 </script>
 </body>
 </html>
+
 
 
