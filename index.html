@@ -324,7 +324,12 @@ matches.forEach(s => {
   stdSel.appendChild(opt);
 });
 
-      showHome();
+  // soft "home" reset – just show the home view, don’t clear dropdowns
+  home.hidden = false;
+  stdWin.hidden = true;
+  tabsNav.hidden = true;
+  document.body.classList.remove('mode-standard');
+  closeShade();
     }
 
     // ---------- Shade rendering ----------
@@ -496,6 +501,7 @@ window.addEventListener('keydown', (e) => {
   </script>
 </body>
 </html>
+
 
 
 
