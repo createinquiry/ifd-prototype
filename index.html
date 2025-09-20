@@ -27,10 +27,9 @@
     .home-link{display:flex; align-items:center; gap:6px; padding:6px 10px; border-radius:10px; border:1px solid var(--line); background:#fff}
     .home-link:hover{background:#f9fafb}
     .top-controls{display:flex; gap:8px; flex-wrap:wrap; align-items:center}
-    select, input[type="search"]{
-      padding:6px 10px; border:1px solid var(--line); border-radius:10px; background:#fff; min-width:160px;
-    }
-    input[type="search"]{min-width:220px}
+select {
+  padding: 6px 10px; border: 1px solid var(--line); border-radius: 10px; background: #fff; min-width: 160px;
+}
     nav.tabs{display:flex; gap:8px; padding:8px 0; border-bottom:1px solid var(--line)}
     nav.tabs[hidden]{display:none !important}
     .tab{
@@ -119,7 +118,6 @@
             <option value="">Standard…</option>
           </select>
 
-          <input id="search" type="search" placeholder="Search standards in list…" aria-label="Filter standards list" />
         </div>
       </div>
 
@@ -203,7 +201,6 @@
     const tabsNav  = document.getElementById('tabs');
     const home     = document.getElementById('home');
     const stdWin   = document.getElementById('standard-window');
-    const searchEl = document.getElementById('search');
 
     // ---------- Markdown-lite + newline renderer ----------
     function escHtml(str){
@@ -489,14 +486,6 @@ window.addEventListener('keydown', (e) => {
       });
     window.addEventListener('keydown', (e)=>{ if (e.key==='Escape') closeShade(); });
 
-    // Filter options in the Standards dropdown
-    searchEl.addEventListener('input', ()=>{
-      const q = searchEl.value.trim().toLowerCase();
-      for(const opt of stdSel.querySelectorAll('option')){
-        if(!opt.value) continue;
-        opt.hidden = !opt.textContent.toLowerCase().includes(q);
-      }
-    });
 
     // ---------- Init ----------
     document.addEventListener('DOMContentLoaded', ()=>{
@@ -507,6 +496,7 @@ window.addEventListener('keydown', (e) => {
   </script>
 </body>
 </html>
+
 
 
 
