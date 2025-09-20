@@ -437,7 +437,13 @@ matches.forEach(s => {
     stdSel.addEventListener('change', renderSelectedStandard);
     document.querySelector('.home-link').addEventListener('click', e=>{ e.preventDefault(); showHome(); });
     tabs.forEach(btn=> btn.addEventListener('click', ()=> openShade(btn.dataset.shade)));
-    Object.values(shades).forEach(el=> el.addEventListener('click', closeShade));
+    Object.values(shades).forEach(el=>{
+      el.addEventListener('click', (e)=>{
+        // If the user clicked inside the content panel, don't close
+      if (e.target.closest('.panel')) return;
+      closeShade();
+      });
+      });
     window.addEventListener('keydown', (e)=>{ if (e.key==='Escape') closeShade(); });
 
     // Filter options in the Standards dropdown
@@ -458,6 +464,7 @@ matches.forEach(s => {
   </script>
 </body>
 </html>
+
 
 
 
