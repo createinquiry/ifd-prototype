@@ -414,22 +414,55 @@ matches.forEach(s => {
       showStandard();
     }
 
-    // ---------- Roller shades ----------
-    const tabs = document.querySelectorAll('.tab');
-    const shades = {
-      intro: document.getElementById('shade-intro'),
-      progression: document.getElementById('shade-progression'),
-      overview: document.getElementById('shade-overview')
-    };
-    function openShade(name){
-      Object.values(shades).forEach(el=>el.classList.remove('open'));
-      document.body.classList.add('shade-open');
-      shades[name].classList.add('open');
-    }
-    function closeShade(){
-      document.body.classList.remove('shade-open');
-      Object.values(shades).forEach(el=>el.classList.remove('open'));
-    }
+// ---------- Roller shades ----------
+const tabs = document.querySelectorAll('.tab');
+const shades = {
+  intro: document.getElementById('shade-intro'),
+  progression: document.getElementById('shade-progression'),
+  overview: document.getElementById('shade-overview')
+};
+
+let shadeArmed = false;
+
+function openShade(name){
+  // close all
+  Object.values(shades).forEach(el=>{
+    el.classList.remove('open');
+    el.setAttribute('aria-hidden','true');
+  });
+
+  document.body.classList.add('shade-open');
+  const el = shades[name];
+  el.classList.add('open');
+  el.setAttribute('aria-hidden','false');
+
+  // arm after a short delay so the same click doesn’t close immediately
+  shadeArmed = false;
+  setTimeout(()=>{ shadeArmed = true; }, 180);
+}
+
+function closeShade(){
+  document.body.classList.remove('shade-open');
+  Object.values(shades).forEach(el=>{
+    el.classList.remove('open');
+    el.setAttribute('aria-hidden','true');
+  });
+}
+
+// Open on tab click
+tabs.forEach(btn=> btn.addEventListener('click', ()=> openShade(btn.dataset.shade)));
+
+// Close when clicking anywhere on the shade (after arming)
+Object.values(shades).forEach(el=>{
+  el.addEventListener('click', ()=>{
+    if (!shadeArmed) return; // ignore the opening click
+    closeShade();
+  });
+});
+
+// Also close on Escape
+window.addEventListener('keydown', (e)=>{ if (e.key==='Escape') closeShade(); });
+
 
     // ---------- Events ----------
     gradeSel.addEventListener('change', populateStandards);
@@ -464,6 +497,7 @@ matches.forEach(s => {
   </script>
 </body>
 </html>
+
 
 
 
