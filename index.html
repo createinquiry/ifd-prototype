@@ -314,7 +314,7 @@
         items.forEach(s => {
           const opt = document.createElement('option');
           opt.value = s.code;
-          opt.textContent = `${s.code} — ${s.statement || ''}`;
+          opt.textContent = s.code;
           grp.appendChild(opt);
         });
         stdSel.appendChild(grp);
@@ -457,3 +457,4 @@
   </script>
 </body>
 </html>
+
