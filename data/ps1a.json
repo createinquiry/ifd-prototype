@@ -114,6 +114,35 @@
 "If a solid is broken into small enough pieces, then it becomes a liquid."
 
 ]
+},
+
+{
+  "grade": "K",
+  "discipline": "PS",
+  "code": "K.PS1.3",
+
+  "statement": "Construct an evidence-based account of how an object made of a small set of pieces (blocks, snap cubes) can be disassembled and made into a new object.",
+
+  "bigIdea": "Big things are made up of smaller parts. Using a small variety of small parts, it is still possible to create a wide variety of big things. But the weight of the things does not depend on their arrangement (e.g., snapped together vs broken apart).\n\n(Note: These big ideas intend for students to work with a relatively large number of small pieces but limited to different types of pieces.)",
+
+  "scientificIdeas": [ 
+"Objects can be taken apart and are made of smaller pieces.",
+"When an object is taken apart, the pieces are still there and can be used to make something new.",
+"The number of pieces stays the same when an object is take apart and reassembled even though the shape of the object may change.",
+"Adding or removing pieces makes the object get heavier or lighter, respectively.",
+"A set of pieces does not get lighter/heavier when it is disassembled and reassembled into something new if all the original pieces are used.",
+"The properties of an object can be different from the properties of its parts. For example, A tower of building bricks may bend even though the individual bricks are rigid.",
+"The same set of pieces can be used to make different objects.",
+"You don’t need to have very many different types of pieces to make very different objects, designs, patterns, etc. (e.g., many different patterns can be made with just two colors of blocks)."
+ ],
+
+  "studentIdeas": [ 
+"If an object looks whole, it must be a single piece, rather than being made of parts.",
+"Changing the shape of an object, without adding or removing pieces, can make the object heavier or lighter.", 
+"Since the pieces are smaller when disassembled, they will weigh less.",
+"Taking something apart or breaking it into smaller pieces will make it lighter. For example, crunching the chips in an open/closed bag of chips will make it lighter."
+
+]
 }
 
 
@@ -128,7 +157,5 @@
 
   "metadata": { "version": "2025-09-19", "source": "TN Science IFDs - 10/25 release" }
 }
-
-
 
 
