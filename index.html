@@ -450,18 +450,22 @@ function closeShade(){
 }
 
 // Open on tab click
-tabs.forEach(btn=> btn.addEventListener('click', ()=> openShade(btn.dataset.shade)));
+tabs.forEach(btn => {
+  btn.addEventListener('click', () => openShade(btn.dataset.shade));
+});
 
 // Close when clicking anywhere on the shade (after arming)
-Object.values(shades).forEach(el=>{
-  el.addEventListener('click', ()=>{
-    if (!shadeArmed) return; // ignore the opening click
+Object.values(shades).forEach(el => {
+  el.addEventListener('click', () => {
+    if (!shadeArmed) return;  // ignore the initial opening click
     closeShade();
   });
 });
 
-// Also close on Escape
-window.addEventListener('keydown', (e)=>{ if (e.key==='Escape') closeShade(); });
+// Also close on Escape key
+window.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeShade();
+});
 
 
     // ---------- Events ----------
@@ -497,6 +501,7 @@ window.addEventListener('keydown', (e)=>{ if (e.key==='Escape') closeShade(); })
   </script>
 </body>
 </html>
+
 
 
 
