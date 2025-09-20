@@ -76,7 +76,7 @@
 "Rigid materials are solid, powders, and non-rigid materials are liquids.",
 "Things like sponges and cloth are not solids because they crumble, squish, can be torn, etc."
 ]
-}
+},
 
 
 {
@@ -129,5 +129,6 @@
 
   "metadata": { "version": "2025-09-19", "source": "TN Science IFDs - 10/25 release" }
 }
+
 
 
