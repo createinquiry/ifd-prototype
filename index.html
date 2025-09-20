@@ -300,25 +300,13 @@
         });
       });
 
-      // Group by component idea label (optgroups)
-      const byChapter = new Map();
-      matches.forEach(st => {
-        const label = (st.__chapter && st.__chapter.componentIdea && st.__chapter.componentIdea.code) || 'Chapter';
-        if (!byChapter.has(label)) byChapter.set(label, []);
-        byChapter.get(label).push(st);
-      });
-
-      for (const [label, items] of byChapter.entries()){
-        const grp = document.createElement('optgroup');
-        grp.label = label;
-        items.forEach(s => {
-          const opt = document.createElement('option');
-          opt.value = s.code;
-          opt.textContent = s.code;
-          grp.appendChild(opt);
-        });
-        stdSel.appendChild(grp);
-      }
+// Returns flat list of standards without component ideas
+matches.forEach(s => {
+  const opt = document.createElement('option');
+  opt.value = s.code;
+  opt.textContent = s.code;
+  stdSel.appendChild(opt);
+});
 
       showHome();
     }
@@ -457,4 +445,5 @@
   </script>
 </body>
 </html>
+
 
