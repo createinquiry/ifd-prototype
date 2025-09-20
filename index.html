@@ -5,35 +5,194 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>IFD Prototype – Roller Shade Navigation</title>
   <style>
-    /* (styles unchanged) */
-  
+    :root{
+      --bg:#fafafa;
+      --text:#111;
+      --muted:#6b7280;
+      --card:#ffffff;
+      --line:#e5e7eb;
+      --accent:#f0eac2;
+      --brand:#0f766e;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
+    a{color:var(--brand);text-decoration:none}
+    header.topbar{
+      position:sticky; top:0; z-index:50;
+      background:#fff; border-bottom:1px solid var(--line);
+    }
+    .wrap{max-width:1100px; margin:0 auto; padding:0 16px}
+    .row{display:flex; gap:8px; align-items:center; flex-wrap:wrap; padding:10px 0}
+    .home-link{display:flex; align-items:center; gap:6px; padding:6px 10px; border-radius:10px; border:1px solid var(--line); background:#fff}
+    .home-link:hover{background:#f9fafb}
+    .top-controls{display:flex; gap:8px; flex-wrap:wrap; align-items:center}
+    select, input[type="search"]{
+      padding:6px 10px; border:1px solid var(--line); border-radius:10px; background:#fff; min-width:160px;
+    }
+    input[type="search"]{min-width:220px}
+    nav.tabs{display:flex; gap:8px; padding:8px 0; border-bottom:1px solid var(--line)}
+    nav.tabs[hidden]{display:none !important}
+    .tab{
+      padding:8px 12px; border-radius:999px; background:#fff; border:1px solid var(--line); cursor:pointer;
+    }
+    .tab:hover{background:#f9fafb}
+    main{min-height:60vh}
+    section.window{padding:18px 0}
+    article.card{
+      background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; box-shadow:0 1px 2px rgba(0,0,0,.03);
+    }
+    .badge{
+      display:inline-block; padding:4px 8px; border-radius:999px; background:#eef2ff; color:#3730a3; font-weight:600; font-size:.85rem; margin-bottom:4px;
+    }
+    h1{margin:.2rem 0 0 0; font-size:1.35rem}
+    .section{margin-top:16px}
+    .section h2{font-size:1.1rem; margin:0 0 .25rem 0}
+    ul{margin:.25rem 0 .5rem 1rem}
+    /* Home tiles */
+    .tiles{display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:12px; margin-top:12px}
+    .tile{background:#fff; border:1px solid var(--line); border-radius:14px; padding:16px}
+    .tile h3{margin:.2rem 0 .4rem}
+    /* Roller shades */
+    .shade{
+      position:fixed; inset:60px 0 0 0;  /* start below topbar */
+      background:rgba(255,255,255,.98);
+      transform:translateY(-100%);
+      transition:transform .28s ease;
+      z-index:40; border-top:1px solid var(--line);
+    }
+    .shade.open{transform:translateY(0)}
+    .shade .inner{max-width:1100px; margin:0 auto; padding:14px 16px}
+    .shade .panel{background:#fff; border:1px solid var(--line); border-radius:14px; padding:16px}
+    .hint{color:var(--muted); font-size:.9rem; margin:.1rem 0 .6rem}
+    /* Mode switching */
+    body.mode-standard #home{display:none !important;}
+    body:not(.mode-standard) #standard-window{display:none !important;}
+    body:not(.mode-standard) .tabs{display:none !important;}
     /* Biology band visibility: hidden by default unless Discipline = LS */
     .bio-only{ display:none; }
     body.discipline-ls .bio-only{ display:block; }
+    /* Small screens */
+    @media (max-width:640px){
+      input[type="search"]{min-width:160px}
+    }
   </style>
 </head>
 <body>
-  <!-- (HTML above unchanged) -->
+  <header class="topbar">
+    <div class="wrap">
+      <div class="row">
+        <a href="#" class="home-link" aria-label="Go to homepage">🏠 Home</a>
+        <div class="top-controls">
+          <label class="sr-only" for="grade">Grade</label>
+          <select id="grade" aria-label="Grade">
+            <option value="">Grade…</option>
+            <option value="K">K</option><option value="1">1</option><option value="2">2</option>
+            <option value="3">3</option><option value="4">4</option><option value="5">5</option>
+            <option value="6">6</option><option value="7">7</option><option value="8">8</option>
+            <option value="Biology">Biology</option>
+          </select>
+
+          <label class="sr-only" for="discipline">Discipline</label>
+          <select id="discipline" aria-label="Discipline">
+            <option value="">Discipline…</option>
+            <option value="PS">PS</option>
+            <option value="LS">LS</option>
+            <option value="ESS">ESS</option>
+            <option value="ETS">ETS</option>
+          </select>
+
+          <label class="sr-only" for="standard">Standard</label>
+          <select id="standard" aria-label="Standard">
+            <option value="">Standard…</option>
+          </select>
+
+          <input id="search" type="search" placeholder="Search standards in list…" aria-label="Filter standards list" />
+        </div>
+      </div>
+
+      <nav id="tabs" class="tabs" aria-label="Context sections" hidden>
+        <button class="tab" data-shade="overview">🗂️ Component Idea Overview</button>
+        <button class="tab" data-shade="intro">📚 Grade Band Intro</button>
+        <button class="tab" data-shade="progression">🧭 Component Idea Progression</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Home -->
+  <main id="home" class="wrap">
+    <section class="window">
+      <article class="tile">
+        <h2>What is an IFD?</h2>
+        <p>The Instructional Framework Document organizes standards, ideas, and progressions so teachers can quickly plan with clarity and coherence.</p>
+      </article>
+      <div class="tiles" style="margin-top:8px">
+        <article class="tile">
+          <h3>TDOE resources</h3>
+          <p>Links to official guidance, blueprints, and released items.</p>
+        </article>
+        <article class="tile">
+          <h3>About Facets Theory</h3>
+          <p>Facets clarify **scientific ideas** versus **common student ideas**, helping you target instruction.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <!-- Standard window -->
+  <main id="standard-window">
+    <section class="window wrap">
+      <article class="card">
+        <header>
+          <div class="badge" id="std-code"></div>
+          <h1 id="std-title"></h1>
+        </header>
+        <div class="section" id="std-content"><!-- injected --></div>
+      </article>
+    </section>
+  </main>
+
+  <!-- Roller Shades -->
+  <section id="shade-intro" class="shade" aria-hidden="true">
+    <div class="inner">
+      <div class="panel">
+        <h2>Grade Band Introduction</h2>
+        <p class="hint">Tap/click anywhere to roll back up.</p>
+        <div id="shade-intro-content"><em>Load a standard to see the grade-band introduction.</em></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="shade-progression" class="shade" aria-hidden="true">
+    <div class="inner">
+      <div class="panel">
+        <h2>Component Idea Progression</h2>
+        <p class="hint">Tap/click anywhere to roll back up.</p>
+        <div id="shade-progression-content"><em>Load a standard to see the progression.</em></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="shade-overview" class="shade" aria-hidden="true">
+    <div class="inner">
+      <div class="panel">
+        <h2>Component Idea Overview</h2>
+        <p class="hint">Tap/click anywhere to roll back up.</p>
+        <div id="shade-overview-content"><em>Load a standard to see the component idea overview.</em></div>
+      </div>
+    </div>
+  </section>
 
   <script>
+    // ---------- Element refs ----------
     const gradeSel = document.getElementById('grade');
     const discSel  = document.getElementById('discipline');
     const stdSel   = document.getElementById('standard');
-    const tabsNav  = document.querySelector('.tabs');
+    const tabsNav  = document.getElementById('tabs');
     const home     = document.getElementById('home');
     const stdWin   = document.getElementById('standard-window');
     const searchEl = document.getElementById('search');
 
-    // Toggle LS discipline mode for Biology-only content visibility
-    function updateDisciplineMode(){
-      if (discSel.value === 'LS') {
-        document.body.classList.add('discipline-ls');
-      } else {
-        document.body.classList.remove('discipline-ls');
-      }
-    }
-
-    // --- Markdown-lite + newline renderer ---
+    // ---------- Markdown-lite + newline renderer ----------
     function escHtml(str){
       return String(str)
         .replace(/&/g,"&amp;")
@@ -45,53 +204,67 @@
     function md(str){
       if (str == null) return '';
       let s = escHtml(String(str));
-      s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-      s = s.replace(/\*(.+?)\*/g, '<em>$1</em>');
-      s = s.replace(/\n/g, '<br>');
+      s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>'); // bold
+      s = s.replace(/\*(.+?)\*/g, '<em>$1</em>');             // italics
+      s = s.replace(/\n/g, '<br>');                           // newlines
       return s;
     }
 
-    // --- Demo dataset (replace later with JSON loader) ---
-    const standardsIndex = {
-      '8|PS': [
-        {
-          code: '8.PS2.1',
-          statement: 'Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object.',
-          bigIdea: 'Motion changes when forces are unbalanced; predictable patterns emerge when interactions are measured and represented consistently.',
-          scientificIdeas: [
-            'Forces have magnitude and direction; net force predicts change in motion.',
-            'Constant velocity indicates balanced forces; acceleration indicates unbalanced forces.',
-            'Diagrams, graphs, and computational models help compare interaction patterns.'
-          ],
-          studentIdeas: [
-            'Motion requires a force to keep going.',
-            'Heavier objects fall faster because they are heavier.',
-            'Action–reaction pairs act on the same object.'
-          ],
-          chapter: 'PS2.B'
-        }
-      ]
-    };
-
-    function formatMarkdown(text){
-      if(!text) return '';
-      return text
-        .replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')
-        .replace(/\*(.*?)\*/g,'<em>$1</em>')
-        .replace(/\n/g,'<br>');
+    // ---------- Biology-only visibility ----------
+    function updateDisciplineMode(){
+      if (discSel.value === 'LS') document.body.classList.add('discipline-ls');
+      else document.body.classList.remove('discipline-ls');
     }
 
+    // ---------- Manifest + Chapter loader ----------
+    const manifestPath = 'data/manifest.json';
+    let manifest = null;                 // { chapters: [ {id, discipline, componentIdea, path}, ... ] }
+    const chapterCache = new Map();      // path -> chapter json
+
+    async function loadManifest(){
+      if (manifest) return manifest;
+      const res = await fetch(manifestPath);
+      if (!res.ok) throw new Error('Unable to load data/manifest.json');
+      manifest = await res.json();
+      return manifest;
+    }
+
+    async function loadChaptersForDiscipline(discipline){
+      await loadManifest();
+      const entries = (manifest.chapters || []).filter(ch => ch.discipline === discipline);
+      await Promise.all(entries.map(async ch => {
+        if (!chapterCache.has(ch.path)){
+          const res = await fetch(ch.path);
+          if (res.ok){
+            const json = await res.json();
+            // Back-reference on each standard (handy later)
+            (json.standards || []).forEach(st => {
+              st.__chapter = {
+                id: ch.id,
+                path: ch.path,
+                componentIdea: json.componentIdea,
+                discipline: json.discipline,
+                chapter: json
+              };
+            });
+            chapterCache.set(ch.path, json);
+          } else {
+            console.warn('Failed to load chapter file:', ch.path);
+          }
+        }
+      }));
+      return entries.map(ch => chapterCache.get(ch.path)).filter(Boolean);
+    }
+
+    // ---------- UI state helpers ----------
     function resetStandardUI(){
       document.getElementById('std-code').textContent = '';
-      document.getElementById('std-title').innerHTML = '';
-      document.getElementById('big-idea').innerHTML = '';
-      document.getElementById('sci-ideas').innerHTML = '';
-      document.getElementById('stu-ideas').innerHTML = '';
-      document.getElementById('big-idea-section').hidden = true;
-      document.getElementById('sci-ideas-section').hidden = true;
-      document.getElementById('stu-ideas-section').hidden = true;
+      document.getElementById('std-title').textContent = '';
+      document.getElementById('std-content').innerHTML = '';
+      document.getElementById('shade-intro-content').innerHTML = '<em>Load a standard to see the grade-band introduction.</em>';
+      document.getElementById('shade-progression-content').innerHTML = '<em>Load a standard to see the progression.</em>';
+      document.getElementById('shade-overview-content').innerHTML = '<em>Load a standard to see the component idea overview.</em>';
     }
-
     function showHome(){
       home.hidden = false;
       stdWin.hidden = true;
@@ -99,55 +272,148 @@
       document.body.classList.remove('mode-standard');
       closeShade();
     }
-
     function showStandard(){
       home.hidden = true;
       stdWin.hidden = false;
       tabsNav.hidden = false;
       document.body.classList.add('mode-standard');
-      window.scrollTo({ top: 0, behavior: 'auto' });
+      window.scrollTo({ top: 0 });
     }
 
-    function populateStandards(){
+    // ---------- Standards dropdown population ----------
+    async function populateStandards(){
       stdSel.innerHTML = '<option value="">Standard…</option>';
       resetStandardUI();
+
       const g = gradeSel.value; const d = discSel.value;
       if(!g || !d){ showHome(); return; }
-      const key = `${g}|${d}`;
-      const list = standardsIndex[key] || [];
-      const byChapter = {};
-      list.forEach(s=>{ (byChapter[s.chapter]||(byChapter[s.chapter]=[])).push(s); });
-      Object.entries(byChapter).forEach(([chapter, items])=>{
+
+      updateDisciplineMode();
+
+      const chapters = await loadChaptersForDiscipline(d);
+      const matches = [];
+      chapters.forEach(ch => {
+        (ch.standards || []).forEach(st => {
+          if (String(st.grade || '').toLowerCase() === String(g).toLowerCase()){
+            matches.push(st);
+          }
+        });
+      });
+
+      // Group by component idea label (optgroups)
+      const byChapter = new Map();
+      matches.forEach(st => {
+        const label = (st.__chapter && st.__chapter.componentIdea && st.__chapter.componentIdea.code) || 'Chapter';
+        if (!byChapter.has(label)) byChapter.set(label, []);
+        byChapter.get(label).push(st);
+      });
+
+      for (const [label, items] of byChapter.entries()){
         const grp = document.createElement('optgroup');
-        grp.label = chapter;
-        items.forEach(s=>{
+        grp.label = label;
+        items.forEach(s => {
           const opt = document.createElement('option');
           opt.value = s.code;
-          opt.textContent = `${s.code} — ${s.statement}`;
+          opt.textContent = `${s.code} — ${s.statement || ''}`;
           grp.appendChild(opt);
         });
         stdSel.appendChild(grp);
-      });
+      }
+
       showHome();
     }
 
-    function renderSelectedStandard(){
+    // ---------- Shade rendering ----------
+    function gradeToBand(grade){
+      const g = String(grade).toLowerCase();
+      if (g === 'k' || ['1','2'].includes(g)) return 'K-2';
+      if (['3','4','5'].includes(g)) return '3-5';
+      if (['6','7','8'].includes(g)) return '6-8';
+      return 'Biology';
+    }
+
+    function renderShadesFromChapter(chapter, selectedGrade){
+      // Component Idea Overview
+      const ov = chapter.chapterOverview || {};
+      const ci = ov.centralIdeas;
+      const ciHtml = Array.isArray(ci) ? `<ul>${ci.map(x=>`<li>${md(x)}</li>`).join('')}</ul>` : (ci ? `<p>${md(ci)}</p>` : '');
+      const overviewHTML = `
+        ${ov.guidingQuestion ? `<h3>Guiding Question</h3><p>${md(ov.guidingQuestion)}</p>` : ''}
+        ${ov.purpose ? `<h3>Purpose</h3><p>${md(ov.purpose)}</p>` : ''}
+        ${ciHtml}
+      `;
+      document.getElementById('shade-overview-content').innerHTML = overviewHTML || '<em>No overview available.</em>';
+
+      // Grade Band Intro (band-specific)
+      const band = gradeToBand(selectedGrade);
+      const gbi = (chapter.gradeBandIntro && chapter.gradeBandIntro[band]) || null;
+      let gbiHTML = '';
+      if (gbi){
+        if (gbi.nrcQuote) gbiHTML += `<blockquote style="border-left:4px solid var(--accent); padding:.5rem 1rem; margin:.5rem 0;">${md(gbi.nrcQuote)}</blockquote>`;
+        if (gbi.progression) gbiHTML += `<p>${md(gbi.progression)}</p>`;
+      }
+      document.getElementById('shade-intro-content').innerHTML = gbiHTML || `<em>No grade-band introduction for ${band}.</em>`;
+
+      // Progression (columns + rows + narrative)
+      const prog = chapter.progression || {};
+      const cols = Array.isArray(prog.columns) && prog.columns.length ? prog.columns : [
+        { key: 'gradeBand', label: 'Grade Band' },
+        { key: 'scaleOfMaterials', label: 'Scale' },
+        { key: 'bigIdea', label: 'Big Idea' }
+      ];
+      const rows = Array.isArray(prog.table) ? prog.table : [];
+      let tableHTML = '';
+      if (rows.length){
+        tableHTML += '<table style="width:100%; border-collapse: collapse; font-size:0.95rem;">';
+        tableHTML += '<thead><tr>' + cols.map(c=>`<th style="border-bottom:1px solid var(--line); text-align:left; padding:.5rem;">${md(c.label)}</th>`).join('') + '</tr></thead>';
+        tableHTML += '<tbody>' + rows.map((r,i)=>{
+          return '<tr>' + cols.map(c=>{
+            const val = r[c.key];
+            const cell = val != null ? md(val) : '';
+            const border = i < rows.length-1 ? ' border-bottom:1px solid var(--accent);' : '';
+            return `<td style="padding:.5rem;${border}">${cell}</td>`;
+          }).join('') + '</tr>';
+        }).join('') + '</tbody>';
+        tableHTML += '</table>';
+      }
+      const narrativeHTML = prog.narrative ? `<h3 style="margin-top:1rem;">Narrative</h3><p>${md(prog.narrative)}</p>` : '';
+      document.getElementById('shade-progression-content').innerHTML = (tableHTML || '') + narrativeHTML || '<em>No progression available.</em>';
+    }
+
+    // ---------- Standard page rendering ----------
+    async function renderSelectedStandard(){
       const g = gradeSel.value, d = discSel.value, code = stdSel.value;
       if(!g || !d || !code){ showHome(); return; }
-      const key = `${g}|${d}`;
-      const item = (standardsIndex[key]||[]).find(s=> s.code===code);
+
+      const chapters = await loadChaptersForDiscipline(d);
+      let item = null, chapter = null;
+      for (const ch of chapters){
+        const found = (ch.standards||[]).find(s => s.code === code);
+        if (found){ item = found; chapter = ch; break; }
+      }
       if(!item){ showHome(); return; }
-      document.getElementById('std-code').textContent = code;
-      document.getElementById('std-title').innerHTML = formatMarkdown(item.statement);
-      document.getElementById('big-idea').innerHTML = formatMarkdown(item.bigIdea || '');
-      document.getElementById('sci-ideas').innerHTML = (item.scientificIdeas||[]).map(t=>`<li>${formatMarkdown(t)}</li>`).join('');
-      document.getElementById('stu-ideas').innerHTML = (item.studentIdeas||[]).map(t=>`<li>${formatMarkdown(t)}</li>`).join('');
-      document.getElementById('big-idea-section').hidden = !item.bigIdea;
-      document.getElementById('sci-ideas-section').hidden = !(item.scientificIdeas&&item.scientificIdeas.length);
-      document.getElementById('stu-ideas-section').hidden = !(item.studentIdeas&&item.studentIdeas.length);
+
+      // Header
+      document.getElementById('std-code').textContent = item.code || '';
+      document.getElementById('std-title').textContent = item.statement || '';
+
+      // Body
+      const big = item.bigIdea ? `<div class="section" id="big-idea-section"><h2>Big Idea</h2><p>${md(item.bigIdea)}</p></div>` : '';
+      const sci = (item.scientificIdeas && item.scientificIdeas.length)
+        ? `<div class="section" id="sci-ideas-section"><h2>Scientific Ideas</h2><ul>${item.scientificIdeas.map(t=>`<li>${md(t)}</li>`).join('')}</ul></div>`
+        : '';
+      const stu = (item.studentIdeas && item.studentIdeas.length)
+        ? `<div class="section" id="stu-ideas-section"><h2>Common Student Ideas</h2><ul>${item.studentIdeas.map(t=>`<li>${md(t)}</li>`).join('')}</ul></div>`
+        : '';
+      document.getElementById('std-content').innerHTML = big + sci + stu;
+
+      // Shades from chapter JSON (band-aware)
+      renderShadesFromChapter(chapter, g);
+
       showStandard();
     }
 
+    // ---------- Roller shades ----------
     const tabs = document.querySelectorAll('.tab');
     const shades = {
       intro: document.getElementById('shade-intro'),
@@ -164,6 +430,7 @@
       Object.values(shades).forEach(el=>el.classList.remove('open'));
     }
 
+    // ---------- Events ----------
     gradeSel.addEventListener('change', populateStandards);
     discSel.addEventListener('change', ()=>{ updateDisciplineMode(); populateStandards(); });
     stdSel.addEventListener('change', renderSelectedStandard);
@@ -172,45 +439,21 @@
     Object.values(shades).forEach(el=> el.addEventListener('click', closeShade));
     window.addEventListener('keydown', (e)=>{ if (e.key==='Escape') closeShade(); });
 
+    // Filter options in the Standards dropdown
     searchEl.addEventListener('input', ()=>{
       const q = searchEl.value.trim().toLowerCase();
       for(const opt of stdSel.querySelectorAll('option')){
         if(!opt.value) continue;
-        const show = opt.textContent.toLowerCase().includes(q);
-        opt.hidden = !show;
+        opt.hidden = !opt.textContent.toLowerCase().includes(q);
       }
     });
 
+    // ---------- Init ----------
     document.addEventListener('DOMContentLoaded', ()=>{
-      // Ensure home is visible and tabs are hidden on first paint
+      console.log('IFD prototype loaded');
       showHome();
       updateDisciplineMode();
-      // Optionally preselect Grade/Discipline for demo
-      // gradeSel.value = '8'; discSel.value = 'PS'; populateStandards();
     });
-    
-      // Header
-      document.getElementById('std-code').textContent = code;
-      document.getElementById('std-title').textContent = item.statement || '';
-
-      // Body sections using Markdown-lite and
-      const big = item.bigIdea ? `<div class="section" id="big-idea-section"><h2>Big Idea</h2><p>${md(item.bigIdea)}</p></div>` : '';
-      const sci = (item.scientificIdeas && item.scientificIdeas.length)
-        ? `<div class="section" id="sci-ideas-section"><h2>Scientific Ideas</h2><ul>${item.scientificIdeas.map(t=>`<li>${md(t)}</li>`).join('')}</ul></div>`
-        : '';
-      const stu = (item.studentIdeas && item.studentIdeas.length)
-        ? `<div class="section" id="stu-ideas-section"><h2>Common Student Ideas</h2><ul>${item.studentIdeas.map(t=>`<li>${md(t)}</li>`).join('')}</ul></div>`
-        : '';
-      const html = big + sci + stu;
-      const container = document.getElementById('std-content');
-      if (container) container.innerHTML = html;
-
-      showStandard();
-    }
-</script>
+  </script>
 </body>
 </html>
-
-
-
-
