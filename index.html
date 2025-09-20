@@ -279,6 +279,12 @@
       document.getElementById('shade-overview-content').innerHTML = '<em>Load a standard to see the component idea overview.</em>';
     }
     function showHome(){
+      // Reset Dropdowns
+      gradeSel.value = '';
+      discSel.value = '';
+      stdSel.innerHTML = '<option value="">Standard...</option>;
+
+      //Reset the Content Panels
       home.hidden = false;
       stdWin.hidden = true;
       tabsNav.hidden = true;
@@ -501,6 +507,7 @@ window.addEventListener('keydown', (e) => {
   </script>
 </body>
 </html>
+
 
 
 
