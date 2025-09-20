@@ -143,6 +143,45 @@
 "Taking something apart or breaking it into smaller pieces will make it lighter. For example, crunching the chips in an open/closed bag of chips will make it lighter."
 
 ]
+},
+
+{
+  "grade": "3",
+  "discipline": "PS",
+  "code": "3.PS1.1",
+
+  "statement": "Develop a model of solids, liquids, and gases to describe that each state of matter is made of particles too small to be seen.",
+
+  "bigIdea": "Matter—all living and non-living things—is made from particles that are too small to be seen. The behavior of solids, liquids, and gases is a result of the motion and arrangement of these invisible particles. \n\n*(Note: It is acceptable to discuss individual particles of a substance such as water and students may encounter the chemical formula for water used as shorthand, H2O. Students are not expected to know that a water particle is made of still smaller atoms/particles of hydrogen and oxygen.) \n\n(Note: The standard addresses the interactions between particles that cause the behavior of solids, liquids, and gases. Transitions between these phases is not part of this standard. There is not an attempt at this grade to relate the relative motion of particles to temperature.)*",
+
+  "scientificIdeas": [ 
+"The words solid, liquid, and gas describe the way a substance behaves. All substances are made of groups of invisible particles, and the behavior of the substance is caused by the motion and arrangement of the particles.",
+"Solids, liquids and gasses are all made of tiny particles that are too small to see.",
+"Matter can be broken down into smaller bits. If we continually divide a sample of matter into smaller and smaller bits, it eventually becomes so small that we can no longer see it but the matter continues to exist.",
+"Eventually the taking apart/breaking down of a pure substance reaches a point where there is only one unit of the substance remaining. This smallest repeating unit of a pure substance is called a particle.",
+"Everything that we see around us is made up of an accumulation of these smaller invisible particles. Even things that seem small to us (specks of dust or droplets of fog) are made of more particles than we could begin to count.",
+"Solids resist falling down (i.e., melting/flowing) because the particles all pull on each other. Every particle pulling on its neighboring particles prevents individual particles from changing positions and results in the rigid behavior of solids.",
+"Liquids flow but remain a connected substance because the particles can pull on each other enough to remain connected. The flowing behavior of liquids happens because particles hold together, but not enough to keep particles from changing places. The whole substance acts like a group of people dancing and trading partners.",
+"Particles in a gas cannot pull hard enough on each other and do not connect to each other compared to how fast the particles move. Individual particles bounce around in all directions. Matter that behaves like a gas can still push on other objects and we observe this pushing when we exhale or when the wind moves leaves, or as gaseous matter pushes outwards on a balloon to make it larger as it is filled.",
+"Solids, liquids, and gases can all exist in bits that are too small for us to see or at scales where their bulk behaviors appear to change, (e.g., air pollution such as smoke is a very small solid, fog and steam are very small liquid droplets). (Note: Bulk behaviors or bulk properties refer to behaviors or properties that are observed in a collection of particles but cannot be observed in a single particle.)",
+"Even though we cannot see particles in a gas, we can observe evidence that they exist (e.g., wind blows leaves, and air fills a balloon).",
+"Powders are composed of small bits of solids."
+ ],
+
+  "studentIdeas": [ 
+"Objects are filled up with matter.",
+"Matter that has worn away is gone. For example, as soles of shoes wear away, they are no longer present on Earth).",
+"Solids and liquids are matter, but gases are not real substances because they are invisible.",
+"When matter is no longer visible, all its mass will be gone as well. ",
+"Powders are liquids because they can spill.",
+"Powders are in a state between solids and liquids.",
+"Liquids are not made of particles because they can change shape.",
+"Air is good, gas is bad.",
+"Melting a substance makes it lighter.",
+"Gases do not have weight.",
+"In a gas, the space between gas particles is filled with air, as opposed to being mostly empty space."
+
+]
 }
 
 
