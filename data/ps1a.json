@@ -44,6 +44,7 @@
 
   "standards": [
 {
+  "grade": "K",
   "code": "K.PS1.1",
 
   "statement": "Plan and conduct an investigation using patterns to classify different kinds of materials by their observable properties (i.e., absorbency, color, texture, hardness, and flexibility), by their uses, and by whether they occur naturally or are manufactured.",
@@ -88,4 +89,5 @@
 
   "metadata": { "version": "2025-09-19", "source": "TN Science IFDs - 10/25 release" }
 }
+
 
