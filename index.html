@@ -288,6 +288,15 @@ select {
       document.body.classList.remove('mode-standard');
       closeShade();
     }
+    function showHomeSoft(){
+  // Show the home view WITHOUT clearing any dropdowns
+  home.hidden = false;
+  stdWin.hidden = true;
+  tabsNav.hidden = true;
+  document.body.classList.remove('mode-standard');
+  closeShade();
+}
+
     function showStandard(){
       home.hidden = true;
       stdWin.hidden = false;
@@ -302,7 +311,7 @@ select {
       resetStandardUI();
 
       const g = gradeSel.value; const d = discSel.value;
-      if(!g || !d){ showHome(); return; }
+      if(!g || !d){ showHomeSoft(); return; }
 
       updateDisciplineMode();
 
@@ -501,6 +510,7 @@ window.addEventListener('keydown', (e) => {
   </script>
 </body>
 </html>
+
 
 
 
