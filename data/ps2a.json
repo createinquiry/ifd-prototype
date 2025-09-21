@@ -1,1 +1,230 @@
+{
+  "componentIdea": { "code": "PS2.A", "title": "Motion and Stability: Forces and Interactions" },
+  "discipline": "PS",
 
+  "chapterOverview": {
+    "guidingQuestion": "How can one predict an object’s continued motion, changes in motion, or stability?",
+    "purpose": "This component idea develops how we describe motion and how forces cause changes in motion. Students use words, diagrams, and measurements to characterize motion and recognize patterns. They connect balanced forces with unchanging motion (including rest) and unbalanced forces with changes in speed and/or direction.",
+    "centralIdeas": "Motion can be described and predicted using reference frames, coordinates, and patterns (e.g., rest, constant speed, constant acceleration). Forces are pushes/pulls with strength and direction; multiple forces combine as a system. Balanced forces yield no change in motion, while unbalanced forces change motion. Force pairs act between interacting objects; the net force and the object’s mass determine the change in motion."
+  },
+
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Objects pull or push each other when they collide or are connected. Pushes and pulls can have different strengths and directions. Pushing or pulling on an object can change the speed or direction of its motion and can start or stop it. An object sliding on a surface or sitting on a slope experiences a pull due to friction on the object due to the surface that opposes the object’s motion. – NRC, 2012",
+      "progression": "Young learners describe which way things move and whether motion changes (starts, stops, speeds up, slows down). Before formalizing “force,” they observe that touching, bumping, or pulling makes motion change. They begin relating how hard they push with how much motion changes and meet friction in familiar contexts (e.g., slides), focusing on how it can keep things in place or slow them down."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Each force acts on one particular object and has both a strength and a direction. An object at rest typically has multiple forces acting on it, but they add to give zero net force on the object. Forces that do not sum to zero can cause changes in the object’s speed or direction of motion. The patterns of an object’s motion in various situations can be observed and measured; when past motion exhibits a regular pattern, future motion can be predicted from it. (Boundary: qualitative addition of forces; technical terms like ‘magnitude’ and ‘momentum’ are not required.) – NRC, 2012",
+      "progression": "Students use observed patterns (e.g., distance per time) to predict future motion and refine the idea that objects can experience multiple forces at once. They compare strengths and directions of forces to decide if they balance or not, and connect balanced forces to no change in motion and unbalanced forces to changes in speed or direction."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. For any pair of interacting objects, the force exerted by the first object on the second is equal in strength and opposite in direction to the force the second exerts on the first. The motion of an object is determined by the sum of forces acting on it; if the total force is not zero, its motion changes. The greater the mass, the greater the force needed for the same change in motion. All positions, forces, and motions are described in an arbitrarily chosen reference frame and units that must be shared to communicate. – NRC, 2012",
+      "progression": "Students formalize reference frames (origin, positive/negative directions, units) and calculate/interpret net force using signs for direction. They connect net force and mass to changes in motion and recognize that force pairs act simultaneously on different objects. Momentum becomes a lens in later study for collisions and interactions."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "describingMotion", "label": "Describing Motion" },
+      { "key": "natureOfForces", "label": "Nature of Forces" },
+      { "key": "staticsDynamics", "label": "Statics/Dynamics" }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "describingMotion": "Describe motion in two dimensions (forward/back, right/left).",
+        "natureOfForces": "Forces are pushes/pulls when objects touch; friction is a push/pull that opposes motion.",
+        "staticsDynamics": "Pushes/pulls can start, stop, speed up, or slow down objects."
+      },
+      {
+        "gradeBand": "3-5",
+        "describingMotion": "Describe and use patterns in motion to predict (e.g., goes 1 m each second).",
+        "natureOfForces": "Forces have strength and direction; multiple forces can act at once.",
+        "staticsDynamics": "Balanced forces → constant velocity or rest; unbalanced forces → changes in motion."
+      },
+      {
+        "gradeBand": "6-8",
+        "describingMotion": "Use reference frames (origin, axes, units; positive/negative directions).",
+        "natureOfForces": "Forces occur in pairs between interacting objects.",
+        "staticsDynamics": "Net force and mass determine changes in motion; describe changes within the chosen frame."
+      },
+      {
+        "gradeBand": "9-12",
+        "describingMotion": "Recognize limits of classical models at very small scales or near light speed.",
+        "natureOfForces": "Internal forces change objects’ momenta, but total momentum is conserved.",
+        "staticsDynamics": "Conservation principles constrain system behavior even when internal changes occur."
+      }
+    ],
+    "narrative": "The progression begins with noticing and describing motion and push/pull interactions, adds patterns and prediction, then formalizes reference frames, net force, and mass. Later, students explore the scope and limits of classical relationships and conservation in more complex systems."
+  },
+
+  "standards": [
+    {
+      "grade": "2",
+      "discipline": "PS",
+      "code": "2.PS2.1",
+      "statement": "Analyze the push or the pull that occurs when objects collide or are connected.",
+      "bigIdea": "Pushes and pulls change motion; we can describe both motion and the pushes/pulls that cause changes.",
+      "scientificIdeas": [
+        "Motion can be described by direction, speed, and changes (starts, stops, speeds up, slows down).",
+        "Pushes and pulls can cause the motion of objects to change.",
+        "Pushes and pulls can occur during contact (connected or colliding).",
+        "Pushes/pulls have different strengths; stronger pushes/pulls cause larger changes in motion.",
+        "Collisions change motion of the interacting objects.",
+        "If motion changes, some push or pull acted.",
+        "Friction acts opposite the direction of motion and can slow or prevent sliding."
+      ],
+      "studentIdeas": [
+        "Objects start moving on their own.",
+        "Tables, walls, or floors cannot push on things.",
+        "Pushing always speeds up; pulling always slows down (or vice versa).",
+        "In a big–small collision, only the big object pushes.",
+        "If something is still, no forces act on it.",
+        "Moving things slow down on their own.",
+        "A hard enough push makes things move forever."
+      ]
+    },
+
+    {
+      "grade": "5",
+      "discipline": "PS",
+      "code": "5.PS2.1",
+      "statement": "Plan and carry out an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of the object.",
+      "bigIdea": "Forces have size and direction; multiple forces combine as a system. Balanced forces do not change motion; unbalanced forces do.",
+      "scientificIdeas": [
+        "A force can be represented with an arrow for strength (length) and direction (arrowhead).",
+        "Motion descriptions include speed and direction.",
+        "Some forces require contact; others do not.",
+        "Multiple forces combine as a system.",
+        "Equal and opposite forces on the same object cancel (balance).",
+        "Unbalanced forces change motion.",
+        "At rest + balanced forces → stays at rest; moving + balanced forces → motion pattern unchanged.",
+        "Speeding up requires net force in the direction of motion; slowing down requires net force opposite motion."
+      ],
+      "studentIdeas": [
+        "Any force changes motion.",
+        "Forces only happen with contact.",
+        "Moving objects need a force to keep moving.",
+        "A force is something inside an object.",
+        "Only movable things exert forces (tables can’t push).",
+        "Forces get used up.",
+        "Balanced forces mean no forces at all.",
+        "Unbalanced forces always speed objects up.",
+        "Equal and opposite forces (3rd law) are the same as balanced forces."
+      ]
+    },
+
+    {
+      "grade": "5",
+      "discipline": "PS",
+      "code": "5.PS2.2",
+      "statement": "Make observations and measurements of an object’s motion to provide evidence that a pattern can be used to predict future motion.",
+      "bigIdea": "Observed motion patterns (rest, constant speed, steady speed change) enable qualitative prediction without formal equations.",
+      "scientificIdeas": [
+        "Motion descriptions may include position, distance over time, speed change, and direction.",
+        "A direction convention (e.g., +/−) supports consistent descriptions.",
+        "Arrows and motion maps represent motion and change in motion.",
+        "Data tables (distance–time, speed–time) reveal patterns.",
+        "Balanced forces → constant speed (equal distances in equal times).",
+        "Sustained unbalanced forces → steady change in speed (consistent arrow/dot changes).",
+        "Patterns in motion persist unless the force system changes.",
+        "Patterns can predict future position/time qualitatively."
+      ],
+      "studentIdeas": [
+        "Objects require a forward push to keep moving.",
+        "Balanced forces imply an object must be still.",
+        "If an object is still, no forces act.",
+        "Forces get used up.",
+        "Only back-and-forth motion counts as a pattern.",
+        "Constant speed is not a pattern.",
+        "Patterns only predict where something will be, not where it was."
+      ]
+    },
+
+    {
+      "grade": "8",
+      "discipline": "PS",
+      "code": "8.PS2.4",
+      "statement": "Construct an explanation to describe why the position and motion of object(s) in a system, and the effects of forces on those objects, vary with respect to the observer.",
+      "bigIdea": "Choosing and sticking to a reference frame (origin, axes, units, sign convention) is essential; descriptions may differ across frames but each can be self-consistent.",
+      "scientificIdeas": [
+        "Reference frames define origin, axes, and units for position and time.",
+        "Frames are arbitrary but fixed once chosen for analysis/communication.",
+        "Opposite directions carry opposite signs.",
+        "The same motion looks different in different frames, yet each can yield correct predictions.",
+        "Use one coordinate system for both motion and forces.",
+        "Include direction in all motion descriptions.",
+        "Speed is change in position per unit time; change in speed per unit time characterizes acceleration.",
+        "Patterns include rest, constant speed, constant acceleration; each has consistent graph features.",
+        "Unbalanced forces change velocity; net force determines how motion changes."
+      ],
+      "studentIdeas": [
+        "Negative means ‘slowing down.’",
+        "The origin must be the starting point.",
+        "Motion and forces require separate axes.",
+        "Speed and position are the same thing.",
+        "Acceleration always means speeding up.",
+        "Changes in motion happen without forces (objects run out of speed).",
+        "Only one reference frame can be correct.",
+        "Predictions must numerically match across frames."
+      ]
+    },
+
+    {
+      "grade": "8",
+      "discipline": "PS",
+      "code": "8.PS2.5",
+      "statement": "Plan and conduct an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object.",
+      "bigIdea": "Motion changes predictably when the net force is nonzero; for the same net force, less massive objects experience larger changes in motion.",
+      "scientificIdeas": [
+        "If the net force is zero, motion does not change (rest or constant speed).",
+        "Mass measures inertia; more mass → more resistance to changes in motion.",
+        "Use +/− to encode opposite directions for forces and motion.",
+        "Multiple forces may act simultaneously; they combine by signed addition.",
+        "Net force sets how motion changes; along-motion components change speed; perpendicular components change direction.",
+        "Constant speed in a straight line implies balanced forces at that moment."
+      ],
+      "studentIdeas": [
+        "Add forces in the forward direction and subtract the rest (ignoring sign).",
+        "Only consider forces in the direction of motion.",
+        "Bigger-looking objects are always harder to move (volume over mass).",
+        "You must keep increasing force to keep speeding up.",
+        "Heavier objects always fall faster.",
+        "Objects are hard to move because they push back with a special ‘stopping’ force.",
+        "Negative signs mean ‘less force,’ not opposite direction."
+      ]
+    },
+
+    {
+      "grade": "8",
+      "discipline": "PS",
+      "code": "8.PS2.6",
+      "statement": "Evaluate and interpret that for every force exerted on an object there is an equal force exerted in the opposite direction.",
+      "bigIdea": "Forces come in pairs acting on different objects with equal strength and opposite directions; they do not cancel because they act on different bodies.",
+      "scientificIdeas": [
+        "Objects that cannot move still exert forces.",
+        "If A pushes/pulls B, then B pushes/pulls A with an equal and opposite force.",
+        "Force pairs never cancel because they act on different objects.",
+        "Force pairs are the same type (e.g., tension–tension, gravity–gravity).",
+        "To see the pair clearly, define a system that includes both interacting objects.",
+        "Very massive objects may show tiny visible effects despite equal forces."
+      ],
+      "studentIdeas": [
+        "Pairs cancel and cause no changes in motion.",
+        "Force pairs act at different times.",
+        "Pairs can be different types (e.g., tension paired with friction).",
+        "Pairs can involve more than two objects (mixing in a third object).",
+        "Only movable objects exert forces.",
+        "Bigger objects exert bigger forces than smaller ones in the pair.",
+        "Both objects must obviously move to ‘show’ the pair."
+      ]
+    }
+  ],
+
+  "metadata": { "version": "2025-09-21", "source": "TN Science IFDs - 10/25 release draft" }
+}
