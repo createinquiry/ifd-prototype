@@ -29,10 +29,10 @@
 
   "progression": {
     "columns": [
-      {"key": "gradeBand",		"label": "Grade Band"},
-      {"key": "scaleOfMaterials",	"label": "Scale of Materials"},
-      {"key": "bigIdea",		"label": "Big Idea"}
-],
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "scaleOfMaterials", "label": "Scale of Materials" },
+      { "key": "bigIdea", "label": "Big Idea" }
+    ],
     "table": [
       { "gradeBand": "K-2", "scaleOfMaterials": "Objects students can see or touch", "bigIdea": "Matter is the 'stuff' around us we can see and touch." },
       { "gradeBand": "3-5", "scaleOfMaterials": "Particles too small to see", "bigIdea": "All matter is made of tiny particles." },
@@ -43,363 +43,299 @@
   },
 
   "standards": [
-{
-  "grade": "K",
-  "discipline": "PS",
-  "code": "K.PS1.1",
+    {
+      "grade": "K",
+      "discipline": "PS",
+      "code": "K.PS1.1",
+      "statement": "Plan and conduct an investigation using patterns to classify different kinds of materials by their observable properties (i.e., absorbency, color, texture, hardness, and flexibility), by their uses, and by whether they occur naturally or are manufactured.",
+      "bigIdea": "Materials have properties that can be used to describe them or as the basis for organizing different materials. Some properties, such as hardness and flexibility, depend on what material an object is made of, and some properties, such as size and shape, do not. \n*Note: Identification of materials based on observable properties exceeds the intent of this standard. \n(Note: The standard lists color as a property of an object. This is useful for sorting. However, the perceived color of an object depends on the color of light shining on it and the colors of light that reflect from the object to an observer’s eyes.)*",
+      "scientificIdeas": [
+        "Our senses help us make observations that describe the properties of different materials.",
+        "We can use our observations to put items into groups where each group has some common feature/property. There may be more than one way to group the same set of things.",
+        "It is important to make detailed observations. As our observations become more detailed, we can come up with more possible ways to form our groups.",
+        "Recording the properties of each group helps us add new items to existing groups when the size of the set grows. Sometimes we discover the limitations of our groups by trying to add a new object to our system of groups and discover that it breaks our pattern.",
+        "Tests on materials might include mixing, heating, freezing, cutting, wetting, dissolving, bending, exposing to light, etc. Materials can respond differently to these tests, or two materials may respond similarly in some, but not all, tests.",
+        "Descriptions of objects can include the type of material they are made of, as well as their properties.",
+        "We can look for patterns in the properties of materials and their uses to help us select the best material for a task/design (e.g., paper that is soft does better for cleaning up a spill than paper that is smooth).",
+        "Some types of materials exist because of events that happen without humans (e.g., wood, rocks, cotton). Other types of materials would not exist if people had not made them (paper, plastic, glass).",
+        "All materials (man-made and naturally occurring) come from materials in nature.",
+        "People can take materials that are created through natural processes and use them for specific purposes (e.g., wood from trees can be harvested and used to make lumber or paper).",
+        "A material’s properties determine how well it will perform at a task (e.g., cloth is not good for cutting paper but works well to wrap up a group of items).",
+        "Different materials are used for different purposes because of their properties. (e.g., glass is used for windows because it is clear and hard, fabric is used for clothes because it is soft and flexible.)"
+      ],
+      "studentIdeas": [
+        "Objects with the same properties are made of the same materials. (e.g., windows and water bottles are both clear, so they must both be made from the same thing.)",
+        "All things that look “natural” (e.g., artificial grass, composite decking, laminate flooring) come directly from nature.",
+        "Objects are made entirely of one type of material. For example, cars are made of metal.",
+        "All types of plastic, metal, wood, fabric, etc. will have the same properties (e.g., all plastics can bend easily.)",
+        "Things that are made by people do not use materials from nature.",
+        "Rigid materials are solid, powders, and non-rigid materials are liquids.",
+        "Things like sponges and cloth are not solids because they crumble, squish, can be torn, etc."
+      ]
+    },
 
-  "statement": "Plan and conduct an investigation using patterns to classify different kinds of materials by their observable properties (i.e., absorbency, color, texture, hardness, and flexibility), by their uses, and by whether they occur naturally or are manufactured.",
+    {
+      "grade": "K",
+      "discipline": "PS",
+      "code": "K.PS1.2",
+      "statement": "Conduct investigations to understand that matter can exist in different states (solid and liquid) and has properties that can be observed and tested.",
+      "bigIdea": "Matter behaves in two general ways. Sometimes matter can keep its shape, but other times it is unable to keep its shape and will flow and spread out until its top surface becomes flat. \n\n*(Note: Focus on solids and liquids as behaviors of matter, rather than separate states. Students do not yet have the content knowledge to defend that solids and liquids may be the same chemical at different states.)*",
+      "scientificIdeas": [
+        "Matter is all the stuff around us – solids and liquids – the things that we can see and/or touch. (Note: Invisible forms of matter are not appropriate for the K-2 grade band.)",
+        "Matter can behave in ways that we describe as being either a solid or a liquid. It is possible to pour liquid, but solids keep their shape. (Note: Focus on large samples of matter. Discussions of particles are not appropriate until grade 3.)",
+        "Drops of liquids can combine to form a larger drop. Solids or bits of piled up solid do not combine in the same way.",
+        "Solids can be stacked on top of each other, while liquids require a container.",
+        "Some materials like rice, sugar, sand, etc. may look like they flow, but they are actually made of tiny solid pieces, and are not really behaving as a liquid.",
+        "Liquids can be absorbed, but solids cannot be absorbed.",
+        "Some types of matter on Earth may behave like a solid at one temperature but behave like a liquid at another temperature. For these materials, they will be liquids at lower relative temperatures and solids at higher relative temperatures.",
+        "Matter has weight and sizes that we can measure and compare. (Note: Size and weights should be compared to other objects, including using tools such as a “rocker” balance/pan balance. Standard units (e.g., metric units) of measure exceed grade level math standards.)"
+      ],
+      "studentIdeas": [
+        "Solids are always hard and liquids are always soft and runny.",
+        "If something can be poured, then it must be a liquid. (e.g., Sand and sugar must be liquids because they could be poured from a pitcher).",
+        "Liquids do not have weight or take up space.",
+        "Solids must be heavy, and liquids must be light.",
+        "Anything that is smooth must be a liquid.",
+        "Matter includes solids, but not liquids.",
+        "Heat/Energy, waves, forces are forms of matter.",
+        "Powders are liquids because they can spill.",
+        "All liquids are made of water.",
+        "“Runny” substances are liquids, but “thicker” substances, like pastes, are not.",
+        "Liquids disappear when they are absorbed, as opposed to becoming trapped in the absorbent material.",
+        "If a solid is broken into small enough pieces, then it becomes a liquid."
+      ]
+    },
 
-  "bigIdea": "Materials have properties that can be used to describe them or as the basis for organizing different materials. Some properties, such as hardness and flexibility, depend on what material an object is made of, and some properties, such as size and shape, do not. \n*Note: Identification of materials based on observable properties exceeds the intent of this standard. \n(Note: The standard lists color as a property of an object. This is useful for sorting. However, the perceived color of an object depends on the color of light shining on it and the colors of light that reflect from the object to an observer’s eyes.)*",
+    {
+      "grade": "K",
+      "discipline": "PS",
+      "code": "K.PS1.3",
+      "statement": "Construct an evidence-based account of how an object made of a small set of pieces (blocks, snap cubes) can be disassembled and made into a new object.",
+      "bigIdea": "Big things are made up of smaller parts. Using a small variety of small parts, it is still possible to create a wide variety of big things. But the weight of the things does not depend on their arrangement (e.g., snapped together vs broken apart).\n\n(Note: These big ideas intend for students to work with a relatively large number of small pieces but limited to different types of pieces.)",
+      "scientificIdeas": [
+        "Objects can be taken apart and are made of smaller pieces.",
+        "When an object is taken apart, the pieces are still there and can be used to make something new.",
+        "The number of pieces stays the same when an object is take apart and reassembled even though the shape of the object may change.",
+        "Adding or removing pieces makes the object get heavier or lighter, respectively.",
+        "A set of pieces does not get lighter/heavier when it is disassembled and reassembled into something new if all the original pieces are used.",
+        "The properties of an object can be different from the properties of its parts. For example, A tower of building bricks may bend even though the individual bricks are rigid.",
+        "The same set of pieces can be used to make different objects.",
+        "You don’t need to have very many different types of pieces to make very different objects, designs, patterns, etc. (e.g., many different patterns can be made with just two colors of blocks)."
+      ],
+      "studentIdeas": [
+        "If an object looks whole, it must be a single piece, rather than being made of parts.",
+        "Changing the shape of an object, without adding or removing pieces, can make the object heavier or lighter.",
+        "Since the pieces are smaller when disassembled, they will weigh less.",
+        "Taking something apart or breaking it into smaller pieces will make it lighter. For example, crunching the chips in an open/closed bag of chips will make it lighter."
+      ]
+    },
 
-  "scientificIdeas": [ 
-"Our senses help us make observations that describe the properties of different materials.",
-"We can use our observations to put items into groups where each group has some common feature/property. There may be more than one way to group the same set of things.",
-"It is important to make detailed observations. As our observations become more detailed, we can come up with more possible ways to form our groups.",
-"Recording the properties of each group helps us add new items to existing groups when the size of the set grows. Sometimes we discover the limitations of our groups by trying to add a new object to our system of groups and discover that it breaks our pattern.",
-"Tests on materials might include mixing, heating, freezing, cutting, wetting, dissolving, bending, exposing to light, etc. Materials can respond differently to these tests, or two materials may respond similarly in some, but not all, tests.",
-"Descriptions of objects can include the type of material they are made of, as well as their properties.",
-"We can look for patterns in the properties of materials and their uses to help us select the best material for a task/design (e.g., paper that is soft does better for cleaning up a spill than paper that is smooth).",
-"Some types of materials exist because of events that happen without humans (e.g., wood, rocks, cotton). Other types of materials would not exist if people had not made them (paper, plastic, glass).",
-"All materials (man-made and naturally occurring) come from materials in nature.",
-"People can take materials that are created through natural processes and use them for specific purposes (e.g., wood from trees can be harvested and used to make lumber or paper).",
-"A material’s properties determine how well it will perform at a task (e.g., cloth is not good for cutting paper but works well to wrap up a group of items).",
-"Different materials are used for different purposes because of their properties. (e.g., glass is used for windows because it is clear and hard, fabric is used for clothes because it is soft and flexible.)"
- ],
+    {
+      "grade": "3",
+      "discipline": "PS",
+      "code": "3.PS1.1",
+      "statement": "Develop a model of solids, liquids, and gases to describe that each state of matter is made of particles too small to be seen.",
+      "bigIdea": "Matter—all living and non-living things—is made from particles that are too small to be seen. The behavior of solids, liquids, and gases is a result of the motion and arrangement of these invisible particles. \n\n*(Note: It is acceptable to discuss individual particles of a substance such as water and students may encounter the chemical formula for water used as shorthand, H2O. Students are not expected to know that a water particle is made of still smaller atoms/particles of hydrogen and oxygen.) \n\n(Note: The standard addresses the interactions between particles that cause the behavior of solids, liquids, and gases. Transitions between these phases is not part of this standard. There is not an attempt at this grade to relate the relative motion of particles to temperature.)*",
+      "scientificIdeas": [
+        "The words solid, liquid, and gas describe the way a substance behaves. All substances are made of groups of invisible particles, and the behavior of the substance is caused by the motion and arrangement of the particles.",
+        "Solids, liquids and gasses are all made of tiny particles that are too small to see.",
+        "Matter can be broken down into smaller bits. If we continually divide a sample of matter into smaller and smaller bits, it eventually becomes so small that we can no longer see it but the matter continues to exist.",
+        "Eventually the taking apart/breaking down of a pure substance reaches a point where there is only one unit of the substance remaining. This smallest repeating unit of a pure substance is called a particle.",
+        "Everything that we see around us is made up of an accumulation of these smaller invisible particles. Even things that seem small to us (specks of dust or droplets of fog) are made of more particles than we could begin to count.",
+        "Solids resist falling down (i.e., melting/flowing) because the particles all pull on each other. Every particle pulling on its neighboring particles prevents individual particles from changing positions and results in the rigid behavior of solids.",
+        "Liquids flow but remain a connected substance because the particles can pull on each other enough to remain connected. The flowing behavior of liquids happens because particles hold together, but not enough to keep particles from changing places. The whole substance acts like a group of people dancing and trading partners.",
+        "Particles in a gas cannot pull hard enough on each other and do not connect to each other compared to how fast the particles move. Individual particles bounce around in all directions. Matter that behaves like a gas can still push on other objects and we observe this pushing when we exhale or when the wind moves leaves, or as gaseous matter pushes outwards on a balloon to make it larger as it is filled.",
+        "Solids, liquids, and gases can all exist in bits that are too small for us to see or at scales where their bulk behaviors appear to change, (e.g., air pollution such as smoke is a very small solid, fog and steam are very small liquid droplets). (Note: Bulk behaviors or bulk properties refer to behaviors or properties that are observed in a collection of particles but cannot be observed in a single particle.)",
+        "Even though we cannot see particles in a gas, we can observe evidence that they exist (e.g., wind blows leaves, and air fills a balloon).",
+        "Powders are composed of small bits of solids."
+      ],
+      "studentIdeas": [
+        "Objects are filled up with matter.",
+        "Matter that has worn away is gone. For example, as soles of shoes wear away, they are no longer present on Earth).",
+        "Solids and liquids are matter, but gases are not real substances because they are invisible.",
+        "When matter is no longer visible, all its mass will be gone as well. ",
+        "Powders are liquids because they can spill.",
+        "Powders are in a state between solids and liquids.",
+        "Liquids are not made of particles because they can change shape.",
+        "Air is good, gas is bad.",
+        "Melting a substance makes it lighter.",
+        "Gases do not have weight.",
+        "In a gas, the space between gas particles is filled with air, as opposed to being mostly empty space."
+      ]
+    },
 
-  "studentIdeas": [ 
-"Objects with the same properties are made of the same materials. (e.g., windows and water bottles are both clear, so they must both be made from the same thing.)",
-"All things that look “natural” (e.g., artificial grass, composite decking, laminate flooring) come directly from nature.",
-"Objects are made entirely of one type of material. For example, cars are made of metal.",
-"All types of plastic, metal, wood, fabric, etc. will have the same properties (e.g., all plastics can bend easily.)",
-"Things that are made by people do not use materials from nature.",
-"Rigid materials are solid, powders, and non-rigid materials are liquids.",
-"Things like sponges and cloth are not solids because they crumble, squish, can be torn, etc."
-]
-},
+    {
+      "grade": "3",
+      "discipline": "PS",
+      "code": "3.PS1.3",
+      "statement": "Construct an argument based on evidence that materials have both fixed and changing properties, some of which are useful for identification of a material.",
+      "bigIdea": "",
+      "scientificIdeas": [
+        "Scientists use different scales of measurement for different characteristics. Each of these scales is relative to a standardized reference point. For example, mass is measured in kilograms which, until recently, was relative to an original “kilogram prototype” – a small cube of platinum. Degrees Celsius is a scale for measuring temperature that is relative to the temperatures where ice forms and where water boils. (Note: Students are not expected to memorize units of measure or reference points. These examples are intended to help students understand that a reference point is essential for any measuring system.)",
+        "All types of matter have some characteristics that can change (e.g., water can take up different amounts of space) but other characteristics that don’t change - characteristic properties/fundamental properties (e.g., hardness).",
+        "It is possible to identify a sample of matter using its characteristic properties.",
+        "Some characteristics depend on the amount of a substance (e.g., mass and volume) or other conditions (e.g., ability to conduct heat and electricity, buoyancy, magnetism, solubility, transparency) do not depend on the amount of a substance. For those properties that change as the amount of a substance changes, it is not possible to identify a sample of matter from these properties alone.",
+        "The mass of a material does not change, even as its appearance changes.",
+        "A material’s properties determine how well it will perform a certain function (e.g., cloth is not good for cutting paper but works well to wrap up a group of items)."
+      ],
+      "studentIdeas": [
+        "Any change to an observable property of an object will also change the object’s mass.",
+        "A bigger object will be heavier than a smaller object.",
+        "Unlike solids and liquids, gases do not have observable properties.",
+        "As gaseous particles cool, they lose their particulate nature and become a continuous substance when they become a liquid.",
+        "Color and texture are characteristics properties of a material (e.g., dying a material changes it into a new material, or sanding something smooth makes it a new material)."
+      ]
+    },
 
+    {
+      "grade": "5",
+      "discipline": "PS",
+      "code": "5.PS1.1",
+      "statement": "Analyze and interpret data from observations and measurements of the physical properties of matter to explain phase changes between a solid, liquid, or gas.",
+      "bigIdea": "For each type of matter there are characteristic temperatures where behaviors change between solid/liquid and liquid/gas.\n\n*(Note: In middle school students will explain phase changes in terms of the relative motion of particles compared to the strength of the particles’ pull on each other.)*",
+      "scientificIdeas": [
+        "Matter is made of particles, and these particles can behave as solid, liquid, or gas (see 3.PS3.1).",
+        "Particles are always moving, and their speed depends on the temperature. Particles in a substance move faster as the substance is warmed.",
+        "Increasing the temperature causes particles to move faster and cooling down a substance causes the particles to slow down.",
+        "At certain temperatures, particles lock in place in a relatively ordered way. At relatively warmer temperatures, the particles can slide past one another.",
+        "Substances store energy in different ways including the motion of the particles and the arrangement of the particles. Increased motion is associated with increased energy storage. Increased arrangement is associated with lower stored energy in the arrangement of the particles.",
+        "Changes in the state of matter for a material involve transfers of energy into or out of the material. Melting involves a sample gaining energy (typically from being heated or absorbing radiant energy), while solidifying involves a sample releasing energy (such as invisible radiant energy/light) to its surroundings.",
+        "Larger samples of a certain material will be able to store/release more energy as they transition between phases.",
+        "For each type of matter, there is a range of temperatures where we will see the sample behaving like a liquid. The same type of matter will behave like a solid at any temperature lower than this range and like a gas at temperatures at any temperature above this range.",
+        "Some materials melt at very low temperatures, whereas other materials can have very high melting points.",
+        "The three ranges of temperatures for some substances (e.g., water) are typical temperatures on Earth and therefore we can find examples of these substances behaving as a solid, liquid or gas. For most substances, however, we can only find examples of the substance exhibiting one or two of these types of behaviors.",
+        "If a substance undergoes a phase change and a reversal, its characteristic properties do not change.",
+        "The range of temperatures where a sample behaves as a solid is continuous all the way up until the range of temperatures where a sample behaves as a liquid. The temperature where solid behavior and liquid behavior transition is that substances melting point.",
+        "Freezing and melting happens at specific temperatures for a given substance.",
+        "The melting point of a substance is a characteristic property of that substance.",
+        "The range of temperatures where a sample behaves as a liquid is continuous all the way up until the range of temperatures where a sample behaves as a gas. The temperature where liquid behavior and gaseous behavior transition is that substances boiling point.",
+        "While substances are transitioning between phases, they gain or lose energy without significant changes in temperature. Energy changes during these transitions correspond with the arrangement of the particles.",
+        "The boiling point of a substance is a characteristic property of that substance.",
+        "Since melting point and boiling point are characteristic properties, they can be used to identify a substance.",
+        "Melting is a process involving a single type of matter, whereas dissolving involves two different materials."
+      ],
+      "studentIdeas": [
+        "Melting only happens to things that are cold in the beginning.",
+        "Materials only melt when the temperature is “warm,” such as on a sunny day.",
+        "Freezing only happens at “cold” temperatures, such as a snow day in the winter.",
+        "When matter changes states, it becomes a new type of matter.",
+        "Melting and dissolving are the same thing.",
+        "Powders are a liquid because they can spill.",
+        "Gases have some material properties, but do not have weight.",
+        "Gases have negative weight since they often experience gases floating away (balloons, blowing bubbles through a drinking straw).",
+        "Adding gases to a container will make the container lighter.",
+        "A substance becomes heavier as it freezes.",
+        "The liquid phase is a mid-point between a solid and a gas. For example, the speed or spacing of the particles in a liquid is half as great as that of a gas.",
+        "Particles are uniformly distributed as solids but melt together when the solid melts."
+      ]
+    },
 
-{
-  "grade": "K",
-  "discipline": "PS",
-  "code": "K.PS1.2",
+    {
+      "grade": "5",
+      "discipline": "PS",
+      "code": "5.PS1.2",
+      "statement": "Analyze and interpret data to show that the amount of matter is conserved even when it changes form, including transitions where matter seems to vanish.",
+      "bigIdea": "Some arrangements of particles may cause a substance to seem to disappear (e.g., evaporating, dissolving, wearing down), however since the atoms do not disappear, the system mass does not change.",
+      "scientificIdeas": [
+        "Matter is made of particles. Individually, these particles are too small to be seen.",
+        "Visible objects are made of large numbers of smaller particles.",
+        "We may not be able to see particles that are arranged in smaller groups or individual, but we can detect them with devices (e.g., balances) and with our other senses (e.g., smelling air freshener or feeling a breeze).",
+        "The weight of a group of objects/particles does not change, even when the arrangement of these particles' changes, nor when it gets broken down into smaller pieces.",
+        "Melting involves one substance, while dissolving involves two different substances.",
+        "During melting or dissolving, particles separate, and we may no longer be able to see them."
+      ],
+      "studentIdeas": [
+        "Materials go away once they are no longer visible, (e.g., puddle drying up, soles of shoes, bike tires, rocks wearing away).",
+        "When one material dissolves into a liquid, it’s weight disappears because the particles become suspended in the liquid.",
+        "Dissolved materials go away when they are mixed into a liquid.",
+        "Since dissolved materials are no longer visible, they no longer have weight.",
+        "Dissolved materials become lighter compared to when they are undissolved because the liquid helps hold them up.",
+        "Changes in mass are different in colorless solutes (sugar, salt, etc.) because they disappear compared to colored solutes (drink mixes, food coloring) because they remain visible. For example, the weight of the sugar goes away completely, but the weight of the drink mix just drops slightly since the color becomes lighter.)",
+        "The mass of a substance does not change as it boils.",
+        "When a material becomes a gas, it becomes lighter than it was as a solid because it “floats” away.",
+        "Substances boil before they evaporate.",
+        "Dissolved materials are melting into the liquid.",
+        "The weight of a dissolved substance decreases or goes away because it is not pressing down on the bottom of the container.",
+        "Gravity causes weight, but gases and dissolved materials are too small to be affected by gravity.",
+        "When one substance dissolves into another, the physical properties of that substance go away."
+      ]
+    },
 
-  "statement": "Conduct investigations to understand that matter can exist in different states (solid and liquid) and has properties that can be observed and tested. ",
+    {
+      "grade": "7",
+      "discipline": "PS",
+      "code": "7.PS1.1",
+      "statement": "Evaluate and communicate information that all substances in the universe are made of many different types of atoms that combine in various ways.",
+      "bigIdea": "A limited number of different types of atoms combine to make all substances in the universe. \n\n*(Clarification: Combining in various ways refers to the enormous variety of compounds, and not to specific bonding mechanisms. Classifying bond types exceeds the expectations of this standard.)*",
+      "scientificIdeas": [
+        "Matter is anything that has mass and takes up space. Matter continues to exist even when we cannot see it.",
+        "All forms of matter are made of atoms and nothing else. If you remove all the atoms from something, there will be nothing else. There is no other substance holding the atoms.",
+        "There are relatively small number of different types of atoms—around 100. Individual atoms are too small to be seen, even with a microscope.",
+        "All substances in the universe are made of different arrangements of atoms.",
+        "Different samples of the same compound have consistent ratios in their parts.",
+        "Some substances are made entirely of one type of atom bound into groups, other substances are made of different types of atoms bound into groups, other substances are made of different types of groups.",
+        "Substances that are made entirely of one type of atom or entirely of identical groups of atoms will have one set of characteristic properties. When a substance consists of more than groups of different types of atoms, the substance will have multiple sets of characteristic properties (e.g., a mixture of water and vinegar will have two different boiling points.)",
+        "Atoms can stick to other atoms to create new substances with unique physical properties.",
+        "Materials which have different combinations of atoms will have different physical properties. For example, the same volume of two different substances will have different weights.",
+        "Elements are forms of matter that cannot be further decomposed and exist in precise ratios in substances in nature.",
+        "Compounds consist of more than one atom stuck to another atom.",
+        "The properties of a substance (e.g., metals that conduct electricity) exist in the collection of atoms making up that substance, but not in individual atoms.",
+        "A pure substance consists of repeating units of a single substance and has a single set of physical properties.",
+        "Each component in a mixture maintains its unique physical properties.",
+        "During a chemical reaction, atoms are rearranged and new substances with new physical properties are created.",
+        "Energy is stored or released during chemical reactions. Reactions that store energy absorb energy from their surroundings. As these reactions occur, the container holding the reactants will feel cool to touch. Reactions that release stored energy will warm their surroundings. (note: It is not essential to discuss activation energy in middle grades)."
+      ],
+      "studentIdeas": [
+        "Atoms are tiny bits of solids.",
+        "During chemical reactions, the types of atoms changes.",
+        "The properties of individual atoms are the same as the properties of a collection of those atoms. For example, an atom of gold is malleable since a chunk of gold is malleable.",
+        "There is a “glue-like substance” that holds together groups of atoms when they form compounds.",
+        "During a chemical reaction, particles are destroyed and new particles form from the remnants of the destroyed particles.",
+        "Energy is stored inside of atoms when they take part in reactions that store energy."
+      ]
+    },
 
-  "bigIdea": "Matter behaves in two general ways. Sometimes matter can keep its shape, but other times it is unable to keep its shape and will flow and spread out until its top surface becomes flat. \n\n*(Note: Focus on solids and liquids as behaviors of matter, rather than separate states. Students do not yet have the content knowledge to defend that solids and liquids may be the same chemical at different states.)*",
-
-  "scientificIdeas": [ 
-"Matter is all the stuff around us – solids and liquids – the things that we can see and/or touch. (Note: Invisible forms of matter are not appropriate for the K-2 grade band.)",
-"Matter can behave in ways that we describe as being either a solid or a liquid. It is possible to pour liquid, but solids keep their shape. (Note: Focus on large samples of matter. Discussions of particles are not appropriate until grade 3.)",
-"Drops of liquids can combine to form a larger drop. Solids or bits of piled up solid do not combine in the same way.",
-"Solids can be stacked on top of each other, while liquids require a container.",
-"Some materials like rice, sugar, sand, etc. may look like they flow, but they are actually made of tiny solid pieces, and are not really behaving as a liquid.",
-"Liquids can be absorbed, but solids cannot be absorbed.",
-"Some types of matter on Earth may behave like a solid at one temperature but behave like a liquid at another temperature. For these materials, they will be liquids at lower relative temperatures and solids at higher relative temperatures.",
-"Matter has weight and sizes that we can measure and compare. (Note: Size and weights should be compared to other objects, including using tools such as a “rocker” balance/pan balance. Standard units (e.g., metric units) of measure exceed grade level math standards.)"
- ],
-
-  "studentIdeas": [ 
-"Solids are always hard and liquids are always soft and runny.",
-"If something can be poured, then it must be a liquid. (e.g., Sand and sugar must be liquids because they could be poured from a pitcher).",
-"Liquids do not have weight or take up space.",
-"Solids must be heavy, and liquids must be light.",
-"Anything that is smooth must be a liquid.",
-"Matter includes solids, but not liquids.",
-"Heat/Energy, waves, forces are forms of matter.",
-"Powders are liquids because they can spill.",
-"All liquids are made of water.",
-"“Runny” substances are liquids, but “thicker” substances, like pastes, are not.",
-"Liquids disappear when they are absorbed, as opposed to becoming trapped in the absorbent material.",
-"If a solid is broken into small enough pieces, then it becomes a liquid."
-
-]
-},
-
-{
-  "grade": "K",
-  "discipline": "PS",
-  "code": "K.PS1.3",
-
-  "statement": "Construct an evidence-based account of how an object made of a small set of pieces (blocks, snap cubes) can be disassembled and made into a new object.",
-
-  "bigIdea": "Big things are made up of smaller parts. Using a small variety of small parts, it is still possible to create a wide variety of big things. But the weight of the things does not depend on their arrangement (e.g., snapped together vs broken apart).\n\n(Note: These big ideas intend for students to work with a relatively large number of small pieces but limited to different types of pieces.)",
-
-  "scientificIdeas": [ 
-"Objects can be taken apart and are made of smaller pieces.",
-"When an object is taken apart, the pieces are still there and can be used to make something new.",
-"The number of pieces stays the same when an object is take apart and reassembled even though the shape of the object may change.",
-"Adding or removing pieces makes the object get heavier or lighter, respectively.",
-"A set of pieces does not get lighter/heavier when it is disassembled and reassembled into something new if all the original pieces are used.",
-"The properties of an object can be different from the properties of its parts. For example, A tower of building bricks may bend even though the individual bricks are rigid.",
-"The same set of pieces can be used to make different objects.",
-"You don’t need to have very many different types of pieces to make very different objects, designs, patterns, etc. (e.g., many different patterns can be made with just two colors of blocks)."
- ],
-
-  "studentIdeas": [ 
-"If an object looks whole, it must be a single piece, rather than being made of parts.",
-"Changing the shape of an object, without adding or removing pieces, can make the object heavier or lighter.", 
-"Since the pieces are smaller when disassembled, they will weigh less.",
-"Taking something apart or breaking it into smaller pieces will make it lighter. For example, crunching the chips in an open/closed bag of chips will make it lighter."
-
-]
-},
-
-{
-  "grade": "3",
-  "discipline": "PS",
-  "code": "3.PS1.1",
-
-  "statement": "Develop a model of solids, liquids, and gases to describe that each state of matter is made of particles too small to be seen.",
-
-  "bigIdea": "Matter—all living and non-living things—is made from particles that are too small to be seen. The behavior of solids, liquids, and gases is a result of the motion and arrangement of these invisible particles. \n\n*(Note: It is acceptable to discuss individual particles of a substance such as water and students may encounter the chemical formula for water used as shorthand, H2O. Students are not expected to know that a water particle is made of still smaller atoms/particles of hydrogen and oxygen.) \n\n(Note: The standard addresses the interactions between particles that cause the behavior of solids, liquids, and gases. Transitions between these phases is not part of this standard. There is not an attempt at this grade to relate the relative motion of particles to temperature.)*",
-
-  "scientificIdeas": [ 
-"The words solid, liquid, and gas describe the way a substance behaves. All substances are made of groups of invisible particles, and the behavior of the substance is caused by the motion and arrangement of the particles.",
-"Solids, liquids and gasses are all made of tiny particles that are too small to see.",
-"Matter can be broken down into smaller bits. If we continually divide a sample of matter into smaller and smaller bits, it eventually becomes so small that we can no longer see it but the matter continues to exist.",
-"Eventually the taking apart/breaking down of a pure substance reaches a point where there is only one unit of the substance remaining. This smallest repeating unit of a pure substance is called a particle.",
-"Everything that we see around us is made up of an accumulation of these smaller invisible particles. Even things that seem small to us (specks of dust or droplets of fog) are made of more particles than we could begin to count.",
-"Solids resist falling down (i.e., melting/flowing) because the particles all pull on each other. Every particle pulling on its neighboring particles prevents individual particles from changing positions and results in the rigid behavior of solids.",
-"Liquids flow but remain a connected substance because the particles can pull on each other enough to remain connected. The flowing behavior of liquids happens because particles hold together, but not enough to keep particles from changing places. The whole substance acts like a group of people dancing and trading partners.",
-"Particles in a gas cannot pull hard enough on each other and do not connect to each other compared to how fast the particles move. Individual particles bounce around in all directions. Matter that behaves like a gas can still push on other objects and we observe this pushing when we exhale or when the wind moves leaves, or as gaseous matter pushes outwards on a balloon to make it larger as it is filled.",
-"Solids, liquids, and gases can all exist in bits that are too small for us to see or at scales where their bulk behaviors appear to change, (e.g., air pollution such as smoke is a very small solid, fog and steam are very small liquid droplets). (Note: Bulk behaviors or bulk properties refer to behaviors or properties that are observed in a collection of particles but cannot be observed in a single particle.)",
-"Even though we cannot see particles in a gas, we can observe evidence that they exist (e.g., wind blows leaves, and air fills a balloon).",
-"Powders are composed of small bits of solids."
- ],
-
-  "studentIdeas": [ 
-"Objects are filled up with matter.",
-"Matter that has worn away is gone. For example, as soles of shoes wear away, they are no longer present on Earth).",
-"Solids and liquids are matter, but gases are not real substances because they are invisible.",
-"When matter is no longer visible, all its mass will be gone as well. ",
-"Powders are liquids because they can spill.",
-"Powders are in a state between solids and liquids.",
-"Liquids are not made of particles because they can change shape.",
-"Air is good, gas is bad.",
-"Melting a substance makes it lighter.",
-"Gases do not have weight.",
-"In a gas, the space between gas particles is filled with air, as opposed to being mostly empty space."
-
-]
-},
-
-{
-  "grade": "3",
-  "discipline": "PS",
-  "code": "3.PS1.3",
-
-  "statement": "Construct an argument based on evidence that materials have both fixed and changing properties, some of which are useful for identification of a material.",
-
-  "bigIdea": "",
-
-  "scientificIdeas": [ 
-“Scientists use different scales of measurement for different characteristics. Each of these scales is relative to a standardized reference point. For example, mass is measured in kilograms which, until recently, was relative to an original “kilogram prototype” – a small cube of platinum. Degrees Celsius is a scale for measuring temperature that is relative to the temperatures where ice forms and where water boils. (Note: Students are not expected to memorize units of measure or reference points. These examples are intended to help students understand that a reference point is essential for any measuring system.) “,
-“All types of matter have some characteristics that can change (e.g., water can take up different amounts of space) but other characteristics that don’t change - characteristic properties/fundamental properties (e.g., hardness).”,
-“It is possible to identify a sample of matter using its characteristic properties. “,
-“Some characteristics depend on the amount of a substance (e.g., mass and volume) or other conditions (e.g., ability to conduct heat and electricity, buoyancy, magnetism, solubility, transparency) do not depend on the amount of a substance. For those properties that change as the amount of a substance changes, it is not possible to identify a sample of matter from these properties alone.”,
-“The mass of a material does not change, even as its appearance changes.“,
-“A material’s properties determine how well it will perform a certain function (e.g., cloth is not good for cutting paper but works well to wrap up a group of items).”
- ],
-
-  "studentIdeas": [ 
-“Any change to an observable property of an object will also change the object’s mass.“,
-“A bigger object will be heavier than a smaller object.”,
-“Unlike solids and liquids, gases do not have observable properties.”,
-“As gaseous particles cool, they lose their particulate nature and become a continuous substance when they become a liquid.“,
-“Color and texture are characteristics properties of a material (e.g., dying a material changes it into a new material, or sanding something smooth makes it a new material).”
-
-]
-},
-
-
-{
-  "grade": "5",
-  "discipline": "PS",
-  "code": "5.PS1.1",
-
-  "statement": "Analyze and interpret data from observations and measurements of the physical properties of matter to explain phase changes between a solid, liquid, or gas.",
-
-  "bigIdea": "For each type of matter there are characteristic temperatures where behaviors change between solid/liquid and liquid/gas.\n\n*(Note: In middle school students will explain phase changes in terms of the relative motion of particles compared to the strength of the particles’ pull on each other.)*",
-
-  "scientificIdeas": [ 
-“Matter is made of particles, and these particles can behave as solid, liquid, or gas (see 3.PS3.1).”,
-“Particles are always moving, and their speed depends on the temperature. Particles in a substance move faster as the substance is warmed.”,
-“Increasing the temperature causes particles to move faster and cooling down a substance causes the particles to slow down.”,
-“At certain temperatures, particles lock in place in a relatively ordered way. At relatively warmer temperatures, the particles can slide past one another. “,
-“Substances store energy in different ways including the motion of the particles and the arrangement of the particles. Increased motion is associated with increased energy storage. Increased arrangement is associated with lower stored energy in the arrangement of the particles.”,
-“Changes in the state of matter for a material involve transfers of energy into or out of the material. Melting involves a sample gaining energy (typically from being heated or absorbing radiant energy), while solidifying involves a sample releasing energy (such as invisible radiant energy/light) to its surroundings.”,
-“Larger samples of a certain material will be able to store/release more energy as they transition between phases.”,
-“For each type of matter, there is a range of temperatures where we will see the sample behaving like a liquid. The same type of matter will behave like a solid at any temperature lower than this range and like a gas at temperatures at any temperature above this range. “,
-“Some materials melt at very low temperatures, whereas other materials can have very high melting points.”,
-“The three ranges of temperatures for some substances (e.g., water) are typical temperatures on Earth and therefore we can find examples of these substances behaving as a solid, liquid or gas. For most substances, however, we can only find examples of the substance exhibiting one or two of these types of behaviors.”,
-“If a substance undergoes a phase change and a reversal, its characteristic properties do not change. “,
-“The range of temperatures where a sample behaves as a solid is continuous all the way up until the range of temperatures where a sample behaves as a liquid. The temperature where solid behavior and liquid behavior transition is that substances melting point. “,
-“Freezing and melting happens at specific temperatures for a given substance.”,
-“The melting point of a substance is a characteristic property of that substance.”,
-“The range of temperatures where a sample behaves as a liquid is continuous all the way up until the range of temperatures where a sample behaves as a gas. The temperature where liquid behavior and gaseous behavior transition is that substances boiling point. “,
-“While substances are transitioning between phases, they gain or lose energy without significant changes in temperature. Energy changes during these transitions correspond with the arrangement of the particles. “,
-“The boiling point of a substance is a characteristic property of that substance.”,
-“Since melting point and boiling point are characteristic properties, they can be used to identify a substance.“,
-“Melting is a process involving a single type of matter, whereas dissolving involves two different materials.“
-
- ],
-
-  "studentIdeas": [ 
-“Melting only happens to things that are cold in the beginning.  “,
-“Materials only melt when the temperature is “warm,” such as on a sunny day.”,
-“Freezing only happens at “cold” temperatures, such as a snow day in the winter.”,
-“When matter changes states, it becomes a new type of matter.”,
-“Melting and dissolving are the same thing.”,
-“Powders are a liquid because they can spill.”,
-“Gases have some material properties, but do not have weight.”,
-“Gases have negative weight since they often experience gases floating away (balloons, blowing bubbles through a drinking straw).”,
-“Adding gases to a container will make the container lighter.”,
-“A substance becomes heavier as it freezes.”,
-“The liquid phase is a mid-point between a solid and a gas. For example, the speed or spacing of the particles in a liquid is half as great as that of a gas.”,
-“Particles are uniformly distributed as solids but melt together when the solid melts.”
-
-
-]
-},
-
-{
-  "grade": "5",
-  "discipline": "PS",
-  "code": "5.PS1.2",
-
-  "statement": "Analyze and interpret data to show that the amount of matter is conserved even when it changes form, including transitions where matter seems to vanish. ",
-
-  "bigIdea": "Some arrangements of particles may cause a substance to seem to disappear (e.g., evaporating, dissolving, wearing down), however since the atoms do not disappear, the system mass does not change.",
-
-  "scientificIdeas": [ 
-“Matter is made of particles. Individually, these particles are too small to be seen.”,
-“Visible objects are made of large numbers of smaller particles.”,
-“We may not be able to see particles that are arranged in smaller groups or individual, but we can detect them with devices (e.g., balances) and with our other senses (e.g., smelling air freshener or feeling a breeze).”,
-“The weight of a group of objects/particles does not change, even when the arrangement of these particles' changes, nor when it gets broken down into smaller pieces. “,
-“Melting involves one substance, while dissolving involves two different substances.”,
-“During melting or dissolving, particles separate, and we may no longer be able to see them.”
-
- ],
-
-  "studentIdeas": [ 
-“Materials go away once they are no longer visible, (e.g., puddle drying up, soles of shoes, bike tires, rocks wearing away).”,
-“When one material dissolves into a liquid, it’s weight disappears because the particles become suspended in the liquid. “,
-“Dissolved materials go away when they are mixed into a liquid.”,
-“Since dissolved materials are no longer visible, they no longer have weight.”,
-“Dissolved materials become lighter compared to when they are undissolved because the liquid helps hold them up. “,
-“Changes in mass are different in colorless solutes (sugar, salt, etc.) because they disappear compared to colored solutes (drink mixes, food coloring) because they remain visible. For example, the weight of the sugar goes away completely, but the weight of the drink mix just drops slightly since the color becomes lighter.)”,
-“The mass of a substance does not change as it boils.”,
-“When a material becomes a gas, it becomes lighter than it was as a solid because it “floats” away.”,
-“Substances boil before they evaporate.”,
-“Dissolved materials are melting into the liquid.”,
-“The weight of a dissolved substance decreases or goes away because it is not pressing down on the bottom of the container.”,
-“Gravity causes weight, but gases and dissolved materials are too small to be affected by gravity.”,
-“When one substance dissolves into another, the physical properties of that substance go away. “
-
-
-]
-},
-
-{
-  "grade": "7",
-  "discipline": "PS",
-  "code": "7.PS1.1",
-
-  "statement": "Evaluate and communicate information that all substances in the universe are made of many different types of atoms that combine in various ways.",
-
-  "bigIdea": "A limited number of different types of atoms combine to make all substances in the universe. \n\n*(Clarification: Combining in various ways refers to the enormous variety of compounds, and not to specific bonding mechanisms. Classifying bond types exceeds the expectations of this standard.)*",
-
-  "scientificIdeas": [ 
-“Matter is anything that has mass and takes up space. Matter continues to exist even when we cannot see it.”,
-“All forms of matter are made of atoms and nothing else. If you remove all the atoms from something, there will be nothing else. There is no other substance holding the atoms.”,
-“There are relatively small number of different types of atoms—around 100. Individual atoms are too small to be seen, even with a microscope.”,
-“All substances in the universe are made of different arrangements of atoms.”,
-“Different samples of the same compound have consistent ratios in their parts.”,
-“Some substances are made entirely of one type of atom bound into groups, other substances are made of different types of atoms bound into groups, other substances are made of different types of groups.”,
-“Substances that are made entirely of one type of atom or entirely of identical groups of atoms will have one set of characteristic properties. When a substance consists of more than groups of different types of atoms, the substance will have multiple sets of characteristic properties (e.g., a mixture of water and vinegar will have two different boiling points.)”,
-“Atoms can stick to other atoms to create new substances with unique physical properties.”,
-“Materials which have different combinations of atoms will have different physical properties. For example, the same volume of two different substances will have different weights.”,
-“Elements are forms of matter that cannot be further decomposed and exist in precise ratios in substances in nature.”,
-“Compounds consist of more than one atom stuck to another atom.”,
-“The properties of a substance (e.g., metals that conduct electricity) exist in the collection of atoms making up that substance, but not in individual atoms.”,
-“A pure substance consists of repeating units of a single substance and has a single set of physical properties.”,
-“Each component in a mixture maintains its unique physical properties.”,
-“During a chemical reaction, atoms are rearranged and new substances with new physical properties are created.”,
-“Energy is stored or released during chemical reactions. Reactions that store energy absorb energy from their surroundings. As these reactions occur, the container holding the reactants will feel cool to touch. Reactions that release stored energy will warm their surroundings. (note: It is not essential to discuss activation energy in middle grades).”
-
- ],
-
-  "studentIdeas": [ 
-“Atoms are tiny bits of solids.”,
-“During chemical reactions, the types of atoms changes. “,
-“The properties of individual atoms are the same as the properties of a collection of those atoms. For example, an atom of gold is malleable since a chunk of gold is malleable.”,
-“There is a “glue-like substance” that holds together groups of atoms when they form compounds.”,
-“During a chemical reaction, particles are destroyed and new particles form from the remnants of the destroyed particles.”,
-“Energy is stored inside of atoms when they take part in reactions that store energy.  “
-
-
-]
-},
-
-{
-  "grade": "7",
-  "discipline": "PS",
-  "code": "7.PS1.3",
-
-  "statement": "Develop a model to explain how changes to a system can be explained by changes in temperature and/or pressure and the effect of those changes on particle motion and/or spatial arrangement.",
-
-  "bigIdea": "Models can explain some observable changes in systems when these changes are a result of the behavior of invisible particles – including the motion of the particles, and the spacing between particles.",
-
-  "scientificIdeas": [ 
-“Matter is conserved even in transitions where it seems to vanish, such as a liquid becoming a gas. “,
-“All matter is made of particles and nothing more. “,
-“Atoms and molecules in all states are almost always moving, even when the larger object made of these atoms does not appear to be moving.”,
-“Generally, when the particles in a sample of matter are heated, the space between the particles increases.”,
-“Atoms/molecules in a gas are so far apart that they rarely collide. In solids and liquids, the particles are much closer together. “,
-“Particles in a sample are held in proximity to each other by attractions between the particles. “,
-“The same forces that hold together the particles in a solid also prevent the solid from being further compressed.”,
-“When a substance is heated, the average speed of the particles increases. As the substance cools, the average speed of the particles decreases.”,
-“Phase changes caused by heating/cooling do not transform a substance into a new substance.”,
-“Temperature is a measure of the average speed of the particles in a sample of matter.”,
-“Transitions between solids, liquids, and gases are a result of the interactions between individual particles and the motion of those particles. For example, the particles in a liquid are held in proximity to each other by attractive forces until the motion of the particles increases to the point where the forces are no longer strong enough to hold the liquid together.”,
-“The temperature of a system appears relatively constant during a phase change – regardless of the amount of time heating or the rate of heating.”,
-“Gases exert pressure on a container or surface when they collide with the walls of a container. “,
-“Pressure is a result of the number of particles in an area/container, the average motion of those particles, and the size of the space/container.”,
-“It is possible to compress a gas. This decreases the space between the particles and increases the pressure the particles exert on the walls of their container.”,
-“A gas may transition to a liquid or solid as the space between the particles decreases, which can be caused by changes in temperature and/or pressure.”,
-“The relative change in spacing between particles transitioning from solid to liquid is much less than the relative change in spacing between particles transition from liquid to gas.”,
-“It is not possible to manipulate the pressure in a closed system directly. Pressure changes as a result of changes to temperature, number of particles, or the volume of a container.”,
-“Phase transitions in a sample of matter occur at certain temperatures, but variations in pressure can raise or lower these temperature points.”
-
- ],
-
-  "studentIdeas": [ 
-“Solids and/or liquids are a continuous substance, rather than made of individual particles. “,
-“Pressure describes how hard particles crash into each other.”,
-“Air does not take up space.”,
-“Liquids can be compressed into a smaller volume.”,
-“The pressure of a gas can be directly manipulated.”,
-“Bubbles that form in a boiling liquid are oxygen, carbon dioxide, etc. that were trapped in the liquid.”,
-“When the particles in a gas cool, they become a continuous fluid as a liquid. “,
-“In the atmosphere, condensation causes cold hydrogen and oxygen to turn into water in the air. “,
-“Boiling causes a liquid to turn into different gases – water to turn into hydrogen and oxygen gases.”,
-“Randomness applies to the direction of the motion of particles, but all particles travel at the same speed.”
-
-
-]
-},
-
+    {
+      "grade": "7",
+      "discipline": "PS",
+      "code": "7.PS1.3",
+      "statement": "Develop a model to explain how changes to a system can be explained by changes in temperature and/or pressure and the effect of those changes on particle motion and/or spatial arrangement.",
+      "bigIdea": "Models can explain some observable changes in systems when these changes are a result of the behavior of invisible particles – including the motion of the particles, and the spacing between particles.",
+      "scientificIdeas": [
+        "Matter is conserved even in transitions where it seems to vanish, such as a liquid becoming a gas.",
+        "All matter is made of particles and nothing more.",
+        "Atoms and molecules in all states are almost always moving, even when the larger object made of these atoms does not appear to be moving.",
+        "Generally, when the particles in a sample of matter are heated, the space between the particles increases.",
+        "Atoms/molecules in a gas are so far apart that they rarely collide. In solids and liquids, the particles are much closer together.",
+        "Particles in a sample are held in proximity to each other by attractions between the particles.",
+        "The same forces that hold together the particles in a solid also prevent the solid from being further compressed.",
+        "When a substance is heated, the average speed of the particles increases. As the substance cools, the average speed of the particles decreases.",
+        "Phase changes caused by heating/cooling do not transform a substance into a new substance.",
+        "Temperature is a measure of the average speed of the particles in a sample of matter.",
+        "Transitions between solids, liquids, and gases are a result of the interactions between individual particles and the motion of those particles. For example, the particles in a liquid are held in proximity to each other by attractive forces until the motion of the particles increases to the point where the forces are no longer strong enough to hold the liquid together.",
+        "The temperature of a system appears relatively constant during a phase change – regardless of the amount of time heating or the rate of heating.",
+        "Gases exert pressure on a container or surface when they collide with the walls of a container.",
+        "Pressure is a result of the number of particles in an area/container, the average motion of those particles, and the size of the space/container.",
+        "It is possible to compress a gas. This decreases the space between the particles and increases the pressure the particles exert on the walls of their container.",
+        "A gas may transition to a liquid or solid as the space between the particles decreases, which can be caused by changes in temperature and/or pressure.",
+        "The relative change in spacing between particles transitioning from solid to liquid is much less than the relative change in spacing between particles transition from liquid to gas.",
+        "It is not possible to manipulate the pressure in a closed system directly. Pressure changes as a result of changes to temperature, number of particles, or the volume of a container.",
+        "Phase transitions in a sample of matter occur at certain temperatures, but variations in pressure can raise or lower these temperature points."
+      ],
+      "studentIdeas": [
+        "Solids and/or liquids are a continuous substance, rather than made of individual particles.",
+        "Pressure describes how hard particles crash into each other.",
+        "Air does not take up space.",
+        "Liquids can be compressed into a smaller volume.",
+        "The pressure of a gas can be directly manipulated.",
+        "Bubbles that form in a boiling liquid are oxygen, carbon dioxide, etc. that were trapped in the liquid.",
+        "When the particles in a gas cool, they become a continuous fluid as a liquid.",
+        "In the atmosphere, condensation causes cold hydrogen and oxygen to turn into water in the air.",
+        "Boiling causes a liquid to turn into different gases – water to turn into hydrogen and oxygen gases.",
+        "Randomness applies to the direction of the motion of particles, but all particles travel at the same speed."
+      ]
+    }
   ],
-
-
-
-
-
-
-
 
   "metadata": { "version": "2025-09-19", "source": "TN Science IFDs - 10/25 release" }
 }
-
-
