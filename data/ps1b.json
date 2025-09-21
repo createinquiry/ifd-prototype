@@ -1,1 +1,144 @@
+{
+  "componentIdea": { "code": "PS1.B", "title": "Chemical Reactions" },
+  "discipline": "PS",
 
+  "chapterOverview": {
+    "guidingQuestion": "How do substances combine or change (react) to make new substances? How does one characterize and explain these reactions and make predictions about them?",
+    "purpose": "This component idea explores the ways that matter changes during chemical reactions.",
+    "centralIdeas": "Chemical reactions begin with a set of atoms from one or more substances and rearrange this set of atoms to form new substances. Changes to the physical properties of a substance are evidence that a chemical reaction has occurred."
+  },
+
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Heating or cooling a substance may cause changes that can be observed. Sometimes these changes are reversible (e.g., melting and freezing), and sometimes they are not (e.g., baking a cake, burning fuel). – NRC, 2012",
+      "progression": "In this component idea, students will learn different ways to describe changes to matter. Students will also learn to identify the things that cause the changes they observe. In the earliest grades, students should observe simple changes in familiar objects and substances. Students should see the pattern that changes occur when something is heated or cooled, but that the changes are never spontaneous.\n\nStudents should uncover that the changes that they observe can also be classified. In some cases, heating or cooling a substance changes the substance, but the changes can be undone using the opposite treatment. For example, heating butter may cause the butter to soften or become a liquid, but cooling the substance returns the original properties. Students may need support to see that the shape of the butter may have changed, but many of its other properties have not changed and that is why the change is considered reversible.\n\nThere are also changes that are not reversible. When the ingredients of a cake are mixed and heated, the result is something entirely new. If the baking of a cake were reversible, we would expect that a cake would turn back into batter once it cools. Instead, the cooled cake is something different than the cake before it was warmed.\n\nWhether the changes are reversible or not, students can compare properties before and after heating and cooling to determine whether a change in the substance occurred. For example, students can produce evidence that the cooled cake is different by comparing the properties of the cooled cake to the properties of the batter used to make the cake.\n\nIn later grades, students will understand that increasing the temperature of a mixture of substances can initiate changes that cause the mixture to become something entirely new with different properties.\n\nRevised (2025 Implementation): No Standard"
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. When two or more different substances are mixed, a new substance with different properties may be formed; such occurrences depend on the substances and the temperature. No matter what reaction or change in properties occurs, the total weight of the substances does not change. (Boundary: Mass and weight are not distinguished at this grade level.) – NRC, 2012",
+      "progression": "The early part of this progression introduces students to the way that materials can change. The earliest examples of changes are those caused by heating and cooling. Students then look at changes that occur when different materials are mixed. As they learn about characteristic properties of matter in PS1.A, students apply this understanding to describe the types of changes they observe.\n\nStudents may not yet know the term \"conservation of mass,\" but they have explored the concept using snap blocks. In grades K-2, for instance, they build objects with blocks, take them apart, and then reassemble the blocks into similar or different arrangements, observing that the total weight remains unchanged in any arrangement as long as the number of blocks remains unchanged. By late elementary school, they can extend these observations with their new understanding that gases are made of small particles and that visible matter is a collection of these particles. When a system’s mass appears to change, students learn that this can be explained by the production and release of gases.\n\nRevised (2025 Implementation): 3.PS1.2, 5.PS1.3"
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Substances react chemically in characteristic ways. In a chemical process, the atoms that make up the original substances are regrouped into different molecules, and these new substances have different properties from those of the reactants. The total number of each type of atom is conserved, and thus the mass does not change. Some chemical reactions release energy, others store energy. – NRC, 2012",
+      "progression": "Elementary school students observe changes to materials and they observe that the causes of these changes can be heating or cooling, by mixing two different substances, or by a combination of these factors.\n\nComponent idea PS1.A explains that there is a limited set of elements in the universe and that these elements combine in certain proportions to make different compounds. Historically, observations that substances combine with consistent mass ratios leads to atomic theory of matter which uses chemical formulas to express these ratios.\n\nStudents now learn that the substances formed of combinations of atoms will react in predictable ways. There is consistency in the way that two substances interact. For example, baking soda and vinegar will always produce bubbles when they are mixed but will never undergo a color change. It is also possible to use properties to conclude that the gas produced in this reaction is always the same gas – e.g., forms a precipitate when bubbled through lime water, is denser than air, and is non-flammable.\n\nElements in a chemical reaction will react in consistent ratios and these ratios are written as a chemical reaction. The ratios of each different type of atom in a chemical reaction will not change before or after a chemical reaction.\n\nIn all reactions, we observe that the mass of the starting materials will be the same as the mass of the resulting materials. This means that a chemical reaction is merely a rearrangement of atoms – chemical reactions do not create or destroy matter.\n\nRearrangements of atoms also affect energy flow between a reaction and the surroundings. When two atoms combine to form a compound, the process releases energy. For example, burning magnesium ribbon (Mg) produces a bright flash as the magnesium reacts with oxygen in the air to make magnesium oxide (MgO). The reverse – breaking MgO back into Mg and O2 – requires a large (and practically prohibitive) input of energy to break apart the magnesium oxide. Evidence for the chemical reaction includes the energy change but also changes in the mass of the ribbon compared to the mass of the resulting powder, and the different characteristic properties of the ribbon compared to the resulting powder.\n\nMost real-world reactions don’t start from pure elements. They begin with one set of compounds and yield another. At some point, there was an initial release of energy that formed the starting materials for a reaction. Therefore, energy must be added to the starting materials to liberate those atoms in the reactants. The formation of a new set of products from the liberated atoms of the starting materials releases energy. A reaction either releases energy to the surrounding or absorbs energy from the surroundings depending on the relative amounts of energy required to break apart the reactants, compared to the energy released when the new product forms.\n\nThe energy released during the breakdown of sugars into products with lesser amounts of stored energy maintains the body temperature of warm-blooded organisms.\n\nRevised (2025 Implementation): 7.PS1.2, 7.PS1.4"
+    },
+    "Biology": { "nrcQuote": "", "progression": "" }
+  },
+
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "causes", "label": "What causes the changes?" },
+      { "key": "systemChange", "label": "How does the system change?" }
+    ],
+    "table": [
+      { "gradeBand": "K-2", "causes": "Heating and cooling cause changes.", "systemChange": "Observable changes that are either reversible or irreversible." },
+      { "gradeBand": "3-5", "causes": "Mixing different substances can cause changes. Temperature plays a role in whether changes occur.", "systemChange": "The characteristic properties of a substance. No changes to mass/weight." },
+      { "gradeBand": "6-8", "causes": "The rearrangement of atoms into different groups causes changes.", "systemChange": "Changes to stored energy and changes to properties of substance. No changes to identities of atoms and therefore mass." },
+      { "gradeBand": "9-12", "causes": "Collisions between particles that result in rearrangement of atoms in particles.", "systemChange": "Bond energy changes correspond with the changes to kinetic energy of particles." }
+    ],
+    "narrative": "Students begin these progressions by observing that matter can change in different ways because of heating or cooling. Some changes can be reversed, while others appear permanent. When students learn that changes to matter can be described in terms of specific properties of the substance, their descriptions of change become more precise. In middle school, students learn that rearrangements of specific types of atoms at atomic scales cause the observable changes and changes to the properties of a substance. Rearranging atoms also leads to changes in the amounts and types of energy in a system. Middle school students observe these changes as temperature changes, but by high school, students learn that energy changes during reactions involve transfers between energy associated with bonds within the substances and energy associated with the motion of the particles in the substance. Throughout this progression, students explore that mass and matter are conserved during the reactions, even when the system releases energy to its surroundings."
+  },
+
+  "standards": [
+    {
+      "grade": "3",
+      "discipline": "PS",
+      "code": "3.PS1.2",
+      "statement": "Construct an explanation about the effects of heating and cooling a substance differentiating between changes that can be reversed (i.e., freezing & melting) and those that cannot (e.g., baking a cake or burning fuel).",
+      "bigIdea": "Matter can change. Heating or cooling are two things that can cause changes to matter.\n\nNote: The standard focuses on changes caused by heating and cooling, but not changes caused by mechanical means such as breaking.",
+      "scientificIdeas": [
+        "Matter is all the \"stuff\" on Earth and in space.",
+        "Solids, liquids, and gases are all ways of describing patterns in the behavior of matter. Each of these phases has observable properties. (For example, solids maintain their shape, even against gravity or other forces that may act on them.)",
+        "All matter is made of tiny, invisible particles. The motion and arrangement of these smaller particles will cause materials to behave as solids, liquids, and gases.",
+        "Substances can undergo different types of changes such as mixing, changing state, dissolving, or being cut or broken into smaller pieces.",
+        "Heating or cooling a substance causes the motion and/or arrangement of the particles to change. During these changes, matter that typically behaves as a solid may become misshapen or matter that behaves as a liquid may exhibit properties of a solid such as maintaining its shape.",
+        "Changes are reversible when only the motion and/or position of the particle changes.",
+        "The production of light, heat, smoke, color change, or producing an odor is typical evidence that indicates when a change is irreversible.",
+        "Some substances may need to be heated or cooled by different amounts to cause changes.",
+        "Chemical changes are changes that lead to new materials with a different set of characteristic properties than the starting materials. Physical changes do not change the characteristic properties of the materials.",
+        "Reversible changes indicate that only physical changes to a substance have occurred, while irreversible changes indicate that chemical changes have also occurred."
+      ],
+      "studentIdeas": [
+        "Once a solid has turned into a liquid, it cannot become a solid again.",
+        "Irreversible changes will always produce obvious signs of change.",
+        "If a change involves only one thing (e.g., an ice cube, an egg, etc.) then the change will be reversible because things were not mixed."
+      ]
+    },
+
+    {
+      "grade": "5",
+      "discipline": "PS",
+      "code": "5.PS1.3",
+      "statement": "Construct an argument using the physical properties of matter that combining substances may or may not result in a new substance.",
+      "bigIdea": "Mixing chemicals can cause changes to the characteristic properties of a substance. (Boundary: students are not expected to use the characteristic properties to identify unknown substances.)\n\nNote: It is acceptable to represent carbon dioxide, or other compounds, as a single particle. Students are not expected to understand that carbon dioxide is a group of one carbon atom and two oxygen atoms, since they do not learn about specific elements until middle school.",
+      "scientificIdeas": [
+        "All substances can be described by a unique set of characteristic properties that do not change regardless of the time, location, size, shape, or amount of the substance.",
+        "Any two samples with the same set of characteristic properties are the same substance.",
+        "A pure sample of any substance will have only one set of characteristic properties.",
+        "When two samples are mixed, it is possible for a new substance to form within the mixture.",
+        "A new set of physical properties is evidence of the formation of a new substance.",
+        "The mixing of two substances does not always lead to the formation of a new substance.",
+        "Changes to properties may occur when the mixing occurs at a higher temperature even when there are not observable changes at a lower temperature.",
+        "Bubbles of gas are not empty space. They are filled with particles of a substance that has exceeded its boiling point.",
+        "Mixing can involve different phases of matter (e.g., solids can be mixed with liquids) or substances that are the same phase (e.g., two different liquids can be mixed).",
+        "Different factors, such as temperature, can influence what happens when two substances are mixed."
+      ],
+      "studentIdeas": [
+        "Mixing two samples will always produce a new substance.",
+        "A change to any property is evidence that a new substance has formed (e.g., mixing two colors of playdough changes the color, but does not produce a new substance).",
+        "Reversible changes are always easy to undo (e.g., unmixing paint colors can be done, but not easily).",
+        "If a substance involves combining two things into one, then it cannot be reversed (e.g., adding salt to water)."
+      ]
+    },
+
+    {
+      "grade": "7",
+      "discipline": "PS",
+      "code": "7.PS1.2",
+      "statement": "Collect and analyze data about the physical properties of the components of a mixture to use as evidence that the identities of the components change during a chemical reaction.",
+      "bigIdea": "Many substances react chemically with other substances to form new substances with different characteristic properties.",
+      "scientificIdeas": [
+        "In a pure sample of any substance, there are properties that are considered characteristic properties because they do not change regardless of the time, location, size, shape, or amount of the substance.",
+        "If two samples have identical characteristic properties, then they are the same substance.",
+        "If there is even one difference in the characteristics of two substances, then they are different substances.",
+        "Characteristic properties for a substance result from the type, number, and arrangement of the atoms in molecules of a substance. Two substances can have the same type and number of atoms, but if they are arranged differently, then the two substances will have different characteristic properties.",
+        "When substances react chemically, one or more new substances are formed.",
+        "If a new substance does not appear, then a chemical reaction did not occur.",
+        "The products of a chemical reaction can be identified as new substances because each product has characteristic properties different from the original substances under the same conditions.",
+        "Characteristic properties are the same throughout a sample."
+      ],
+      "studentIdeas": [
+        "Chemical reactions/chemical changes cannot be reversed.",
+        "Dissolving is a chemical reaction.",
+        "Any sort of visible change to the substances indicates a chemical reaction.",
+        "Chemical reactions create new types of atoms, rather than rearrangements of the atoms that were present before the reaction."
+      ]
+    },
+
+    {
+      "grade": "7",
+      "discipline": "PS",
+      "code": "7.PS1.4",
+      "statement": "Use computational thinking to demonstrate that all atoms in the reactants are present in the products of a chemical reaction supporting the Law of Conservation of Mass.",
+      "bigIdea": "No amount of matter goes away during chemical reactions.",
+      "scientificIdeas": [
+        "Chemical reactions involve at least two different types of atoms. During a chemical reaction atoms become grouped in new ways.",
+        "The mass of an atom does not change. (Boundary: Discussions of isotopes exceed the intent of this standard.)",
+        "The new substances that form during a chemical reaction are made of the same kinds of atoms as the original substances.",
+        "Atoms do not change into a different type of atom during a chemical reaction.",
+        "The total number of each different type of atom will not change after a reaction occurs.",
+        "When substances mix, undergo chemical reactions, change state, or dissolve, or when objects are cut or broken into smaller pieces, the total mass of all the matter will remain the same.",
+        "If it appears that the mass has changed, it is because there is some material that has not been accounted for (e.g., some sugar spilled onto the counter while it was being poured; gas escaped from the sample)."
+      ],
+      "studentIdeas": [
+        "If a solid forms during a reaction, then the mass will be greater (i.e., a precipitation reaction).",
+        "In a chemical reaction, one atom turns into a different type of atom.",
+        "If a solid dissolves in a liquid, then the mass will decrease.",
+        "When a chemical reaction occurs, such as the burning of gasoline, then the matter just disappears.",
+        "In a chemical reaction, one type of atom transforms into a different type of atom."
+      ]
+    }
+  ],
+
+  "metadata": { "version": "2025-09-20", "source": "TN Science IFDs - 10/25 release" }
+}
