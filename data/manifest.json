@@ -5,6 +5,13 @@
       "discipline": "PS",
       "componentIdea": "PS1.A",
       "path": "data/ps1a.json"
+    },
+        {
+      "id": "ps1b",
+      "discipline": "PS",
+      "componentIdea": "PS1.B",
+      "path": "data/ps1b.json"
     }
   ]
 }
+
