@@ -17,8 +17,15 @@
       "discipline": "PS",
       "componentIdea": "PS1.C",
       "path": "data/ps1c.json"
+    },
+                {
+      "id": "ps2a",
+      "discipline": "PS",
+      "componentIdea": "PS2.A",
+      "path": "data/ps2a.json"
     }
   ]
 }
+
 
 
