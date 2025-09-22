@@ -6,12 +6,11 @@ const DATA_CACHE  = 'ifd-data-v1';
 
 // Precache the app shell (add/remove to fit your project)
 const SHELL_ASSETS = [
-  '/',                 // if your site serves index at root
-  '/index.html',
-  '/offline.html',
-  '/icons/icon192.png',
-  '/icons/icon512.png',
-  '/icons/favicon.png'
+  'index.html',
+  'offline.html',
+  'icons/icon192.png',
+  'icons/icon512.png',
+  'icons/favicon.png'
 ];
 
 // ----- Install: cache the shell -----
@@ -47,11 +46,11 @@ self.addEventListener('fetch', (event) => {
       try {
         const fresh = await fetch(req);
         const cache = await caches.open(SHELL_CACHE);
-        cache.put('/index.html', fresh.clone()); // keep shell fresh
+        cache.put('index.html', fresh.clone()); // keep shell fresh
         return fresh;
       } catch {
         // If offline, try cached shell, else offline page
-        return (await caches.match('/index.html')) || (await caches.match('/offline.html'));
+        return (await caches.match('index.html')) || (await caches.match('offline.html'));
       }
     })());
     return;
@@ -90,7 +89,7 @@ async function staleWhileRevalidate(request, cacheName) {
 
   // Return cached response immediately if present, else wait for network
   const cached = await cache.match(request);
-  return cached || networkPromise || caches.match('/offline.html');
+  return cached || networkPromise || caches.match('offline.html');
 }
 
 // (Optional) Listen for a manual refresh message from the page
