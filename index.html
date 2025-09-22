@@ -531,7 +531,7 @@ if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
     try {
       // Avoid noisy errors during setup by checking existence first
-      const res = await fetch('/sw.js', { method: 'HEAD' });
+      const res = await fetch('sw.js', { method: 'HEAD' });
       if (res.ok) {
         await navigator.serviceWorker.register('sw.js');
       }
@@ -545,6 +545,7 @@ if ('serviceWorker' in navigator) {
   
 </body>
 </html>
+
 
 
 
