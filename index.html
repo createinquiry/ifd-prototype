@@ -2,19 +2,19 @@
 <html lang="en">
 <head>
   <!-- PWA manifest -->
-<link rel="manifest" href="/manifest.webmanifest">
+<link rel="manifest" href="manifest.webmanifest">
 
 <!-- PWA Theme color (tints browser/OS UI like the title/status bar) -->
 <meta name="theme-color" content="#1665D8">
 
 <!-- iOS: use your solid-background Apple touch icon (no transparency) -->
-<link rel="apple-touch-icon" sizes="180x180" href="/icons/at-icon-180.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/at-icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="IFD Navigator">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
 <!-- Favicon for browser tabs and bookmarks -->
-<link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon.png">
   
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -533,7 +533,7 @@ if ('serviceWorker' in navigator) {
       // Avoid noisy errors during setup by checking existence first
       const res = await fetch('/sw.js', { method: 'HEAD' });
       if (res.ok) {
-        await navigator.serviceWorker.register('/sw.js');
+        await navigator.serviceWorker.register('sw.js');
       }
     } catch (_) {
       // sw.js not present yet or offline — safe to ignore during development
@@ -545,6 +545,7 @@ if ('serviceWorker' in navigator) {
   
 </body>
 </html>
+
 
 
 
