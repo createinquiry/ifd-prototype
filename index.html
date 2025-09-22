@@ -1,9 +1,25 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <!-- PWA manifest -->
+<link rel="manifest" href="/manifest.webmanifest">
+
+<!-- PWA Theme color (tints browser/OS UI like the title/status bar) -->
+<meta name="theme-color" content="#1665D8">
+
+<!-- iOS: use your solid-background Apple touch icon (no transparency) -->
+<link rel="apple-touch-icon" sizes="180x180" href="/icons/at-icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="IFD Navigator">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+<!-- Favicon fallback (optional for now; uses your 192 until you add a 32x32) -->
+<link rel="icon" type="image/png" sizes="192x192" href="/icons/favicon.png">
+  
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>IFD Navigator Prototype</title>
+ 
   <style>
     :root{
       --bg:#fafafa;
@@ -508,8 +524,28 @@ window.addEventListener('keydown', (e) => {
       updateDisciplineMode();
     });
   </script>
+
+  <!-- PWA serviceworker details  -->  
+  <script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', async () => {
+    try {
+      // Avoid noisy errors during setup by checking existence first
+      const res = await fetch('/sw.js', { method: 'HEAD' });
+      if (res.ok) {
+        await navigator.serviceWorker.register('/sw.js');
+      }
+    } catch (_) {
+      // sw.js not present yet or offline — safe to ignore during development
+    }
+  });
+}
+</script>
+
+  
 </body>
 </html>
+
 
 
 
