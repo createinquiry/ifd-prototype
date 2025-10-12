@@ -88,6 +88,7 @@
       visibility: hidden;
       pointer-events: none;
       overflow: auto; /* permits scroll inside shade */
+      cursor: pointer; /* <— make it obvious it's tappable to close */
     }
     .shade.open{
       visibility: visible;
@@ -495,13 +496,11 @@
       btn.addEventListener('click', () => openShade(btn.dataset.shade));
     });
 
-    // Close when clicking anywhere on the shade (after arming), but ignore clicks inside the panel
+    // Close when tapping/clicking anywhere on the shade (after arming)
     Object.values(shades).forEach(el => {
-      el.addEventListener('click', (e) => {
-        if (!shadeArmed) return;
-        if (e.target.closest('.panel')) return;
-        closeShade();
-      });
+      const onCloseAttempt = () => { if (shadeArmed) closeShade(); };
+      el.addEventListener('click', onCloseAttempt, { passive: true });
+      el.addEventListener('touchstart', onCloseAttempt, { passive: true });
     });
 
     // Also close on Escape key
