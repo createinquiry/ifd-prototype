@@ -2,19 +2,19 @@
 <html lang="en">
 <head>
   <!-- PWA manifest -->
-<link rel="manifest" href="manifest.webmanifest">
+  <link rel="manifest" href="manifest.webmanifest">
 
-<!-- PWA Theme color (tints browser/OS UI like the title/status bar) -->
-<meta name="theme-color" content="#1665D8">
+  <!-- PWA Theme color (tints browser/OS UI like the title/status bar) -->
+  <meta name="theme-color" content="#1665D8">
 
-<!-- iOS: use your solid-background Apple touch icon (no transparency) -->
-<link rel="apple-touch-icon" sizes="180x180" href="icons/at-icon-180.png">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="IFD Navigator">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <!-- iOS: use your solid-background Apple touch icon (no transparency) -->
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/at-icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="IFD Navigator">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
-<!-- Favicon for browser tabs and bookmarks -->
-<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon.png">
+  <!-- Favicon for browser tabs and bookmarks -->
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon.png">
   
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -29,7 +29,8 @@
       --line:#e5e7eb;
       --accent:#f0eac2;
       --brand:#0f766e;
-      --topbar-h: 60px; /*may need to be adjusted to accommodate larger topbar if contents are clipped vertically*/
+      /* Fallback; JS measures real header and overwrites this */
+      --topbar-h: 60px;
     }
     *{box-sizing:border-box}
     html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
@@ -37,15 +38,16 @@
     header.topbar{
       position:sticky; top:0; z-index:50;
       background:#fff; border-bottom:1px solid var(--line);
+      margin:0;
     }
     .wrap{max-width:1100px; margin:0 auto; padding:0 16px}
     .row{display:flex; gap:8px; align-items:center; flex-wrap:wrap; padding:10px 0}
     .home-link{display:flex; align-items:center; gap:6px; padding:6px 10px; border-radius:10px; border:1px solid var(--line); background:#fff}
     .home-link:hover{background:#f9fafb}
     .top-controls{display:flex; gap:8px; flex-wrap:wrap; align-items:center}
-select {
-  padding: 6px 10px; border: 1px solid var(--line); border-radius: 10px; background: #fff; min-width: 160px;
-}
+    select {
+      padding:6px 10px; border:1px solid var(--line); border-radius:10px; background:#fff; min-width:160px;
+    }
     nav.tabs{display:flex; gap:8px; padding:8px 0; border-bottom:1px solid var(--line)}
     nav.tabs[hidden]{display:none !important}
     .tab{
@@ -64,44 +66,50 @@ select {
     .section{margin-top:16px}
     .section h2{font-size:1.1rem; margin:0 0 .25rem 0}
     ul{margin:.25rem 0 .5rem 1rem}
+
     /* Home tiles */
     .tiles{display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:12px; margin-top:12px}
     .tile{background:#fff; border:1px solid var(--line); border-radius:14px; padding:16px}
     .tile h3{margin:.2rem 0 .4rem}
-    /* Roller shades */
-    .shade{
-      position:fixed; inset: var(--topbar-h) 0 0 0;  /* below sticky yeader */
-      height: calc(100vh  - var(--topbar-h));
-      background:rgba(255,255,255,.98);
-      border-top: 1px solid var(--line);
-      transform:translateY(-100%);
-      transition:transform .28s ease;
-      z-index:40;
 
-      /* prevents shades from being visible unless clicked */
+    /* Roller shades – mobile safe (dynamic header, safe-area, dvh) */
+    .shade{
+      position: fixed;
+      top: calc(var(--topbar-h) + env(safe-area-inset-top));
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: calc(100dvh - var(--topbar-h) - env(safe-area-inset-top));
+      background: rgba(255,255,255,.98);
+      border-top: 1px solid var(--line);
+      transform: translateY(-100%);
+      transition: transform .28s ease;
+      z-index: 40;
       visibility: hidden;
       pointer-events: none;
-      overflow: auto; /*permits scroll inside shade */
+      overflow: auto; /* permits scroll inside shade */
     }
     .shade.open{
       visibility: visible;
       pointer-events: auto;
       transform: translateY(0);
-               }
-    
+    }
     .shade .inner{max-width:1100px; margin:0 auto; padding:14px 16px}
     .shade .panel{background:#fff; border:1px solid var(--line); border-radius:14px; padding:16px}
     .hint{color:var(--muted); font-size:.9rem; margin:.1rem 0 .6rem}
+
     /* Mode switching */
     body.mode-standard #home{display:none !important;}
     body:not(.mode-standard) #standard-window{display:none !important;}
     body:not(.mode-standard) .tabs{display:none !important;}
+
     /* Biology band visibility: hidden by default unless Discipline = LS */
     .bio-only{ display:none; }
     body.discipline-ls .bio-only{ display:block; }
+
     /* Small screens */
     @media (max-width:640px){
-      input[type="search"]{min-width:160px}
+      select{min-width:140px}
     }
   </style>
 </head>
@@ -109,7 +117,9 @@ select {
   <header class="topbar">
     <div class="wrap">
       <div class="row">
-        <a href="#" class="home-link" aria-label="Go to homepage"><img src="icons/custom-home.png" alt="Home" style="width:24px; height:24px;"> Home</a>
+        <a href="#" class="home-link" aria-label="Go to homepage">
+          <img src="icons/custom-home.png" alt="Home" style="width:24px; height:24px;"> Home
+        </a>
         <div class="top-controls">
           <label class="sr-only" for="grade">Grade</label>
           <select id="grade" aria-label="Grade">
@@ -133,7 +143,6 @@ select {
           <select id="standard" aria-label="Standard">
             <option value="">Standard…</option>
           </select>
-
         </div>
       </div>
 
@@ -301,7 +310,7 @@ select {
       discSel.value = '';
       stdSel.innerHTML = '<option value="">Standard...</option>';
 
-      //Reset the Content Panels
+      // Reset Content Panels
       home.hidden = false;
       stdWin.hidden = true;
       tabsNav.hidden = true;
@@ -309,14 +318,13 @@ select {
       closeShade();
     }
     function showHomeSoft(){
-  // Show the home view WITHOUT clearing any dropdowns
-  home.hidden = false;
-  stdWin.hidden = true;
-  tabsNav.hidden = true;
-  document.body.classList.remove('mode-standard');
-  closeShade();
-}
-
+      // Show the home view WITHOUT clearing any dropdowns
+      home.hidden = false;
+      stdWin.hidden = true;
+      tabsNav.hidden = true;
+      document.body.classList.remove('mode-standard');
+      closeShade();
+    }
     function showStandard(){
       home.hidden = true;
       stdWin.hidden = false;
@@ -345,20 +353,16 @@ select {
         });
       });
 
-// Returns flat list of standards without component ideas
-matches.forEach(s => {
-  const opt = document.createElement('option');
-  opt.value = s.code;
-  opt.textContent = s.code;
-  stdSel.appendChild(opt);
-});
+      // Flat list of standards (codes only)
+      matches.forEach(s => {
+        const opt = document.createElement('option');
+        opt.value = s.code;
+        opt.textContent = s.code;
+        stdSel.appendChild(opt);
+      });
 
-  // soft "home" reset – just show the home view, don’t clear dropdowns
-  home.hidden = false;
-  stdWin.hidden = true;
-  tabsNav.hidden = true;
-  document.body.classList.remove('mode-standard');
-  closeShade();
+      // Soft home view (don’t clear dropdowns)
+      showHomeSoft();
     }
 
     // ---------- Shade rendering ----------
@@ -451,79 +455,86 @@ matches.forEach(s => {
       showStandard();
     }
 
-// ---------- Roller shades ----------
-const tabs = document.querySelectorAll('.tab');
-const shades = {
-  intro: document.getElementById('shade-intro'),
-  progression: document.getElementById('shade-progression'),
-  overview: document.getElementById('shade-overview')
-};
+    // ---------- Roller shades ----------
+    const tabs = document.querySelectorAll('.tab');
+    const shades = {
+      intro: document.getElementById('shade-intro'),
+      progression: document.getElementById('shade-progression'),
+      overview: document.getElementById('shade-overview')
+    };
 
-let shadeArmed = false;
+    let shadeArmed = false;
 
-function openShade(name){
-  // close all
-  Object.values(shades).forEach(el=>{
-    el.classList.remove('open');
-    el.setAttribute('aria-hidden','true');
-  });
+    function openShade(name){
+      // close all
+      Object.values(shades).forEach(el=>{
+        el.classList.remove('open');
+        el.setAttribute('aria-hidden','true');
+      });
 
-  document.body.classList.add('shade-open');
-  const el = shades[name];
-  el.classList.add('open');
-  el.setAttribute('aria-hidden','false');
+      document.body.classList.add('shade-open');
+      const el = shades[name];
+      el.classList.add('open');
+      el.setAttribute('aria-hidden','false');
 
-  // arm after a short delay so the same click doesn’t close immediately
-  shadeArmed = false;
-  setTimeout(()=>{ shadeArmed = true; }, 180);
-}
+      // arm after a short delay so the same click doesn’t close immediately
+      shadeArmed = false;
+      setTimeout(()=>{ shadeArmed = true; }, 180);
+    }
 
-function closeShade(){
-  document.body.classList.remove('shade-open');
-  Object.values(shades).forEach(el=>{
-    el.classList.remove('open');
-    el.setAttribute('aria-hidden','true');
-  });
-}
+    function closeShade(){
+      document.body.classList.remove('shade-open');
+      Object.values(shades).forEach(el=>{
+        el.classList.remove('open');
+        el.setAttribute('aria-hidden','true');
+      });
+    }
 
-// Open on tab click
-tabs.forEach(btn => {
-  btn.addEventListener('click', () => openShade(btn.dataset.shade));
-});
+    // Open on tab click
+    tabs.forEach(btn => {
+      btn.addEventListener('click', () => openShade(btn.dataset.shade));
+    });
 
-// Close when clicking anywhere on the shade (after arming)
-Object.values(shades).forEach(el => {
-  el.addEventListener('click', () => {
-    if (!shadeArmed) return;  // ignore the initial opening click
-    closeShade();
-  });
-});
+    // Close when clicking anywhere on the shade (after arming), but ignore clicks inside the panel
+    Object.values(shades).forEach(el => {
+      el.addEventListener('click', (e) => {
+        if (!shadeArmed) return;
+        if (e.target.closest('.panel')) return;
+        closeShade();
+      });
+    });
 
-// Also close on Escape key
-window.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') closeShade();
-});
+    // Also close on Escape key
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeShade();
+    });
 
+    // ---------- Dynamic topbar height (prevents mobile clipping) ----------
+    function setTopbarHeight(){
+      const header = document.querySelector('header.topbar');
+      if (!header) return;
+      const h = header.getBoundingClientRect().height;
+      document.documentElement.style.setProperty('--topbar-h', `${Math.ceil(h)}px`);
+    }
+    window.addEventListener('load', setTopbarHeight);
+    window.addEventListener('resize', setTopbarHeight);
+    window.addEventListener('orientationchange', setTopbarHeight);
+    const _header = document.querySelector('header.topbar');
+    if (_header && 'ResizeObserver' in window){
+      const ro = new ResizeObserver(()=> setTopbarHeight());
+      ro.observe(_header);
+    }
 
     // ---------- Events ----------
     gradeSel.addEventListener('change', populateStandards);
     discSel.addEventListener('change', ()=>{ updateDisciplineMode(); populateStandards(); });
     stdSel.addEventListener('change', renderSelectedStandard);
     document.querySelector('.home-link').addEventListener('click', e=>{ e.preventDefault(); showHome(); });
-    tabs.forEach(btn=> btn.addEventListener('click', ()=> openShade(btn.dataset.shade)));
-    Object.values(shades).forEach(el=>{
-      el.addEventListener('click', (e)=>{
-        // If the user clicked inside the content panel, don't close
-      if (e.target.closest('.panel')) return;
-      closeShade();
-      });
-      });
-    window.addEventListener('keydown', (e)=>{ if (e.key==='Escape') closeShade(); });
-
 
     // ---------- Init ----------
     document.addEventListener('DOMContentLoaded', ()=>{
       console.log('IFD prototype loaded');
+      setTopbarHeight(); // measure immediately
       showHome();
       updateDisciplineMode();
     });
@@ -531,43 +542,18 @@ window.addEventListener('keydown', (e) => {
 
   <!-- PWA serviceworker details  -->  
   <script>
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', async () => {
-    try {
-      // Avoid noisy errors during setup by checking existence first
-      const res = await fetch('sw.js', { method: 'HEAD' });
-      if (res.ok) {
-        await navigator.serviceWorker.register('sw.js');
-      }
-    } catch (_) {
-      // sw.js not present yet or offline — safe to ignore during development
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', async () => {
+        try {
+          const res = await fetch('sw.js', { method: 'HEAD' });
+          if (res.ok) {
+            await navigator.serviceWorker.register('sw.js');
+          }
+        } catch (_) {
+          // sw.js not present yet or offline — safe to ignore during development
+        }
+      });
     }
-  });
-}
-</script>
-
-  
+  </script>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
