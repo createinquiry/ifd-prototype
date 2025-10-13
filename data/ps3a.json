@@ -1,0 +1,150 @@
+{
+  "componentIdea": { "code": "PS3.A", "title": "Definitions of Energy" },
+  "discipline": "PS",
+
+  "chapterOverview": {
+    "guidingQuestion": "What is energy?",
+    "purpose": "Clarify what energy is by connecting observable forms—motion, stored potential, thermal, radiant, etc.—to the systems where students see them, preparing students to understand that total energy in a closed system is conserved as it shifts among forms.",
+    "centralIdeas": "Energy is not a tangible substance but a conceptual tool for describing system changes. Different forms of energy are associated with motion and with how a system is arranged. Energy can transfer between a system and its surroundings and can transform among forms within a system without being created or destroyed."
+  },
+
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2: [Intentionally left blank] – NRC, 2012",
+      "progression": "Because energy is abstract rather than directly observable, there are no PS3.A endpoints in K–2. Relevant preparation comes from other ideas, especially observing and describing motion (PS2.A)."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. The faster a given object is moving, the more energy it possesses. Energy can be moved from place to place by moving objects or through sound, light, or electric currents. (Boundary: At this grade level, no attempt is made to give a precise or complete definition of energy.) – NRC, 2012",
+      "progression": "Introduce energy as a familiar property present when things move or when sound, light, or electric currents are involved. Use experiences (rolling cars, tuning forks, hand-crank flashlights) to anchor the idea. Help students notice patterns (faster often means more motion energy; louder often signals more vibration energy). Use bar/arrow models to track how energy changes in a system without formal conservation math. Emphasize that energy is not a 'stuff' inside objects but a way to account for change."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Motion energy is properly called kinetic energy; it is proportional to the mass of the moving object and grows with the square of its speed. A system of objects may also contain stored (potential) energy, depending on their relative positions. For example, energy is stored—in gravitational interaction with Earth—when an object is raised, and energy is released when the object falls or is lowered. Energy is also stored in the electric fields between charged particles and the magnetic fields between magnets, and it changes when these objects are moved relative to one another. Stored energy is decreased in some chemical reactions and increased in others.\n\nThe term “heat” as used in everyday language refers both to thermal energy (the motion of atoms or molecules within a substance) and energy transfers by convection, conduction, and radiation (particularly infrared and light). In science, heat is used only for this second meaning; it refers to energy transferred when two objects or systems are at different temperatures. Temperature is a measure of the average kinetic energy of particles of matter. The relationship between the temperature and the total energy of a system depends on the types, states, and amounts of matter present. – NRC, 2012",
+      "progression": "Differentiate kinetic (motion) and potential (stored) energy and connect potential energy to position/arrangement (elastic, gravitational, electric, magnetic, chemical). Focus instruction on qualitative 'energy bookkeeping' (bar/pie charts) within defined systems to trace transfers and transformations and to build toward conservation thinking without heavy computation."
+    },
+    "9-12": {
+      "nrcQuote": "",
+      "progression": "In high school, students treat energy as a single conserved quantity. Microscopically, energy appears as particle motion (kinetic) or energy stored in fields (gravitational, electric, magnetic, nuclear). Internal/thermal, chemical, radiation, and mechanical forms are recognized as bookkeeping categories for the same conserved quantity."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "energyIs", "label": "Energy is…" },
+      { "key": "contexts", "label": "Where students see it…" }
+    ],
+    "table": [
+      { "gradeBand": "K-2", "energyIs": "No PS3.A endpoint.", "contexts": "No PS3.A endpoint." },
+      { "gradeBand": "3-5", "energyIs": "A property that shows up when things move or when sound, light, or electric currents are present.", "contexts": "Moving objects; sound (vibrations); light; electric currents." },
+      { "gradeBand": "6-8", "energyIs": "A property that can be kinetic (motion) or potential—stored in position, deformation, or in chemicals.", "contexts": "Kinetic; gravitational; elastic; chemical (food, batteries, reactions); fields (magnets, charges); thermal; internal/phase." },
+      { "gradeBand": "9-12", "energyIs": "A single conserved property that, microscopically, is motion (kinetic) or stored in fields.", "contexts": "Kinetic (bulk/particle); field (gravitational, electric, magnetic, nuclear); internal/thermal; chemical; radiation; combinations." }
+    ],
+    "narrative": "Understanding progresses from noticing where energy appears, to grasping what it is, to recognizing why it is conserved. Early grades build observational skills; upper elementary anchors energy to motion/sound/light/electricity; middle school distinguishes kinetic and potential forms and tracks transfers/transformations; high school formalizes conservation and unifies forms under microscopic motion and fields."
+  },
+
+  "standards": [
+    {
+      "grade": "4",
+      "discipline": "PS",
+      "code": "4.PS3.1",
+      "statement": "Use evidence to explain the cause-and-effect relationship between the speed of an object and the energy of an object.",
+      "bigIdea": "Moving objects possess motion energy, and greater speed means more motion energy. Sound, light, and electricity can add to or remove motion energy.",
+      "scientificIdeas": [
+        "Motion energy is the energy an object has because it is moving (later called kinetic energy).",
+        "Objects at rest do not have motion energy.",
+        "Forces (pushes/pulls, motors) can increase motion energy by increasing speed.",
+        "The faster an object moves, the more motion energy it has.",
+        "Motion energy can increase or decrease through interactions.",
+        "Sound production often indicates motion energy leaving a moving object (energy transfer to surroundings).",
+        "Electric currents can add motion energy (e.g., powering a motor).",
+        "Collisions transfer energy; faster objects can transfer more energy in impacts."
+      ],
+      "studentIdeas": [
+        "Objects can change motion energy without any force acting.",
+        "Energy fades away, causing objects to slow down (rather than transferring to surroundings).",
+        "Loud sound makes things move faster.",
+        "Heavier objects always have more motion energy.",
+        "Higher-up objects already have more motion energy (confusing stored with motion energy).",
+        "Quiet motion means less energy and weakness."
+      ]
+    },
+
+    {
+      "grade": "6",
+      "discipline": "PS",
+      "code": "6.PS3.1",
+      "statement": "Analyze sources of energy in a system to gather evidence supporting that energy is conserved during transfers of kinetic, potential (elastic, gravitational, and chemical), and/or thermal energy.",
+      "bigIdea": "System energy shows up as motion (kinetic/thermal) or as stored energy linked to position/arrangement (gravitational, elastic, chemical). Tracking forms makes it possible to follow flows and transformations.",
+      "scientificIdeas": [
+        "In a system, energy can exist in different forms whose amounts change when the system changes.",
+        "Kinetic energy is linked to motion of whole objects; thermal energy to motion of particles.",
+        "Stored (potential) energy is associated with arrangement/position in a system.",
+        "Doing work to change position/configuration stores energy; returning to stable configurations releases it.",
+        "Most stable configurations correspond to minimal stored energy.",
+        "Energy released/absorbed by the system shows up as changes to surroundings (and vice versa)."
+      ],
+      "studentIdeas": [
+        "All movable objects have potential energy simply because they can move.",
+        "Energy exists only when something is moving.",
+        "Stored energy runs out rather than transforming.",
+        "Objects slow because energy fades, not because it transfers to surroundings.",
+        "Temperature directly measures total thermal energy (ignoring amount of matter).",
+        "Springs have energy only when released; compressed springs store none."
+      ]
+    },
+
+    {
+      "grade": "6",
+      "discipline": "PS",
+      "code": "6.PS3.2",
+      "statement": "Use a model to gather evidence to support changes to a system that can be caused by transfers of sound or thermal energy (i.e., conduction, convection, or radiation).",
+      "bigIdea": "In science, 'heat' refers to energy transfer driven by temperature differences. Energy spreads from warmer to cooler regions via conduction, convection, and radiation.",
+      "scientificIdeas": [
+        "Thermal energy tends to spread toward balance (from warmer to cooler).",
+        "A system warms when it absorbs more thermal energy than it loses.",
+        "Temperature reflects average particle speed; total thermal energy also depends on amount of matter.",
+        "Conduction transfers energy by collisions in solids/adjacent regions; good conductors spread energy faster.",
+        "Convection moves energy via bulk motion of fluid parcels (warm rises, cool sinks).",
+        "All matter above absolute zero emits radiation; radiation transfers energy without requiring matter."
+      ],
+      "studentIdeas": [
+        "Heat and thermal energy are the same thing.",
+        "Cold flows like a substance.",
+        "Heat is a material that moves into objects.",
+        "Only visible light counts as radiation; all radiation is harmful.",
+        "Only hot areas emit thermal energy.",
+        "Higher temperature always means more thermal energy, regardless of amount of matter."
+      ]
+    },
+
+    {
+      "grade": "7",
+      "discipline": "PS",
+      "code": "7.PS3.1",
+      "statement": "Plan and carry out an investigation to demonstrate that the interaction between substances can cause chemical reactions that release or store energy.",
+      "bigIdea": "Chemical energy is stored in atomic arrangements. Reactions rearrange atoms, decreasing or increasing stored energy and exchanging energy with surroundings.",
+      "scientificIdeas": [
+        "Atoms connect to form compounds; chemical energy depends on atomic arrangement.",
+        "Rearranging atoms changes stored energy and results in energy exchange with surroundings.",
+        "Reactions conserve atoms: no atoms are created/destroyed.",
+        "Energy is conserved: energy absorbed/released by the reaction equals energy released/absorbed by surroundings.",
+        "Endothermic processes require energy input; exothermic processes release energy (often as thermal/light).",
+        "Observable temperature change and/or light production indicate energy exchanges."
+      ],
+      "studentIdeas": [
+        "All reactions feel warm.",
+        "If temperature drops, no reaction occurred.",
+        "Energy is a substance atoms capture when they connect.",
+        "Reactions create or destroy energy rather than transfer it.",
+        "Energy-producing reactions must be fast or explosive.",
+        "Only temperature shows energy transfer; light and sound are not energy transfers."
+      ]
+    }
+  ],
+
+  "metadata": { "version": "2025-10-12", "source": "TN Science IFDs – 2025 revision" }
+}
