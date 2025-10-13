@@ -1,85 +1,21 @@
 {
   "chapters": [
-    {
-      "id": "ps1a",
-      "discipline": "PS",
-      "componentIdea": "PS1.A",
-      "path": "data/ps1a.json"
-    },
-        {
-      "id": "ps1b",
-      "discipline": "PS",
-      "componentIdea": "PS1.B",
-      "path": "data/ps1b.json"
-    },
-            {
-      "id": "ps1c",
-      "discipline": "PS",
-      "componentIdea": "PS1.C",
-      "path": "data/ps1c.json"
-    },
-                {
-      "id": "ps2a",
-      "discipline": "PS",
-      "componentIdea": "PS2.A",
-      "path": "data/ps2a.json"
-    },
-                    {
-      "id": "ps2b",
-      "discipline": "PS",
-      "componentIdea": "PS2.B",
-      "path": "data/ps2b.json"
-    },
-                    {
-      "id": "ps2c",
-      "discipline": "PS",
-      "componentIdea": "PS2.C",
-      "path": "data/ps2c.json"
-    },
-                    {
-      "id": "ps3a",
-      "discipline": "PS",
-      "componentIdea": "PS3.A",
-      "path": "data/ps3a.json"
-    },
-                    {
-      "id": "ps3b",
-      "discipline": "PS",
-      "componentIdea": "PS3.B",
-      "path": "data/ps3b.json"
-    },
-                    {
-      "id": "ps3c",
-      "discipline": "PS",
-      "componentIdea": "PS3.C",
-      "path": "data/ps3c.json"
-    },
-                    {
-      "id": "ps3d",
-      "discipline": "PS",
-      "componentIdea": "PS3.D",
-      "path": "data/ps2a.json"
-    },
-                    {
-      "id": "ps4a",
-      "discipline": "PS",
-      "componentIdea": "PS4.A",
-      "path": "data/ps4a.json"
-    },
-                    {
-      "id": "ps4b",
-      "discipline": "PS",
-      "componentIdea": "PS4.B",
-      "path": "data/ps4b.json"
-    },
-                    {
-      "id": "ps4c",
-      "discipline": "PS",
-      "componentIdea": "PS4.C",
-      "path": "data/ps4c.json"
-    }
+    {"id": "ps1a", "discipline": "PS", "componentIdea": "PS1.A", "path": "data/ps1a.json"},
+    {"id": "ps1b", "discipline": "PS", "componentIdea": "PS1.B", "path": "data/ps1b.json"},
+    {"id": "ps1c", "discipline": "PS", "componentIdea": "PS1.C", "path": "data/ps1c.json"},
+    {"id": "ps2a", "discipline": "PS", "componentIdea": "PS2.A", "path": "data/ps2a.json"},
+    {"id": "ps2b", "discipline": "PS", "componentIdea": "PS2.B", "path": "data/ps2b.json"},
+    {"id": "ps2c", "discipline": "PS", "componentIdea": "PS2.C", "path": "data/ps2c.json"},
+    {"id": "ps3a", "discipline": "PS", "componentIdea": "PS3.A", "path": "data/ps3a.json"},
+    {"id": "ps3b", "discipline": "PS", "componentIdea": "PS3.B", "path": "data/ps3b.json"},
+    {"id": "ps3c", "discipline": "PS", "componentIdea": "PS3.C", "path": "data/ps3c.json"},
+    {"id": "ps3d", "discipline": "PS", "componentIdea": "PS3.D", "path": "data/ps3d.json"},
+    {"id": "ps4a", "discipline": "PS", "componentIdea": "PS4.A", "path": "data/ps4a.json"},
+    {"id": "ps4b", "discipline": "PS", "componentIdea": "PS4.B", "path": "data/ps4b.json"},
+    {"id": "ps4c", "discipline": "PS", "componentIdea": "PS4.C", "path": "data/ps4c.json"}
   ]
 }
+
 
 
 
