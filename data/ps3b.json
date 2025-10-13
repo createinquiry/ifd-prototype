@@ -1,0 +1,157 @@
+{
+  "componentIdea": { "code": "PS3.B", "title": "Conservation of Energy and Energy Transfer" },
+  "discipline": "PS",
+
+  "chapterOverview": {
+    "guidingQuestion": "What is meant by the conservation of energy? How is energy transferred between objects or systems?",
+    "purpose": "This component idea explores how energy moves between objects or systems, naturally leading systems toward states where energy is more evenly spread. Such transfers explain everyday experiences such as objects cooling down, speeding up, or slowing down.",
+    "centralIdeas": "Energy flows from regions where it is more concentrated (e.g., warmer, elevated, charged) toward regions where it is less concentrated (cooler, lower, discharged), but the total energy remains unchanged. Transfers occur through three main pathways: working (forces moving or deforming objects), heating (energy transfer by conduction or convection), and radiating (energy transfer by electromagnetic waves). Understanding these transfers and conservation makes it possible to predict system changes."
+  },
+
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Sunlight warms Earth’s surface. – NRC, 2012",
+      "progression": "Young students observe that sunlight warms their skin and Earth’s surfaces. They learn that sunlight warms land, water, and air, gathering evidence by comparing surfaces in sun and shade. Instruction emphasizes two ideas: warmth spreads naturally from the Sun to Earth and warmer areas spread to cooler ones. These experiences prepare them to understand that energy transfers between objects."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Energy is present whenever there are moving objects, sound, light, or heat. When objects collide, energy can be transferred from one object to another, changing their motion. Light also transfers energy from place to place, as does electricity. – NRC, 2012",
+      "progression": "Students connect motion, sound, light, and heat as evidence of energy transfers. They follow 'energy stories'—where energy comes from and where it goes—without formal naming of forms. Collisions, friction heating, light absorption, and electric circuits serve as contexts for tracing energy flows. This develops the reasoning that gains and losses balance, preparing them for quantitative conservation in middle school."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. When the motion energy of an object changes, some other change in energy occurs at the same time. Friction that stops motion increases thermal energy, which later spreads to surroundings. Energy transfers out of hotter regions and into colder ones by conduction, convection, and radiation. – NRC, 2012",
+      "progression": "Students move from qualitative energy stories to explicit accounting of energy types within systems. They describe changes to motion and stored energy as transfers between accounts and understand thermal energy as particle motion. Instruction connects macroscopic energy changes to microscopic models and introduces feedbacks between 'useful' and 'less useful' forms, like kinetic to thermal energy, laying groundwork for conservation equations in high school."
+    },
+    "9-12": {
+      "nrcQuote": "",
+      "progression": "High school students quantify energy conservation relationships, applying equations to mechanical, electrical, and chemical systems. They model energy flows, efficiency, and entropy, predicting how systems spontaneously spread energy toward equilibrium distributions."
+    },
+    "Biology": { "nrcQuote": "", "progression": "" }
+  },
+
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "depth", "label": "Depth of Energy Concept" },
+      { "key": "transfer", "label": "Nature of Transfers" }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "depth": "Energy as an abstract term is avoided; warmth serves as a proxy.",
+        "transfer": "Sunlight causes warming of land, air, and water."
+      },
+      {
+        "gradeBand": "3-5",
+        "depth": "Energy associated with motion, sound, light, heat, and electric currents; not yet formally categorized.",
+        "transfer": "Contact, collisions, or electric currents produce motion, sound, light, and/or heat."
+      },
+      {
+        "gradeBand": "6-8",
+        "depth": "Energy types (elastic, gravitational, chemical) are named but not quantified.",
+        "transfer": "Transfers and transformations within and between systems cause changes in motion and other energy accounts."
+      },
+      {
+        "gradeBand": "9-12",
+        "depth": "Energy types are quantified using conservation relationships.",
+        "transfer": "Transfers are quantifiable and move toward uniform distributions of energy."
+      }
+    ],
+    "narrative": "Across the progression, students’ understanding evolves from noticing warming and motion to using energy as an accounting tool for system change. In elementary grades, experiences emphasize observable effects (motion, heat, light, sound). By middle school, students describe energy types and flows qualitatively using 'accounts' and recognize that losses in one part of a system equal gains elsewhere. By high school, they formalize these relationships mathematically and apply conservation to predict behavior and efficiency."
+  },
+
+  "standards": [
+    {
+      "grade": "1",
+      "discipline": "PS",
+      "code": "1.PS3.1",
+      "statement": "Warmth moves from the Sun to different materials on Earth and some of these materials warm faster than others.",
+      "bigIdea": "Light from the Sun warms materials on Earth, and some materials warm faster than others. The feeling of warmth serves as a stand-in for energy at this grade level.",
+      "scientificIdeas": [
+        "When sunlight shines directly on a surface, that surface warms.",
+        "Objects make shadows that block sunlight.",
+        "Shade is a shadow; shaded objects warm less.",
+        "Transparent materials let sunlight pass through and do not make cooling shadows.",
+        "Different materials warm and cool at different rates."
+      ],
+      "studentIdeas": [
+        "The Sun causes some things to make their own heat.",
+        "Only dark-colored objects warm in sunlight.",
+        "If it isn’t a hot day, sunlight doesn’t warm things.",
+        "Water can’t warm up because it’s see-through.",
+        "Shadows are cold."
+      ]
+    },
+    {
+      "grade": "3",
+      "discipline": "PS",
+      "code": "3.PS3.1",
+      "statement": "Make observations of sound, light, heat, and motion to collect evidence that energy is present in a system.",
+      "bigIdea": "When something moves, energy is present. Sound, light, heat, or collisions that change motion are evidence of energy transfers.",
+      "scientificIdeas": [
+        "Moving objects are evidence that energy is present.",
+        "Pushes and pulls can increase or decrease an object’s motion energy.",
+        "Sound, light, and heat reveal energy moving between objects.",
+        "Collisions transfer energy between objects or to surroundings.",
+        "Friction warms surfaces as energy moves away from moving objects.",
+        "Energy from the Sun causes warming and plant growth."
+      ],
+      "studentIdeas": [
+        "Moving objects slow down on their own.",
+        "Energy is only heat or electricity.",
+        "If something isn’t warm, it has no energy.",
+        "Only living things have energy.",
+        "Energy disappears when used.",
+        "Light is just the opposite of dark."
+      ]
+    },
+    {
+      "grade": "3",
+      "discipline": "PS",
+      "code": "3.PS3.2",
+      "statement": "Develop a model to show that energy can be transferred from place to place by electric currents in a system (e.g., open, closed, simple, parallel, series circuits).",
+      "bigIdea": "Sound, light, heat, or motion show energy transfers caused by electric currents flowing through devices.",
+      "scientificIdeas": [
+        "Batteries and generators produce electric currents through conductors.",
+        "Currents cause observable effects in devices (light, sound, motion, heat).",
+        "A circuit is a closed system where energy transfers outward to surroundings.",
+        "Transfers out of the system reduce energy within it (e.g., flashlight battery).",
+        "Unrestricted current flow causes overheating (short circuits)."
+      ],
+      "studentIdeas": [
+        "Currents flow to devices, not through them.",
+        "Energy is a substance moving from one battery side to the other.",
+        "Light or sound are contained inside wires.",
+        "Currents transform into different substances (heat, light).",
+        "Currents send signals that turn on devices."
+      ]
+    },
+    {
+      "grade": "6",
+      "discipline": "PS",
+      "code": "6.PS3.1",
+      "statement": "Analyze sources of energy in a system to gather evidence supporting that energy is conserved during transfers of kinetic, potential (elastic, gravitational, and chemical), and/or thermal energy.",
+      "bigIdea": "Energy never disappears but transfers between accounts through working, heating, or radiating.",
+      "scientificIdeas": [
+        "Production of light, heat, sound, or motion are evidence of energy transfer.",
+        "Energy transfers between objects or transforms among accounts.",
+        "Radiation includes visible and invisible light.",
+        "Producing light decreases thermal energy; absorbing light increases it.",
+        "Working transfers energy by pushes/pulls (contact and non-contact forces).",
+        "Forces that cause motion transfer energy to objects; resisting forces transfer energy away.",
+        "Heating transfers thermal energy from warmer to cooler areas.",
+        "Friction converts organized motion to thermal energy.",
+        "During transfers, total energy remains constant."
+      ],
+      "studentIdeas": [
+        "Radiation refers to toxic waste.",
+        "Potential energy exists in all objects that might move.",
+        "All light is visible.",
+        "Energy is a substance passed between objects.",
+        "Moving things use energy and stop when it’s gone.",
+        "Friction creates new energy that wasn’t there before."
+      ]
+    }
+  ],
+
+  "metadata": { "version": "2025-10-12", "source": "TN Science IFDs – PS3.B" }
+}
