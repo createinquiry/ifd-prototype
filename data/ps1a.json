@@ -277,7 +277,7 @@
         "Substances that are made entirely of one type of atom or entirely of identical groups of atoms will have one set of characteristic properties. When a substance consists of more than groups of different types of atoms, the substance will have multiple sets of characteristic properties (e.g., a mixture of water and vinegar will have two different boiling points.)",
         "Atoms can stick to other atoms to create new substances with unique physical properties.",
         "Materials which have different combinations of atoms will have different physical properties. For example, the same volume of two different substances will have different weights.",
-        "Elements are forms of matter that cannot be further decomposed and exist in precise ratios in substances in nature.",
+        "Atoms are forms of matter that cannot be further decomposed and exist in precise ratios in substances in nature.",
         "Compounds consist of more than one atom stuck to another atom.",
         "The properties of a substance (e.g., metals that conduct electricity) exist in the collection of atoms making up that substance, but not in individual atoms.",
         "A pure substance consists of repeating units of a single substance and has a single set of physical properties.",
@@ -339,3 +339,4 @@
 
   "metadata": { "version": "2025-09-19", "source": "TN Science IFDs - 10/25 release" }
 }
+
