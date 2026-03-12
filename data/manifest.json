@@ -21,29 +21,6 @@
     {"id": "ls2b", "discipline": "LS", "componentIdea": "LS2.B", "path": "data/ls2b.json"},
     {"id": "ls2c", "discipline": "LS", "componentIdea": "LS2.C", "path": "data/ls2c.json"},
     {"id": "ls2d", "discipline": "LS", "componentIdea": "LS2.D", "path": "data/ls2d.json"},
-    {"id": "ls3a", "discipline": "LS", "componentIdea": "LS3.A", "path": "data/ls3a.json"},
-    {"id": "ls3b", "discipline": "LS", "componentIdea": "LS3.B", "path": "data/ls3b.json"},
-    {"id": "ls4a", "discipline": "LS", "componentIdea": "LS4.A", "path": "data/ls4a.json"},
-    {"id": "ls4b", "discipline": "LS", "componentIdea": "LS4.B", "path": "data/ls4b.json"},
-    {"id": "ls4c", "discipline": "LS", "componentIdea": "LS4.C", "path": "data/ls4c.json"},
-    {"id": "ls4d", "discipline": "LS", "componentIdea": "LS4.D", "path": "data/ls4d.json"},
-    {"id": "ess1a", "discipline": "ESS", "componentIdea": "ESS1.A", "path": "data/ess1a.json"},
-    {"id": "ess1b", "discipline": "ESS", "componentIdea": "ESS1.B", "path": "data/ess1b.json"},
-    {"id": "ess1c", "discipline": "ESS", "componentIdea": "ESS1.C", "path": "data/ess1c.json"},
-    {"id": "ess2a", "discipline": "ESS", "componentIdea": "ESS2.A", "path": "data/ess2a.json"},
-    {"id": "ess2b", "discipline": "ESS", "componentIdea": "ESS2.B", "path": "data/ess2b.json"},
-    {"id": "ess2c", "discipline": "ESS", "componentIdea": "ESS2.C", "path": "data/ess2c.json"},
-    {"id": "ess2d", "discipline": "ESS", "componentIdea": "ESS2.D", "path": "data/ess2d.json"},
-    {"id": "ess2e", "discipline": "ESS", "componentIdea": "ESS2.E", "path": "data/ess2e.json"},
-    {"id": "ess3a", "discipline": "ESS", "componentIdea": "ESS3.A", "path": "data/ess3a.json"},
-    {"id": "ess3b", "discipline": "ESS", "componentIdea": "ESS3.B", "path": "data/ess3b.json"},
-    {"id": "ess3c", "discipline": "ESS", "componentIdea": "ESS3.C", "path": "data/ess3c.json"},
-    {"id": "ess3d", "discipline": "ESS", "componentIdea": "ESS3.D", "path": "data/ess3d.json"},
-    {"id": "ets1a", "discipline"" "ETS", "componentIdea": "ETS1.A", "path": "data/ets1a.json"}
+    {"id": "ets1a", "discipline": "ETS", "componentIdea": "ETS1.A", "path": "data/ets1a.json"}
   ]
 }
-
-
-
-
-
