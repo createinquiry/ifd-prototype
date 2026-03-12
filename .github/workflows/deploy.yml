@@ -12,17 +12,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      - name: Get host key
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan -p 22 ${{ secrets.SFTP_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Deploy via SFTP
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
           server: ${{ secrets.SFTP_HOST }}
           username: ${{ secrets.SFTP_USERNAME }}
           password: ${{ secrets.SFTP_PASSWORD }}
-          port: 21
-          protocol: ftp
-          server-dir: /
-          local-dir: ./
-          exclude: |
-            **/.git*
-            **/.git*/**
-            .github/**
+          port: 22
+          local_path: './*'
+          remote_path: '/kunden/homepages/19/d4299393028/htdocs'
+          sftp_only: true
