@@ -12,13 +12,17 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Deploy via SFTP
-        uses: appleboy/scp-action@v0.1.7
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          host: ${{ secrets.SFTP_HOST }}
+          server: ${{ secrets.SFTP_HOST }}
           username: ${{ secrets.SFTP_USERNAME }}
           password: ${{ secrets.SFTP_PASSWORD }}
-          port: 22
-          source: "./*"
-          target: "/kunden/homepages/19/d4299393028/htdocs"
-          strip_components: 1
+          port: 21
+          protocol: ftp
+          server-dir: /
+          local-dir: ./
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
