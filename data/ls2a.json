@@ -1,0 +1,300 @@
+{
+  "componentIdea": {
+    "code": "LS2.A",
+    "title": "Interdependent Relationships in Ecosystems"
+  },
+  "discipline": "LS",
+  "chapterOverview": {
+    "guidingQuestion": "How do organisms interact with the living and non-living environments to obtain matter and energy?",
+    "purpose": "This component idea helps students understand that there are different types of interactions between plants, animals, microbes and non-living things in ecosystems. These interactions exist because organisms have intersecting needs and share a supply of limited matter and energy resources.",
+    "centralIdeas": "An ecosystem is a web of connected relationships among plants, animals, and the physical surroundings. These connections exist because all organisms depend on their environment for survival, but the environment has a limited supply of matter and energy resources. The interactions within the ecosystem influence the survival and reproduction of individuals and populations. Most ecosystems rely on plants to provide the inputs of matter and energy into the ecosystem from abiotic sources, while plants themselves depend on animals, decomposers, and physical conditions. Healthy soil, enriched by decomposition, is crucial to a stable ecosystem."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Animals depend on their surroundings to get what they need, including food, water, shelter, and a favorable temperature. Animals depend on plants or other animals for food. They use their senses to find food and water, and they use their body parts to gather, catch, eat, and chew the food. Plants depend on air, water, minerals (in the soil), and light to grow. Animals can move around, but plants cannot, they depend on animals for pollination or to move their seeds around. Different plants survive better in different settings because they have varied needs for water, minerals, and sunlight. – NRC, 2012",
+      "progression": "This progression is about the connections between the different components of ecosystems - plants, animals, and the surroundings. In the early grades, students focus on individual organisms and their immediate surroundings. They learn that both plants and animals have needs for survival, and that these needs are met through simple interactions. Animals depend on plants and other animals for food, while plants depend on sunlight, water, air, and minerals, as well as animals for processes such as pollination or seed dispersal. Students also begin to notice that plants and animals share some of the same needs, such as water and shelter, which connect them indirectly even if they do not directly interact. In later grades, this idea will develop into competition for resources, but at this level students simply observe that plants and animals are connected in multiple ways.\n\nStudents should have opportunities to create simple system models using drawings, labels, or pictures to represent observations from their surroundings. For example, if they notice webworms on a tree, they might draw a line between the webworm and the tree to show that that the caterpillar was found there. Teachers can ask students to gather evidence about the relationship between the webworm and the tree. In this way, the models highlight students’ own thinking about connections and deepen their understanding of interactions in ecosystems. Field investigations around the school or community can further reveal how abiotic conditions influence what lives in a given place. For example, different plants may grow in a sunny patch of grass compared to the damp area near an air conditioning runoff pipe or in the dry shade beneath a tree. These observations help students recognize that the environment itself plays a role in shaping which plants and animals can survive. In later grades, students will expand these ideas into more formal food webs that show how matter and energy flow through an ecosystem."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. The food of almost any kind of animal can be traced back to plants. Organisms are related in food webs in which some animals eat plants for food and other animals eat the animals that eat plants. Either way, they are “consumers.” Some organisms, such as fungi and bacteria, break down dead organisms (both plants or plants’ parts and animals) and therefore operate as “decomposers.” Decomposition eventually restores (recycles) some materials back to the soil for plants to use. Organisms can survive only in environments in which their particular needs are met. A healthy ecosystem is one in which multiple species of different types are able to meet their needs in a relatively stable web of life. Newly introduced species can damage the balance of an ecosystem. \n– NRC, 2012",
+      "progression": "In earlier grades, students learned that all organisms have needs and that these needs cause them to interact with other organisms and with their surroundings. The focus was often on individual interactions (e.g., a plant needs sunlight or an animal using its senses to find a plant to eat). In grades 3–5, students begin to see these individual interactions as part of a larger ecosystem that includes many individual interactions between plants, animals, and nonliving components.\n\nAll ecosystems share several features, and food chains provide a model to reveal these patterns. In every ecosystem, plants (producers) form the base by providing the matter and energy needed for consumers. Animals depend on plants directly or indirectly for food, while decomposers recycle matter from dead organisms back into the soil so plants can continue to grow. This grade band also introduces microbes to explain decomposition, reinforcing the cross-disciplinary idea that systems often contain “hidden” parts essential to their function. Constructing and interpreting food chains gives students a way to uncover the shared pattern across ecosystems and prepares them to approach new ecosystems expecting these same underlying relationships.\n\nA common misunderstanding at this level is that ecosystems exist only in “wild” places. Students should instead come to see that humans are part of ecosystems, with the same needs for food, water, air, and shelter. Human activities can change ecosystems, sometimes creating new opportunities and sometimes disrupting the balance among species. This helps bridge to later learning about human impacts on Earth systems.\n\nStudents should understand that two big ideas influence the dynamics of an ecosystem: all organisms have a unique set of needs and can only live where those needs are met, and all places have a unique set of conditions. Together, these ideas explain why ecosystems develop distinct characteristics. In later grades, students will progress from viewing ecosystems as collections of different organisms to seeing them as collections of populations. The needs, growth, and survival of populations reflect the needs of the individuals within them, setting the stage for middle school learning about how populations interact and change over time."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Organisms and populations of organisms are dependent on their environmental interactions both with other living things and with nonliving factors. Growth of organisms and populations increases are limited by access to resources, access to which consequently constraints their growth and reproduction. Similarly, predatory interactions may reduce the number of organisms or eliminate whole populations of organisms. Mutually beneficial interactions, in contrast, may become so interdependent that each organism requires the other for survival. Although the species involved in these competitive, predatory, and mutually beneficial interactions vary across ecosystem, the patterns of interactions of organisms with their environments, both living and nonliving, are shared. – NRC, 2012",
+      "progression": "In elementary grades, students learned that there are connections between organisms because  of the ways that individuals meet their needs. For example, animals and plants are connected because many different animals eat plants, or plants rely on microbes to replenish the soil they live in. Students learn that an ecosystem is a group of connected organisms and their environment. An ecosystem is defined by a set of relatively consistent interactions in a predictable environment. Any changes in either the type of organisms or the environmental conditions in an ecosystem will impact many things that live there.\n\nThe primary development in middle school is the introduction of populations, rather than just individuals. Students should learn that populations respond like organisms in many ways. The factors that impact the growth and development of individuals (LS1.B) also apply to populations – matter, energy, habitat, and interactions with other organisms. The availability of these factors can cause populations to grow quickly or slowly.\n\nIn early grades, students created system models for individuals. Some of the interactions that students may have identified also connect populations of organisms. Teaching students about specific types of interactions (e.g., mutualism, predatory) and then providing them examples to reinforce the interactions does not reflect the process of science. Instead, students can organize data on population sizes in an ecosystem to identify trends or patterns in the data. Students can describe the data patterns and identify proposed explanations for co-occurring shifts in population size. Students can then ask questions that would help them gather evidence to support their explanations through investigations or gathering information."
+    },
+    "Biology": {
+      "nrcQuote": "Ecosystems have carrying capacities, which are limits to the numbers of organisms and populations they can support. These limits result from such factors as the availability of living and nonliving resources and from such challenges as predation, competition, and disease. Organisms would have the capacity to produce populations of great size were it not for the fact that environments and resources are finite. This fundamental tension affects the abundance (number of individuals) of species in any given ecosystem. – NRC, 2012",
+      "progression": "This progression focuses on the interactions among organisms. The progression began by looking at individual organisms and eventually to understanding that the interactions and connections that occur among individuals have implications on the growth and development of the population. Throughout the progression students have considered that interactions exist between living and non-living components of the ecosystem.\n\nA new development at this level is the idea of carrying capacity. Students should understand carrying capacity as a population-level outcome that results from the accumulation of organism-level interactions. It is critical to connect carrying capacity as an outcome of resource availability in any ecosystem which limits the growth of populations. Instead, the interactions among organisms—securing food, competing for space, responding to predators—set an upper limit on how many individuals can be supported. Recognizing carrying capacity helps explain why populations increase, stabilize, or decline, and how ecosystems maintain balance across long timescales."
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "scaleOfOrganization",
+        "label": "Scale of Organization"
+      },
+      {
+        "key": "driversOfRelationships",
+        "label": "Drivers of Relationships"
+      },
+      {
+        "key": "natureOfInteraction",
+        "label": "Nature of Interaction"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "scaleOfOrganization": "Growth and survival of individual animals and plants.",
+        "driversOfRelationships": "Animals need food, water, shelter, and suitable temperature; plants need air, water, minerals, and light.",
+        "natureOfInteraction": "Plants depend on environment and animals. Animals depend on plants , other animals and the environment"
+      },
+      {
+        "gradeBand": "3-5",
+        "scaleOfOrganization": "Connections among organisms in food webs.",
+        "driversOfRelationships": "Plants provide the base of matter and energy. Organisms only survive where living and non-living things meet their needs.",
+        "natureOfInteraction": "Plants support consumers. Decomposers recycle matter into soil. New species can disrupt balance."
+      },
+      {
+        "gradeBand": "6-8",
+        "scaleOfOrganization": "Populations within ecosystems.",
+        "driversOfRelationships": "Populations are limited by finite resources, abiotic conditions, predation, and disease.",
+        "natureOfInteraction": "Competition, predation, cooperation. Some interactions become essential for survival. Abiotic factors affect population growth."
+      },
+      {
+        "gradeBand": "9-12",
+        "scaleOfOrganization": "Ecosystems as whole systems and population abundance.",
+        "driversOfRelationships": "Carrying capacities result from limited resources and non-living conditions (e.g., space/climate).",
+        "natureOfInteraction": "Resource availability creates limits on the number of organisms and populations in an ecosystem – a carrying capacity."
+      }
+    ],
+    "narrative": "The progression is organized around three dimensions that build on one another. The scale of organization identifies the levels of the interactions, whether individual organisms, populations, or entire ecosystems. The drivers of relationships explain why the interactions occur at each scale. These drivers cause the various kinds of interactions.\n\nIn early elementary grades, students begin at the scale of individual organisms, learning that plants and animals have basic needs for survival. At this stage, the important shift is to see that those needs are met through very simple interactions: plants and animals interact with each other, and both interact with their physical environment. Students also begin to recognize that survival depends on non-living parts of the environment such as water, air, and shelter. The emphasis should remain on the connections, rather than just listing the needs of organisms.\n\nBy late elementary, the focus expands to the connections among organisms. Students learn that plants provide the foundation of matter and energy in food webs, supporting consumers, while decomposers recycle matter into the soil to sustain plant growth. These ideas connect both living and non-living factors, showing that environmental conditions are part of what makes food webs possible. At this level, the danger is reducing the work to memorizing middle school terms like “predator” and “prey.” Instead, the emphasis should be on why food webs are constructed as representations of the flow of matter and energy and the dependence of organisms on one another and their environment.\n\nIn middle school, students begin to discuss populations, instead of individuals. They learn that populations have the potential to grow rapidly, but their growth is limited by finite resources, abiotic conditions, and disease. These drivers lead to familiar interactions — competition, predation, and cooperation — some of which become essential for survival.\n\nBy high school, students view ecosystems as whole systems with carrying capacities. They learn that populations can grow rapidly, but biotic interactions and abiotic conditions set the limits on sizes. Carrying capacity can be viewed as the tension between a population’s ability to reproduce and the limited resources and conditions of the environment. At this scale, students integrate their understanding of individuals, populations, and food webs into a systems view, seeing carrying capacity not as a fixed number, but as the balance of multiple interacting factors that determine species abundance in ecosystems."
+  },
+  "standards": [
+    {
+      "grade": "1",
+      "discipline": "LS",
+      "code": "1.LS2.1",
+      "statement": "Conduct an experiment to show how plants depend on air, water, minerals from soil, and light to grow and thrive.",
+      "bigIdea": "Plants interact with their environment to meet their needs for air, water, minerals and light.",
+      "scientificIdeas": [
+        "Plants are living things with needs that must be met for them to survive and grow.",
+        "Plants rely heavily on the non-living parts of their environment (air, water, minerals, and light) to grow strong and healthy.",
+        "Plants generally require soil to survive because soil provides them with water and some nutrients.",
+        "The soil provides plants with water that they get using their roots.",
+        "Plants get sunlight by being in the sun, but some plants also need shade because too much sun will harm them.",
+        "Plants get some minerals from the soil through their roots and will not grow if they cannot get these materials.",
+        "Plants will show signs of stress and may not survive if their needs are not met.",
+        "There are patterns in the ways that plants respond to stress, even across different plant types."
+      ],
+      "studentIdeas": [
+        "Plants are not alive because they don’t move around on their own.",
+        "Plants only need water to stay alive (other needs are not recognized).",
+        "Plants are “part of the environment” but don’t use things from the environment.",
+        "Plants can only survive when people take care of them."
+      ]
+    },
+    {
+      "grade": "1",
+      "discipline": "LS",
+      "code": "1.LS2.2",
+      "statement": "Obtain and communicate information to classify plants by where they grow (i.e., water, land) and the plant’s physical characteristics.",
+      "bigIdea": "Plants have different characteristics (e.g., leaf size, growth rate, type of roots, stem rigidity) that affect how they interact with the environment and where they are able to grow.",
+      "scientificIdeas": [
+        "There are different types of plants, in the same way that there are different types of animals. The plants that grow from a seed will resemble the parent plant in many ways.",
+        "Places will have different conditions, such as sunlight, temperature, water, wind, and these affect which plants can survive there.",
+        "Different types of plants have unique needs and will only grow well in places where those needs are met.",
+        "Some plants can grow only in a limited number of places.",
+        "Plants have different tolerances for sunlight.",
+        "Some plants will suffer if they experience too much heat.",
+        "Some plants will not grow or make flowers if they do not experience enough sunshine.",
+        "Plants have different requirements for water.",
+        "Some plants can survive in very wet places that would cause other plants to rot.",
+        "Some plants can survive in very dry places that would cause other plants to dry out.",
+        "Plants have different mineral requirements.",
+        "Some plants can live in very poor soils (sand and clay), while others require very rich soils (i.e., soils that have accumulated lots of plant materials over time – compost, mulch, etc.).",
+        "Places with similar conditions will have plants that appear more alike (e.g., plants in a sunny part of the schoolyard may be different from plants in the shady part).",
+        "Some plants can tolerate a wider range of conditions than other plants, so they might be more common.",
+        "Temperatures and other conditions change across the seasons, and this affects which plants can grow at different times of the year (e.g., the field at school may have lots of crabgrass in August, but none in January).",
+        "The types of plants in a place affects which animals can live there, since animals depend on plants for food and shelter.",
+        "When plants are in the right conditions, they can grow well, which supports other living things in the same place."
+      ],
+      "studentIdeas": [
+        "Plants survive as long as they have light, water, and soil.",
+        "If a plant dies, that must mean that it didn’t get enough water.",
+        "More sunlight and more water are always good for plants.",
+        "If a seed is planted, it will always begin to grow.",
+        "All plants need the same amount of sunlight, water, and soil to survive.",
+        "A plant that survives well in “difficult conditions” will grow even better in good conditions. (Not recognizing that what seems difficult for us might be ideal conditions for that plant.)"
+      ]
+    },
+    {
+      "grade": "2",
+      "discipline": "LS",
+      "code": "2.LS2.1",
+      "statement": "Use evidence and observations to explain that many animals use their body parts and senses in different ways to see, hear, grasp objects, protect themselves, move from place to place, and seek, find, and take in food, water, and air.",
+      "bigIdea": "Animals need food from plants or other animals along with water and air from their surroundings. Their body parts and senses help them interact with their surroundings to get these resources.",
+      "scientificIdeas": [
+        "Animals need food, water, and air to survive.",
+        "Animals get food from plants or from other animals.",
+        "Animals get water and air from their surroundings.",
+        "Body parts such as mouths, teeth, claws, beaks, or hands help animals take in food and water.",
+        "Senses such as sight, hearing, smell, and touch help animals find food, water, and other animals.",
+        "Senses and body parts also help animals avoid danger and protect themselves.",
+        "Animals must move from place to place to find the resources they need.",
+        "Different animals may use their body parts and senses in different ways to meet the same need (e.g., a bird uses its beak to pick up food, while a raccoon uses its hands to grasp food).",
+        "When animals cannot use their body parts or senses effectively, they may not be able to get the resources they need to survive."
+      ],
+      "studentIdeas": [
+        "All animals eat the same kinds of food.",
+        "Animals get their food from people, not from plants or other animals.",
+        "Animals do not need water because food gives them everything they need.",
+        "Air is only important for people, not for animals.",
+        "Animals can choose what food they want to eat, rather than being limited by what they can find or how their bodies work.",
+        "Animals can see, hear, and smell everything around them all the time.",
+        "Animals don’t need to move around to find food or water — food and water are just “there.”",
+        "Animals only use their body parts to protect themselves, not to find food or water.",
+        "If an animal doesn’t get what it needs, it can just switch to eating or drinking something else."
+      ]
+    },
+    {
+      "grade": "4",
+      "discipline": "LS",
+      "code": "4.LS2.2",
+      "statement": "Using information about the roles of organisms (producers, consumers, decomposers) in an ecosystem, evaluate how those roles are interconnected in a food web, and communicate how the organisms are continuously able to meet their needs in a stable food web.",
+      "bigIdea": "Organisms have different needs, and in a stable ecosystem those needs are met by other organisms and by the conditions of the environment.",
+      "scientificIdeas": [
+        "Each type of organism has a specific set of needs and survives best in a limited range of conditions.",
+        "Non-living things are also part of ecosystems and include things, such as soils, air, water, sunlight, etc. (Note: Soils may also be thought of as a composite of living (microbes) and non-living (nutrients) components, but that distinction is not critical to the standard’s big idea.)",
+        "Organisms meet their needs through interactions with other organisms and with the conditions of their environment.",
+        "Ecosystems exist anywhere living things interact with each other and their environment, and they can be found at many different scales.",
+        "Plants (producers) are considered the base of an ecosystem because they can meet their needs using only the energy and materials from their environment.",
+        "Plants interact with soils by absorbing water and nutrients. Soils become less “nutritious” over time, unless nutrients are added back into the soil.",
+        "Soils depend on decomposers to break down dead organisms (plants and animals) to replenish the nutrients in the soil.",
+        "Animals need energy to move and keep warm. They get this energy from the food they eat.",
+        "Animals need water and shelter. They depend on their environment to provide these resources.",
+        "Consumers cannot produce their own energy; they depend on plants to capture energy from sunlight and make it available to other organisms through food webs.",
+        "Food webs show the network of interconnections among producers, consumers, and decomposers, not just a single chain tracing matter and energy back to plants.",
+        "In a stable ecosystem, the interactions among producers, consumers, and decomposers allow organisms to continuously meet their needs over time.",
+        "The stability of an ecosystem depends on these interconnections; if one part changes, it can affect the whole system.",
+        "Humans, like all organisms, are part of food webs and can change the stability of ecosystems through their actions."
+      ],
+      "studentIdeas": [
+        "Ecosystems only include plants and animals (omitting non-living things).",
+        "Decomposers prevent waste from accumulating, but don’t really provide for other organisms in the ecosystem.",
+        "Organisms only belong in one ecosystem, and ecosystems don’t overlap.",
+        "There are only a few kinds of ecosystems, like tundra, rainforest, desert, or ocean.",
+        "Humans are only part of an ecosystem if they live in certain places like tundra, rainforest, desert, etc.",
+        "Plants only need dirt/soil to anchor themselves in place to avoid falling over or being washed away.",
+        "Decomposers make dead things disappear.",
+        "Decomposers only break down dead animals. Dead plants just fall apart.",
+        "Decomposers are trying to “help” keep the ecosystem healthy.",
+        "Decomposers are bad because they eat “gross” things.",
+        "A stable ecosystem is an ecosystem where nothing changes.",
+        "Soils don’t change.",
+        "Food webs are just complicated food chains. (Ignores focus in interactions in web.)"
+      ]
+    },
+    {
+      "grade": "4",
+      "discipline": "LS",
+      "code": "4.LS2.3",
+      "statement": "Develop and use models to determine the effects of introducing a species to, or removing a species from, an ecosystem and how either one can damage the balance of an ecosystem.",
+      "bigIdea": "Ecosystems are balanced networks of interactions. Adding or removing a species will change the nature of these interactions.\n\n(Note: The terms “balance” and “stability” are used interchangeably in this grade band.)",
+      "scientificIdeas": [
+        "Ecosystems are a defined network of interactions.",
+        "There are limited resources (air, water, food, nutrients, sunlight, etc.) in any ecosystem,",
+        "In a stable ecosystem, each organism meets it’s unique needs through interactions with other living organisms to maximize the use of the limited resources.",
+        "The stability of an ecosystem can be disrupted if organisms no longer get what they need because of changes in their web of interactions.",
+        "Introducing a new type of organism can provide access to resources that might otherwise be limited (e.g., honeybees can increase pollination, cover crops can improve soils).",
+        "Introducing a new type of organism can increase competition for resources that are already limited.",
+        "Introduced species will nearly always change the web of interactions in an ecosystem, regardless of whether their impact is considered helpful or harmful.",
+        "New organisms may have competitive advantages over existing organisms (e.g., seeds that sprout earlier and prevent sunlight from reaching other seedlings, have larger numbers of young, and survive seasonal variations in temperature that cause other organisms to migrate or pass through a region).",
+        "Removing a species can severe the interaction among two parts of an ecosystem in ways that sever the link between two other species (e.g., Hawks can eat squirrels, but not acorns. Removing squirrels eliminates one way to transfer matter and energy to hawks)."
+      ],
+      "studentIdeas": [
+        "Introducing “helpful” organisms to an ecosystem will only change the intended part of an ecosystem.",
+        "Plants don’t change interactions because they only take materials from the environment and they’re not competing with animals.",
+        "Introducing new types of organisms always happens accidentally.",
+        "Healthy ecosystems don’t change.",
+        "Adding new organisms will always make the ecosystem stronger/weaker. (The student does not consider interactions.)"
+      ]
+    },
+    {
+      "grade": "6",
+      "discipline": "LS",
+      "code": "6.LS2.1",
+      "statement": "Use data to evaluate and communicate the impact of environmental variables, both living and non-living (e.g., food, water, oxygen, and other resources), on population size within a system.",
+      "bigIdea": "Populations grow when resources and conditions allow, but their size is limited by both living and non-living factors in the environment.",
+      "scientificIdeas": [
+        "A population is a group of organisms of the same type, living in the same place.",
+        "When resources and conditions allow, populations will grow because individuals reproduce and survive.",
+        "Resources in an ecosystem are limited (e.g., food, water, oxygen, space, sunlight, water, etc.).",
+        "Because individuals in a population will need the same things, population growth is limited by how much of those things are available. (Note: Carrying capacity of an ecosystem is addressed in high school, but the idea of limited growth sets the foundation for this idea.)",
+        "The same factors that can cause an observation to grow can also limit its size when they become scarce.",
+        "Environmental conditions can change the way that a population grows or its size."
+      ],
+      "studentIdeas": [
+        "As long as there are enough resources, populations will get bigger.",
+        "Predators are the only thing that keep populations from becoming larger.",
+        "Populations refers to animals, but not plants.",
+        "Since plants don’t eat, they are not affected by environmental variables."
+      ]
+    },
+    {
+      "grade": "6",
+      "discipline": "LS",
+      "code": "6.LS2.2",
+      "statement": "Construct an explanation that predicts patterns of competitive, symbiotic, and predatory interactions among organisms across ecosystems.",
+      "bigIdea": "There are named patterns of interaction among the populations in ecosystems because all interactions are driven by limited access to resources.",
+      "scientificIdeas": [
+        "The needs of populations, like individual organisms, will determine the ways that populations interact with each other and with their surroundings.",
+        "Resources are limited in ecosystems and populations will only grow or survive when they have access to the resources they need.",
+        "Interactions observed consistently among individual organisms suggest patterns of interaction at the population level (e.g., Seeing a hawk eating a vole suggests that hawk populations may regulate vole populations).",
+        "The named patterns of interactions among populations are significant because they are observed across ecosystems.",
+        "The strength of the interaction between populations can change over time. (e.g., Predator-prey interactions can change as either population-size changes.",
+        "Competition among populations emerges when two populations compete for shared resources.",
+        "Predation is a natural and necessary interaction that regulates the size and health of both predator and prey populations.",
+        "These various interactions impact the populations that are directly involved, as well as other populations due to the network of connections across entire ecosystem."
+      ],
+      "studentIdeas": [
+        "All interactions are about individuals, not populations (i.e., they don’t infer larger possible population level connection from individual observations).",
+        "All instances of one organism helping another organism are examples of symbiosis.",
+        "Predators are bad because they kill prey. (The student does not separate organism-level thinking from population-level dynamics)",
+        "Competition only happens among animals.",
+        "Competition means fighting.",
+        "Interactions don’t change over time.",
+        "Interactions only involve the specific populations directly involved."
+      ]
+    },
+    {
+      "grade": "Bio1",
+      "discipline": "LS",
+      "code": "Bio1.LS2.1",
+      "statement": "Use mathematical and/or computational representations to support explanations of factors that affect carrying capacity of ecosystems at different scales.",
+      "bigIdea": "Interactions between biotic and abiotic factors serve as feedback mechanisms that limit the size of populations and communities in ecosystems.",
+      "scientificIdeas": [
+        "Living organisms meet their needs through interactions with each other and with their surroundings.",
+        "Organisms can only survive in a limited range of conditions and in places that provide the resources that they need. Some physical factors that influence which organism can survive there include sunlight, temperatures, water, soil, space, etc.",
+        "Organisms sometimes depend on specific interactions with other organisms.",
+        "Organisms compete with other organisms for a limited pool of resources.",
+        "Negative feedback loops stabilize ecosystems by maintaining the carrying capacities of the ecosystem.",
+        "Competition for territory increases as population sizes increase. Territorial behavior can limit the number of organisms in a population.",
+        "As the population grows in a community, there is increased opportunity for predators. Increased opportunity for predators limits the growth of populations.",
+        "Carrying capacities can change. Positive feedback loops can destabilize ecosystems and cause changes to the carrying capacity of an ecosystem.",
+        "Changes to the amount of available space in an ecosystem can decrease the amount of production in the ecosystem which can reduce the carrying capacity of the ecosystem."
+      ],
+      "studentIdeas": [
+        "Carrying capacity is a fixed quantity."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "2026-01-05",
+    "source": "TN Science IFDs - 10/25 release"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "componentIdea": {
+    "code": "ETS1.A",
+    "title": "Defining and Delimiting Engineering Problems"
+  },
+  "discipline": "ETS",
+  "chapterOverview": {
+    "guidingQuestion": "What is a design for?",
+    "purpose": "The purpose of this component idea is to help students understand that engineering begins with making sense of a problem. This involves defining what needs to be changed, the goals of the solution, and the limitations on possible solutions. The ETS1 Disciplinary Core Ideas introduce specialized knowledge that defines elements of engineering – problematizing (ETS1.A), solution design (ETS1.B), and optimization (ETS1.C). The Science and Engineering Practices are used throughout the engineering process.",
+    "centralIdeas": "Engineering is about solving problems, not just building objects. Solutions can be devices or processes. Engineers begin by defining the problem. The definition should clearly describe the goals (criteria) for a successful solution – things like the job/purpose, the cost, durability, etc. The problem should also define constraints that may limit the range of possible solutions – things like cost, size, weight, performance, etc. The usefulness of any solution depends on the understanding of the problem and the quality of the defined criteria and constraints."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. A situation that people want to change or create can be approached as a problem to be solved through engineering. Such problems may have many acceptable solutions. Asking questions, making observations, and gathering information are helpful in thinking about problems. Before beginning to design a solution, it is important to clearly understand the problem. -- NRC, 2012",
+      "progression": "Young students enter school with everyday experiences involving things that do not work as expected or that could be improved. They may have a zipper on their backpack that gets stuck, a block tower that topples easily; a leaky water bottle soaks the inside of their backpacks. These familiar situations provide natural entry points for engineering because they are immediately meaningful and connected to students' needs for comfort, safety, and play. At this grade band, engineering problems are understood simply as situations that people want to fix, change, or create.\n\nIn K--2, the primary instructional goal is for students to recognize that problems can be approached intentionally and that understanding the problem matters before attempting to make a solution. Students are not expected to formally define criteria or constraints. Instead, their sense of success is whether the solution works and helps meet a basic need. Instruction should emphasize noticing what is not working, asking questions about what needs to change, and clarifying what the solution is supposed to do.\n\nMany early elementary design activities present students with a ready-made challenge (e.g., \"Build a bridge that holds a toy car\" or \"Design a container to carry water\"). While these tasks can be engaging, they can unintentionally bypass the problem definition. When this happens, students may focus primarily on building rather than on making sense of the situation the design is meant to address, including identifying things they need to learn more about.\n\nTeachers can preserve opportunities for problematization by intentionally creating moments for students to explore the task before proposing solutions. For example, instead of starting with a fixed design goal, teachers might invite students to observe and discuss a situation that is not working well, share what they notice, or describe what they wish were different. Students might examine why a structure keeps falling, why materials get wet, or why objects are difficult to carry. These conversations help students describe what needs to change and what a successful solution might look like, even if those ideas are expressed in everyday language.\n\nAnother approach is to treat design tasks as investigations rather than immediate building challenges. Students can try out materials, observe how objects behave, or compare simple attempts before settling on an idea for a solution. These experiences help students learn more about the problem itself and reinforce the idea that understanding comes before designing. In doing so, students begin to see engineering not as making something quickly, but as thinking carefully about what a solution is meant to accomplish.\n\nThese early experiences establish an important foundation for later grades. By learning that problems must first be understood, students are prepared to later articulate clear goals, compare solutions, and eventually describe clear criteria and constraints."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Possible solutions to a problem are limited by available materials and resources (constraints). The success of a designed solution is determined by considering the desired features of a solution (criteria). Different proposals for solutions can be compared on the basis of how well each one meets the specified criteria for success or how well each takes the constraints into account. -- NRC, 2012",
+      "progression": "By upper elementary grades, students begin to think about why things work the way they do and understand that a problem can have more than one acceptable solution. They can see that sometimes a device functions well and other times it seems broken, and they are increasingly able to explain their reasoning to others. These new abilities allow students to move from simply recognizing problems to defining them clearly enough to compare possible solutions.\n\nIn this grade band, students learn that engineering problems benefit from clear goals. Students outgrow the idea that a problem is just something that needs to be fixed and begin to see that a problem is a situation where success can be described in specific ways. Students are introduced to the idea that criteria describe what a successful solution should be. For example, a container might need to hold a certain amount of water without leaking, or a structure might need to support weight without falling. These criteria make it possible to compare solutions and to explain why one design works better than another. This differs from problems in earlier grades where the challenge may have been to hold as many objects as possible, without a defined criteria for success.\n\nStudents also learn that constraints are limitations that shape possible solutions. At this level, constraints are concrete and familiar, such as the types of materials that are available, the amount of time provided, or the size of an object that must be built. Instruction should emphasize that constraints are different from failure points. They are part of the context of the problem. Constraints help focus on student thinking, leading to thoughtful choices rather than unlimited ones. Students should also play a role in defining constraints. It is important that students learn to view constraints as part of the design space rather than as obstacles to avoid. For example, having only certain materials encourages students to think creatively about how those materials can be used, and limited time encourages planning before building.\n\nDesign tasks in grades 3--5 should continue to provide opportunities for students to make sense of the problem before building. While challenges may be more clearly defined than in earlier grades, students still benefit from time to unpack the problem, discuss what the solution needs to accomplish, and identify constraints that might help or limit their designs. Teachers can support this sensemaking by prompting students to restate the goal of the task in their own words, identify features that matter most for success, or consider how different materials might affect performance.\n\nBy the end of grade 5, students should be prepared to compare multiple solutions using clear criteria and to communicate how constraints influenced their design choices. This understanding prepares them for later grades, where criteria and constraints become more precise, vary by context, and increasingly draw on scientific knowledge to determine what solutions are feasible."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. The more precisely a design task's criteria and constraints can be defined, the more likely it is that the designed solution will be successful. Specification of constraints includes consideration of scientific principles and other relevant knowledge that are likely to limit possible solutions (e.g., familiarity with the local climate may rule out certain plants for the school garden). -- NRC, 2012",
+      "progression": "Elementary school students learn that engineering is a response to a problem that has been identified. Engineering involves learning about the problem and describing what a successful solution should accomplish, as well as understanding factors limiting the types of solutions that engineers can create.\n\nBy middle school, students are ready to move beyond the idea that engineering problems have fixed goals and limits. They bring increasing experience with scientific ideas about forces, energy, materials, Earth systems, and living systems, and they can use this knowledge to reason about what solutions are possible or reasonable in different situations. At this grade band, defining an engineering problem becomes an essential part of the design process rather than a preliminary step that can be rushed or assumed.\n\nIn grades 6--8, students learn that more specific problem definitions help guide effective design decisions. Clearly articulated goals narrow the range of possible solutions and help students focus their efforts on designs that are more likely to succeed. At the same time, students begin to recognize that criteria and constraints are not universal. A solution that works well in one context may be ineffective or inappropriate in another because of differences in environmental conditions, available technologies, or the situation in which the problem occurs.\n\nInstruction at this grade band should emphasize how context shapes both the problem and the solution space. For example, a design intended for one climate may not work in another, or a solution that is feasible at a small scale may not function the same way when scaled up. Students draw on their growing understanding of scientific principles to explain why certain design options are limited or ruled out. This use of science to shrink the range of possibilities marks an important shift from earlier grades, where constraints were primarily material or resource based.\n\nMiddle school students also benefit from learning that well defined problems reduce the likelihood of ineffective or infeasible designs. When criteria and constraints are vague or assumed, students may invest time in solutions that cannot work as intended. By contrast, taking time to clarify goals, identify relevant limits, and consider contextual factors helps students make more informed design choices and support productive iteration rather than trial and error alone.\n\nDesign tasks at this grade band should encourage students to revisit and refine their understanding of the problem as they learn more. Students may need to adjust criteria or constraints as new information becomes available or as initial ideas prove unrealistic. These revisions are not signs of failure but evidence that students are engaging in authentic engineering reasoning.\n\nBy the end of middle school, students understand that defining an engineering problem involves more than stating what needs to be built. It requires careful consideration of goals, limits, and context, informed by scientific knowledge. This prepares students for high school, where criteria and constraints become increasingly precise, measurable, and shaped by user needs and broader societal considerations."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "precisionOfProblemDefinition",
+        "label": "Precision of Problem Definition"
+      },
+      {
+        "key": "understandingOfCriteriaConstraints",
+        "label": "Understanding of Criteria & Constraints"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "precisionOfProblemDefinition": "General understanding of what needs to be changed or created to solve a problem.",
+        "understandingOfCriteriaConstraints": "Awareness that a solution should “work” and meet basic needs, but no explicit mention of criteria/constraints"
+      },
+      {
+        "gradeBand": "3-5",
+        "precisionOfProblemDefinition": "Problems need to have clear goals that allow solutions to be compared.",
+        "understandingOfCriteriaConstraints": "Criteria describe features of a solution. Constraints reflect available materials and resources."
+      },
+      {
+        "gradeBand": "6-8",
+        "precisionOfProblemDefinition": "More specific definitions of problems set clear goals and limits that guide design process.",
+        "understandingOfCriteriaConstraints": "Criteria and constraints for similar problems may vary by context."
+      },
+      {
+        "gradeBand": "9-12",
+        "precisionOfProblemDefinition": "Problems are defined precisely enough to evaluate success against clearly stated and measurable conditions.",
+        "understandingOfCriteriaConstraints": "Criteria and constraints reflect user needs, societal considerations, and practical limits."
+      }
+    ],
+    "narrative": "Across the grade bands, students develop an increasingly sophisticated understanding that successful design begins with a clear understanding of what needs to be changed or created and thoughtful consideration of the goals and limitations that affect possible solutions.\n\nIn early elementary grades, students encounter engineering through familiar situations where something does not work properly, or a situation could be improved. Students learn that \"problems\" are things people want to fix, change, or create. At this stage, students focus on recognizing that a problem exists and that it can be approached intentionally. Their sense of success is informal: a solution should work and help meet basic needs. Instruction emphasizes understanding the problem itself before attempting to make a solution, without requiring students to name or apply formal criteria or constraints.\n\nBy late elementary grades, students begin to see that solutions improve when the problem is clearly defined. They learn that problems need explicit goals so that different solutions can be compared. This marks an important conceptual shift: success is no longer based solely on whether a solution works, but on how well it meets desired features. Students are introduced to criteria as descriptions of what a solution should do and constraints as limits related to available materials and resources. These ideas allow students to begin to evaluate and compare solutions without requiring complex justification.\n\nIn middle grades, students refine their understanding of problem definition by recognizing that more specific problem statements help guide the design process. They learn that criteria and constraints are not universal and can vary depending on local contexts, such as regional environmental conditions, available technologies, or the situation in which a problem occurs. Students also begin to incorporate relevant scientific knowledge when considering what is possible or reasonable. This grade band emphasizes that defining a problem carefully is essential for narrowing solution pathways and avoiding designs that are infeasible or ineffective.\n\nBy high school, students are prepared to define engineering problems with enough precision to evaluate success against clearly stated and measurable conditions. Criteria and constraints reflect not only technical and practical limits, but also user needs and societal considerations such as cost, safety, durability, and risk. Students recognize that engineering problems often involve trade-offs among competing priorities, and that clearly articulated criteria and constraints make these trade-offs explicit. This level of problem definition supports systematic evaluation and informed decision-making in complex, real-world contexts.\n\nTogether, these grade-band advances establish that engineering is fundamentally about purposeful problem framing. Students learn that the quality of a solution depends on how well the problem is understood, how clearly goals are articulated, and how thoughtfully constraints are considered."
+  },
+  "standards": [
+    {
+      "code": "1.ETS1.1",
+      "statement": "Apply an engineering design approach to identify and solve practical problems.",
+      "bigIdea": "Engineering is a purposeful way of solving problems that begins with identifying a thing that needs to be fixed or created.",
+      "scientificIdeas": [
+        "Engineering begins when people find a problem or see a need in their everyday lives.",
+        "A problem can be something people want to improve or create, not just something that is broken.",
+        "Engineering involves thinking about what needs to happen before building or making something.",
+        "Solutions don't always create something new, sometimes they improve on a thing that already exists.",
+        "There can be more than one way to solve a problem."
+      ],
+      "commonStudentIdeas": [
+        "Building and engineering are the same thing.",
+        "Engineering is a trial-and-error process.",
+        "I'm only engineering when I'm building things.",
+        "Engineering only happens when people build large or complicated things."
+      ]
+    },
+    {
+      "code": "2.ETS1.1",
+      "statement": "Apply an engineering design approach to identify and solve practical problems.",
+      "bigIdea": "Engineering is a purposeful way of solving problems that begins with identifying a thing that needs to be fixed or created.",
+      "scientificIdeas": [
+        "Engineering begins when people find a problem or see a need in their everyday lives.",
+        "A problem can be something people want to improve or create, not just something that is broken.",
+        "Engineering involves thinking about what needs to happen before building or making something.",
+        "Solutions don't always create something new, sometimes they improve on a thing that already exists.",
+        "There can be more than one way to solve a problem."
+      ],
+      "commonStudentIdeas": [
+        "Building and engineering are the same thing.",
+        "Engineering is a trial-and-error process.",
+        "I'm only engineering when I'm building things.",
+        "Engineering only happens when people build large or complicated things."
+      ]
+    },
+    {
+      "code": "K.ETS1.1",
+      "statement": "Apply an engineering design approach to identify and solve practical problems.",
+      "bigIdea": "Engineering is a purposeful way of solving problems that begins with identifying a thing that needs to be fixed or created.",
+      "scientificIdeas": [
+        "Engineering begins when people find a problem or see a need in their everyday lives.",
+        "A problem can be something people want to improve or create, not just something that is broken.",
+        "Engineering involves thinking about what needs to happen before building or making something.",
+        "Solutions don't always create something new, sometimes they improve on a thing that already exists.",
+        "There can be more than one way to solve a problem."
+      ],
+      "commonStudentIdeas": [
+        "Building and engineering are the same thing.",
+        "Engineering is a trial-and-error process.",
+        "I'm only engineering when I'm building things.",
+        "Engineering only happens when people build large or complicated things."
+      ]
+    },
+    {
+      "code": "K.ETS1.3",
+      "statement": "Ask and answer questions about the scientific world and gather information using the senses.",
+      "bigIdea": "Asking questions and making observations helps people understand a situation before trying to change it.",
+      "scientificIdeas": [
+        "Learning about a situation comes before trying to fix it or change it.",
+        "Information gathered through observations helps people understand a problem better.",
+        "People use their different senses to observe what is happening in a situation (e.g., hearing a rattle, smelling a bad smell, feeling a rough sticky surface).",
+        "Asking questions helps people notice details they might miss.",
+        "Observations can show what is working, as well as what is not working."
+      ],
+      "commonStudentIdeas": [
+        "Asking questions means that you don't know what to do.",
+        "Observations are only useful when you're testing a solution.",
+        "Seeing something once is enough to fully understand it.",
+        "Students only answer questions (e.g., \"My teacher asks me questions to see if I understand.\")"
+      ]
+    },
+    {
+      "code": "1.ETS1.2",
+      "statement": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved.",
+      "bigIdea": "Defining a problem involves deciding what needs to change based on observations and information about the situation.",
+      "scientificIdeas": [
+        "Problems describe what is happening now, and what needs to be different.",
+        "Observations help people figure out which part of a situation they should change.",
+        "Defining a problem guides people's ideas for possible solutions.",
+        "Different people may notice different things and then describe the same problem in different ways."
+      ],
+      "commonStudentIdeas": [
+        "Problems are always defined for me (e.g., \"you need to build a tower using these noodles\").",
+        "Defining a problem is part of making a report and happens when you've solved the problem.",
+        "Once a problem is defined, the definition cannot be changed or updated."
+      ]
+    },
+    {
+      "code": "3.ETS1.1",
+      "statement": "Design a solution to a real-world problem that includes specified criteria and constraints.",
+      "bigIdea": "Engineering problems should specify clear goals and factors that limit possible solutions.",
+      "scientificIdeas": [
+        "A well-defined problem statement clearly describes the goal and purpose for the solution.",
+        "Criteria describe what the successful solution should do or how it should perform.",
+        "Constraints describe the limits that share possible solutions (e.g., types of materials, amount of time, size of design).",
+        "More than one solution can meet the criteria, even when constraints are applied.",
+        "Different solutions can be compared in relation to the defined criteria and constraints.",
+        "Creating too many or non-essential constraints can overly limit the range of possible solutions.",
+        "Constraints are intended to help engineers focus on design decisions, not to make it harder to succeed."
+      ],
+      "commonStudentIdeas": [
+        "Constraints describe the limits or failure points of a solution (e.g., \"The bridge could not hold more than 2 toy cars\").",
+        "Criteria and constraints should be defined so that there is only one acceptable solution.",
+        "Constraints are used to make an engineer's job harder or to control their work.",
+        "Criteria are the same as instructions or steps to follow.",
+        "The first successful solution is always the best solution.",
+        "Having constraints means that engineers cannot be creative."
+      ]
+    },
+    {
+      "code": "8.ETS1.1a",
+      "statement": "Use a model of a device that incorporates an electromagnet to test solutions to a design problem with specific criteria and constraints.",
+      "bigIdea": "Clearly defined criteria and constraints guide how design solutions are tested and compared to determine how well they address a problem in a specific context.",
+      "scientificIdeas": [
+        "Problematizing involves describing the objective of an engineering task and includes criteria for what the successful solution should accomplish and constraints the limit to the range of possible solutions.",
+        "Understanding criteria and constraints before beginning to build helps focus solution design and testing on feasible solutions (e.g., understanding whether or not an electromagnet will be plug-in or run off batteries may limit the strength of a magnet).",
+        "Criteria and constraints may change based on specific contexts of a situation, the physical environment, or intended use of the device (e.g., a device using an electromagnet indoors may be designed differently than one used outdoors).",
+        "Engineers use a variety of models, including prototypes, physical mock-ups, smaller scale versions of a working device, or individual parts of a larger system.",
+        "Constraints can include limits related to available resources and other factors such as physical conditions. Defining constraints depends on understanding the specific use.",
+        "Constraints such as size, materials, energy use, or safety influence how a device is designed and tested and are parts of defining the problem.",
+        "More than one design can meet the criteria and constraints, but designs may perform differently or have differences in reliability or suitability for the context."
+      ],
+      "commonStudentIdeas": [
+        "Criteria and constraints are only useful for evaluating solutions, not during the design process.",
+        "A design is successful as long as it meets the criteria, regardless of whether it heeds constraints.",
+        "Constraints are the physical or performance limitations of a solution (e.g., this toy car can only roll along very smooth surfaces).",
+        "Constraints are rules that are used to make it harder to solve design challenges.",
+        "A solution that works in one context will automatically be the best solution for all contexts.",
+        "Criteria are the same as directions for how to build a device."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}
