@@ -16,6 +16,31 @@ jobs:
         run: |
           mkdir -p ~/.ssh
           ssh-keyscan -p 22 ${{ secrets.SFTP_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Deploy via SFTP
+        run: |
+          sshpass -p "${{ secrets.SFTP_PASSWORD }}" sftp -o StrictHostKeyChecking=no -P 22 ${{ secrets.SFTP_USERNAME }}@${{ secrets.SFTP_HOST }} << 'EOF'
+          lcd /github/workspace
+          cd /kunden/homepages/19/d4299393028/htdocs
+          put -r *
+          EOFname: Deploy to IONOS via SFTP
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get host key
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan -p 22 ${{ secrets.SFTP_HOST }} >> ~/.ssh/known_hosts
           cat ~/.ssh/known_hosts
 
       - name: Test SFTP connection
