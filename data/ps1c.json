@@ -1,98 +1,111 @@
 {
-  "componentIdea": { "code": "PS1.C", "title": "Nuclear Processes" },
+  "componentIdea": {
+    "code": "PS1.C",
+    "title": "Nuclear Processes"
+  },
   "discipline": "PS",
-
   "chapterOverview": {
     "guidingQuestion": "Which forces hold nuclei together and mediate nuclear processes?",
-    "purpose": "This component idea explains how different types of atoms form and how the atomic nucleus can exist even though the positively charged particles in the nucleus would be expected to repel each other.",
-    "centralIdeas": "The nucleus of an atom contains positively charged particles. Although like charges repel, at very short distances the strong nuclear force is stronger than electrostatic repulsion and holds the nucleus together."
+    "purpose": "This component idea explains how the different types of atoms can form and how the nucleus of the atom can exist even when it seems that the positive charges in the nucleus of an atom should cause it to blow apart.",
+    "centralIdeas": "The nucleus of an atom contains particles with a positive charge. We know that with charged particles \"opposites attract, and like charges repel.\" When charges are close together in the nucleus of the atom, the strong nuclear force is stronger than the electrostatic charge and is able to hold together the positively charged particles in the nucleus."
   },
-
   "gradeBandIntro": {
     "K-2": {
-      "nrcQuote": "By the end of grade 2. [Intentionally left blank] – NRC, 2012",
-      "progression": "This progression does not have standards in this grade band. Foundational ideas include pushes and pulls (PS2.A), which later support understanding why some nuclei stay together while others fall apart."
+      "nrcQuote": "By the end of grade 2. [Intentionally left blank] -- NRC, 2012",
+      "progression": "This progression does not have standards in this grade band. However, understanding pushes and pulls (PS2.A) is a foundation to understanding the forces in the nucleus of an atom in later grades, and how some nuclei stay together, while other nuclei fall apart."
     },
     "3-5": {
-      "nrcQuote": "By the end of grade 5. [Intentionally left blank] – NRC, 2012",
-      "progression": "This progression does not include standards in this band. Students apply ideas about static electricity (PS2.B) and the existence of matter that cannot be seen directly (PS1.A) to prepare for nuclear ideas."
+      "nrcQuote": "By the end of grade 5. [Intentionally left blank] -- NRC, 2012",
+      "progression": "This progression does not include standards in this grade band. However, students will apply their understanding of the forces that exist between like and opposite static charges (PS2.B) and the existence of matter in forms that we cannot see directly (PS1.A)."
     },
     "6-8": {
-      "nrcQuote": "By the end of grade 8. Nuclear fusion can result in the merging of two nuclei to form a larger one, along with the release of significantly more energy per atom than any chemical process. It occurs only under conditions of extremely high temperature and pressure. Nuclear fusion taking place in the cores of stars provides the energy released (as light) from those stars and produced all of the more massive atoms from primordial hydrogen. Thus, the elements found on Earth and throughout the universe (other than hydrogen and most of helium, which are primordial) were formed in the stars or supernovas by fusion processes. – NRC, 2012",
-      "progression": "Students connect earlier experiences with magnets (\"opposites attract\") and static electricity (like charges repel) to atomic-scale ideas. Middle grades focus on formation of the nucleus and the fusion of smaller atoms into larger ones in stars. Without detailing all subatomic particles, students learn that pairs of atoms can fuse, explaining the origin of heavier elements and the energy emitted by stars. Observations from PS3.A and PS3.B (sunlight warms Earth; energy transfer) and PS4.A (characteristic spectra) support the idea that fusion in stars converts hydrogen to helium, changing the hydrogen-to-helium ratio over time. Although protons repel, the strong nuclear force (with neutrons) overcomes electrostatic repulsion at very short distances. Fusion conditions become more extreme for larger nuclei; thus, heavier elements form in massive stars and supernovae. Revised (2025 Implementation): 8.PS1.1, 8.PS1.2"
-    },
-    "Biology": { "nrcQuote": "", "progression": "" }
+      "nrcQuote": "By the end of grade 8. Nuclear fusion can result in the merging of two nuclei to form a larger one, along with the release of significantly more energy per atom than any chemical process. It occurs only under conditions of extremely high temperature and pressure. Nuclear fusion taking place in the cores of stars provides the energy released (as light) from those stars and produced all of the more massive atoms from primordial hydrogen. Thus, the elements found on Earth and throughout the universe (other than hydrogen and most of helium, which are primordial) were formed in the stars or supernovas by fusion processes. -- NRC, 2012",
+      "progression": "Many students are likely to know the expression that \"opposites attract\" from their investigations with magnets. They may also know that \"like charges repel\" from explorations with static electricity. These early discussions always related to large, charged objects.\n\nSince this is the students' first exposure to atoms, it is not necessary to describe all of the subatomic charged particles -- protons, neutrons, and electrons. The middle grades focus of this progression should be on the formation of the nucleus of the atom. Even though electrons are mentioned in the standards, concepts like the formation of ions and bonding do not relate to the nucleus. It is sufficient for students to understand that a pair of atoms can fuse inside of stars and how this process can explain the origin of other, heavier elements.\n\nAs early as kindergarten, students learn that sunlight causes Earth's surfaces to warm (PS3.A). Students learn that warming is caused by energy transfer (PS3.B) and therefore there must be a source for the energy coming from the Sun. Students also learn that each element emits a characteristic wavelength of light (PS4.A). Examining this light reveals that the ratio of hydrogen to helium is lower in older stars compared to younger stars. This happens because atoms of hydrogen fuse to create new atoms of helium. This fusion of smaller nuclei also explains the release of energy from stars.\n\nStudents learn that protons give the nucleus a positive charge. The hydrogen nucleus contains only one proton. In high school, students will explain that the collision of two hydrogen nuclei forces two protons to fuse, which creates a heavier atom of helium. This conflicts with students' understanding that positive charges should repel each other. The strong nuclear force, caused by neutrons, overcomes the electrostatic force pushing the protons apart."
+    }
   },
-
   "progression": {
     "columns": [
       { "key": "gradeBand", "label": "Grade Band" },
-      { "key": "scale", "label": "Scale of Particles" },
-      { "key": "events", "label": "Events and Changes" }
+      { "key": "scaleOfParticles", "label": "Scale of Particles" },
+      { "key": "eventsAndChanges", "label": "Events and changes." }
     ],
     "table": [
-      { "gradeBand": "K-2", "scale": "N/A", "events": "N/A" },
-      { "gradeBand": "3-5", "scale": "N/A", "events": "N/A" },
-      { "gradeBand": "6-8", "scale": "Entire atoms", "events": "Under certain conditions, colliding atoms combine to form a single larger atom and release large amounts of energy." },
-      { "gradeBand": "9-12", "scale": "Protons and neutrons within nuclei", "events": "Interacting subatomic forces determine nuclear stability and govern fusion and decay events." }
+      {
+        "gradeBand": "K-2",
+        "scaleOfParticles": "N/A",
+        "eventsAndChanges": "N/A"
+      },
+      {
+        "gradeBand": "3-5",
+        "scaleOfParticles": "N/A",
+        "eventsAndChanges": "N/A"
+      },
+      {
+        "gradeBand": "6-8",
+        "scaleOfParticles": "Entire atoms.",
+        "eventsAndChanges": "Under certain conditions, colliding atoms combine to form a single larger atom and release huge amounts of energy."
+      },
+      {
+        "gradeBand": "9-12",
+        "scaleOfParticles": "Protons and neutrons within the nuclei of atoms.",
+        "eventsAndChanges": "Interacting forces from subatomic particles determine the stability of nuclei and govern fusion and decay events."
+      }
     ],
-    "narrative": "K–5 bands include no standards for this component because nuclear ideas require particles smaller than those addressed at these levels. Related concepts (e.g., magnets and static electricity) provide foundations. In middle school, students learn there are limited types of atoms (PS1.A) and that smaller atoms can combine to form larger atoms; this component emphasizes forces within the nucleus that allow such fusion and explain nuclear stability. Humans have learned to release and recapture energy stored in the nucleus."
+    "narrative": "In the K-2 and 3-5 grade bands, there are no standards within this component idea because the particles discussed in this progression begin with the fusion of atoms in middle school and advance to the tiny particles that make up atoms. There are concepts covered in other component ideas, such as magnets and static electricity, which provide a foundation for understanding how particles in the nucleus of atoms interact. In middle school students learn that there are a limited number of types of atoms in the universe (PS1.A) and learn that smaller atoms can combine to form larger atoms. This component idea explores the forces that hold the nucleus of an atom together. These forces make it possible for smaller elements to combine and make heavier elements. Humans have learned to release and recapture the energy stored in the nucleus of the atom."
   },
-
   "standards": [
     {
-      "grade": "8",
-      "discipline": "PS",
       "code": "8.PS1.1",
+      "grade": "8",
       "statement": "Use a model to understand that atoms are a system composed of a positively charged nucleus surrounded by one or more negatively charged particles called electrons.",
-      "bigIdea": "Atoms that merge must overcome mutual repulsion between positively charged nuclei. Larger atoms form when smaller atoms combine.",
+      "bigIdea": "Atoms that merge must overcome the mutual repulsion caused by the positive charge of each nucleus. Larger atoms form when smaller atoms combine.",
       "scientificIdeas": [
-        "Electrostatic forces result from interactions between positive and negative charges.",
-        "Like charges repel; opposite charges attract.",
-        "Because all atomic nuclei are positively charged, nuclei repel each other.",
-        "As two atoms get closer, electrostatic repulsion between their nuclei increases.",
-        "Under typical conditions, electrostatic forces prevent nuclei from colliding.",
-        "Atoms move at different speeds; higher temperatures correspond to faster motion.",
-        "Higher particle speeds and/or higher particle densities increase collision likelihood.",
-        "It is harder for two larger nuclei to merge than two smaller nuclei, due to stronger repulsion from greater positive charge.",
-        "Forming increasingly large nuclei requires more extreme temperature and pressure; some conditions occur only in very large stars or supernovae.",
-        "Smaller atoms are more common because conditions for forming them are more prevalent.",
-        "Nuclear reactions involve changes in the nucleus; chemical reactions involve electrons."
+        "Electrostatic forces are the result of interactions between positive and negative charges.",
+        "A pair of \"like\" charges will experience a force that pushes them apart. A pair of \"opposite\" charges will experience forces that push them towards each other.",
+        "Since all atoms have a positively charged nucleus, they will repel each other.",
+        "As the atoms get closer to each other, the repulsive force caused by the similarly charged nuclei becomes stronger.",
+        "Under typical conditions, electrostatic forces prevent atoms from colliding.",
+        "Atoms move at different speeds, with higher temperatures corresponding with faster motion.",
+        "Sometimes large numbers of atoms are in a space/area, other times there may be fewer atoms.",
+        "As the number of atoms in an area increases and the speed of the atoms increases, collisions between atoms become more likely.",
+        "It is harder for two larger atoms to merge than it is for two smaller atoms to merge because the nuclei of the larger atoms possess more positive charge and therefore experience stronger repulsive forces.",
+        "Increasingly larger atoms require more extreme temperatures and pressures to form. Some of these temperatures and pressures exist only when very large stars explode.",
+        "Across the universe, smaller atoms are more common because the conditions that form smaller atoms are more common than the conditions that form larger atoms.",
+        "Nuclear reactions involve changes to the nucleus of the atom, while chemical reactions involve changes to an atom's electrons."
       ],
       "studentIdeas": [
         "Nuclear reactions are a type of chemical reaction.",
-        "Electrons push protons together and hold the nucleus together.",
-        "Electrons play a primary role in forming nuclei.",
+        "Electrons form a barrier that pushes protons together in the nucleus and holds the nucleus together.",
+        "Electrons play a role in the formation of atoms.",
         "Chemical reactions create different types of elements."
       ]
     },
-
     {
-      "grade": "8",
-      "discipline": "PS",
       "code": "8.PS1.2",
-      "statement": "Develop a model to explain how the light coming from distant stars and the formation of heavier atoms is the result of changes in the composition of the nucleus and the energy released during nuclear fusion.",
-      "bigIdea": "Nuclear fusion in stars produces energy that is emitted largely as light (electromagnetic radiation).",
+      "grade": "8",
+      "statement": "Develop a model to explain how the light coming from distant stars and the formation of heavier atoms is the result of changes in the composition of the nucleus of the atom and the energy released during the process of nuclear fusion.",
+      "bigIdea": "Nuclear fusion in stars produces energy. Stars emit the majority of this energy as light (electromagnetic radiation). Note: It is not necessary to name or track nucleons when discussing fusion.",
       "scientificIdeas": [
-        "Light from the Sun warms Earth’s surfaces; light carries energy from the Sun to Earth.",
-        "Production of light indicates that a system has released energy to its surroundings.",
-        "Different colors (wavelengths) of light transfer different amounts of energy.",
-        "In nuclear reactions, mass alone is not conserved; the sum of mass and energy is conserved. Conservation of mass applies to chemical reactions.",
-        "When nuclei merge, the product nucleus has less mass than the separate reactant nuclei; the mass difference appears as released energy (E = mc^2).",
-        "Each element can produce characteristic light; colors observed correspond to energy released during fusion steps.",
-        "Only the hottest, typically most massive stars can fuse elements beyond hydrogen and helium in their cores.",
-        "More massive (hotter) stars tend to emit higher-energy (bluer) light."
+        "Light from the Sun warms Earth's surfaces -- light carries energy from the Sun to Earth.",
+        "The production of light (visible and other wavelengths) indicates that a system has released energy to its surroundings.",
+        "Different colors of light transfer different amounts of energy. (E.g., UV light damages human tissue, while visible and IR light possess less energy. However, both forms of light can warm a space.)",
+        "In nuclear reactions, mass alone is not conserved during nuclear fusion; the sum of mass and energy is conserved. Conservation of mass applies to chemical reactions.",
+        "When atoms merge, the merged nuclei release energy and the new nucleus is lighter than the unmerged nuclei. The difference in weight is explained by the conversion of mass (m) to energy (E) according to E=mc^2.",
+        "The formation of each different type of element produces a characteristic color of light and the color of light corresponds with the energy released during the merging of atoms.",
+        "The size of the nuclei fusing within a star influences the color of the star. Since heavier nuclei require higher temperatures and pressures to fuse, only the hottest (and typically most massive) stars can fuse elements beyond hydrogen and helium in their cores.",
+        "More massive stars have hotter surfaces and therefore the light from these stars is typically higher energy (bluer wavelengths)."
       ],
       "studentIdeas": [
         "Mass is conserved during nuclear reactions.",
         "All stars are yellow.",
-        "Fusion must absorb energy to push two nuclei together.",
-        "All energy from stars is visible light.",
-        "Fusion overall is always exothermic regardless of reaction path."
+        "Fusion must absorb energy to push to nuclei together.",
+        "All of the energy from stars is visible light.",
+        "The overall energy change in energy for fusion is always exothermic."
       ]
     }
   ],
-
-  "metadata": { "version": "2025-09-21", "source": "TN Science IFDs - 10/25 release" }
+  "metadata": {
+    "version": "2025",
+    "source": "Tennessee Science Standards IFD 2025"
+  }
 }
-

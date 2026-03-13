@@ -1,116 +1,168 @@
 {
-  "componentIdea": { "code": "PS3.C", "title": "Relationship Between Energy, Forces, and Fields" },
+  "componentIdea": {
+    "code": "PS3.C",
+    "title": "Relationship Between Energy and Forces"
+  },
   "discipline": "PS",
-
   "chapterOverview": {
     "guidingQuestion": "How are forces related to energy?",
-    "purpose": "This component idea connects forces to energy. Forces are one way that energy transfers between objects and systems. Work describes the process of energy transfer when a force acts through a distance.",
-    "centralIdeas": "Work is the process by which forces transfer energy through motion. A push or pull that speeds up an object transfers energy to that object, while a force that slows it down transfers energy away. Both contact and non-contact (field) forces can transfer or store energy. Each interaction involves paired forces, and changes in motion or shape are evidence of energy transfer."
+    "purpose": "The purpose of this component idea is to connect forces to energy. Forces are one way to transfer energy to or away from objects and systems.",
+    "centralIdeas": "Work is the process that transfers energy through the pushes and pulls of forces that act over some distance. The force (contact or field-based) acts as the energy transfer mechanism. For moving objects, a push or pull that speeds up an object transfers energy to that object. Forces that slow down an object transfer energy away from the object. When objects interact, there are always pairs of forces."
   },
-
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. A bigger push or pull makes things go faster. Faster speeds during a collision can cause a bigger change in shape of the colliding objects. -- NRC, 2012",
+      "progression": "Young children bring rich experiences with motion from everyday life---such as pushing toys, riding scooters, or watching objects fall. They might have accidentally dropped things they've built and seen that falls from low heights may not be as destructive as falls from greater heights.\n\nIn the K-2 classroom, instruction builds on these intuitive ideas by emphasizing observable cause-and-effect relationships between pushes and pulls, motion, and collisions. Students begin to associate faster motion with stronger forces and understand that collisions can result in visible changes.\n\nStudents should notice that there are always two pushes that occur when objects interact. The mark that a toy car leaves on a piece of clay is evidence that the car pushed on the clay. At the same time, the motion of the toy car changes -- evidence that the clay must have pushed on the toy car.\n\nIn later grades, students begin to discuss energy, and their understanding of this scenario will evolve. They will come to understand that the force on the car transfers energy to the car and the forces involved during the collision transfer this energy to the surroundings."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. When objects collide, the contact forces transfer energy so as to change the objects' motions. Magnets can exert forces on other magnets or on magnetizable materials, causing energy transfer between them (e.g., leading to changes in motion) even when the objects are not touching. -- NRC, 2012",
+      "progression": "By upper elementary grades, students have explored simple cause-and-effect relationships between pushes, pulls, and motion. They've seen that stronger pushes can make things go faster and cause bigger changes when objects collide.\n\nIn grades 3-5, students begin learning about both energy and forces, and this component connects those ideas. They discover that when a force causes an object to move, energy is transferred to that object. A stronger push, which leads to faster motion, also means more energy is transferred.\n\nStudents also begin to explore magnetic forces and fields. Using tools like iron filings to visualize field lines or magnetic toy cars to observe motion without contact, students can see that magnetic fields exert forces that cause motion. These interactions offer a powerful contrast with contact forces: even when objects aren't touching, forces still act and transfer energy.\n\nIn middle school, students will build on this foundation by developing more sophisticated explanations of interactions. They'll explore how forces always come in pairs, how energy transfers between accounts and how fields like gravity and magnetism store and release energy."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. When two objects interact, each one exerts a force on the other that can cause energy to be transferred to or from the object. For example, when energy is transferred to an Earth-object system as an object is raised, the gravitational field energy of the system increases. This energy is released as the object falls; the mechanism of this release is the gravitational force. Likewise, two magnetic and electrically charged objects interacting at a distance exert forces on each other that can transfer energy between the interacting objects. -- NRC, 2012",
+      "progression": "By middle school, students have already developed a basic understanding that forces can transfer energy that is observable in motion changes, and that the effects of forces often occur in pairs.\n\nIn middle grades, students deepen their understanding of how forces are connected to energy by learning that work is a specific process by which energy is transferred through motion in the direction of a force. Instruction should emphasize how energy moves into or out of specific energy \"accounts\" in a system when a force causes displacement.\n\nThis grade band also extends students' understanding of fields. In earlier grades, fields were introduced with magnets; now, students see gravitational, magnetic, and electric fields as mechanisms for storing and transferring energy. It is sufficient for students to describe that the system possesses stored gravitational potential energy, without necessarily naming that it is the field that stores the energy.\n\nThese ideas prepare students for high school, where they will learn to quantify energy transfer using the work-energy theorem."
+    }
+  },
   "progression": {
     "columns": [
       { "key": "gradeBand", "label": "Grade Band" },
       { "key": "roleOfForces", "label": "Role of Forces" },
       { "key": "roleOfFields", "label": "Role of Fields" },
-      { "key": "energyEffects", "label": "Energy Transfer Effects" }
+      { "key": "energyTransferEffects", "label": "Energy transfer effects" }
     ],
     "table": [
-      { "gradeBand": "K-2", "roleOfForces": "Pushes and pulls make things move faster.", "roleOfFields": "Not introduced.", "energyEffects": "Faster speeds lead to bigger shape changes in collisions." },
-      { "gradeBand": "3-5", "roleOfForces": "Forces transfer energy during contact.", "roleOfFields": "Magnets can transfer energy without contact.", "energyEffects": "Energy transfers lead to changes in motion of both objects." },
-      { "gradeBand": "6-8", "roleOfForces": "Each interacting object exerts a force on the other.", "roleOfFields": "Systems can store or release energy in gravitational, magnetic, and electric fields.", "energyEffects": "Energy transfer occurs when forces do work or when field energy changes." },
-      { "gradeBand": "9-12", "roleOfForces": "Forces do work when they change the position of objects in the same direction as the force.", "roleOfFields": "Fields store energy and transmit it across space.", "energyEffects": "The amount of energy transferred depends on how far an object moves in the direction of the force." }
+      {
+        "gradeBand": "K-2",
+        "roleOfForces": "Pushes and pulls make things move faster.",
+        "roleOfFields": "Not introduced.",
+        "energyTransferEffects": "Faster speeds lead to bigger shape changes in collisions."
+      },
+      {
+        "gradeBand": "3-5",
+        "roleOfForces": "Forces transfer energy during contact.",
+        "roleOfFields": "Magnets can transfer energy without contact.",
+        "energyTransferEffects": "Energy transfers lead to changes in motion of both objects."
+      },
+      {
+        "gradeBand": "6-8",
+        "roleOfForces": "Each interacting object exerts a force on the other.",
+        "roleOfFields": "Systems can store/release energy in gravitational, magnetic, and electric fields.",
+        "energyTransferEffects": "Energy transfer occurs when forces do work or when field energy changes."
+      },
+      {
+        "gradeBand": "9-12",
+        "roleOfForces": "Forces do work when they change the position of objects in the same direction as the force.",
+        "roleOfFields": "Fields (gravitational, electric, magnetic) store energy and transmit it across space.",
+        "energyTransferEffects": "The amount of energy transferred depends on how far an object moves in the direction of the force."
+      }
     ],
-    "narrative": "Understanding evolves from seeing pushes and pulls as causes of motion to recognizing them as mechanisms for energy transfer. Elementary students focus on contact forces; middle school students include non-contact fields and the concept of work; high school students quantify these transfers and apply conservation relationships."
+    "narrative": "As students progress from elementary to high school, their understanding of the relationship between forces and energy becomes increasingly abstract and quantitative. In the early grades, students see that stronger pushes and pulls make things move faster and recognize that faster motion during a collision leads to bigger changes in the shape of objects. By upper elementary, they begin to understand that forces transfer energy between objects, resulting in motion changes. In middle school, students come to see energy transfer as a result of interactions between objects, including those mediated by gravitational, magnetic, or electric fields, and begin to connect these ideas to the concept of work. By high school, students develop a formal understanding that forces do work when they move objects in the direction of the force, and that the amount of energy transferred depends on both the magnitude and direction of the force relative to the motion."
   },
-
   "standards": [
     {
-      "grade": "2",
-      "discipline": "PS",
       "code": "2.PS3.1",
+      "grade": "2",
       "statement": "Demonstrate how a stronger push or pull makes things go faster and how faster speeds during a collision can cause a bigger change in the shape of the colliding objects.",
-      "bigIdea": "Pushes and pulls can make things go faster. Faster speeds during collisions cause bigger changes in shape.",
+      "bigIdea": "Pushes and pulls can make things go faster. Faster speeds during a collision cause bigger changes to shape (e.g., dents, or rearrangements). (Note: It's not necessary to use the terms \"force\" or \"energy\" at this grade level. Words like \"push,\" \"pull,\" and \"motion\" (respectively) are more appropriate and accessible for young learners.)",
       "scientificIdeas": [
-        "A push or pull can cause an object to move faster.",
-        "Pushes and pulls can differ in strength and duration.",
-        "Objects move at different speeds depending on the push.",
-        "Faster objects cause greater shape changes when colliding.",
-        "Collisions involve pushes in both directions on both objects.",
-        "Collisions that change shape tend to reduce the objects’ motion."
+        "A push or pull (force) can cause an object to move faster.",
+        "Pushes and pulls can have different strengths.",
+        "Pushes and pulls can happen quickly or be sustained.",
+        "Objects can move at different speeds.",
+        "When objects collide, they can change shape depending on how fast they are moving (e.g., dent, knocking over objects, scattering a group of objects).",
+        "A stronger push results in faster motion and can lead to a more noticeable change when the object hits something.",
+        "Collisions are interactions that involve more than one object.",
+        "When objects collide, they push on each other.",
+        "When two objects interact (like a car hitting clay), both objects experience a push.",
+        "Collisions that change the shape of objects also tend to reduce the overall motion of the colliding objects."
       ],
       "studentIdeas": [
-        "The speed of an object depends only on its own properties.",
-        "Collisions happen too fast to count as pushes or pulls.",
-        "Only one object pushes in a collision.",
-        "Soft things change shape; speed is unrelated.",
-        "Walls and the ground aren’t 'objects' in collisions."
+        "The speed of an object is a property of the object - it doesn't matter how hard it's pushed.",
+        "Collisions aren't pushes and pulls because they happen so quickly.",
+        "When collisions happen, only one thing pushes on the other.",
+        "Things get smashed (change shape) in collisions because they don't push back on the thing that ran into them.",
+        "Things change shape if they're soft, not because of speed.",
+        "Things like walls or the ground aren't objects, so if an object runs into one of these things, it's not a collision between two objects."
       ]
     },
     {
-      "grade": "3",
-      "discipline": "PS",
       "code": "3.PS3.3",
+      "grade": "3",
       "statement": "Evaluate how magnets cause changes in the motion and position of objects, even when the objects are not touching the magnet.",
-      "bigIdea": "Magnetic forces are non-contact forces that can change motion and transfer energy.",
+      "bigIdea": "Magnetic forces are non-contact forces that can change an object's motion, which indicates that energy has transferred.",
       "scientificIdeas": [
-        "Changes in motion are evidence of energy transfer.",
-        "Forces are pushes and pulls with magnitude and direction; they transfer energy to or from objects.",
-        "Speeding up means energy is transferred to the object; slowing down means energy is transferred away.",
-        "Magnets exert forces without touching.",
-        "Magnetic interactions involve force pairs acting on both objects."
+        "Changes to the motion of objects are evidence of energy transfer to or away from those objects.",
+        "Forces are pushes and pulls between objects with both a magnitude (strength) and are the mechanism for energy transfer to or from objects.",
+        "Objects speed up when forces transfer energy to the object, and they slow down when forces transfer energy from those objects.",
+        "When a force causes an object to speed up, it increases the object's motion energy. When a force slows an object down, it transfers motion energy away from the object.",
+        "Magnets exert forces that can attract or repel objects without touching them.",
+        "Magnetic forces can change an object's speed which increases or decreases the motion energy of the object.",
+        "Magnetic interactions always involve pairs of forces acting on both objects.",
+        "The magnet exerts a force that transfers energy to the moving object to make it move faster."
       ],
       "studentIdeas": [
-        "Magnets only push or pull when touching.",
-        "Attraction and repulsion are not forces.",
-        "Objects moved by magnets have no energy.",
-        "Magnetic motion happens 'by itself.'",
-        "Magnets create energy from nothing."
+        "Attracting and repelling are different than forces.",
+        "Magnets don't push or pull until they actually touch another object.",
+        "\"The magnet makes the object move by itself---the object doesn't push back.\"",
+        "\"Magnetic force is just like magic---it happens for no reason.\"",
+        "Objects that move because magnets push or pull on them don't have energy, they're just moving towards or away from magnets.",
+        "Magnets produce energy since they can make things move without contact.",
+        "Energy transfers only happen when two objects make contact.",
+        "Forces only transfer energy when they make something speed up."
       ]
     },
     {
-      "grade": "4",
-      "discipline": "PS",
       "code": "4.PS3.2",
+      "grade": "4",
       "statement": "Carry out an investigation to show how faster speeds during a collision can cause a bigger change in the shape of the colliding objects.",
-      "bigIdea": "Collisions transfer energy, changing shape, producing sound or heat, and altering motion.",
+      "bigIdea": "When objects collide, energy can cause shape changes, sound, or heat. When this happens, one object may slow down without making the other move as much as expected.",
       "scientificIdeas": [
-        "Forces during collisions transfer energy.",
-        "Stronger pushes make objects move faster and transfer more energy.",
-        "Shape change, sound, or heat are evidence of energy transfer.",
-        "Collisions involve forces on both objects.",
-        "After collisions, objects may slow as energy transfers to surroundings."
+        "A push or pull (force) can cause an object to move faster.",
+        "Pushes and pulls can have different strengths.",
+        "Pushes and pulls can happen quickly or be sustained.",
+        "Objects can move at different speeds.",
+        "When objects collide, they can change shape depending on how fast they are moving (e.g., dent, knocking over objects, scattering a group of objects).",
+        "A stronger push results in faster motion and can lead to a more noticeable change when the object hits something.",
+        "When objects collide, they push on each other.",
+        "When two objects interact (like a car hitting clay), both objects experience a push.",
+        "Collisions that change the shape of objects also tend to reduce the overall motion of the colliding objects."
       ],
       "studentIdeas": [
-        "Shape changes aren’t related to energy transfer.",
-        "Energy is destroyed when motion stops.",
-        "Only one object experiences a force.",
-        "Heat and sound are unrelated side effects.",
-        "Hard objects never change shape."
+        "Forces cause shape changes but are not related to energy transfer.",
+        "Shape changes that are the result of energy transfer will be permanent.",
+        "Energy transfers only happen one way. For example, the energy of the moving object was destroyed by forces from the deformed object during the collision.",
+        "Shape change is a property of the material, and some objects do not change shape.",
+        "Energy disappears during collisions when there is no motion after the collision.",
+        "Heat is an unrelated side effect rather than part of the energy story."
       ]
     },
     {
+      "code": "8.PS2.6-b",
       "grade": "8",
-      "discipline": "PS",
-      "code": "8.PS2.6",
       "statement": "Evaluate and interpret that for every force exerted on an object there is an equal force exerted in the opposite direction.",
-      "bigIdea": "All forces occur in pairs and can transfer energy to or from both objects in the interaction.",
+      "bigIdea": "Every force (contact and field) exerted by one object on another is part of a force pair, and since both objects experience a force, energy can be transferred to or from both.",
       "scientificIdeas": [
-        "Interacting objects exert equal and opposite forces on each other.",
-        "Each force can change motion, showing energy transfer to or from both objects.",
-        "Energy can be stored by changing positions (stretching springs, lifting objects, separating magnets).",
-        "Work transfers energy when a force changes motion in the direction of the force.",
-        "Force pairs act as internal energy exchanges in a system."
+        "When two objects interact, they exert equal and opposite forces on each other (Newton's third law).",
+        "These forces can change the motion of both objects, which is evidence of energy transfer to or from each.",
+        "These forces can also store energy by changing the relative position of objects. (e.g., stretching a spring, lifting a block, separating connected magnets).",
+        "Energy transfer happens in both directions where the force causes a change to each of the object's energy accounts.",
+        "Stored energy in a system is released by exerting forces on other objects. (e.g., the energy from a spring is transferred when the spring pushes on an object.)",
+        "The effects of these forces---such as motion changes or deformations---are evidence of energy transfer from one object to another.",
+        "Interacting objects should be analyzed as part of a system that exchanges energy internally.",
+        "Work (energy transfer) happens when the force from one object changes the motion of another object in the direction of or the opposite direction of the force."
       ],
       "studentIdeas": [
-        "Forces act only one way during interactions.",
-        "Only the moving object changes energy.",
-        "Stored energy appears from nothing.",
-        "Newton’s third law applies only to still objects.",
-        "Forces only transfer energy when speeding things up."
+        "Forces act in only one direction during an interaction (e.g., the heavier object pushes, the lighter just reacts).",
+        "Only the object that is visibly moving is affected by the force or energy.",
+        "Motion that happens due to stored (potential) energy was created from nothing.",
+        "Students may believe that Newton's third law applies only to static situations (e.g., leaning against a wall), not dynamic ones (e.g., collisions) and therefore energy transfers only occur when starting from rest.",
+        "Forces only happen in one direction when the motion of only one object changes.",
+        "Forces only transfer energy when they make something speed up."
       ]
     }
   ],
-
-  "metadata": { "version": "2025-10-12", "source": "TN Science IFDs – PS3.C" }
+  "metadata": {
+    "version": "2025",
+    "source": "Tennessee Science Standards IFD 2025"
+  }
 }

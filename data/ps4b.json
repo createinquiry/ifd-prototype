@@ -1,154 +1,164 @@
 {
-  "componentIdea": { "code": "PS4.B", "title": "Electromagnetic Radiation" },
-  "discipline": "PS",
-
-  "chapterOverview": {
-    "guidingQuestion": [
-      "What is light?",
-      "How can one explain the varied effects that involve light?",
-      "What other forms of electromagnetic radiation are there?"
-    ],
-    "purpose": "Describe the behaviors of light as it interacts with matter and select/use appropriate models (ray, wave, particle) to explain phenomena.",
-    "centralIdeas": "Light is electromagnetic radiation that transfers energy without requiring a material medium. Sources typically emit many frequencies (visible and non-visible). Materials interact with light by transmitting, absorbing, or reflecting different frequencies; absorbed light transfers energy (often warming the object). Different models (ray, wave, particle) are useful at different levels of precision and for different phenomena."
+  "componentIdea": {
+    "code": "PS4.B",
+    "title": "Electromagnetic Radiation"
   },
-
+  "discipline": "PS",
+  "chapterOverview": {
+    "guidingQuestion": "What is light? How can one explain the varied effects that involve light? What other forms of electromagnetic radiation are there?",
+    "purpose": "The purpose of this component idea is to describe the behaviors of light as it interacts with matter and using appropriate models to explain various phenomena.",
+    "centralIdeas": "Light is a form of electromagnetic wave which transfers energy without using matter as a medium. Objects that emit electromagnetic waves release many frequencies at once -- including both visible and non-visible light. Some objects block light and therefore absorb its energy but produce shadows where less of the light's energy reaches. Other objects reflect light and redirect its energy. Most objects reflect some frequencies (colors) of light and absorb others depending on characteristics of the object and the frequency of the light."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Objects can be seen only when light is available to illuminate them. Very hot objects give off light (e.g., a fire, the sun).\n\nSome materials allow light to pass through them, others allow only some light through, and others block all the light and create a dark shadow on any surface beyond them (i.e., on the other side of the light source), where the light cannot reach. Mirrors and prisms can be used to redirect a light beam. (Boundary: The idea that light travels from place to place is developed through experiences with light sources, mirrors, and shadows, but no attempt is made to discuss the speed of light.) -- NRC, 2012",
+      "progression": "Young children begin forming ideas about light from everyday experiences: they turn on lights to see in the dark, notice their shadows while playing outdoors, and observe how mirrors reflect their image.\n\nInstruction during this grade band focuses on three core ideas: (1) light is necessary to see objects, (2) shadows form when something blocks the path of light, and (3) light can be redirected by reflective surfaces.\n\nEngaging students in investigations that compare how different materials interact with light supports the development of these ideas. Students can begin using arrows or ray diagrams to show that light moves from place to place and interacts with objects along the way.\n\nThese foundational ideas connect directly to later learning. In upper elementary grades, students explore how reflected light enters the eye and enables vision, and how materials interact with different colors of light."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. A great deal of light travels through space to Earth from the sun and from distant stars.\n\nAn object can be seen when light reflected from its surface enters the eyes; the color people see depends on the color of the available light sources as well as the properties of the surface. (Boundary: This phenomenon is observed, but no attempt is made to discuss what confers the color reflection and absorption properties on a surface. The stress is on understanding that light traveling from the object to the eye determines what is seen.)\n\nBecause lenses bend light beams, they can be used, singly or in combination, to provide magnified images of objects too small or too far away to be seen with the naked eye. -- NRC, 2012",
+      "progression": "By third grade, many students already recognize that light allows us to see and that shadows form when light is blocked. Instruction in grades 3-5 focuses on three key ideas: (1) objects are visible when light reflects from them and enters our eyes, (2) white light is composed of many colors that interact differently with materials, and (3) lenses can bend light and make faraway or tiny objects easier to observe.\n\nStudents should investigate how light interacts with different surfaces and how the color of an object depends both on the color of the light source and the properties of the material. While they are not yet ready to explain why this occurs at a molecular level, they should begin to recognize color as evidence of interaction between light and matter.\n\nThroughout this grade band, students continue using ray diagrams to represent how light moves and interacts with objects. This modeling helps them describe phenomena such as reflection, refraction, and magnification.\n\nIn middle school, students will begin using wave models of light to explain why different frequencies interact differently with materials."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. When light shines on an object, it is reflected, absorbed, or transmitted through the object, depending on the object's material and the frequency (color) of the light.\n\nThe path that light travels can be traced as straight lines, except at surfaces between different transparent materials (e.g., air and water, air and glass) where the light path bends. Lenses and prisms are applications of this effect.\n\nA wave model of light is useful for explaining brightness, color, and the frequency-dependent bending of light at a surface between media (prisms). However, because light can travel through space, it cannot be a matter wave, like sound or water waves. -- NRC, 2012",
+      "progression": "By middle school, students have already used ray models to describe how light travels, reflects, and refracts. They've observed that light can be split into different colors and that the colors we see depend on both the source of the light and the properties of the surface.\n\nInstruction in this grade band focuses on three major ideas: (1) different materials interact with light in different ways, reflecting, transmitting, or absorbing it based on the light's frequency and the material's properties; (2) light bends, or refracts, at the boundary between different transparent materials; and (3) a wave model of light helps explain brightness, color, and refraction. Students should model how wave properties such as wavelength and frequency relate to the interaction of light with matter.\n\nThese investigations prepare students to describe electromagnetic radiation as a set of waves that can transfer energy through space, unlike mechanical waves, which require a medium. Though they may not yet model light as particles, students should develop the understanding that wave behavior alone cannot explain all interactions which sets the stage for dual wave-particle models in high school."
+    }
+  },
   "progression": {
     "columns": [
       { "key": "gradeBand", "label": "Grade Band" },
-      { "key": "model",     "label": "Appropriate Model" },
-      { "key": "behavior",  "label": "Behaviors of Light" }
+      { "key": "appropriateModel", "label": "Appropriate Model" },
+      { "key": "behaviorsOfLight", "label": "Behaviors of Light" }
     ],
     "table": [
       {
         "gradeBand": "K-2",
-        "model": "Ray",
-        "behavior": "Light makes things visible when its path reaches them. Shadows form when objects block light. Reflective surfaces redirect light."
+        "appropriateModel": "Ray",
+        "behaviorsOfLight": "Light makes things visible when its path reaches them. Shadows form when objects block light. Reflective surfaces redirect the path of light."
       },
       {
         "gradeBand": "3-5",
-        "model": "Ray",
-        "behavior": "White light consists of many colors. Object color depends on available light and which colors a material reflects or absorbs."
+        "appropriateModel": "Ray",
+        "behaviorsOfLight": "White light consists of a full range of colors. The color of objects depends on the colors of available light reaching an object and which colors an object absorbs/reflects."
       },
       {
         "gradeBand": "6-8",
-        "model": "Wave",
-        "behavior": "Light behaves as a wave; frequency-dependent interactions with matter explain absorption (energy transfer), transmission, and reflection."
+        "appropriateModel": "Wave",
+        "behaviorsOfLight": "Light behaves as a wave. Certain frequencies are absorbed and transmit energy to objects when they cause particles to vibrate. Frequencies of light reflect when they don't match the absorption characteristics of the material."
       },
       {
         "gradeBand": "9-12",
-        "model": "Wave and Particle",
-        "behavior": "Wave models explain many boundary behaviors (reflection/refraction); particle models (photons) explain quantized energy transfer."
+        "appropriateModel": "Wave and Particle",
+        "behaviorsOfLight": "Electromagnetic radiation can be modeled as a wave to explain many behaviors at boundaries between media. Particle models help explain photon formation and energy transfer by light."
       }
     ],
-    "narrative": "Students begin with rays to show that light travels from sources to objects and can be blocked or redirected. Upper elementary extends rays to color and simple optics (lenses, prisms). Middle school formalizes a wave model to explain frequency-dependent interactions and energy transfer. High school adds particle ideas (photons) and unifies models to reason about technologies and phenomena that require both perspectives."
+    "narrative": "Scientists use different models of light to explain how electromagnetic radiation behaves and interacts with matter, depending on the context and the level of precision needed. Students begin with the basic observation that we need light to see and that it moves from one place to another. In the early grades, students can use straight lines (rays) to show light's path. The ray model continues to be useful in late elementary school. Ray diagrams are limited and by middle school, students are explaining more complicated behaviors of light that require new models. Explanations of behaviors such as reflection, refraction, or absorption depend on the frequency of light and therefore wave models become necessary. In high school, students learn that light also behaves like a stream of particles (photons), and that this duality helps explain energy transfer at the atomic level."
   },
-
-  "gradeBandIntro": {
-    "K-2": {
-      "nrcQuote": "By the end of grade 2, objects can be seen only when light is available to illuminate them or when they produce their own light. Some materials allow light to pass; others block it and create shadows. Mirrors and prisms can redirect a beam. (Boundary: No attempt to discuss the speed of light.) – NRC, 2012",
-      "progression": "Young learners notice that light is needed to see and that shadows form when light is blocked. Instruction focuses on: (1) light enables vision, (2) shadows result from blocked paths of light, and (3) reflective surfaces can redirect light. Students can draw arrows (rays) to represent light moving from a source to objects."
-    },
-    "3-5": {
-      "nrcQuote": "By the end of grade 5, an object is seen when light reflected from it enters the eye; color depends on both the light source and surface properties. Lenses bend light to magnify small or distant objects. – NRC, 2012",
-      "progression": "Students deepen ray modeling to include color and simple optics. They investigate how available light and material properties determine perceived color, and how lenses bend light to aid observation. These experiences prepare students for wave-based explanations in later grades."
-    },
-    "6-8": {
-      "nrcQuote": "By the end of grade 8, light is reflected, absorbed, or transmitted depending on material and frequency; light travels in straight lines except when bending at boundaries between media; a wave model explains brightness, color, and refraction. Light can travel through space and is not a matter wave. – NRC, 2012",
-      "progression": "Students compare frequency-dependent interactions (absorption, reflection, transmission), use refraction at material boundaries, and adopt a wave model to explain color, brightness, and prism behavior while distinguishing light from mechanical waves."
-    }
-  },
-
   "standards": [
     {
-      "grade": "1",
-      "discipline": "PS",
       "code": "1.PS4.1",
-      "statement": "Make observations to construct an evidence-based account that objects are visible when light shines on them or if they produce their own light, and that different amounts of light influence what we can see.",
-      "bigIdea": "We see objects when light from a source reaches them and then reaches our eyes; more light generally reveals more detail.",
-      "scientificIdeas": [
-        "Some hot objects produce their own light (e.g., the Sun, a candle, a bulb).",
-        "Light travels outward from a source; arrows (rays) can represent its path.",
-        "Illumination makes objects visible; less available light reduces what we can see.",
-        "Light becomes less bright farther from the source as rays spread out."
-      ],
-      "studentIdeas": [
-        "Light comes from our eyes like a flashlight.",
-        "Objects always look the same regardless of lighting.",
-        "Objects are visible because they make their own light."
-      ]
-    },
-
-    {
       "grade": "1",
-      "discipline": "PS",
+      "statement": "Make observations to construct an evidence-based account that objects are visible when light shines on them or if they produce their own light (e.g., very hot objects), and that different amounts of light influence what we can see.",
+      "bigIdea": "Some objects can emit light, and this light illuminates a space making things visible. (Note: The focus is on the idea that light makes things visible. Late elementary school standards address that our eyes detect reflected light to allow us to see objects.)",
+      "scientificIdeas": [
+        "When some materials get hot enough, they can produce their own light (e.g., the Sun, a candle, a light bulb).",
+        "Light produced by a source moves outward in straight lines and fills the surrounding space. These paths can be represented using arrows, called rays.",
+        "As light spreads from the source, it can illuminate other objects and make them visible.",
+        "We can only see objects when light shines on them or when they emit their own light.",
+        "The amount of light reaching an object influences how much of it we can see, including its brightness and detail.",
+        "Light becomes less bright farther from the source because the rays spread out."
+      ],
+      "studentIdeas": [
+        "Light comes from the eyes, not from objects. (Our eyes are like flashlights that make things visible.)",
+        "An object's appearance will not change, even when there is less light visible.",
+        "Objects are visible because they produce their own light. (Students draw rays that originate from objects, instead of from a light source.)"
+      ]
+    },
+    {
       "code": "1.PS4.2",
-      "statement": "Conduct an investigation to describe how the path of a beam of light can be changed by interactions with different materials (passes through, partly passes through, changes direction, or is blocked to cause shadows).",
-      "bigIdea": "Light travels in straight lines until it interacts with materials that transmit, absorb, or reflect it.",
+      "grade": "1",
+      "statement": "Conduct an investigation to describe how the path of a beam of light can be changed by interactions with different materials (i.e., light passes through, some light passes through, light changes directions, or light is blocked which can cause shadows).",
+      "bigIdea": "Light travels in straight lines, that can be represented with rays, until it hits an object, which can change its path or block it, either partially or completely.",
       "scientificIdeas": [
-        "Light travels away from its source; rays are a useful representation.",
-        "Transparent materials transmit most light and do not form dark shadows.",
-        "Opaque materials absorb/blocked light and form dark shadows; absorbed light can warm objects.",
-        "Translucent materials transmit some light and produce partial shadows.",
-        "Reflective materials redirect light and typically absorb less energy.",
-        "Surfaces in shadow receive less light and are cooler than illuminated areas."
+        "Light travels away from the source that produces it. Arrows, called rays, are a helpful way to represent the path that light travels away from a source.",
+        "The number of rays represents the brightness of light.",
+        "As light travels outward, it can reach and interact with different objects.",
+        "Some materials allow all light rays to pass through them. These transparent objects do not create shadows.",
+        "Some materials block all the light rays that strike them. These materials create dark shadows behind them. The absorbed light can cause these objects to warm up.",
+        "Some materials allow only some light to pass through while blocking the rest. These materials create partial shadows.",
+        "Some materials reflect light and change its direction. These reflective materials (like mirrors) redirect most of the light and absorb very little, so they tend to warm up less.",
+        "Objects that completely or partially block light will warm up because of the light that they absorb.",
+        "Surfaces in shadows will be cooler than surrounding areas because less light (fewer rays) reach them."
       ],
       "studentIdeas": [
-        "Shadows are part of an object rather than a result of blocked light.",
-        "Only objects touching the ground create shadows.",
+        "Shadows are part of the object, not the result of light being blocked.",
+        "Only things that touch the ground create shadows.",
         "Brighter lights make shadows disappear.",
-        "Mirrors create light on their own.",
-        "All materials let some light through."
+        "All materials let some light through.",
+        "Mirrors make light by themselves.",
+        "All materials will create a shadow."
       ]
     },
-
     {
-      "grade": "4",
-      "discipline": "PS",
       "code": "4.PS4.2",
-      "statement": "Construct an explanation for how the colors of available light sources and the bending of light determine what we see.",
-      "bigIdea": "Appearance depends on both properties of light (colors/frequencies, refraction) and properties of materials (reflection/absorption).",
+      "grade": "4",
+      "statement": "Construct an explanation for how the colors of available light sources and the bending of light waves determine what we see.",
+      "bigIdea": "The appearance of the objects that we see depends on the properties of light as well as the properties of the objects.",
       "scientificIdeas": [
-        "White light contains many colors; representing individual colors as rays helps explain observations.",
-        "Lenses transmit light but bend its path on entry/exit.",
-        "Prisms and some materials can separate white light into component colors.",
-        "We see when objects emit light or reflect light toward our eyes.",
-        "Objects absorb some colors and reflect others; perceived color depends on available light and surface properties.",
-        "White surfaces and mirrors both reflect most colors: white surfaces scatter; mirrors reflect specularly.",
-        "Black objects absorb most colors and warm more than white objects that reflect most light.",
-        "Optical devices (magnifiers, glasses, telescopes, microscopes) exploit refraction to change image size."
+        "White light is made of many colors.",
+        "Light travels in straight lines that can be represented as rays. Representing individual colors of white light can help explain the appearance of objects.",
+        "Some objects allow light to pass through them but redirect the path of the light. Lenses allow light to pass through but change the path of light when the light enters and leaves the lens.",
+        "Some objects can separate light into its composite colors and demonstrate that light is made of multiple colors at once (e.g., White light contains all the colors of the spectrum).",
+        "We see objects when those objects produce light, or when objects reflect light from another source.",
+        "Objects can absorb light or absorb certain colors of light. The color of an object is determined by the color of light reflected by the object and towards our eyes.",
+        "White surfaces and mirrors both reflect most of the colors of light that shine on them, but white surfaces scatter the light in many directions, while mirrors reflect the light in one direction.",
+        "Black objects will absorb most of the colors of light (energy) that reach them and will warm up more than white objects that reflect most of the light that reaches them.",
+        "Devices such as magnifying glasses, glasses, telescopes, and microscopes utilize the bending of light to cause objects to appear larger or smaller than their actual size."
       ],
       "studentIdeas": [
-        "Objects look like the color they absorb.",
-        "Mirror reflection is unrelated to colored light.",
-        "All light is the same; color is only in the object.",
-        "Light bends around corners freely; lenses work like mirrors."
+        "Objects appear the color of the light they absorb (e.g., A tree looks green because it absorbs green light).",
+        "Reflection from a mirror is different from reflection of colored light.",
+        "All light looks the same; color is in the object itself.",
+        "Light can bend around corners.",
+        "An object's color is always the same, even if the light shining on it changes."
       ]
     },
-
     {
-      "grade": "8",
-      "discipline": "PS",
       "code": "8.PS4.2",
-      "statement": "Construct explanations from observed patterns of wave behaviors to compare and contrast mechanical and electromagnetic waves based on refraction, reflection, transmission, absorption, and their behavior in a vacuum and/or media.",
-      "bigIdea": "EM waves share many behaviors with mechanical waves but do not require a medium and interact with matter in frequency-dependent ways.",
+      "grade": "8",
+      "statement": "Construct explanations from observed patterns of wave behaviors to compare and contrast mechanical waves and electromagnetic waves based on refraction, reflection, transmission, absorption, and their behavior through a vacuum and/or various media.",
+      "bigIdea": "Many of the properties of electromagnetic waves are shared with mechanical waves and the processes that form each type of wave are relatively analogous.",
       "scientificIdeas": [
-        "All waves transfer energy; EM waves transfer energy between electric and magnetic fields.",
-        "Mechanical waves require a medium and lose energy to the medium; EM waves can propagate through space.",
-        "EM waves are classified by frequency; higher frequency carries more energy.",
-        "Materials absorb specific frequencies; remaining frequencies are reflected/scattered and determine perceived color.",
-        "Absorption increases thermal energy of the material.",
-        "Refraction occurs at boundaries between media and depends on frequency (qualitative ray modeling)."
+        "The interactions between light and matter are best explained using a wave model of light because the interactions depend on the frequency of the light.",
+        "All waves transmit energy from a source to some destination.",
+        "Electric and magnetic fields can store energy.",
+        "Electric fields produce magnetic fields, and magnetic fields produce electric fields. This cycle is the basis for electromagnetic waves and leads to the term \"electromagnetism.\"",
+        "Simple waves result from forces that transfer energy into a medium which cycles in a back-and-forth motion. Electromagnetic waves occur as energy transfers back and forth between electric and magnetic fields.",
+        "Mechanical waves move through matter as energy displaces particles back and forth or up and down, while electromagnetic waves alternate stored energy back and forth between electric and magnetic fields.",
+        "The frequency of an electromagnetic wave describes how many times per second the stored energy moves between being stored entirely in an electric field vs being stored entirely in a magnetic field.",
+        "Electromagnetic waves are classified by their frequency, including some frequencies called visible light that can be seen.",
+        "Each different frequency of electromagnetic radiation transfers a different amount of energy, with higher frequencies transferring larger amounts of energy.",
+        "Every different type of matter absorbs certain frequencies of light. All other frequencies of light are reflected/scattered.",
+        "When the frequency of the light matches the absorptive properties of the material, the light will increase the thermal energy of the material.",
+        "Our ability to see color depends on the frequencies of available light that reflect off of objects and our ability to detect those frequencies.",
+        "Mechanical waves transmit energy through a medium without displacing the medium. Mechanical waves will lose energy since they always create motion in the medium as they travel, since the movement of matter requires energy.",
+        "Electromagnetic waves are perfectly efficient when they travel through space or a vacuum and only lose energy as they interact with matter (e.g., heating the gases in the atmosphere).",
+        "Refraction happens when light crosses between different materials. The path of light is redirected by different amounts depending on the frequency of light. Ray diagrams best model this behavior. (Note: calculating angles of refraction is not intended by this standard)."
       ],
       "studentIdeas": [
         "All waves travel the same way.",
-        "Visible light behaves differently from other EM frequencies.",
+        "Visible light behaves differently from other frequencies of electromagnetic radiation.",
         "Light and sound behave the same because both travel through air.",
-        "Color does not affect how light behaves.",
-        "Light can pass through any material if it is bright enough.",
+        "Color doesn't affect how light behaves.",
+        "All light is the same.",
+        "Light can go through any material if it's bright enough.",
+        "If an object is transparent, it doesn't affect light at all.",
+        "Light loses energy as it travels through space.",
         "Mechanical waves can travel through a vacuum."
       ]
     }
   ],
-
-  "metadata": { "version": "2025-10-12", "source": "TN Science IFDs – PS4.B" }
+  "metadata": {
+    "version": "2025",
+    "source": "Tennessee Science Standards IFD 2025"
+  }
 }

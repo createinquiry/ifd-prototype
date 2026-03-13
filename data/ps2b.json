@@ -1,222 +1,228 @@
 {
-  "componentIdea": { "code": "PS2.B", "title": "Types of Interactions" },
+  "componentIdea": {
+    "code": "PS2.B",
+    "title": "Types of Interactions"
+  },
   "discipline": "PS",
-
   "chapterOverview": {
     "guidingQuestion": "What underlying forces explain the variety of interactions observed?",
     "purpose": "The purpose for this progression is to explain that all forces are a result of four specific interactions.",
-    "centralIdeas": [
-      "Every named force (normal, friction, tension, etc.) is an expression of one of four fundamental interactions: gravity, electromagnetism, strong nuclear, and weak nuclear.",
-      "A force’s magnitude and direction depend on the interaction type and on object/system properties.",
-      "Which force dominates depends on scale: gravity dominates at astronomical scales; electromagnetism at atomic and everyday material scales; strong/weak forces at nuclear scales."
-    ]
+    "centralIdeas": "Every \"named\" force is just an expression of one of four fundamental interactions -- gravity, electromagnetism, that the strong and weak nuclear forces. These interactions produce the familiar forces we observe (normal force, friction, electrostatic, etc.). A force's magnitude and direction depend on the type of interaction and the properties of objects involved. Which force dominates in a system depends on the scale (e.g., gravity dominates at planetary scales, electromagnetism dominates at atomic scales). Complex forces (such as tension and friction) are special cases or combinations of the four fundamental interactions."
   },
-
   "gradeBandIntro": {
     "K-2": {
-      "nrcQuote": "By the end of grade 2, when objects touch or collide, they push on one another and can change motion or shape. – NRC, 2012",
-      "progression": "Students observe that objects push on each other during contact (collisions or pressing) causing changes in motion and/or shape. Slow-motion observations help connect shape change and bounce. Even rigid-looking materials deform; differences in material properties explain different responses (e.g., sand vs. trampoline). These experiences seed the idea that invisible pulls hold objects together at contact."
+      "nrcQuote": "By the end of grade 2. When objects touch or collide, they push on one another and can change motion or shape. -NRC, 2012",
+      "progression": "When things bump or crash, they push on each other. That push might dent or crush the objects or cause the objects to bounce off in a different direction. Student experiences should uncover the pattern: if the \"squish\" is permanent, objects won't bounce off as far or as fast. If the shape returns to normal, the bouncing object keeps almost all its original motion.\n\nEven when collisions cause dents or cracks, the objects typically stay in one piece -- most objects do not turn into clouds of dust. There must be something holding the objects together. The same invisible pulls that hold things together during collisions are at work when surfaces touch.\n\nObjects deform whenever they touch, not just during collisions. Standing on a sidewalk pushes on the concrete, but it's too stiff to show a dent. By contrast, sand molds to your feet, and a trampoline stretches under your weight. In every case, the same invisible pull happens; differences in the properties of the materials just cause them to respond differently.\n\nWhile PS2.A will continue to focus more on how forces change motion, this component idea will progress to help students understand the different types of forces and how they actually act."
     },
     "3-5": {
-      "nrcQuote": "By the end of grade 5, objects in contact exert forces on each other (friction, elastic pushes and pulls). Electric, magnetic, and gravitational forces between a pair of objects do not require contact. The sizes of the forces depend on object properties, distance, and (for magnets) orientation. Earth’s gravity pulls objects toward its center. – NRC, 2012",
-      "progression": "Students extend beyond contact forces to non-contact forces (gravity, magnetism, static electricity). They explore how force strength and direction can depend on distance, orientation, and object properties. They begin labeling forces (friction, tension, gravity, magnetism) in common contexts and use arrows/diagrams to reason about why objects move or remain at rest."
+      "nrcQuote": "By the end of grade 5. Objects in contact exert forces on each other (friction, elastic pushes and pulls). Electric, magnetic, and gravitational forces between a pair of objects do not require that the objects be in contact---for example, magnets push or pull at a distance. The sizes of the forces in each situation depend on the properties of the objects and their distances apart and, for forces between two magnets, on their orientation relative to each other. The gravitational force of Earth acting on an object near Earth's surface pulls that object toward the planet's center. -- NRC, 2012",
+      "progression": "In grades K-2, students developed the foundational idea that pushes and pulls happen when objects touch -- during collisions or while pressing against each other. These interactions can cause objects to change how they move, change their shape, or both.\n\nIn grades 3-5, students should learn that forces exist even when objects are not touching. Some forces, like friction or stretching of a rubber band, require contact, while other forces, such as gravity and magnetism, can act at a distance. These non-contact forces become a key focus in this grade band.\n\nInstruction should begin to draw attention to the factors that affect the strength and direction of different forces. For example, magnetic forces change with distance and orientation, while gravitational forces always pull toward Earth's center.\n\nAs students learn that multiple pushes and pulls can act on an object at once, they begin to use arrows and force diagrams to represent the direction and strength of these forces. They should label different kinds of forces in familiar contexts---such as friction, tension, gravity, and magnetism---and use them to explain why objects move or stay at rest.\n\nIn grades 6-8, students revisit these same forces but develop a more abstract understanding by learning that forces at a distance act through fields."
     },
     "6-8": {
-      "nrcQuote": "By the end of grade 8, electric and magnetic forces can be attractive or repulsive; gravitational forces are always attractive. Forces that act at a distance can be explained by fields that extend through space and can be mapped by their effect on a test object. – NRC, 2012",
-      "progression": "Students model non-contact forces with fields that extend through space. They map gravitational, electric, and magnetic fields using test objects and distinguish always-attractive gravity from electric/magnetic forces that can attract or repel. They connect electricity and magnetism as components of a single electromagnetic interaction and prepare for high-school models where all forces arise from four fundamental interactions transmitted via fields."
-    },
-    "Biology": {
-      "nrcQuote": "",
-      "progression": ""
+      "nrcQuote": "By the end of grade 8. Electric and magnetic (electromagnetic) forces can be attractive or repulsive, and their sizes depend on the magnitudes of the charges, currents, or magnetic strengths involved and on the distances between the interacting objects. Gravitational forces are always attractive. There is a gravitational force between any two masses, but it is very small except when one or both of the objects have large mass---for example, Earth and the sun. Long-range gravitational interactions govern the evolution and maintenance of large-scale systems in space, such as galaxies or the solar system, and determine the patterns of motion within those structures.\n\nForces that act at a distance (gravitational, electric, and magnetic) can be explained by force fields that extend through space and can be mapped by their effect on a test object (a ball, a charged object, or a magnet, respectively). -- NRC, 2012",
+      "progression": "In grades K-5, students developed a foundational understanding of forces such as pushes and pulls that happen between objects. In early grades, they focused on how pushes and pulls affect motion and/or shape during contact. By grades 3-5, students expanded their thinking to include non-contact forces like gravity and magnetism.\n\nIn grades 6-8, students learn that forces act through fields that span across distances. These fields extend into the region around an object where another object would experience a push or a pull. Students learn that gravitational, electric, and magnetic forces are all field-type forces.\n\nInstruction should provide opportunities for students to map or visualize these fields by observing the effect on a test object. Students should also begin to distinguish between forces that are always attractive (like gravity) and those that can be attractive or repulsive (like electric and magnetic forces).\n\nMiddle school instruction should emphasize using field models to explain and predict interactions between objects. Students can begin to connect electricity and magnetism as related forces (components of the electromagnetic force), and explore real-world applications, such as electromagnets, electric circuits, or magnetic navigation.\n\nIn high school, students will build on this foundation by applying mathematical models to describe how gravitational and electric forces work over long distances. They will also learn that all forces arise from four fundamental interactions."
     }
   },
-
   "progression": {
     "columns": [
       { "key": "gradeBand", "label": "Grade Band" },
-      { "key": "natureOfForces", "label": "Nature of Forces" }
+      { "key": "natureOfForces", "label": "Nature of forces" }
     ],
     "table": [
-      { "gradeBand": "K-2", "natureOfForces": "Pushes and pulls occur whenever objects touch." },
-      { "gradeBand": "3-5", "natureOfForces": "Some forces require contact; others act without contact (gravity, magnetism, static electricity)." },
-      { "gradeBand": "6-8", "natureOfForces": "Non-contact forces act over distances through fields; strength/direction depend on properties and distance." },
-      { "gradeBand": "9-12", "natureOfForces": "All forces arise from four fundamental interactions: gravity, electromagnetism, strong nuclear, weak nuclear." }
+      {
+        "gradeBand": "K-2",
+        "natureOfForces": "Pushes and pulls occur whenever objects touch."
+      },
+      {
+        "gradeBand": "3-5",
+        "natureOfForces": "Some types of forces act when objects touch, others can influence objects without touching."
+      },
+      {
+        "gradeBand": "6-8",
+        "natureOfForces": "Non-contact forces act over distances through fields."
+      },
+      {
+        "gradeBand": "9-12",
+        "natureOfForces": "All systems are governed by forces arising from one or more of four interactions: gravity, electromagnetism, strong nuclear force, weak nuclear force."
+      }
     ],
-    "narrative": "Forces govern all interactions between objects, but which force matters most depends on scale. At everyday scales, electromagnetic and gravitational forces explain motion, contact effects, and material behavior. At astronomical scales, gravity dominates motion and structure. At atomic scales, electromagnetic forces govern bonding and phenomena such as friction and tension. Within nuclei, strong and weak forces dominate, explaining nuclear binding and radioactive decay."
+    "narrative": "This component idea helps students understand how forces work. Forces govern all interactions between objects, but which force matters most depends on the scale of the system being observed. At the scale of everyday life, electromagnetic and gravitational forces dominate. These forces explain everything from how objects move and collide, to how materials hold together, and how chemical reactions occur. At larger scales, like planets and stars, gravity becomes the dominant force, shaping the motion of planets and beyond. At the tiny scale of atoms and molecules, electromagnetic forces govern chemical bonding and explain forces like friction and tension. At scales as small as the nucleus of a single atom the strong and weak nuclear forces dominate."
   },
-
   "standards": [
     {
+      "code": "2.PS2.1-b",
       "grade": "2",
-      "discipline": "PS",
-      "code": "2.PS2.1",
       "statement": "Analyze the push or the pull that occurs when objects collide or are connected.",
-      "bigIdea": "Pushes and pulls happen whenever objects touch—during collisions or when pressed together—and can change motion and/or shape.",
+      "bigIdea": "Pushes and pulls happen whenever objects touch---when they crash into or press against each other. These pushes and pulls can change the object's shape and/or how the object moves.",
       "scientificIdeas": [
-        "Pushes and pulls happen when objects touch—during collisions or while pressed together.",
-        "Pushes and pulls can exist even when nothing is visibly moving (e.g., standing or leaning).",
-        "A push/pull is an interaction between objects, not a property of a single object.",
-        "A push/pull can change motion, shape, or both.",
-        "All objects deform during contact; materials differ in how easily they change shape.",
-        "Surfaces that deform easily divert more of the push into shape change (e.g., sand vs. pavement).",
-        "Greater permanent deformation in a collision generally corresponds to less rebound distance.",
-        "Less deformation generally corresponds to greater bounce in collisions."
+        "Pushes and pulls happen when objects touch. This can be during a crash (a collision) or when the objects are pressed together (e.g., smashing a lump of clay or standing on the ground).",
+        "Pushes and pulls can happen even when nothing is moving---like when you're standing on the ground or leaning on something.",
+        "A push/pull does not belong to an object; it happens between the objects.",
+        "A push/pull can change how objects move, change the objects' shape, or both.",
+        "All objects change shape when they're touching---even hard objects---but some materials resist shape changes more than others.",
+        "It's harder to move across surfaces that change shape easily (e.g., walking across sand, running in mud) because more of the push changes the shape of the surface, and less of the push changes the motion.",
+        "In collisions, if the shape of the object changes a lot, it won't bounce very far.",
+        "Objects bounce further apart in collisions where their shapes do not change significantly."
       ],
       "studentIdeas": [
-        "Only moving objects push or pull.",
-        "Pushes and pulls change motion but not shape.",
-        "Hard objects do not change shape.",
-        "High bounces mean no shape change occurred.",
-        "Higher-speed crashes always send objects farther.",
-        "Higher-speed crashes always smash objects.",
-        "A push/pull is something an object has, not something that happens between objects."
+        "Only moving objects push or pull on each other.",
+        "Pushes and pulls cause objects to move but not to change shape.",
+        "Hard objects don't change shape at all.",
+        "Objects that bounce high don't change shape during the collision.",
+        "Crashes that happen at greater speeds will always make things go further.",
+        "Crashes that happen at greater speeds will always smash the objects.",
+        "Pushes and pulls are something that an object has, not something that happens between objects."
       ]
     },
-
     {
-      "grade": "3",
-      "discipline": "PS",
       "code": "3.PS2.1",
-      "statement": "Explain cause-and-effect relationships of forces that cannot be seen, including interactions between two objects not in contact with each other (e.g., static electricity, magnetism, gravity).",
-      "bigIdea": "Forces can act with or without contact. Strength and direction can depend on object properties, distance, and orientation.",
+      "grade": "3",
+      "statement": "Explain cause and effect relationships of forces that cannot be seen including interactions between two objects not in contact with each other (i.e., static electricity, magnetism and gravity).",
+      "bigIdea": "Forces can act between objects that are touching and between objects that are not touching. The strength and direction of these forces can depend on things like the properties of the objects, how far apart they are, and how they are aligned.",
       "scientificIdeas": [
-        "Forces can act with contact and without contact.",
-        "Force strength and sometimes direction depend on system properties.",
-        "Friction resists sliding between surfaces (contact force).",
-        "Elastic forces in stretched objects act to restore original shape.",
-        "Gravity, static electricity, and magnetism can act at a distance.",
-        "Non-contact forces cause observable changes in motion even though the forces are unseen.",
-        "Force strength can depend on distance (many forces weaken with distance).",
-        "Force strength can depend on object properties (e.g., mass, magnet size, surface type).",
-        "Magnetic/electric force direction depends on alignment and like/opposite properties.",
-        "Gravitational force is always attractive."
+        "Forces can act between objects that are touching and between objects that are not touching.",
+        "The strength---and in some cases direction of forces---can vary depending on properties of the objects and system.",
+        "Friction is a contact force between surfaces that resists one surface sliding past another.",
+        "Elastic forces exist when objects are stretched and act in a direction that returns the object back to their original shape.",
+        "Gravity, static electricity, and magnetism are non-contact forces that can push or pull objects that are not touching.",
+        "Non-contact forces can cause changes in motion that we can observe, even though the forces themselves cannot be seen.",
+        "The strength of a force can depends on the distance between the objects -- some forces only exist when objects are touching.",
+        "The strength of a force can depends on the properties of the objects (such as the size of a magnet, the amount of mass, or the nature of the surfaces).",
+        "The direction of a magnetic or electric force depends on the properties of the objects and how they are aligned---for example, whether the poles of magnets or types of electric charge are alike or opposite.",
+        "Gravitational force always pulls objects toward each other."
       ],
       "studentIdeas": [
-        "Objects only push/pull when touching.",
-        "Force is a property an object has, not an interaction.",
-        "Bigger objects always exert stronger forces.",
-        "Magnets only work when touching.",
-        "All magnets are bar/horseshoe magnets with poles at the ends.",
-        "Static electricity is only a shock; it does not push or pull.",
-        "Gravity only exists when something is falling or only pulls straight down.",
-        "Gravitational force stops acting when objects are in the air.",
-        "Magnets can pull but not push.",
+        "Objects can only push or pull when they are touching.",
+        "A force is something an object has, not something that happens between two objects.",
+        "Bigger objects always have stronger forces.",
+        "Magnets only work when they touch other magnets.",
+        "All magnets are bar/horseshoe shaped with poles at the end.",
+        "Static electricity is just a \"shock\"---it doesn't pull or push things.",
+        "Gravity only exists when something is falling.",
+        "Gravitational force stops working when something is in the air.",
+        "Magnetic forces can pull but not push.",
         "Larger magnets are always stronger than smaller ones.",
-        "Force direction/strength does not depend on alignment.",
-        "Non-contact forces cannot act through materials like wood or plastic."
+        "The direction or strength of a force doesn't change based on how things are lined up.",
+        "Non-contact forces don't work through solid materials (e.g., a magnet can't pull something through wood or plastic)."
       ]
     },
-
     {
-      "grade": "5",
-      "discipline": "PS",
       "code": "5.PS2.3",
-      "statement": "Use evidence to support that the gravitational force exerted by Earth on objects is directed toward Earth’s center.",
-      "bigIdea": "Gravity is always attractive; on Earth it pulls objects toward Earth’s center.",
+      "grade": "5",
+      "statement": "Use evidence to support that the gravitational force exerted by Earth on objects is directed toward the Earth's center.",
+      "bigIdea": "Gravity is always an attractive force, which means all objects on Earth are pulled toward the planet's center.",
       "scientificIdeas": [
-        "A force is a push or pull that can vary in strength and direction.",
-        "Forces can change an object’s shape or motion.",
-        "Forces can act without contact.",
-        "Gravity always attracts objects toward each other.",
-        "On Earth, gravity pulls objects toward Earth’s center.",
-        "The magnitude of the effect is most evident when at least one object has large mass (e.g., Earth)."
+        "A force is a push or a pull on an object, and forces can have different strengths and directions.",
+        "Forces can cause changes in the shape or motion of an object.",
+        "Forces can act between objects that are not touching.",
+        "Gravity is always an attractive force---it pulls objects toward each other.",
+        "On Earth, gravity pulls all objects toward the planet's center.",
+        "Objects on Earth are pulled towards its center because the Earth is such a large object."
       ],
       "studentIdeas": [
-        "The Earth pulls on objects, but objects do not pull back on Earth.",
+        "The Earth pulls objects towards its center, but the objects do not also pull back on the Earth.",
         "Gravity only works on Earth, not in space.",
-        "Gravity only pulls things that are falling or only straight down.",
-        "The Sun pulls Earth more than Earth pulls the Sun (ignoring mutual interaction).",
-        "Objects simply fall naturally without any force involved.",
-        "Orbiting objects just follow a path rather than being pulled.",
-        "Gravity is stronger higher up because drops from greater heights cause more damage."
+        "Gravity only pulls things straight down.",
+        "Gravity only pulls things that are falling.",
+        "The force that pulls the Earth towards the Sun is stronger than the force that pulls the Sun towards Earth.",
+        "Objects fall naturally, as long as there is nothing to stop them---and there is no force involved.",
+        "Orbiting objects follow a path.",
+        "Gravity is stronger when you're higher up because things that are dropped from greater heights suffer greater damage and/or are moving faster when they hit the floor."
       ]
     },
-
     {
-      "grade": "8",
-      "discipline": "PS",
       "code": "8.PS2.1",
-      "statement": "Conduct an investigation to provide evidence that the size of electric and magnetic force fields depends on the magnitudes of charges, current, or magnetic strengths involved and the distances between interacting objects.",
-      "bigIdea": "Charged and magnetic objects produce fields that extend into surrounding space and can exert forces on appropriate test objects; field strength varies with properties and distance.",
+      "grade": "8",
+      "statement": "Conduct an investigation to provide evidence that the size of force fields (electric and magnetic) depends on the magnitudes of the charges, current, or magnetic strengths involved and the distances between interacting objects.",
+      "bigIdea": "Charged and magnetic objects produce fields that extend into the space around them and can exert forces on other objects.",
       "scientificIdeas": [
-        "Forces are pushes/pulls that can vary in strength and direction.",
-        "Some forces require contact; others are fields surrounding objects.",
-        "A field’s presence is not itself a force; a force occurs when a suitable test object is in the field.",
-        "Electric and magnetic fields weaken with increasing distance from the source.",
-        "Fields exist even without a second object present.",
-        "Field lines represent direction; spacing represents relative strength.",
-        "Multiple sources can contribute to the net field at a point.",
-        "Force direction depends on interaction (opposite charges attract; like charges repel; magnetic poles: like repel, unlike attract).",
-        "Moving charges produce magnetic fields; stationary charges produce electric fields."
+        "Forces are pushes and pulls that one object exerts on another that can vary in strength and direction.",
+        "Some forces require that objects touch, while other forces exist as fields that surround objects.",
+        "Forces produced by fields depend on properties of both the field, and the second object placed into the field.",
+        "The strength of a field at a location is not itself a force. A force exists only when a second object interacts with the field.",
+        "Electric and magnetic fields -- like gravitational fields -- become weaker at greater distances from the object producing the field.",
+        "Fields exist in space around objects, even without a second object to interact with the field.",
+        "A test object is an object that can lead to observations about properties of a field.",
+        "Test objects must be able to interact with the field being studied.",
+        "Test objects will experience a force when placed into a field. The direction of the force acting on the test object points in the direction of the field.",
+        "Field lines represent magnetic or electric fields in space.",
+        "The distance between field lines indicates the strength of the field in space. Lines drawn closer together represent positions in space where the field is stronger.",
+        "Fields from more than one source can exist simultaneously at a point in space.",
+        "The direction of the force depends on the nature of the interaction between the field and the test object. For example, opposite charges attract and like charges repel.",
+        "Magnetic poles also determine force direction: like poles repel and opposite poles attract.",
+        "Unlike gravitational force, which always pulls objects together, electric and magnetic forces can either attract or repel depending on the properties and alignment of the objects.",
+        "Moving charges, such as in a current carrying conductor, produce magnetic fields.",
+        "Stationary charges, such as static charges, produce electric fields."
       ],
       "studentIdeas": [
-        "Charges and magnets only exert forces when touching.",
-        "Fields stop existing if no second object is present.",
+        "Electric charges and magnets only produce forces when they are touching something.",
+        "Electric fields stop existing when no second object is present to feel the force.",
         "A charged object always repels other objects.",
-        "Electric fields are blocked by air or only exist in wires.",
-        "Force on a test charge is the same everywhere in the field.",
-        "Electric/magnetic fields behave like gravity and only attract.",
-        "Magnets only work through air; not through wood or water.",
-        "Larger magnets are always more powerful.",
-        "Field lines are physical structures in space."
+        "Electric fields are blocked by air or only work in wires or other conductors.",
+        "The force experienced by a test charge is always the same no matter where it is placed in the field.",
+        "Electric and magnetic fields behave like gravity and only attract.",
+        "Objects can only push or pull on each other when they are touching.",
+        "Magnetic poles are always located at the ends of a magnet.",
+        "Magnetic fields only work through air, not through materials like wood or water.",
+        "Larger magnets are always more powerful than smaller ones.",
+        "Magnetic and electric field lines are real physical structures in space rather than visual models used to represent field strength and direction."
       ]
     },
-
     {
-      "grade": "8",
-      "discipline": "PS",
       "code": "8.PS2.2",
+      "grade": "8",
       "statement": "Ask scientific questions about data to determine how manipulating variables can increase or diminish the electric current and magnetic field strength in electromagnets, generators, and electric motors.",
-      "bigIdea": "Motors, generators, and electromagnets show electricity and magnetism are coupled; changing electrical or magnetic variables changes the other.",
+      "bigIdea": "Devices like electromagnets, motors, and generators show that electricity and magnetism are not separate forces, but two parts of one electromagnetic interaction. Changes to either the electric or magnetic components of the system will impact the other component.",
       "scientificIdeas": [
-        "Magnetic forces are directional: like poles repel, opposite poles attract.",
-        "Electric current is the flow of charge through a conductor and can change direction.",
-        "Electric currents create magnetic fields; field strength/direction depend on current and device geometry.",
-        "Changing magnetic fields can induce current in a conductor.",
-        "Strength of an electromagnet depends on variables like current and number of coils.",
-        "Motion across field lines is required to induce current in a conductor.",
-        "Reversing current reverses the magnetic field it produces.",
-        "Generator output depends on motion and field orientation.",
-        "These interactions enable energy conversions (electrical ↔ mechanical)."
+        "Magnetic forces are directional: like poles repel, and opposite poles attract.",
+        "Electric current is the flow of charged particles through a conductor and can move in different directions.",
+        "Electric currents create magnetic fields, and the strength and direction of these fields depend on properties of the current and the device.",
+        "Magnetic fields can cause electric current to flow when a conductor moves through them.",
+        "The strength and direction of the current produced depend on the motion of the conductor and the properties of the magnetic field.",
+        "Devices like electromagnets, generators, and motors rely on this interaction between electricity and magnetism to function.",
+        "The strength of a magnetic field produced by an electric current can be changed by adjusting variables like the amount of current or the number of coils in a wire.",
+        "The motion of a conductor through a magnetic field must be across the field lines---not along them---to generate current.",
+        "Changing the direction of the electric current will change the direction of the magnetic field it produces.",
+        "The direction of the current generated in a conductor depends on the direction of the motion and the orientation of the magnetic field.",
+        "The interaction between electricity and magnetism can be used to convert energy from one form to another, such as electrical to mechanical (motors) or mechanical to electrical (generators)."
       ],
       "studentIdeas": [
-        "Electromagnets are always on.",
-        "Only permanent magnets create magnetic fields.",
-        "Electric current only flows in wires.",
-        "Generators and motors are unrelated (or are the same device).",
-        "Adding batteries is the only way to strengthen an electromagnet.",
-        "A stationary magnet near a stationary conductor creates current.",
+        "Electromagnets are magnets that are always on.",
+        "Magnetic fields are only created by permanent magnets.",
+        "Electric currents only flow in wires, not in other conductors.",
+        "Generators and motors are completely different and do not rely on the same principles. (Or they are two words for the same thing.)",
+        "Adding batteries or more power is the only way to increase the strength of an electromagnet.",
+        "Placing a magnet near a conductor will create an electric current, even when both things are sitting still.",
         "Electricity only comes from batteries or power plants.",
-        "Wire shape/arrangement does not affect the magnetic field.",
-        "Changing magnetic fields have no effect without a battery.",
-        "Only a magnet can detect a magnetic field."
+        "The magnetic field created by an electric current is the same no matter how the wire is shaped or arranged.",
+        "Changing the magnetic field around a wire has no effect unless the wire is connected to a battery.",
+        "The only way to detect a magnetic field is with another magnet."
       ]
     },
-
     {
-      "grade": "8",
-      "discipline": "PS",
       "code": "8.PS2.3",
-      "statement": "Construct an argument using evidence to support the claim that gravitational interactions in large-scale systems (e.g., galaxies and the solar system) are attractive and depend on the masses of and distance between interacting objects.",
-      "bigIdea": "Gravity is always attractive, acts over vast distances, and organizes large-scale systems via mass- and distance-dependent interactions.",
+      "grade": "8",
+      "statement": "Construct an argument using evidence to support the claim that gravitational interactions in a large-scale system (e.g., galaxies and solar system) are attractive and depend on the masses of and distance between interacting objects.",
+      "bigIdea": "Gravity is always an attractive force, which means all objects will be drawn together. We see evidence of this inward pull in other systems such as the orbits of satellites, moons, planets, and even in the shapes of galaxies.",
       "scientificIdeas": [
-        "Gravitational effects are most apparent when at least one object has very large mass (e.g., star, planet).",
-        "Gravity extends over vast distances but weakens with increasing separation.",
-        "Gravity governs orbits of moons, planets, and satellites.",
-        "Gravity organizes large-scale systems (solar systems, galaxies).",
-        "System shapes and motions indicate attraction toward more massive bodies.",
-        "Absolute direction depends on positions; relatively, masses pull toward each other."
+        "The immediate effects of gravity are most observable when at least one extremely massive object is present (e.g., a star or planet).",
+        "Gravity is strongest when objects are near each other, but the effect of gravity extends over the vast distances of space.",
+        "Gravity is responsible for the orbits of moons, planets, and satellites.",
+        "Gravity causes objects in space to form organized systems, such as solar systems and galaxies.",
+        "The shape and motion of large-scale systems (like the solar system or a galaxy) are evidence that gravity pulls objects together and towards the more massive object when masses differ greatly.",
+        "The absolute direction of gravity depends on the positions of the objects; the relative direction will always pull objects towards each other."
       ],
       "studentIdeas": [
-        "Earth pulls on objects, but objects do not pull back on Earth.",
-        "The Sun’s pull on Earth is stronger than Earth’s pull on the Sun (ignoring mutuality).",
-        "Objects fall naturally without any force involved.",
-        "Gravity is stronger higher up because drops from greater heights cause more damage.",
-        "Stars in galaxies are stationary.",
-        "Gravity only works on Earth, not in space."
+        "The Earth pulls objects towards its center, but the objects do not also pull back on the Earth.",
+        "The force that pulls the Earth towards the Sun is stronger than the force that pulls the Sun towards Earth.",
+        "As long as there is nothing to keep an object from falling, things fall naturally, and there is no force involved.",
+        "Gravity is stronger when you're higher up because things that are dropped from greater heights suffer greater damage and/or are moving faster when they hit the floor.",
+        "Stars in galaxies are stationary."
       ]
     }
   ],
-
-  "metadata": { "version": "2025-10-12", "source": "TN Science IFDs – PS2.B chapter" }
+  "metadata": {
+    "version": "2025",
+    "source": "Tennessee Science Standards IFD 2025"
+  }
 }

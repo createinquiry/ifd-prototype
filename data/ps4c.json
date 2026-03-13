@@ -1,163 +1,159 @@
 {
-  "componentIdea": { "code": "PS4.C", "title": "Information Technologies and Instrumentation" },
+  "componentIdea": {
+    "code": "PS4.C",
+    "title": "Information Technologies and Instrumentation"
+  },
   "discipline": "PS",
-
   "chapterOverview": {
     "guidingQuestion": "How are instruments that transmit and detect waves used to extend human senses?",
-    "purpose": "Explore how interactions between waves and matter are applied in technologies that extend human senses and enable communication.",
-    "centralIdeas": "Human senses capture information within certain ranges, but devices designed with knowledge of wave–matter interactions extend what we can detect and communicate. Different wave types have properties that determine how they interact with matter and how they can be used. As understanding of wave behavior deepens, instruments and communication systems can gather, encode, store, and transmit more information."
+    "purpose": "The purpose of this component idea is to explore how the interactions between waves and matter are applied in different technologies.",
+    "centralIdeas": "Human senses capture information within certain ranges - there are sounds that are too faint for us to hear, electromagnetic waves we cannot see, etc. Different types of waves, including electromagnetic waves, have unique properties that determine how they interact with matter and how they can be used. People develop devices that take advantage of these properties to extend what we can observe, allowing us to explore our surroundings and communicate in new ways. The more we understand about the interaction of waves with the medium, the more information we can gather."
   },
-
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. People use their senses to learn about the world around them. Their eyes detect light, their ears detect sound, and they can feel vibrations by touch.\n\nPeople also use a variety of devices to communicate (send and receive information) over long distances. -- NRC, 2012",
+      "progression": "This component idea begins as students consider that we use our senses of sight, touch, and hearing to learn about our world and that we can design ways to communicate over long distances.\n\nA good task for students is to develop a system that sends messages using vibrations, sound, and/or light. They may try to feel taps on a desk, plucks of a string, ripples sent across the surface of water, etc.\n\nIt is appropriate for students to realize that there are limits to the solutions that are caused by properties of vibrations, sound, and light. For example, sometimes a sound is too soft to hear, or someone is too far away.\n\nWhen students use system models to communicate how their solutions work, then it is possible for them to uncover the pattern that the systems all involve some process to encode, transmit, and decode a message.\n\nThe messages that students send in grades K-2 are processed immediately. In later grades students will learn that humans have technologies that store messages."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Lenses can be used to make eyeglasses, telescopes, or microscopes in order to extend what can be seen. The design of such instruments is based on understanding how the path of light bends at the surface of a lens.\n\nDigitized information (e.g., the pixels of a picture) can be stored for future recovery or transmitted over long distances without significant degradation. High-tech devices, such as computers or cell phones, can receive and decode information---convert it from digitized form to voice---and vice versa. -- NRC, 2012",
+      "progression": "In earlier grades, students should have seen that humans design systems to send or receive messages that use their senses. It is likely that students encountered limitations to their systems and explained the cause of the limitations.\n\nIn late elementary school students should learn that it is possible to store messages and the idea of storing messages leads students to the concept of \"information.\" Stored messages are one type of information. Digitizing is one way that information can be stored.\n\nThe second strand of this progression is about wave properties and how specific properties affect the way we can use waves. In late elementary students see that the path of light changes when it passes through lenses. Designing devices to improve senses requires that we must understand exactly how light bends when it passes through a lens.\n\nIn middle school students will learn that the light they have been discussing during elementary school is called visible light and that visible light is part of a larger spectrum of electromagnetic radiation that includes many other types of light."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Appropriately designed technologies (e.g., radio, television, cell phones, wired and wireless computer networks) make it possible to detect and interpret many types of signals that cannot be sensed directly. Designers of such devices must understand both the signal and its interactions with matter.\n\nMany modern communication devices use digitized signals (sent as wave pulses) as a more reliable way to encode and transmit information. -- NRC, 2012",
+      "progression": "This component idea develops along two intertwined threads: (1) how wave-based technologies extend human senses, and (2) how these same technologies are used in modern communication systems.\n\nIn middle school, these threads converge. Students investigate how digitized information---represented in 1s and 0s---can be encoded as wave pulses and transmitted through various media. These pulses may take the form of bursts of light in fiber optics, changes in voltage in electrical wires, or modulated radio waves sent through the air. Students examine how these technologies rely on understanding wave-matter interactions and why digital transmissions offer advantages over analog: it reduces distortion, allows for error correction, and supports reliable long-distance communication. They also explore tools that detect waves humans cannot directly sense---like infrared or radio waves---and see how these tools are engineered based on what we know about wave behavior.\n\nStudents can work in pairs to replicate a simple black-and-white image to develop an understanding of how information is digitized. Such an activity is most effective if students are designing the communication protocols.\n\nWhile the inner workings of these technologies may feel out of reach, a solar cell connected to a powered speaker can transform light into sound, providing access to concrete experiences with wave-based technologies."
+    }
+  },
   "progression": {
     "columns": [
       { "key": "gradeBand", "label": "Grade Band" },
-      { "key": "senses", "label": "Waves to Extend Human Senses" },
-      { "key": "comm", "label": "Communicating with Waves" }
+      { "key": "wavesToExtendSenses", "label": "Waves to Extend Human Senses" },
+      { "key": "communicatingWithWaves", "label": "Communicating with Waves" }
     ],
     "table": [
       {
         "gradeBand": "K-2",
-        "senses": "People use senses to detect light, sound, and vibrations.",
-        "comm": "Simple systems can send/receive information (e.g., cup-and-string phones, tapping, light flashes, signal flags)."
+        "wavesToExtendSenses": "People use their senses to learn about their surroundings, such as seeing light, hearing sound, or feeling vibrations.",
+        "communicatingWithWaves": "People can use simple systems to send and receive information across distances (e.g., cup-and-string phones, tapping sounds, light flashes, signal flags)."
       },
       {
         "gradeBand": "3-5",
-        "senses": "Lenses (magnifiers, telescopes) overcome limits of vision by bending light.",
-        "comm": "Information can be stored as digital data (pixels) and transmitted; devices encode/decode information."
+        "wavesToExtendSenses": "Lenses are used in devices like magnifying glasses and telescopes to help overcome the limits of vision by making distant or small things observable.",
+        "communicatingWithWaves": "Information can be stored as digital data (like pixels) and transmitted without loss. Devices can encode and decode information."
       },
       {
         "gradeBand": "6-8",
-        "senses": "Devices detect waves outside human ranges (e.g., infrared, radio).",
-        "comm": "Digitized pulses transmit information reliably for modern communications."
+        "wavesToExtendSenses": "Devices are designed to detect waves that fall outside the range of human senses, such as infrared and radio waves.",
+        "communicatingWithWaves": "Information encoded as digitized wave pulses can be reliably transmitted, received, and interpreted using modern communication tools."
       },
       {
         "gradeBand": "9-12",
-        "senses": "Wave–matter understanding enables instruments that reveal otherwise unobservable phenomena.",
-        "comm": "Technologies (e.g., semiconductors, lasers) apply wave principles to transmit/process information."
+        "wavesToExtendSenses": "Scientific understanding of wave-matter interactions enables the design of tools that can gather detailed information about otherwise unobservable phenomena.",
+        "communicatingWithWaves": "Communication and imaging technologies (e.g., semiconductors, lasers) depend on advanced applications of wave principles to transmit and process information."
       }
     ],
-    "narrative": "Learning begins with direct use of senses and simple signaling, then progresses to tools that extend senses (lenses) and the idea that information can be encoded and stored digitally. Middle grades connect wave models to technologies that detect non-sensory signals and to digitized communication. High school unifies wave principles with advanced instrumentation and information technologies."
+    "narrative": "The progression of learning in PS4.C begins with students' direct use of their senses and builds toward understanding how tools and technologies extend these senses and enable communication. This component idea contains two key threads: (1) how instruments are designed based on knowledge of wave-matter interactions to help people make observations they could not make unaided, and (2) how wave-based technologies are used to encode, store, and transmit information. In grades K-2, students explore the world through their senses and learn that people can send and receive information across distances using simple methods. In grades 3-5, students extend this understanding by learning how tools like magnifying lenses and telescopes enhance vision by bending light. By grades 6-8, students recognize that many types of waves fall outside the range of human detection and that specialized tools can detect and interpret those signals."
   },
-
-  "gradeBandIntro": {
-    "K-2": {
-      "nrcQuote": "By the end of grade 2, people use devices to communicate (send and receive information) over distances and use senses to observe light, sound, and vibrations. – NRC, 2012",
-      "progression": "Students use sight, hearing, and touch (vibrations) to observe the world and design simple systems to send messages (taps, light flashes, flags). They notice limits (sounds too soft, distances too far) and begin to see patterns across systems: encoding, transmitting, and decoding messages."
-    },
-    "3-5": {
-      "nrcQuote": "",
-      "progression": "Students learn that tools like lenses extend vision by bending light, and that scientific knowledge guides device design. They meet the idea of information: messages that can be stored and transmitted digitally (e.g., pixels). Encoding/decoding connects earlier signaling tasks to modern data storage and communication."
-    },
-    "6-8": {
-      "nrcQuote": "",
-      "progression": "Students examine technologies that detect waves outside human perception (infrared, radio) and how digitized pulses travel via light, electrical signals, or radio. They argue from evidence about reliability of digital vs. analog, and relate performance to wave–matter interactions and error correction."
-    }
-  },
-
   "standards": [
     {
-      "grade": "K",
-      "discipline": "PS",
       "code": "K.PS4.1",
+      "grade": "K",
       "statement": "Record data from an investigation using senses to detect light, sound, and vibrations and communicate observations.",
-      "bigIdea": "We use senses to detect light, sound, and vibrations; shared systems let us send/receive simple messages.",
+      "bigIdea": "We can use our senses to send/receive messages using light, sound, or vibrations when the sender and receiver both understand how to write or read the message. (Note: Students are not expected to know that light behaves like a wave, beyond the fact that some objects can produce light and that the light travels outward from the source once it's produced.)",
       "scientificIdeas": [
-        "Light, sound, and vibrations come from a source and move outward in predictable directions (arrows/rays can represent paths).",
-        "Eyes detect light; ears detect sound; skin can feel vibrations.",
-        "People can agree on patterns (knocks, flashes, flags) to encode and understand messages.",
-        "Signals work better under certain conditions (e.g., light travels farther than sound but can be blocked or washed out)."
+        "Light, sound, and vibrations come from a source and move outward in predictable directions, which we can represent with arrows or rays.",
+        "Our eyes can detect light, our ears can detect sound, and our skin can feel vibrations.",
+        "People can create shared systems to send and understand messages, such as knocking patterns, flashing lights, or waving flags.",
+        "Light, sound, and vibration signals work better in some conditions than others. For example, light can travel farther than sound, but it may not work well if something blocks the view or if it's too bright outside."
       ],
       "studentIdeas": [
-        "Louder/brighter means more important.",
-        "You can feel sound only with your ears.",
+        "The louder or brighter something is, the more important it is.",
+        "You can feel sound with your ears.",
         "All vibrations are dangerous or bad."
       ]
     },
-
     {
-      "grade": "2",
-      "discipline": "PS",
       "code": "2.PS4.2",
-      "statement": "Use tools and materials to design and build a device to understand that light and sound travel in waves and can send signals over a distance.",
-      "bigIdea": "People use knowledge of light and sound to build devices that send signals across distances.",
-      "scientificIdeas": [
-        "Light and sound can travel and carry information.",
-        "Materials can reflect, block, or direct light and sound in devices.",
-        "Tools and materials enable simple signaling systems based on sound or light."
-      ],
-      "studentIdeas": [
-        "Light and sound need wires to move from place to place.",
-        "If you can see or hear something, it must be close.",
-        "Only high-tech devices can send messages."
-      ]
-    },
-
-    {
       "grade": "2",
-      "discipline": "PS",
+      "statement": "Use tools and materials to design and build a device to understand that light and sound travel in waves and can send signals over a distance.",
+      "bigIdea": "People can use what they know about light and sound to build devices that send signals across a distance.",
+      "scientificIdeas": [
+        "Light and sound can travel across distances and carry information.",
+        "Devices can be designed using materials that reflect, block, or direct light and sound.",
+        "Tools and materials can be used to create simple signaling systems based on sound or light."
+      ],
+      "studentIdeas": [
+        "Sound and light need wires or objects to move from place to place.",
+        "If you can see or hear something, it must be close.",
+        "Only technology (like phones or computers) can send messages."
+      ]
+    },
+    {
       "code": "2.PS4.3",
+      "grade": "2",
       "statement": "Obtain information to describe how devices communicate over a distance using light or sound.",
-      "bigIdea": "Devices send and receive sound or light to communicate across distances.",
+      "bigIdea": "People use devices that send and receive sound or light to communicate across distances.",
       "scientificIdeas": [
-        "Devices can send information with sound (tapping, clapping) or light (flashing, signaling).",
+        "Devices can send information using sound (e.g., tapping, clapping) or light (e.g., flashing, signaling).",
         "Communication systems require a source, a signal, and a receiver.",
-        "Simple messages can be transmitted by turning sound or light on and off in patterns."
+        "Simple messages can be transmitted by turning light or sound on and off in patterns."
       ],
       "studentIdeas": [
-        "Devices work by magic or just electricity without any signal.",
-        "You must hear someone directly to communicate.",
-        "Light and sound only occur naturally and can’t be used to send messages."
+        "Devices work by magic or electricity without a signal.",
+        "You need to be able to hear someone to communicate with them.",
+        "Light and sound only happen naturally---they can't be used to send messages."
       ]
     },
-
     {
-      "grade": "4",
-      "discipline": "PS",
       "code": "4.PS4.3",
+      "grade": "4",
       "statement": "Investigate how lenses enhance human senses and digital devices (e.g., computers and cell phones) use waves to receive and decode information over distances.",
-      "bigIdea": "Lenses bend light in patterned ways to magnify/focus; devices detect the world and convert it to digital information that can be stored or sent.",
+      "bigIdea": "Humans design lenses to bend light in specific ways that allow them to magnify or focus light from objects. Other devices can detect things about the physical world and convert that information into a digital format that can be stored or sent.",
       "scientificIdeas": [
-        "Light travels in straight lines (rays) and changes path at boundaries between media.",
-        "Lens behavior depends on shape and distances; people use material properties to design lenses.",
-        "Optical systems combine lenses so each alters ray paths to reveal distant/small objects.",
-        "Communication systems use agreed protocols for sending/receiving messages (e.g., Morse, walkie-talkie etiquette, digital photo formats).",
-        "Information can be digitized (1s/0s) and displayed or stored; pixels switch states to form images.",
-        "Analog signals vary continuously (clay analogy) and are more prone to distortion; digital signals use limited states (Lego analogy) reducing distortion."
+        "Light travels in straight lines (represented by arrows). A ray's path changes when it moves across a boundary and into a new medium.",
+        "There are patterns in the way that light passes through lenses that depend on the shape of the lens and distances between the object, the lens, and the observer.",
+        "People learn how different materials bend light and use that knowledge to design lenses.",
+        "Devices like microscopes and telescopes can use combinations of lenses where each lens alters the path of incoming rays to make distant or small objects visible.",
+        "Many communication systems and devices used for communication have designed protocols to send and receive messages. The source and recipient of a message must both understand the protocol.",
+        "Information can be digitized -- converted to 1s and 0s -- which can be displayed directly or stored. The 1s and 0s represent possible states. For example, a 1 causes a single pixel to turn on while a 0 causes the pixel to turn off.",
+        "Analog signals can be adjusted to infinite points, analogous to building with clay, but are easier to distort. Digital signals have limited ranges, analogous to building with Lego blocks, but this makes distortion less of a problem."
       ],
       "studentIdeas": [
-        "Transparent materials don’t affect light.",
-        "We see pictures on the lens rather than rays traveling to our eyes.",
-        "A digital image is just a tiny picture, not stored information.",
-        "Digital images always give perfect results.",
-        "Devices store information without a specific format or instructions."
+        "Transparent materials don't affect light.",
+        "When we look at lenses, we're seeing an image on the lens, rather than light rays that travel to our eyes.",
+        "A digital image is just a tiny image, not a form of stored information.",
+        "Digital images always produce perfect results.",
+        "Devices store information without needing a specific format.",
+        "Devices just know what to do, they don't need instructions or signals to work."
       ]
     },
-
     {
-      "grade": "8",
-      "discipline": "PS",
       "code": "8.PS4.3",
+      "grade": "8",
       "statement": "Engage in argument from evidence to support the claim that digitized signals, sent as wave pulses, are more reliable than analog signals to transmit information in a system.",
-      "bigIdea": "Communication systems use protocols to transmit digital information; EM and mechanical waves carry energy that devices can detect, amplify, and interpret.",
+      "bigIdea": "Communication systems utilize protocols to transmit digital information, including signals that humans cannot detect with their senses.",
       "scientificIdeas": [
-        "Waves travel from a source and interact with materials in different ways.",
-        "Mechanical waves need media; electromagnetic waves propagate via electric and magnetic fields and can travel through space.",
-        "Waves transfer energy to receivers; amplification is often required due to losses.",
-        "Digital signals use discrete states (on/off, high/low, pulse/no pulse) and support reliable transmission and error handling.",
-        "Encoding/decoding requires shared protocols between sender and receiver.",
-        "Sensors can capture information humans cannot detect (e.g., infrared), storing/transmitting in digital formats.",
-        "Material interactions affect wave choice for a device’s purpose."
+        "Waves travel outwards from their source and interact with different objects/materials.",
+        "Mechanical waves (sound and vibrations) can travel through different solids, liquids, and gases, while electromagnetic waves travel through electric and magnetic fields. Since electric and magnetic fields extend into empty space, electromagnetic waves can travel through space.",
+        "Waves transmit energy away from a source and it is possible to design receivers that detect and capture this energy. Since a wave's energy will transfer to its surroundings as it travels from the source to the receiver, it is often necessary to amplify/boost the signal at the receiver.",
+        "Digital signals alternate between two states, while analog signals have an infinite number of states (e.g., adjusting a digital radio vs adjusting a dial radio).",
+        "Digital signals are made of discrete \"pulses\" (e.g., light on/off, switches open/closed, presence of a wave pulse/no pulse, high voltage/low voltage).",
+        "To send an encoded message, both the sending and receiving devices must be able to carry out the protocol used to encode/decode the information.",
+        "Humans design devices that use sensors to capture information about their surroundings and store/transfer this information in digital formats. Some sensors are able to detect things that humans cannot detect with their senses (e.g., infrared radiation).",
+        "There are protocols designed to transmit information that has been stored in digital formats. The sender and receiver must use a common protocol to send messages.",
+        "Waves interact in different ways with different materials. These differences should be considered depending on the purpose of a designed device."
       ],
       "studentIdeas": [
-        "Digital is always better regardless of purpose.",
-        "Digital signals can only travel in wires or fiber.",
-        "Devices see/hear like humans so no encoding is needed.",
-        "Digital signals are smooth/continuous like a dimmer.",
-        "Any sensor works for any signal.",
-        "All EM signals behave the same."
+        "Digital signals are better than analog signals, regardless of purpose.",
+        "Digital signals can only travel if there is a wire or fiberoptic cable to transmit them.",
+        "Devices hear and see just like humans -- digital signals do not need to be encoded.",
+        "Digital signals are smooth and continuous -- more like a dimmer switch than a standard switch.",
+        "The same sensors can respond to a variety of signals.",
+        "All electromagnetic signals are the same."
       ]
     }
   ],
-
-  "metadata": { "version": "2025-10-12", "source": "TN Science IFDs – PS4.C" }
+  "metadata": {
+    "version": "2025",
+    "source": "Tennessee Science Standards IFD 2025"
+  }
 }
