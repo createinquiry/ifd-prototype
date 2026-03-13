@@ -496,12 +496,29 @@
       btn.addEventListener('click', () => openShade(btn.dataset.shade));
     });
 
-    // Close when tapping/clicking anywhere on the shade (after arming)
-    Object.values(shades).forEach(el => {
-      const onCloseAttempt = () => { if (shadeArmed) closeShade(); };
-      el.addEventListener('click', onCloseAttempt, { passive: true });
-      el.addEventListener('touchstart', onCloseAttempt, { passive: true });
-    });
+// Close when tapping/clicking anywhere on the shade (after arming)
+// On mobile, distinguish a tap from a scroll by tracking finger movement.
+Object.values(shades).forEach(el => {
+  // Desktop: plain click works fine
+  el.addEventListener('click', () => { if (shadeArmed) closeShade(); });
+
+  // Mobile: only close if the finger didn't scroll (movement < 10px)
+  let touchStartY = 0;
+  let touchStartX = 0;
+
+  el.addEventListener('touchstart', (e) => {
+    touchStartY = e.touches[0].clientY;
+    touchStartX = e.touches[0].clientX;
+  }, { passive: true });
+
+  el.addEventListener('touchend', (e) => {
+    if (!shadeArmed) return;
+    const dy = Math.abs(e.changedTouches[0].clientY - touchStartY);
+    const dx = Math.abs(e.changedTouches[0].clientX - touchStartX);
+    // Only treat as a tap if the finger barely moved
+    if (dy < 10 && dx < 10) closeShade();
+  }, { passive: true });
+});
 
     // Also close on Escape key
     window.addEventListener('keydown', (e) => {
