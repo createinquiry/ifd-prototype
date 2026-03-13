@@ -12,7 +12,7 @@
   "gradeBandIntro": {
     "K-2": {
       "nrcQuote": "By the end of grade 2. [Intentionally left blank] -- NRC, 2012",
-      "progression": "This progression does not have standards in this grade band. However, understanding pushes and pulls (PS2.A) is a foundation to understanding the forces in the nucleus of an atom in later grades, and how some nuclei stay together, while other nuclei fall apart."
+      "progression": "This progression does not have standards in this grade band. However, understanding pushes and pulls (PS2. A) is a foundation to understanding the forces in the nucleus of an atom in later grades, and how some nuclei stay together, while other nuclei fall apart."
     },
     "3-5": {
       "nrcQuote": "By the end of grade 5. [Intentionally left blank] -- NRC, 2012",
@@ -20,14 +20,23 @@
     },
     "6-8": {
       "nrcQuote": "By the end of grade 8. Nuclear fusion can result in the merging of two nuclei to form a larger one, along with the release of significantly more energy per atom than any chemical process. It occurs only under conditions of extremely high temperature and pressure. Nuclear fusion taking place in the cores of stars provides the energy released (as light) from those stars and produced all of the more massive atoms from primordial hydrogen. Thus, the elements found on Earth and throughout the universe (other than hydrogen and most of helium, which are primordial) were formed in the stars or supernovas by fusion processes. -- NRC, 2012",
-      "progression": "Many students are likely to know the expression that \"opposites attract\" from their investigations with magnets. They may also know that \"like charges repel\" from explorations with static electricity. These early discussions always related to large, charged objects.\n\nSince this is the students' first exposure to atoms, it is not necessary to describe all of the subatomic charged particles -- protons, neutrons, and electrons. The middle grades focus of this progression should be on the formation of the nucleus of the atom. Even though electrons are mentioned in the standards, concepts like the formation of ions and bonding do not relate to the nucleus. It is sufficient for students to understand that a pair of atoms can fuse inside of stars and how this process can explain the origin of other, heavier elements.\n\nAs early as kindergarten, students learn that sunlight causes Earth's surfaces to warm (PS3.A). Students learn that warming is caused by energy transfer (PS3.B) and therefore there must be a source for the energy coming from the Sun. Students also learn that each element emits a characteristic wavelength of light (PS4.A). Examining this light reveals that the ratio of hydrogen to helium is lower in older stars compared to younger stars. This happens because atoms of hydrogen fuse to create new atoms of helium. This fusion of smaller nuclei also explains the release of energy from stars.\n\nStudents learn that protons give the nucleus a positive charge. The hydrogen nucleus contains only one proton. In high school, students will explain that the collision of two hydrogen nuclei forces two protons to fuse, which creates a heavier atom of helium. This conflicts with students' understanding that positive charges should repel each other. The strong nuclear force, caused by neutrons, overcomes the electrostatic force pushing the protons apart."
+      "progression": "Many students are likely to know the expression that \"opposites attract\" from their investigations with magnets. They may also know that \"like charges repel\" from explorations with static electricity. These early discussions always related to large, charged objects (e.g., a glass rod rubbed with silk, a balloon or rubber rod rubbed with flannel).\n\nSince this is the students' first exposure to atoms, it is not necessary to describe all of the subatomic charged particles -- protons, neutrons, and electrons. The middle grades focus of this progression should be on the formation of the nucleus of the atom. Even though electrons are mentioned in the standards, concepts like the formation of ions and bonding do not relate to the nucleus. It is sufficient for students to understand that a pair of atoms can fuse inside of stars and how this process can explain the origin of other, heavier elements.\n\nAs early as kindergarten, students learn that sunlight causes Earth's surfaces to warm (PS3.A). Students learn that warming is caused by energy transfer (PS3.B) and therefore there must be a source for the energy coming from the Sun. Students also learn that each element emits a characteristic wavelength of light (PS4.A). Examining this light reveals that the ratio of hydrogen to helium is lower in older stars compared to younger stars. This happens because atoms of hydrogen fuse to create new atoms of helium. This fusion of smaller nuclei also explains the release of energy from stars.\n\nStudents learn that protons give the nucleus a positive charge. The hydrogen nucleus contains only one proton. In high school, students will explain that the collision of two hydrogen nuclei forces two protons to fuse, which creates a heavier atom of helium. This conflicts with students' understanding that positive charges should repel each other. The strong nuclear force, caused by neutrons, overcomes the electrostatic force pushing the protons apart."
     }
   },
   "progression": {
     "columns": [
-      { "key": "gradeBand", "label": "Grade Band" },
-      { "key": "scaleOfParticles", "label": "Scale of Particles" },
-      { "key": "eventsAndChanges", "label": "Events and changes." }
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "scaleOfParticles",
+        "label": "Scale of Particles"
+      },
+      {
+        "key": "eventsAndChanges",
+        "label": "Events and changes."
+      }
     ],
     "table": [
       {
@@ -51,7 +60,7 @@
         "eventsAndChanges": "Interacting forces from subatomic particles determine the stability of nuclei and govern fusion and decay events."
       }
     ],
-    "narrative": "In the K-2 and 3-5 grade bands, there are no standards within this component idea because the particles discussed in this progression begin with the fusion of atoms in middle school and advance to the tiny particles that make up atoms. There are concepts covered in other component ideas, such as magnets and static electricity, which provide a foundation for understanding how particles in the nucleus of atoms interact. In middle school students learn that there are a limited number of types of atoms in the universe (PS1.A) and learn that smaller atoms can combine to form larger atoms. This component idea explores the forces that hold the nucleus of an atom together. These forces make it possible for smaller elements to combine and make heavier elements. Humans have learned to release and recapture the energy stored in the nucleus of the atom."
+    "narrative": "In the K-2 and 3-5 grade bands, there are no standards within this component idea because the particles discussed in this progression begin with the fusion of atoms in middle school and advance to are the tiny particles that make up atoms. There are concepts covered in other component ideas, such as magnets and static electricity, which provide a foundation for understanding how particles in the nucleus of atoms interact. In middle school students learn that there are a limited number of types of atoms in the universe (PS1.A) and learn that smaller atoms can combine to form larger atoms. This component idea explores the forces that hold the nucleus of an atom together. These forces make it possible for smaller elements to combine and make heaver elements. Humans have learned to release and recapture the energy stored in the nucleus of the atom."
   },
   "standards": [
     {
