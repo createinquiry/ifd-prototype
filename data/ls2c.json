@@ -7,40 +7,37 @@
   "chapterOverview": {
     "guidingQuestion": "What happens to ecosystems when the environment changes?",
     "purpose": "The purpose of this component idea is to understand how changes in environmental conditions affect organisms, their interactions, and the resilience of ecosystems.",
-    "centralIdeas": "The places where organisms live will change. Changes can be sudden or gradual – and may affect the temperatures, availability of sunlight, availability of water, availability of food, etc. Changes can affect the types of organisms that can live in a place which can then affect the resources and services derived from that organism. Stable ecosystems can cope with certain amounts of change. Their long-term resilience depends on their ability to recover after disturbances.  Biodiversity is an indicator of the health of an ecosystem, with more diverse ecosystems generally able to withstand and rebound from change."
+    "centralIdeas": [
+      "The places where organisms live will change. Changes can be sudden or gradual -- and may affect the temperatures, availability of sunlight, availability of water, availability of food, etc.",
+      "Changes can affect the types of organisms that can live in a place which can then affect the resources and services derived from that organism.",
+      "Stable ecosystems can cope with certain amounts of change.",
+      "Their long-term resilience depends on their ability to recover after disturbances.",
+      "Biodiversity is an indicator of the health of an ecosystem, with more diverse ecosystems generally able to withstand and rebound from change."
+    ]
   },
   "gradeBandIntro": {
     "K-2": {
-      "nrcQuote": "By the end of grade 2. The places where plants and animals live often change, sometimes slowly and sometimes rapidly. When animals and plants get too hot or too cold, they may die. If they cannot find enough food, water, or air, they may die. – NRC, 2012",
-      "progression": "Ecosystems are defined by a set of physical conditions, the organisms that live there, and the interactions among organisms and their physical surroundings. This progression focuses on very simple physical conditions and the changes to these conditions which might happen.\n\nOrganisms live in places where their needs are met. This means that if the place where they live changes too much, the organisms that live there may not survive.  Changes can cause places to become too hot/cold, too wet/dry, or make it too hard for organisms to find the resources they need – food, and water.\n\nStudents should consider changes to places that are local and accessible (e.g., a spot on the playground becomes too hot when a tree falls or a place may become dry and shaded as a tree grows and matures, an empty lot or lawn may become dry after a long period without rain). Places also change across seasons – sometimes it can become too hot in the summer or too cold in the winter. Organisms will not survive if they cannot get the things they need or if the conditions change too greatly.\n\nSimple surveys of the school lawn taken at different times of the year can provide enough data for students to uncover patterns in how the types of plants shift. When students return to school at the end of a dry summer, the school lawn may have very limited varieties of weeds growing there, compared to the abundant variety of weeds that will emerge with rising spring temperatures.\n\nEven in early elementary school, students may already be aware that some animals don’t just die, they have strategies, such as migration or hibernation to help them survive. However, in early elementary, students may not be prepared to consider that organisms migrate in order to stay alive. Behavioral adaptations such as migration are addressed in later grades after first addressing survival. Limit discussions in the earliest grades to the idea that some organisms will not survive the changes to the place where they live."
+      "nrcQuote": "By the end of grade 2. The places where plants and animals live often change, sometimes slowly and sometimes rapidly. When animals and plants get too hot or too cold, they may die. If they cannot find enough food, water, or air, they may die. -- NRC, 2012",
+      "progression": "Ecosystems are defined by a set of physical conditions, the organisms that live there, and the interactions among organisms and their physical surroundings. This progression focuses on very simple physical conditions and the changes to these conditions which might happen.\n\nOrganisms live in places where their needs are met. This means that if the place where they live changes too much, the organisms that live there may not survive. Changes can cause places to become too hot/cold, too wet/dry, or make it too hard for organisms to find the resources they need -- food, and water.\n\nStudents should consider changes to places that are local and accessible (e.g., a spot on the playground becomes too hot when a tree falls or a place may become dry and shaded as a tree grows and matures, an empty lot or lawn may become dry after a long period without rain). Places also change across seasons -- sometimes it can become too hot in the summer or too cold in the winter. Organisms will not survive if they cannot get the things they need or if the conditions change too greatly.\n\nSimple surveys of the school lawn taken at different times of the year can provide enough data for students to uncover patterns in how the types of plants shift. When students return to school at the end of a dry summer, the school lawn may have very limited varieties of weeds growing there, compared to the abundant variety of weeds that will emerge with rising spring temperatures.\n\nEven in early elementary school, students may already be aware that some animals don't just die, they have strategies, such as migration or hibernation to help them survive. However, in early elementary, students may not be prepared to consider that organisms migrate in order to stay alive. Behavioral adaptations such as migration are addressed in later grades after first addressing survival. Limit discussions in the earliest grades to the idea that some organisms will not survive the changes to the place where they live."
     },
     "3-5": {
-      "nrcQuote": "By the end of grade 5. When the environment changes in ways that affect a place’s physical characteristics, temperature, or availability of resources, some organisms survive and reproduce, others move to new locations, yet others move into the transformed environment, and some die. – NRC, 2012",
-      "progression": "This progression began by looking at a very limited number of ways that a place can change in ways that create conditions where some organisms can no longer survive, such as becoming too hot, or too wet. In this grade band, students consider a broader set of changes and an accompanying increase in the range of responses by organisms – some organisms may survive and reproduce, other organisms may be able to move out of the area, and some organisms may move into the area.\n\nStudents may have previously considered how a place changes when a tree falls or is removed. The absence of the tree may bring additional sunlight to a place that had been cool and shaded before. Some plants that needed a cool shaded place may have turned crispy and died. In this grade band students should also consider that the light and warmth may allow new species, such as grasses, to move into the area. Grasses may not provide the same food or shelter that insects depend on and may leave the area as grasses replace the original plants.\n\nMany organisms have life cycles that are linked to environmental conditions. When the environment changes the life cycle of the organism may no longer align with its physical environment. For example, early warm springs may cause seeds to germinate only to be killed during late frosts.\n\nIn middle school, students will discuss entire populations and the idea of ecosystem health as an outcome of biodiversity. Students also consider that some of the benefits of an ecosystem are tied to the organisms that live there. Changes to the populations of organisms will impact the resources and services provided by those organisms. Ecosystem changes may lead to extinction of species. The idea that some organisms will survive and reproduce in a changed environment supports understanding adaptation in later grades."
+      "nrcQuote": "By the end of grade 5. When the environment changes in ways that affect a place's physical characteristics, temperature, or availability of resources, some organisms survive and reproduce, others move to new locations, yet others move into the transformed environment, and some die. -- NRC, 2012",
+      "progression": "This progression began by looking at a very limited number of ways that a place can change in ways that create conditions where some organisms can no longer survive, such as becoming too hot, or too wet. In this grade band, students consider a broader set of changes and an accompanying increase in the range of responses by organisms -- some organisms may survive and reproduce, other organisms may be able to move out of the area, and some organisms may move into the area.\n\nStudents may have previously considered how a place changes when a tree falls or is removed. The absence of the tree may bring additional sunlight to a place that had been cool and shaded before. Some plants that needed a cool shaded place may have turned crispy and died. In this grade band students should also consider that the light and warmth may allow new species, such as grasses, to move into the area. Grasses may not provide the same food or shelter that insects depend on and may leave the area as grasses replace the original plants.\n\nMany organisms have life cycles that are linked to environmental conditions. When the environment changes the life cycle of the organism may no longer align with its physical environment. For example, early warm springs may cause seeds to germinate only to be killed during late frosts.\n\nIn middle school, students will discuss entire populations and the idea of ecosystem health as an outcome of biodiversity. Students also consider that some of the benefits of an ecosystem are tied to the organisms that live there. Changes to the populations of organisms will impact the resources and services provided by those organisms. Ecosystem changes may lead to extinction of species. The idea that some organisms will survive and reproduce in a changed environment supports understanding adaptation in later grades."
     },
     "6-8": {
-      "nrcQuote": "By the end of grade 8. Ecosystems are dynamic in nature; their characteristics can vary over time. Disruptions to any physical or biological component of an ecosystem can lead to shifts in all of its populations. Biodiversity describes the variety of species found in Earth’s terrestrial and oceanic ecosystems. The completeness or integrity of an ecosystem’s biodiversity is often used as a measure of its health. – NRC, 2012",
-      "progression": "Ecosystems are systems of connected living and non-living things in a place. These systems are dynamic: under stable conditions the ecosystem can remain relatively constant. However, disturbances to any component of the system can trigger a cascade of changes. In earlier grades, the types of disturbances to a place were limited changes to physical components of the environment - first to simple changes such as becoming too hot or cold and later to more complex changes such as habitat loss or soil erosion. The range of potential outcomes also expanded from simple survival or death of individual organisms to a variety of responses, such as moving in or out of the changed environment.\n\nIn middle school, students begin to examine ecosystems as collections of populations. At this new scale, physical and biological components of a system can be sources of change. Levels of biodiversity affect the scale of any effects of a disturbance. Changes to a single population can have significant effects in ecosystems  dominated by very few populations (low biodiversity). Since biodiversity influences how ecosystems respond to disturbances, it becomes an important way of measuring the health of an ecosystem.\n\nSometimes humans introduce new species to solve problems, but these actions can create new disturbances. For example, black carp were introduced to control populations of snails in commercial catfish ponds, but the subsequent, introduction of black carp into native waterways threatens native snail and mussel populations. These snail and mussel populations play a role in regulating water quality and calcium levels in freshwater systems.\n\nMiddle school discussions about biodiversity and ecosystem health set the stage for high school where students address the meaning of resilience in ecosystems. Resilience addresses how ecosystems recover, transform, or collapse in response to varying scales of disturbances."
+      "nrcQuote": "By the end of grade 8. Ecosystems are dynamic in nature; their characteristics can vary over time. Disruptions to any physical or biological component of an ecosystem can lead to shifts in all of its populations. Biodiversity describes the variety of species found in Earth's terrestrial and oceanic ecosystems. The completeness or integrity of an ecosystem's biodiversity is often used as a measure of its health. -- NRC, 2012",
+      "progression": "Ecosystems are systems of connected living and non-living things in a place. These systems are dynamic: under stable conditions the ecosystem can remain relatively constant. However, disturbances to any component of the system can trigger a cascade of changes. In earlier grades, the types of disturbances to a place were limited changes to physical components of the environment - first to simple changes such as becoming too hot or cold and later to more complex changes such as habitat loss or soil erosion. The range of potential outcomes also expanded from simple survival or death of individual organisms to a variety of responses, such as moving in or out of the changed environment.\n\nIn middle school, students begin to examine ecosystems as collections of populations. At this new scale, physical and biological components of a system can be sources of change. Levels of biodiversity affect the scale of any effects of a disturbance. Changes to a single population can have significant effects in ecosystems dominated by very few populations (low biodiversity). Since biodiversity influences how ecosystems respond to disturbances, it becomes an important way of measuring the health of an ecosystem.\n\nSometimes humans introduce new species to solve problems, but these actions can create new disturbances. For example, black carp were introduced to control populations of snails in commercial catfish ponds, but the subsequent, introduction of black carp into native waterways threatens native snail and mussel populations. These snail and mussel populations play a role in regulating water quality and calcium levels in freshwater systems.\n\nMiddle school discussions about biodiversity and ecosystem health set the stage for high school where students address the meaning of resilience in ecosystems. Resilience addresses how ecosystems recover, transform, or collapse in response to varying scales of disturbances."
     },
     "Biology": {
-      "nrcQuote": "A complex set of interactions within an ecosystem can keep its numbers and types of organisms relatively constant over long periods of time under stable conditions.  Extreme fluctuations in conditions or the size of any population, however, can challenge the functioning of ecosystems in terms of resources and habitat availability. Moreover, anthropogenic changes (induced by human activity) in the environment—including habitat destruction, pollution, introduction of invasive species, overexploitation, and climate change—can disrupt an ecosystem and threaten the survival of some species.\n– NRC, 2012",
+      "nrcQuote": "A complex set of interactions within an ecosystem can keep its numbers and types of organisms relatively constant over long periods of time under stable conditions. Extreme fluctuations in conditions or the size of any population, however, can challenge the functioning of ecosystems in terms of resources and habitat availability. Moreover, anthropogenic changes (induced by human activity) in the environment---including habitat destruction, pollution, introduction of invasive species, overexploitation, and climate change---can disrupt an ecosystem and threaten the survival of some species. -- NRC, 2012",
       "progression": "Places can change in a variety of ways that may affect the conditions or resources in that place. Organisms may not be able to survive in the changed environment. However, changes may not necessarily wipe out all organisms as some may survive, while others may leave the place and change may provide an opportunity for new organisms to move into the place. Ecosystems are made of populations.\n\nAn ecosystem consists of interactions between living and non-living components. Organisms compete for a limited pool of resources, including a limited supply of matter and energy generated by producers. The competition for matter and energy generates a variety of types of interactions that produce a relatively stable ecosystem.\n\nA stable ecosystem is one in which the varying species in that ecosystem interact in consistent ways that support their relative population sizes. When a stable ecosystem experiences a small disturbance, there may be a temporary shift in population sizes, but the ecosystem returns to the way it was before. Major disturbances change ecosystems to degrees where the collections of populations that are established in the recovered ecosystem are different than the original populations. This can lead to species extinction."
     }
   },
   "progression": {
     "columns": [
-      {
-        "key": "gradeBand",
-        "label": "Grade Band"
-      },
-      {
-        "key": "natureOfChange",
-        "label": "Nature of Change"
-      },
-      {
-        "key": "systemResponse",
-        "label": "System Response"
-      }
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "natureOfChange", "label": "Nature of Change" },
+      { "key": "systemResponse", "label": "System Response" }
     ],
     "table": [
       {
@@ -56,7 +53,7 @@
       {
         "gradeBand": "6-8",
         "natureOfChange": "Physical or biological disruptions",
-        "systemResponse": "Populations and Ecosystems shift. Changes to one component cause cascades of events. Biodiversity is a measure of ecosystem health"
+        "systemResponse": "Populations and Ecosystems shift. Changes to one component cause cascades of events. Biodiversity is a measure of ecosystem health."
       },
       {
         "gradeBand": "9-12",
@@ -64,26 +61,25 @@
         "systemResponse": "Ecosystems may recover, transform, or collapse depending on health of ecosystem and scale of disturbance. Resilience accounts for ability of ecosystem to return to a prior state."
       }
     ],
-    "narrative": "This component idea explores ecosystems as a sort of singular living thing where all the organisms depend on the environment and each other. When the physical environment changes, the ecosystem will respond. There are two elements to this progression: the nature of environmental change and the system response. The disturbance describes the thing that triggers change while the response describes the outcomes. Across grade bands, both the disturbance and the response expand in scale in ways that connect to students’ prior experiences and prepare them for more complex systems thinking.\n\nIn the earliest grades, students focus on simple physical changes, such as being too hot, too wet, or not enough resources because these mirror their own experiences with comfort and need. The possible outcomes are limited to survival or death of individual organisms. For example, basil plants begin to get brown spots on their leaves when night temperatures first drop into the 60s and the plants are among the earliest to die off when fall’s cooler temperatures arrive.\n\nIn late elementary school students begin to consider more complex physical changes, such as introduction of physical barriers, soil and water quality or changes to habitat such as the loss of a large canopy tree or introduction of artificial habitat. These complex changes are still limited to changes to the physical characteristics of the ecosystem, as opposed to the biological components. Outcomes become more diverse than simply survival or death to include survival strategies such as migration. Students see that different groups respond differently when their environment changes.\n\nBy middle school, students’ understanding of food webs helps them consider changes to both physical and biological components to an ecosystem, such as shifts in population sizes, the arrival of new species, or the effects of symbiosis. A middle schooler can think of an ecosystem as a defined system with “health” as a characteristic of this system. The concept of biodiversity allows students to consider that the same type of change and scale of change in two different ecosystems may have different effects based on the prior health of the system.\n\nBy high school biology, students synthesize these ideas into the concept of ecosystem resilience. They explore how disturbances to either physical or biological components of a system can lead ecosystem outcomes of recovery, transformation, or collapse where resilience becomes an additional characteristic of the ecosystem."
+    "narrative": "This component idea explores ecosystems as a sort of singular living thing where all the organisms depend on the environment and each other. When the physical environment changes, the ecosystem will respond. There are two elements to this progression: the nature of environmental change and the system response. The disturbance describes the thing that triggers change while the response describes the outcomes. Across grade bands, both the disturbance and the response expand in scale in ways that connect to students' prior experiences and prepare them for more complex systems thinking.\n\nIn the earliest grades, students focus on simple physical changes, such as being too hot, too wet, or not enough resources because these mirror their own experiences with comfort and need. The possible outcomes are limited to survival or death of individual organisms. For example, basil plants begin to get brown spots on their leaves when night temperatures first drop into the 60s and the plants are among the earliest to die off when fall's cooler temperatures arrive.\n\nIn late elementary school students begin to consider more complex physical changes, such as introduction of physical barriers, soil and water quality or changes to habitat such as the loss of a large canopy tree or introduction of artificial habitat. These complex changes are still limited to changes to the physical characteristics of the ecosystem, as opposed to the biological components. Outcomes become more diverse than simply survival or death to include survival strategies such as migration. Students see that different groups respond differently when their environment changes.\n\nBy middle school, students' understanding of food webs helps them consider changes to both physical and biological components to an ecosystem, such as shifts in population sizes, the arrival of new species, or the effects of symbiosis. A middle schooler can think of an ecosystem as a defined system with \"health\" as a characteristic of this system. The concept of biodiversity allows students to consider that the same type of change and scale of change in two different ecosystems may have different effects based on the prior health of the system.\n\nBy high school biology, students synthesize these ideas into the concept of ecosystem resilience. They explore how disturbances to either physical or biological components of a system can lead ecosystem outcomes of recovery, transformation, or collapse where resilience becomes an additional characteristic of the ecosystem."
   },
   "standards": [
     {
-      "grade": "2",
-      "discipline": "LS",
       "code": "2.LS2.2",
+      "grade": "2",
       "statement": "Predict what happens to animals when the environment changes (e.g., temperature, cutting down trees, wildfires, pollution, salinity, drought, land preservation).",
       "bigIdea": "Events can lead to changes in an environment that create physical conditions where organisms may or may not survive.",
       "scientificIdeas": [
         "Every place (e.g., under a tree, in a field, next to a creek, on a hillside, in the parking lot) has a set of physical conditions.",
         "The physical conditions in a place include how hot or cold it is there, how wet or dry it is there, and how much food is available there.",
-        "Living things depend on their surroundings for certain things – clean air and water, and food.",
+        "Living things depend on their surroundings for certain things -- clean air and water, and food.",
         "The conditions and needs of different types of living things can be unique. Some organisms require very specific conditions, while other organisms can survive a range of conditions.",
         "The physical conditions in a place can change quickly, slowly, or in cycles.",
         "If the physical conditions in a place change too quickly or to outside of certain ranges, then organisms may not survive there.",
         "Since changes in physical conditions affect different organisms in different ways the same change may not wipe out everything that lives in a place."
       ],
       "studentIdeas": [
-        "All changes to a place happen suddenly – e.g., a tree falling or fire.",
+        "All changes to a place happen suddenly -- e.g., a tree falling or fire.",
         "Living things quickly adjust to their new conditions.",
         "All living things have the same needs in the same amounts.",
         "All changes will harm organisms.",
@@ -92,11 +88,10 @@
       ]
     },
     {
-      "grade": "4",
-      "discipline": "LS",
       "code": "4.LS2.4",
+      "grade": "4",
       "statement": "Analyze and interpret data about changes in the environment to explain how some organisms may survive and reproduce, some may not survive, others move to new locations, yet others move into the transformed environment.",
-      "bigIdea": "Organisms depend on certain characteristics of their physical surroundings to meet their needs. When a place changes, organisms may respond in a variety of ways – survive and reproduce, die, leave, arrive.",
+      "bigIdea": "Organisms depend on certain characteristics of their physical surroundings to meet their needs. When a place changes, organisms may respond in a variety of ways -- survive and reproduce, die, leave, arrive.",
       "scientificIdeas": [
         "Every place (e.g., pond, grassland, park) has a unique set of physical characteristics.",
         "Physical characteristics include factors such as amount of light, available shelter, soil quality, water availability, food sources, etc.",
@@ -115,16 +110,15 @@
         "Environmental changes always harm organisms.",
         "Bigger and stronger organisms are better are coping with changes.",
         "All organisms that live in a place have identical needs.",
-        "When an environment changes and original inhabitants die off, it means that new things won’t survive there either.",
-        "Once a type of organism has left a place it can’t go back there.",
+        "When an environment changes and original inhabitants die off, it means that new things won't survive there either.",
+        "Once a type of organism has left a place it can't go back there.",
         "Animals migrate because they want to go somewhere better."
       ]
     },
     {
-      "grade": "6",
-      "discipline": "LS",
       "code": "6.LS2.4",
-      "statement": "Construct an explanation that uses abiotic (e.g., precipitation, temperature, soil) and biotic (e.g., biodiversity, number of organisms) patterns in earth’s terrestrial and aquatic ecosystems (e.g., tundra, taiga, deciduous forest, desert, grasslands, rainforest, marine, and freshwater) as measures of ecosystem health.",
+      "grade": "6",
+      "statement": "Construct an explanation that uses abiotic (e.g., precipitation, temperature, soil) and biotic (e.g., biodiversity, number of organisms) patterns in earth's terrestrial and aquatic ecosystems (e.g., tundra, taiga, deciduous forest, desert, grasslands, rainforest, marine, and freshwater) as measures of ecosystem health.",
       "bigIdea": "Across ecosystems, there are consistent patterns among physical conditions, non-living components, and living things that define ecosystems. Biodiversity maintains these connections and serves as a measure of ecosystem health.",
       "scientificIdeas": [
         "Every place has a set of physical components (precipitation, temperature, soil, light) and biological components (populations present, size of populations, interactions among populations).",
@@ -141,17 +135,16 @@
         "Places are not ecosystems unless they are one of the common examples (e.g., forest, desert, tundra).",
         "Ecosystems are defined by the presence of specific species, as opposed to broader patterns.",
         "Only undeveloped places where few people live are ecosystems.",
-        "Ecosystems are healthy as long as they look “natural.”",
+        "Ecosystems are healthy as long as they look \"natural.\"",
         "Ecosystems only include living things.",
-        "Ecosystems are entirely unique – for example, deserts have nothing in common with other ecosystems."
+        "Ecosystems are entirely unique -- for example, deserts have nothing in common with other ecosystems."
       ]
     },
     {
-      "grade": "6",
-      "discipline": "LS",
       "code": "6.LS2.5",
+      "grade": "6",
       "statement": "Analyze existing evidence about the effect of a specific invasive species on native populations in Tennessee and design a solution to mitigate its impact.",
-      "bigIdea": "New species in an ecosystem act as a disturbance that competes with established populations. The effects of the invasive species on ecosystem health depend on existing biodiversity.\n\nAn ecosystem can change when a new species enters the ecosystem and outcompetes the organisms already established there.",
+      "bigIdea": "New species in an ecosystem act as a disturbance that competes with established populations. The effects of the invasive species on ecosystem health depend on existing biodiversity. An ecosystem can change when a new species enters the ecosystem and outcompetes the organisms already established there.",
       "scientificIdeas": [
         "An ecosystem is a collection of living organisms and non-living characteristics/resources and the interactions among organisms and their environment.",
         "Organisms have specific needs, and populations grow or decline depending on whether those needs are met.",
@@ -166,13 +159,12 @@
         "All introduced species are invasive.",
         "Invasive species only affect the species they compete with directly.",
         "An ecosystem is healthy if things are living there.",
-        "Humans are not part of ecosystems, so they don’t affect the populations living in a place."
+        "Humans are not part of ecosystems, so they don't affect the populations living in a place."
       ]
     },
     {
-      "grade": "Bio1",
-      "discipline": "LS",
       "code": "Bio1.LS2.3",
+      "grade": "Biology",
       "statement": "Obtain, evaluate, and communicate information based on evidence to describe how the impact of varying levels of disturbance is related to the resilience of an ecosystem.",
       "bigIdea": "A resilient ecosystem is one whose interactions can persist despite disturbances. However, the intensity of a disturbance varies, and ecosystems may be greatly changed in ways that some species may not survive.",
       "scientificIdeas": [
@@ -181,7 +173,7 @@
         "Populations will increase if they have access to necessary resources, including matter and energy. Population size is limited by resource availability and external pressures.",
         "The competition for matter and energy causes a variety of interactions between populations. The size of populations in the ecosystem is limited, supported, and maintained by interactions with other populations.",
         "If the conditions in a place are consistent over an extended period, then interactions between populations will regulate the size of each population creating a stable ecosystem.",
-        "Disturbances can be gradual such as habitat loss due to more frequent flooding, or disease.  Some disturbances can occur suddenly, such as forest fires.",
+        "Disturbances can be gradual such as habitat loss due to more frequent flooding, or disease. Some disturbances can occur suddenly, such as forest fires.",
         "Disturbances can be caused by biological agents, such as invasive species or disease, or physical agents, such as habitat loss, or changes to the climate.",
         "The connected nature of populations in an ecosystem means that significant changes to any one population can have effects on the entire ecosystem.",
         "Changes disrupt an entire ecosystem. When this happens, a new ecosystem will ultimately establish itself in that place, but this may occur at the loss of one or many species."
@@ -194,9 +186,8 @@
       ]
     },
     {
-      "grade": "Bio1",
-      "discipline": "LS",
       "code": "Bio1.LS2.4",
+      "grade": "Biology",
       "statement": "Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity.",
       "bigIdea": "Human activities can both intentionally and unintentionally disturb ecosystems in ways that can affect biodiversity and ecosystem health in positive and negative ways. Solutions should reduce negative impacts and support ecosystem resilience.",
       "scientificIdeas": [
@@ -215,7 +206,7 @@
     }
   ],
   "metadata": {
-    "version": "2026-01-05",
-    "source": "2025_LS2c.docx"
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
   }
 }

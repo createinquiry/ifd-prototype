@@ -7,50 +7,47 @@
   "chapterOverview": {
     "guidingQuestion": "How do organisms interact in groups so as to benefit individuals?",
     "purpose": "The purpose of this component idea is to help students understand how group behaviors provide benefits to individuals and how, in complex animals, these behaviors take the form of social interactions.",
-    "centralIdeas": "Individual organisms benefit from being part of a group. Groups can take a variety of structures which may distribute work to different members. Groups can be dynamic. Members of groups engage in basic forms of recognition and communication that form the basis for social interactions. Some organisms have developed such strong needs for group affiliation that individuals can suffer when they are not part of a group."
+    "centralIdeas": [
+      "Individual organisms benefit from being part of a group.",
+      "Groups can take a variety of structures which may distribute work to different members.",
+      "Groups can be dynamic.",
+      "Members of groups engage in basic forms of recognition and communication that form the basis for social interactions.",
+      "Some organisms have developed such strong needs for group affiliation that individuals can suffer when they are not part of a group."
+    ]
   },
   "gradeBandIntro": {
     "K-2": {
-      "nrcQuote": "By the end of grade 2. Being part of a group helps animals obtain food, defend themselves, and cope with changes. Groups may serve different functions and vary dramatically in size. – NRC, 2012",
-      "progression": "Young students are likely to have experiences and recognize that animals often gather in groups of the same type. They may notice flocks of birds, schools of fish, or herds of mammals and see that being in a group helps animals get food, stay safe, or adapt when things change. Students should have the opportunity to share their ideas about how these groups affect individual members.\n\nChildren’s stories often include messages that help students think about why being part of a group is helpful to individuals. Stories that involve many of the same type of organism are a good fit for this progression, such as a group of fish confusing a predator.\n\nWhile there is not a formal standard at this level, these early experiences provide a foundation for later learning. Observing that groups exist and provide basic benefits helps prepare students for upper elementary, where they will begin to compare how groups are organized and how those differences matter."
+      "nrcQuote": "By the end of grade 2. Being part of a group helps animals obtain food, defend themselves, and cope with changes. Groups may serve different functions and vary dramatically in size. -- NRC, 2012",
+      "progression": "Young students are likely to have experiences and recognize that animals often gather in groups of the same type. They may notice flocks of birds, schools of fish, or herds of mammals and see that being in a group helps animals get food, stay safe, or adapt when things change. Students should have the opportunity to share their ideas about how these groups affect individual members.\n\nChildren's stories often include messages that help students think about why being part of a group is helpful to individuals. Stories that involve many of the same type of organism are a good fit for this progression, such as a group of fish confusing a predator.\n\nWhile there is not a formal standard at this level, these early experiences provide a foundation for later learning. Observing that groups exist and provide basic benefits helps prepare students for upper elementary, where they will begin to compare how groups are organized and how those differences matter."
     },
     "3-5": {
-      "nrcQuote": "By the end of grade 5. Groups can be collections of equal individuals, hierarchies with dominant members, small families, groups of single or mixed gender, or groups composed of individuals similar in age. Some groups are stable over long periods of time; others are fluid, with members moving in and out. Some groups assign specialized tasks to each member; in others, all members perform the same or a similar range of functions. – NRC, 2012",
-      "progression": "Although there are ideas for this progression in earlier grade bands, there are no earlier standards in this progression. It is important to introduce the very basic ideas that individuals of the same type will form groups that benefit individuals to address this gap. The types of groups addressed in classroom discussions should be composed of individuals of the same type since this progression builds towards socially connected groups.\n\nBy upper elementary, students move from simply recognizing that groups exist and provide benefits to noticing that not all groups have the same structure and that different structures benefit individuals in different ways. Students’ prior experiences with seeing things like flocks of birds or herds of mammals provide a foundation for comparing how animal groups are organized and how that organization affects individual survival. They may recall earlier learning about ants, bees, or other familiar insects, and these examples can help them see the contrast between groups where all members perform similar roles and groups where specialized roles or hierarchies exist.\n\nDuring instruction, teachers can help students examine groups of various structures by asking elicit questions such as: What do all members do in this group? Do some members have special jobs? How does this organization help the animals survive? Students can build their own ideas about how the structure of a group influences the function of the group by using concrete examples, such as bees with queens, workers, and drones, compared to flocks of birds where each member plays a similar role. Students can also benefit from observations of local animals (e.g., ants on the playground, birds at a feeder), as these everyday experiences make abstract group dynamics more tangible.\n\nSeeing that groups interact in a variety of ways lays the groundwork for the next steps in the progression. In middle school, students learn that groups do not arise randomly but are held together by mechanisms such as recognition, signaling, and coordination. These behaviors mark the first time that social interactions become part of the science group dynamics progression. In high school, social interactions develop further as students come to understand social affiliation which itself is a basic need for many animals, including humans, and that enduring bonds within groups increase survival and reproduction."
+      "nrcQuote": "By the end of grade 5. Groups can be collections of equal individuals, hierarchies with dominant members, small families, groups of single or mixed gender, or groups composed of individuals similar in age. Some groups are stable over long periods of time; others are fluid, with members moving in and out. Some groups assign specialized tasks to each member; in others, all members perform the same or a similar range of functions. -- NRC, 2012",
+      "progression": "Although there are ideas for this progression in earlier grade bands, there are no earlier standards in this progression. It is important to introduce the very basic ideas that individuals of the same type will form groups that benefit individuals to address this gap. The types of groups addressed in classroom discussions should be composed of individuals of the same type since this progression builds towards socially connected groups.\n\nBy upper elementary, students move from simply recognizing that groups exist and provide benefits to noticing that not all groups have the same structure and that different structures benefit individuals in different ways. Students' prior experiences with seeing things like flocks of birds or herds of mammals provide a foundation for comparing how animal groups are organized and how that organization affects individual survival. They may recall earlier learning about ants, bees, or other familiar insects, and these examples can help them see the contrast between groups where all members perform similar roles and groups where specialized roles or hierarchies exist.\n\nDuring instruction, teachers can help students examine groups of various structures by asking elicit questions such as: What do all members do in this group? Do some members have special jobs? How does this organization help the animals survive? Students can build their own ideas about how the structure of a group influences the function of the group by using concrete examples, such as bees with queens, workers, and drones, compared to flocks of birds where each member plays a similar role. Students can also benefit from observations of local animals (e.g., ants on the playground, birds at a feeder), as these everyday experiences make abstract group dynamics more tangible.\n\nSeeing that groups interact in a variety of ways lays the groundwork for the next steps in the progression. In middle school, students learn that groups do not arise randomly but are held together by mechanisms such as recognition, signaling, and coordination. These behaviors mark the first time that social interactions become part of the science group dynamics progression. In high school, social interactions develop further as students come to understand social affiliation which itself is a basic need for many animals, including humans, and that enduring bonds within groups increase survival and reproduction."
     },
     "6-8": {
-      "nrcQuote": "By the end of grade 8. Groups may form because of genetic relatedness, physical proximity, or other recognition mechanisms (which may be species-specific). They engage in a variety of signaling behaviors to maintain the group’s integrity or to warn of threats. Groups often dissolve if they no longer function to meet individuals’ needs, if dominant members lose their place, or if other key members are removed from the group through death, predation, or exclusion by other members. – NRC, 2012",
-      "progression": "The next step in this progression is to move beyond the idea that not all groups are alike. In middle school, the central idea is that groups form and endure because of social interactions among members. These interactions include simple mechanisms such as recognizing one another, staying in proximity, or signaling about food and threats. Such interactions create the integrity of the group and allow its benefits to persist. When these mechanisms fail or when key individuals are lost, groups dissolve and individuals are left more vulnerable. Although this part of the progression is not represented by specific standards, it plays a critical role in linking the organizational comparisons made in upper elementary to the deeper ideas of social affiliation that appear in high school. The various types of simple social interactions observed in animals like wolves, lions, or birds provide the foundation for understanding how enduring social connections—such as parent–offspring bonds or peer affiliation—become essential features of more complex organisms."
+      "nrcQuote": "By the end of grade 8. Groups may form because of genetic relatedness, physical proximity, or other recognition mechanisms (which may be species-specific). They engage in a variety of signaling behaviors to maintain the group's integrity or to warn of threats. Groups often dissolve if they no longer function to meet individuals' needs, if dominant members lose their place, or if other key members are removed from the group through death, predation, or exclusion by other members. -- NRC, 2012",
+      "progression": "The next step in this progression is to move beyond the idea that not all groups are alike. In middle school, the central idea is that groups form and endure because of social interactions among members. These interactions include simple mechanisms such as recognizing one another, staying in proximity, or signaling about food and threats. Such interactions create the integrity of the group and allow its benefits to persist. When these mechanisms fail or when key individuals are lost, groups dissolve and individuals are left more vulnerable. Although this part of the progression is not represented by specific standards, it plays a critical role in linking the organizational comparisons made in upper elementary to the deeper ideas of social affiliation that appear in high school. The various types of simple social interactions observed in animals like wolves, lions, or birds provide the foundation for understanding how enduring social connections---such as parent--offspring bonds or peer affiliation---become essential features of more complex organisms."
     },
     "Biology": {
-      "nrcQuote": "Animals, including humans, have a strong drive for social affiliation with members of their own species and will suffer, behaviorally as well as physiologically, if reared in isolation, even if all of their physical needs are met. Some forms of affiliation arise from the bonds between offspring and parents. Other groups form among peers. Group behavior has evolved because membership can increase the chances of survival for individuals and their genetic relatives. – NRC, 2012",
-      "progression": "Students have explored the ways that organisms benefit from group membership and various characteristics of groups, including structures, dynamics, roles, and the formation, communication within and dissolution of groups. In high school, discussions about a group’s membership consider the idea of group belonging.\n\nGroup behaviors are beneficial, and natural selection will favor certain behaviors. For example, when a mother guards her nest and protects her offspring from predators, her offspring are more likely to survive. Over time, nest-guarding behaviors will become more common in a population. In this way, selective pressure has deeply engrained a need for group affiliation in individuals, including chemical pathways and positive feedback loops that encourage group belonging.\n\nGroup membership has become so established in some species that relationships and connections with others have become a basic need for individuals. In the same way that food and water are basic needs, fulfilling the desire to connect to others is essential to development. This is a different perspective on groups than the ideas of earlier grades where group membership served basic functions such as warning when predators were nearby."
+      "nrcQuote": "Animals, including humans, have a strong drive for social affiliation with members of their own species and will suffer, behaviorally as well as physiologically, if reared in isolation, even if all of their physical needs are met. Some forms of affiliation arise from the bonds between offspring and parents. Other groups form among peers. Group behavior has evolved because membership can increase the chances of survival for individuals and their genetic relatives. -- NRC, 2012",
+      "progression": "Students have explored the ways that organisms benefit from group membership and various characteristics of groups, including structures, dynamics, roles, and the formation, communication within and dissolution of groups. In high school, discussions about a group's membership consider the idea of group belonging.\n\nGroup behaviors are beneficial, and natural selection will favor certain behaviors. For example, when a mother guards her nest and protects her offspring from predators, her offspring are more likely to survive. Over time, nest-guarding behaviors will become more common in a population. In this way, selective pressure has deeply engrained a need for group affiliation in individuals, including chemical pathways and positive feedback loops that encourage group belonging.\n\nGroup membership has become so established in some species that relationships and connections with others have become a basic need for individuals. In the same way that food and water are basic needs, fulfilling the desire to connect to others is essential to development. This is a different perspective on groups than the ideas of earlier grades where group membership served basic functions such as warning when predators were nearby."
     }
   },
   "progression": {
     "columns": [
-      {
-        "key": "gradeBand",
-        "label": "Grade Band"
-      },
-      {
-        "key": "structureOfGroups",
-        "label": "Structure of Groups"
-      },
-      {
-        "key": "functionOfGroups",
-        "label": "Function of Groups"
-      }
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "structureOfGroups", "label": "Structure of Groups" },
+      { "key": "functionOfGroups", "label": "Function of Groups" }
     ],
     "table": [
       {
         "gradeBand": "K-2",
-        "structureOfGroups": "Groups exist",
+        "structureOfGroups": "Groups exist.",
         "functionOfGroups": "Groups help."
       },
       {
         "gradeBand": "3-5",
-        "structureOfGroups": "Groups aren’t all the same.",
+        "structureOfGroups": "Groups aren't all the same.",
         "functionOfGroups": "Groups provide different advantages depending on how they are organized."
       },
       {
@@ -64,20 +61,19 @@
         "functionOfGroups": "Group belonging has become more complicated over time because it increases survival and reproduction of individuals."
       }
     ],
-    "narrative": "Students’ understanding of social interactions in groups grows from recognizing that groups exist to appreciating that group belonging can be a deeply rooted feature of complex animals.\n\nIn the early grades, students learn that organisms group together with other animals of the same type and see that being part of a group helps individuals meet basic needs or cope with changes. For example, individual slime molds gather to form “slugs” that search for food collectively. Young learners can connect this idea to how flocks or herds help animals find food and stay safe.\n\nStudents begin to investigate group dynamics in upper elementary school. They recognize that not all groups help in the same way. Some groups are equal and loosely structured, while others, like colonies of ants or bees, have roles or hierarchies that divide work differently among members.\n\nThe next step in this progression is for students to understand that groups don’t arise randomly. Groups have mechanisms that lead to their formation or hold them together, such as ways of recognizing one another, staying close, or signaling when danger is near. These mechanisms are the most basic social ties that make groups possible and serve as the starting point for more advanced social organisms. If the structure or social ties are disrupted, the benefits of belonging disappear. For example, wolf packs and prides of lions depend on recognition, communication, and loyalty among members to hunt and protect young. When key members are lost or social ties break down, the group may dissolve, leaving individuals more vulnerable.\n\nBy high school, students connect group belonging with enduring emotional and behavioral connections. In complex animals such as elephants or humans, affiliative bonds between parents and offspring or among peers provide benefits that go beyond meeting immediate needs. Belonging to a group has become more complicated in these animals because it supports both the survival and the reproduction of individuals.\n\n(Note: Plants interact with each other and with their environment in things like competition for light or complex networks of roots and mycorrhizal associations. However, these interactions are outside of the scope of this component idea because they aren’t typically considered social behaviors among individuals of the same species.)"
+    "narrative": "Students' understanding of social interactions in groups grows from recognizing that groups exist to appreciating that group belonging can be a deeply rooted feature of complex animals.\n\nIn the early grades, students learn that organisms group together with other animals of the same type and see that being part of a group helps individuals meet basic needs or cope with changes. For example, individual slime molds gather to form \"slugs\" that search for food collectively. Young learners can connect this idea to how flocks or herds help animals find food and stay safe.\n\nStudents begin to investigate group dynamics in upper elementary school. They recognize that not all groups help in the same way. Some groups are equal and loosely structured, while others, like colonies of ants or bees, have roles or hierarchies that divide work differently among members.\n\nThe next step in this progression is for students to understand that groups don't arise randomly. Groups have mechanisms that lead to their formation or hold them together, such as ways of recognizing one another, staying close, or signaling when danger is near. These mechanisms are the most basic social ties that make groups possible and serve as the starting point for more advanced social organisms. If the structure or social ties are disrupted, the benefits of belonging disappear. For example, wolf packs and prides of lions depend on recognition, communication, and loyalty among members to hunt and protect young. When key members are lost or social ties break down, the group may dissolve, leaving individuals more vulnerable.\n\nBy high school, students connect group belonging with enduring emotional and behavioral connections. In complex animals such as elephants or humans, affiliative bonds between parents and offspring or among peers provide benefits that go beyond meeting immediate needs. Belonging to a group has become more complicated in these animals because it supports both the survival and the reproduction of individuals.\n\n(Note: Plants interact with each other and with their environment in things like competition for light or complex networks of roots and mycorrhizal associations. However, these interactions are outside of the scope of this component idea because they aren't typically considered social behaviors among individuals of the same species.)"
   },
   "standards": [
     {
-      "grade": "3",
-      "discipline": "LS",
       "code": "3.LS2.1",
+      "grade": "3",
       "statement": "Obtain information to compare various ways that groups organize (e.g., specialized roles for members vs same roles for members) to explain the benefits of animal group behavior.",
       "bigIdea": "Animal groups vary in size, structure, and organization and they stay together because being a part of a group has various benefits to individuals.",
       "scientificIdeas": [
         "A group is a collection of organisms that are all the same type.",
         "Being part of a group benefits individual members (e.g., capturing food, protecting young, confusing predators).",
         "Activities within groups can be distributed in various ways (e.g., all members may be responsible for the same task, unique roles).",
-        "Groups can have different structures – equal individuals, hierarchies.",
+        "Groups can have different structures -- equal individuals, hierarchies.",
         "Groups can have different compositions (e.g., families, peers of similar ages)",
         "There are many different sizes of groups.",
         "Groups can be stable where members remain part of the group for a long period of time or fluid where members move in or out."
@@ -85,34 +81,33 @@
       "studentIdeas": [
         "All living things form groups.",
         "All groups have a single leader.",
-        "Groups are unchanging – members do not come and go."
+        "Groups are unchanging -- members do not come and go."
       ]
     },
     {
-      "grade": "Bio1",
-      "discipline": "LS",
       "code": "Bio1.LS2.5",
-      "statement": "Analyze data about the role of group behavior on individuals’ and species’ chances to survive and reproduce.",
+      "grade": "Biology",
+      "statement": "Analyze data about the role of group behavior on individuals' and species' chances to survive and reproduce.",
       "bigIdea": "Group behavior is beneficial to individuals. The tendency to form groups for some species has persisted for so many generations that the behaviors have become a basic need for individuals.",
       "scientificIdeas": [
         "Groups serve a variety of functions with many different structures. Being a part of a group increases the likelihood that an individual will survive.",
-        "Groups' advantages are often due to the altruistic behaviors of individuals – members of a group make individual sacrifices for the benefit of the larger group. For example, warning calls reveal an individual’s hiding place but alert the group about a nearby predator.",
+        "Groups' advantages are often due to the altruistic behaviors of individuals -- members of a group make individual sacrifices for the benefit of the larger group. For example, warning calls reveal an individual's hiding place but alert the group about a nearby predator.",
         "Groups are more likely to stay together when the benefits of membership outweigh the costs.",
         "The behavior of organisms depends on genetic factors and learned experiences. Genes that support group belonging increase the likelihood that an organism will survive. Over time, these genes will become more common in a population.",
-        "Group belonging has increased survival rates for individuals over many generations. The result has been the selection of genes that support group belonging. Many of the behaviors now have connections within an organism’s DNA, for example, the expression of genes involved in the production of oxytocin in mammals.",
+        "Group belonging has increased survival rates for individuals over many generations. The result has been the selection of genes that support group belonging. Many of the behaviors now have connections within an organism's DNA, for example, the expression of genes involved in the production of oxytocin in mammals.",
         "Positive selection for group-forming behaviors in sexually reproducing species increased the likelihood that a particular species avoids extinction by keeping members close together.",
         "The genomes of some species have developed over generations to include genes that encourage group membership. The development of organisms with a drive towards social affiliation is negatively impacted if these individuals do not experience connections with others."
       ],
       "studentIdeas": [
         "Being part of a group eliminates individual risk.",
         "All members of a group will benefit from membership.",
-        "Genes only impact the physical characteristics of organisms.",
+        "Genes only impact the physical characteristics of organisms.",
         "Natural selection only applies to the physical features of individuals and not to behaviors."
       ]
     }
   ],
   "metadata": {
-    "version": "2026-01-05",
-    "source": "2025_LS2d.docx"
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
   }
 }

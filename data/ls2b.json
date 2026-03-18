@@ -7,51 +7,47 @@
   "chapterOverview": {
     "guidingQuestion": "How do matter and energy move through an ecosystem?",
     "purpose": "The purpose of this component idea is to explain that the transfer of energy in ecosystems is inseparably linked to the transfer of matter. Matter continually cycles within and across ecosystems, while energy flows in one direction and is eventually dissipated as heat.",
-    "centralIdeas": "Matter serves two purposes in living systems: it provides the material for growth and the mechanism for energy transfer. Producers, typically plants, are the foundation for ecosystems because of their ability to couple matter and energy through processes such as photosynthesis.\n\nChemical elements are never destroyed as they cycle through living and non-living parts of ecosystems and across ecosystems.\n\nEnergy, however, flows out of ecosystems during matter transfers (passing from one organism to another), transformations (producing newly made structures), and the daily activities of living things."
+    "centralIdeas": [
+      "Matter serves two purposes in living systems: it provides the material for growth and the mechanism for energy transfer.",
+      "Producers, typically plants, are the foundation for ecosystems because of their ability to couple matter and energy through processes such as photosynthesis.",
+      "Chemical elements are never destroyed as they cycle through living and non-living parts of ecosystems and across ecosystems.",
+      "Energy, however, flows out of ecosystems during matter transfers (passing from one organism to another), transformations (producing newly made structures), and the daily activities of living things."
+    ]
   },
   "gradeBandIntro": {
     "K-2": {
-      "nrcQuote": "By the end of grade 2. Organisms obtain the materials they need to grow and survive from the environment. Many of these materials come from organisms and are used again by other organisms. – NRC, 2012",
-      "progression": "At this grade band, students begin with two tangible aspects of LS2.B: organisms obtain materials from their surroundings, and some of these materials are reused by other organisms. The focus is on visible, everyday examples such as animals eating food, plants needing water and light, or animals using trees or leaves for shelter. These observations help students recognize that organisms depend on their environment and sometimes on each other to meet their needs. It is important for students to see that organisms use things from their surroundings so that they are prepared for the idea that materials cycle between living and non-living parts of ecosystems, even though this relationship in only “one-way” in the earliest grades.\n\nAlthough the standards do not yet name “cycling of matter,” teachers can lay the groundwork by introducing the way that bulk materials are used repeatedly. For example, a growing tree provides shade, shelter, habitat and food for other organisms. Even after this tree falls, it becomes shelter for new insects and small animals. Compost piles or fallen leaves breaking down into soil offer another way for students to see that materials can be reused. These are not yet explanations at the particle level, but they introduce the idea that matter moves through ecosystems in cycles of use and reuse.\n\nEnergy is not introduced at this grade because students’ only association with energy in a scientific sense is that the sun warms things on Earth. This understanding is not sufficient to support the connection between energy and matter that is central to this progression.\n\nThis early focus on bulk, visible materials, serves as a foundation for later learning. As students move into upper elementary and middle school, they will shift from noticing visible reuse of materials to understanding that atoms and molecules themselves are cycled between organisms and their environment."
+      "nrcQuote": "By the end of grade 2. Organisms obtain the materials they need to grow and survive from the environment. Many of these materials come from organisms and are used again by other organisms. -- NRC, 2012",
+      "progression": "At this grade band, students begin with two tangible aspects of LS2.B: organisms obtain materials from their surroundings, and some of these materials are reused by other organisms. The focus is on visible, everyday examples such as animals eating food, plants needing water and light, or animals using trees or leaves for shelter. These observations help students recognize that organisms depend on their environment and sometimes on each other to meet their needs. It is important for students to see that organisms use things from their surroundings so that they are prepared for the idea that materials cycle between living and non-living parts of ecosystems, even though this relationship in only \"one-way\" in the earliest grades.\n\nAlthough the standards do not yet name \"cycling of matter,\" teachers can lay the groundwork by introducing the way that bulk materials are used repeatedly. For example, a growing tree provides shade, shelter, habitat and food for other organisms. Even after this tree falls, it becomes shelter for new insects and small animals. Compost piles or fallen leaves breaking down into soil offer another way for students to see that materials can be reused. These are not yet explanations at the particle level, but they introduce the idea that matter moves through ecosystems in cycles of use and reuse.\n\nEnergy is not introduced at this grade because students' only association with energy in a scientific sense is that the sun warms things on Earth. This understanding is not sufficient to support the connection between energy and matter that is central to this progression.\n\nThis early focus on bulk, visible materials, serves as a foundation for later learning. As students move into upper elementary and middle school, they will shift from noticing visible reuse of materials to understanding that atoms and molecules themselves are cycled between organisms and their environment."
     },
     "3-5": {
-      "nrcQuote": "By the end of grade 5. Matter cycles between the air and soil and among plants, animals, and microbes as these organisms live and die. Organisms obtain gases, water, and minerals from the environment and release waste matter (gas, liquid, or solid) back into the environment. – NRC, 2012",
-      "progression": "This progression explores both the cycling of matter and the flow of energy within ecosystems. As in early elementary, the focus of the progression is still primarily on matter. Students now consider matter moving in both directions, whereas students previously only looked at examples where matter moved from non-living things to be used by living things. Since matter is now moving in both direction, discussions can begin to address that matter cycles between living and non-living systems. Food webs provide a useful system model to represent how matter flows among producers, consumers, and decomposers. Within these webs, students should demonstrate an understanding that matter is recycled, and that living and non-living parts of the system are tightly connected.\n\nEnergy concepts do not become a major part of this progression until middle school where students learn that chemical reactions can store energy in compounds. It is possible to set a stage for early energy ideas if students begin to associate light from the sun (energy) with growth of plants (matter) and consumers eating plants.\n\nOne meta-theme for grades 3-5 is learning that matter and life can be so small that we cannot see them directly. Learning about matter at these small scales supports discussion of matter transfers as gas as well as the roles of invisible microbes in decomposition. Like many organisms, we eat solid food, drink water, and breathe air. It is not necessary to explore the cycling of matter at the elemental level, such as the cycling of carbon and oxygen between plants and animals. Students must reach middle school and learn about chemical elements and chemical reactions before they are prepared to understand cycling of matter at the elemental level.\n\nEating, drinking, and breathing are all interactions between animals (including humans) and their surroundings. Students can begin to recognize that the water vapor that they exhale can re-enter living systems in a variety of ways – perhaps it becomes precipitation or might be inhaled directly by their neighbor. Animals also release waste such as solids, liquids, and gases. Releasing waste is a process that returns matter to the physical environment. Instructional examples should emphasize bulk materials that organisms return to their environment, such as cow dung enriching soils or fallen trees decomposing back into nutrients.\n\nDiscussions about life cycles reveal that all living things will eventually die. When this happens, the matter that they have accumulated during their lives returns the physical environment through the actions of decomposers."
+      "nrcQuote": "By the end of grade 5. Matter cycles between the air and soil and among plants, animals, and microbes as these organisms live and die. Organisms obtain gases, water, and minerals from the environment and release waste matter (gas, liquid, or solid) back into the environment. -- NRC, 2012",
+      "progression": "This progression explores both the cycling of matter and the flow of energy within ecosystems. As in early elementary, the focus of the progression is still primarily on matter. Students now consider matter moving in both directions, whereas students previously only looked at examples where matter moved from non-living things to be used by living things. Since matter is now moving in both direction, discussions can begin to address that matter cycles between living and non-living systems. Food webs provide a useful system model to represent how matter flows among producers, consumers, and decomposers. Within these webs, students should demonstrate an understanding that matter is recycled, and that living and non-living parts of the system are tightly connected.\n\nEnergy concepts do not become a major part of this progression until middle school where students learn that chemical reactions can store energy in compounds. It is possible to set a stage for early energy ideas if students begin to associate light from the sun (energy) with growth of plants (matter) and consumers eating plants.\n\nOne meta-theme for grades 3-5 is learning that matter and life can be so small that we cannot see them directly. Learning about matter at these small scales supports discussion of matter transfers as gas as well as the roles of invisible microbes in decomposition. Like many organisms, we eat solid food, drink water, and breathe air. It is not necessary to explore the cycling of matter at the elemental level, such as the cycling of carbon and oxygen between plants and animals. Students must reach middle school and learn about chemical elements and chemical reactions before they are prepared to understand cycling of matter at the elemental level.\n\nEating, drinking, and breathing are all interactions between animals (including humans) and their surroundings. Students can begin to recognize that the water vapor that they exhale can re-enter living systems in a variety of ways -- perhaps it becomes precipitation or might be inhaled directly by their neighbor. Animals also release waste such as solids, liquids, and gases. Releasing waste is a process that returns matter to the physical environment. Instructional examples should emphasize bulk materials that organisms return to their environment, such as cow dung enriching soils or fallen trees decomposing back into nutrients.\n\nDiscussions about life cycles reveal that all living things will eventually die. When this happens, the matter that they have accumulated during their lives returns the physical environment through the actions of decomposers."
     },
     "6-8": {
-      "nrcQuote": "By the end of grade 8. Food webs are models that demonstrate how matter and energy is transferred between producers (generally plants and other organisms that engage in photosynthesis), consumers, and decomposers as the three groups interact—primarily for food—within an ecosystem. Transfers of matter into and out of the physical environment occur at every level—for example, when molecules from food react with oxygen captured from the environment, the carbon dioxide and water thus produced are transferred back to the environment, and ultimately so are waste products, such as fecal material. Decomposers recycle nutrients from dead plants or animal matter back to the soil in terrestrial environments or to the water in aquatic environments. The atoms that make up the organisms in an ecosystem are cycled repeatedly between the living and nonliving parts of the ecosystem. – NRC, 2012",
-      "progression": "This progression began with students learning that organisms get things from their surroundings and that a single material can be used more than once. Initially the movement of matter was only from the environment to living things, but by late elementary school, students learned that all phases of matter cycle back and forth between living things and their surroundings. Discussions of energy first appear in the middle grades once students learn that matter can store or release energy during chemical reactions.\n\nThe key idea for middle school is that matter and energy transfers occur together during interactions between living things or with their surroundings. Plants are essential to this progression because of their ability to carry out photosynthesis which couple matter and energy.\n\nThe basic inputs of photosynthesis are light (energy) and air (matter). Many years before scientists began to name elements such as carbon and oxygen, early scientists used limewater to investigate plant activity since limewater absorbed “fixed air,” now known as carbon dioxide. If a plant was grown in a sealed vessel of “fixed air” and the air from this vessel was bubbled through a limewater solution, the limewater would absorb less weight than an identical volume of air grown without a plant present. The decrease in the weight of “fixed air” was proportional to the weight gained by the plant as it grew, which supported the idea that plants were taking matter from the air (reducing its mass) and not from soil or water.\n\nStudents should understand that the changes to in the composition of air that occur during photosynthesis only take place when the plant is exposed to light. In the above experiments, plants only caused changes to the mass of “fixed air” when the plants were grown in sunlight. This observation allowed us to establish a connection between changes in matter, the decreased weight of “fixed air”, and the ability of matter to combine with energy.\n\nIn earlier grades, there was not a clear connection between the bulk waste products released by animals and improved soils. Now that students understand that there are particular compounds that can be identified, they can understand that the animal waste contains the constituent parts that feed the soils.\n\nSoils are a critical place where matter transfer occurs between living things and their physical environment. Students should think of soil (dirt) as a collection of particles - gases, water, microbes, minerals (particles from broken down rocks), and decomposing organic matter. Plants interact with the soil and grow as their roots gather minerals from the soil. Eating is an interaction that brings matter from prey to predator or from producer to consumer. When an organism dies, microbes break down its body and the minerals become part of the soil again.\n\nThere is a limited supply of different elements/compounds in every ecosystem. A stable ecosystem recycles these materials. In later grades, students will consider the ways that these mass and energy transfers act as limits to the sizes of ecosystems."
+      "nrcQuote": "By the end of grade 8. Food webs are models that demonstrate how matter and energy is transferred between producers (generally plants and other organisms that engage in photosynthesis), consumers, and decomposers as the three groups interact---primarily for food---within an ecosystem. Transfers of matter into and out of the physical environment occur at every level---for example, when molecules from food react with oxygen captured from the environment, the carbon dioxide and water thus produced are transferred back to the environment, and ultimately so are waste products, such as fecal material. Decomposers recycle nutrients from dead plants or animal matter back to the soil in terrestrial environments or to the water in aquatic environments. The atoms that make up the organisms in an ecosystem are cycled repeatedly between the living and nonliving parts of the ecosystem. -- NRC, 2012",
+      "progression": "This progression began with students learning that organisms get things from their surroundings and that a single material can be used more than once. Initially the movement of matter was only from the environment to living things, but by late elementary school, students learned that all phases of matter cycle back and forth between living things and their surroundings. Discussions of energy first appear in the middle grades once students learn that matter can store or release energy during chemical reactions.\n\nThe key idea for middle school is that matter and energy transfers occur together during interactions between living things or with their surroundings. Plants are essential to this progression because of their ability to carry out photosynthesis which couple matter and energy.\n\nThe basic inputs of photosynthesis are light (energy) and air (matter). Many years before scientists began to name elements such as carbon and oxygen, early scientists used limewater to investigate plant activity since limewater absorbed \"fixed air,\" now known as carbon dioxide. If a plant was grown in a sealed vessel of \"fixed air\" and the air from this vessel was bubbled through a limewater solution, the limewater would absorb less weight than an identical volume of air grown without a plant present. The decrease in the weight of \"fixed air\" was proportional to the weight gained by the plant as it grew, which supported the idea that plants were taking matter from the air (reducing its mass) and not from soil or water.\n\nStudents should understand that the changes to in the composition of air that occur during photosynthesis only take place when the plant is exposed to light. In the above experiments, plants only caused changes to the mass of \"fixed air\" when the plants were grown in sunlight. This observation allowed us to establish a connection between changes in matter, the decreased weight of \"fixed air\", and the ability of matter to combine with energy.\n\nIn earlier grades, there was not a clear connection between the bulk waste products released by animals and improved soils. Now that students understand that there are particular compounds that can be identified, they can understand that the animal waste contains the constituent parts that feed the soils.\n\nSoils are a critical place where matter transfer occurs between living things and their physical environment. Students should think of soil (dirt) as a collection of particles - gases, water, microbes, minerals (particles from broken down rocks), and decomposing organic matter. Plants interact with the soil and grow as their roots gather minerals from the soil. Eating is an interaction that brings matter from prey to predator or from producer to consumer. When an organism dies, microbes break down its body and the minerals become part of the soil again.\n\nThere is a limited supply of different elements/compounds in every ecosystem. A stable ecosystem recycles these materials. In later grades, students will consider the ways that these mass and energy transfers act as limits to the sizes of ecosystems."
     },
     "Biology": {
-      "nrcQuote": "Photosynthesis and cellular respiration (including anaerobic processes) provide most of the energy for life processes. Plants or algae form the lowest level of the food web. At each link upward in a food web, only a small fraction of the matter consumed at the lower level is transferred upward, to produce growth and release energy in cellular respiration at the higher level. Given this inefficiency, there are generally fewer organisms at higher levels of a food web, and there is a limit to the number of organisms that an ecosystem can sustain.\nThe chemical elements that make up the molecules of organisms pass through food webs and into and out of the atmosphere and soil and are combined and recombined in different ways. At each link in an ecosystem, matter and energy are conserved; some matter reacts to release energy for life functions, some matter is stored in newly made structures, and much is discarded. Competition among species is ultimately competition for the matter and energy needed for life.\nPhotosynthesis and cellular respiration are important components of the carbon cycle, in which carbon is exchanged between the biosphere, atmosphere, oceans, and geosphere through chemical, physical, geological, and biological processes.\n– NRC, 2012",
-      "progression": "This progression begins before students learn about energy or even a formal definition of matter. At that time, students learn that organisms use materials from their surroundings, and importantly the idea that the materials from one organism get used by other organisms. Students learn to view the recycling of matter at smaller scales as they learn about the worlds of microbes and microscopic particles.\n\nMiddle school students learn that matter can store energy – any changes in matter also require changes in energy. This allows students to understand that when light or another energy source is present, plants or other producers can capture energy from alternate sources and perform reactions that build sugars and bind this energy. Separate sets of reactions can release the energy stored in sugar.\n\nProducers create a limited amount of energy stored in matter and all other organisms in an ecosystem depend on this energy. The largest portion of the matter that an organism consumes passes through its body as waste. The matter that passes through an organism without being broken down retains its stored chemical energy and provides both matter and energy for decomposers. The matter that organisms consume can be used to drive chemical reactions or to build materials that organisms need for growth through cell division. The limited pool of energy and matter captured by producers and the inefficiencies of energy transfer and use limit the size of ecosystems."
+      "nrcQuote": "Photosynthesis and cellular respiration (including anaerobic processes) provide most of the energy for life processes. Plants or algae form the lowest level of the food web. At each link upward in a food web, only a small fraction of the matter consumed at the lower level is transferred upward, to produce growth and release energy in cellular respiration at the higher level. Given this inefficiency, there are generally fewer organisms at higher levels of a food web, and there is a limit to the number of organisms that an ecosystem can sustain.\n\nThe chemical elements that make up the molecules of organisms pass through food webs and into and out of the atmosphere and soil and are combined and recombined in different ways. At each link in an ecosystem, matter and energy are conserved; some matter reacts to release energy for life functions, some matter is stored in newly made structures, and much is discarded. Competition among species is ultimately competition for the matter and energy needed for life.\n\nPhotosynthesis and cellular respiration are important components of the carbon cycle, in which carbon is exchanged between the biosphere, atmosphere, oceans, and geosphere through chemical, physical, geological, and biological processes. -- NRC, 2012",
+      "progression": "This progression begins before students learn about energy or even a formal definition of matter. At that time, students learn that organisms use materials from their surroundings, and importantly the idea that the materials from one organism get used by other organisms. Students learn to view the recycling of matter at smaller scales as they learn about the worlds of microbes and microscopic particles.\n\nMiddle school students learn that matter can store energy -- any changes in matter also require changes in energy. This allows students to understand that when light or another energy source is present, plants or other producers can capture energy from alternate sources and perform reactions that build sugars and bind this energy. Separate sets of reactions can release the energy stored in sugar.\n\nProducers create a limited amount of energy stored in matter and all other organisms in an ecosystem depend on this energy. The largest portion of the matter that an organism consumes passes through its body as waste. The matter that passes through an organism without being broken down retains its stored chemical energy and provides both matter and energy for decomposers. The matter that organisms consume can be used to drive chemical reactions or to build materials that organisms need for growth through cell division. The limited pool of energy and matter captured by producers and the inefficiencies of energy transfer and use limit the size of ecosystems."
     }
   },
   "progression": {
     "columns": [
-      {
-        "key": "gradeBand",
-        "label": "Grade Band"
-      },
-      {
-        "key": "cyclingOfMaterials",
-        "label": "Cycling of Materials"
-      },
-      {
-        "key": "flowOfEnergy",
-        "label": "Flow of Energy"
-      }
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "cyclingOfMaterials", "label": "Cycling of Materials" },
+      { "key": "flowOfEnergy", "label": "Flow of Energy" }
     ],
     "table": [
       {
         "gradeBand": "K-2",
         "cyclingOfMaterials": "Organisms get materials (e.g., food, water, shelter) from the environment. And some of the materials get reused.",
-        "flowOfEnergy": "(Energy concepts are not addressed in this grade band.)"
+        "flowOfEnergy": "Energy concepts are not addressed in this grade band."
       },
       {
         "gradeBand": "3-5",
         "cyclingOfMaterials": "Matter flows from non-living parts of the environment to living things, as well as in the opposite direction.",
-        "flowOfEnergy": "(Energy does not enter this progression until students understand that chemical reactions store energy in matter.)"
+        "flowOfEnergy": "Energy does not enter this progression until students understand that chemical reactions store energy in matter."
       },
       {
         "gradeBand": "6-8",
@@ -68,25 +64,24 @@
   },
   "standards": [
     {
-      "grade": "1",
-      "discipline": "LS",
       "code": "1.LS2.3",
+      "grade": "1",
       "statement": "Develop and use models to show how plants and animals depend on their surroundings and other living things to meet their needs in the places they live.",
-      "bigIdea": "Living things use materials from their surroundings to meet their needs, creating a connection between living things and their non-living surroundings.\n\n(Note: This standard intends for students to recognize that living things depend on their environment, and not for students to memorize classifications of living vs non-living things.)",
+      "bigIdea": "Living things use materials from their surroundings to meet their needs, creating a connection between living things and their non-living surroundings.",
+      "note": "This standard intends for students to recognize that living things depend on their environment, and not for students to memorize classifications of living vs non-living things.",
       "scientificIdeas": [
         "Different types of plants and animals have unique needs, but generally plants need sunlight, water, air, and a place to grow and animals need food, water, air, and shelter from their surroundings.",
         "Some of the things plants and animals need come from their environment, and not from other living things.",
-        "Materials can be used multiple times – loose tufts of fur that once kept a rabbit warm get incorporated into a bird’s nest, a snake might take over a hole dug by a gopher."
+        "Materials can be used multiple times -- loose tufts of fur that once kept a rabbit warm get incorporated into a bird's nest, a snake might take over a hole dug by a gopher."
       ],
       "studentIdeas": [
         "Living things only need food and water to survive.",
-        "Once animals have used a material, other animals won’t use it because it’s trash."
+        "Once animals have used a material, other animals won't use it because it's trash."
       ]
     },
     {
-      "grade": "4",
-      "discipline": "LS",
       "code": "4.LS2.1",
+      "grade": "4",
       "statement": "Develop and use models to illustrate the flow of matter through a food web/food chain beginning with sunlight and including producers, consumers, and decomposers.",
       "bigIdea": "Matter cycles between living and non-living parts of environments.",
       "scientificIdeas": [
@@ -103,44 +98,83 @@
       "studentIdeas": [
         "Plants only need sunlight to grow.",
         "When animals eat, the food disappears or turns into energy.",
-        "Once matter moves into living systems, it doesn’t return to non-living systems.",
-        "Food chains/webs only show “who eats who” (Overlooking the flow of matter.)",
+        "Once matter moves into living systems, it doesn't return to non-living systems.",
+        "Food chains/webs only show \"who eats who\" (Overlooking the flow of matter.)",
         "Air is not matter."
       ]
     },
     {
-      "grade": "6",
-      "discipline": "LS",
       "code": "6.LS2.3",
+      "grade": "6",
       "statement": "Use a model to construct an explanation about the transfer of energy through a food web and energy pyramid in an ecosystem.",
       "bigIdea": "Producers couple matter and energy as chemical compounds. Eating food transfers both matter and energy throughout living systems.",
-      "scientificIdeas": [],
-      "studentIdeas": []
+      "scientificIdeas": [
+        "Matter serves two purposes in living systems -- it provides the materials needed for growth and the medium for storing chemical energy.",
+        "Different arrangements of atoms store different amounts of energy. Rearranging atoms can store or release energy.",
+        "Producing higher-energy molecules from lower-energy starting materials requires an external energy input.",
+        "Producers (typically plants) capture energy from sunlight and store it in new compounds (sugars) using materials they obtain from non-living parts of their environment.",
+        "The products of photosynthesis serve two purposes in plants -- some of the sugars become the materials used for growth while another portion of the sugars fuels the reactions need for growth.",
+        "Growth (producing new tissues) requires an energy expenditure to produce more complicated molecules from simple starting materials.",
+        "Tissues in living things store chemical energy.",
+        "When plant or animal tissues become food for another organism, their stored energy is transferred to the consumer.",
+        "Consumers break down food molecules into smaller parts and reassemble them into their own tissues, a process that requires energy from the food they consumed.",
+        "Inputs of oxygen from the environment provide a way for organisms to release energy stored in the molecules in the food they consume.",
+        "Animals also use energy for life activities, such as movement, reproduction, and keeping warm.",
+        "While matter cycles through ecosystems, energy flows in one direction and is lost from ecosystems as heat with each transformation of matter."
+      ],
+      "studentIdeas": [
+        "Plants turn sunlight into matter used to make new plant tissues.",
+        "Reactions that release stored energy from compounds destroy the atoms in the compounds that stored the energy initially.",
+        "Plants only need sunlight to grow.",
+        "Consumers grow by directly incorporating the food they eat into their bodies.",
+        "Since matter and energy are both conserved, they both cycle in ecosystems.",
+        "Energy losses mainly because organisms don't eat every bit of their food/prey.",
+        "Plants grow because they use soil/water to make new plant material."
+      ]
     },
     {
-      "grade": "7",
-      "discipline": "LS",
       "code": "7.LS2.1",
+      "grade": "7",
       "statement": "Develop a model to depict the cycling of matter, including carbon and oxygen, and the flow of energy among biotic and abiotic parts of an ecosystem.",
       "bigIdea": "Matter such as carbon and oxygen cycles repeatedly through ecosystems, while energy continually flows out of ecosystems.",
-      "scientificIdeas": [],
-      "studentIdeas": []
+      "scientificIdeas": [
+        "The composition of a volume of gas can be determined because of the unique physical properties of different compounds (e.g., Oxygen gas increases the intensity of a flame, carbon dioxide gas reacts with limewater).",
+        "Plants reduce the amount of carbon dioxide in the air, while animals increase the amount of carbon dioxide in the air.",
+        "Animals reduce the amount of oxygen in the air and plants increase the amount of oxygen in the air.",
+        "Plants will not survive long in environments that lack oxygen.",
+        "As a plant grows, it will gain mass without affecting the weight of the medium it is growing in.",
+        "The increase in the mass of a plant will be proportional to the mass of the carbon dioxide that it removes from the air.",
+        "Plants bring energy into ecosystems by storing it in chemical compounds.",
+        "Each time the chemical compounds are rearranged to make new compounds, some of the energy transfers heat the surroundings.",
+        "Energy transfers that heat the surroundings are lost from living systems.",
+        "Water is not the medium for plant growth -- water transports nutrients through plants, moving from roots to leaves.",
+        "Matter and energy are both conserved. The same atoms are rearranged and reused in living systems as they move between biotic and abiotic systems. Since energy is conserved, the thermal energy produced by living systems reduces the amount of energy in the living system.",
+        "Decomposers move matter from living systems into non-living systems."
+      ],
+      "studentIdeas": [
+        "Plants only release oxygen; they never use it.",
+        "The gases released by plants and animals are wasted materials that disappear when released to the atmosphere.",
+        "Plants get heavier because they \"eat\" soil.",
+        "Living things don't change the composition of the air, only cars and machines cause these changes.",
+        "Energy gets used up (as opposed to flowing out of systems).",
+        "Plants grow because they are watered.",
+        "Only big things like plants and animals affect the flows of carbon and oxygen."
+      ]
     },
     {
-      "grade": "Bio1",
-      "discipline": "LS",
       "code": "Bio1.LS2.2",
+      "grade": "Biology",
       "statement": "Create, or use, a mathematical model to describe the transfer of energy from one trophic level to another. Explain how the transfer of energy transfer between trophic levels affects the relative number of organisms that can be supported at each trophic level and necessitates a constant input of energy from sunlight and inorganic compounds from the environment.",
       "bigIdea": "All organisms in an ecosystem compete for a limited pool of energy supplied by producers who capture energy from the Sunlight or a few inorganic compounds. All energy transfers between organisms happen through the transfers of matter.",
       "scientificIdeas": [
         "All organisms are made of cells. The growth of an organism occurs as cells obtain matter and use it to produce more cells.",
         "Energy is involved whenever matter changes: Sets of chemical reactions inside of cells create the larger carbon-based molecules that organisms use to build more cellular materials. Chemical reactions that build larger carbon-based molecules require an energy input.",
         "Organisms use energy for multiple purposes: In their daily activities, organisms might also convert stored chemical energy into other forms of energy by doing mechanical work. For example, this includes the work done when animals move around or move other objects around.",
-        "Organisms use matter for multiple purposes: Energy transfers between organisms in an ecosystem occur through transfers of matter. A portion of the matter that transfers between tropic levels provides the materials needed for the growth of organisms – through the construction of cellular materials. Another portion of the matter provides the stored chemical energy needed to construct those cellular materials.",
+        "Organisms use matter for multiple purposes: Energy transfers between organisms in an ecosystem occur through transfers of matter. A portion of the matter that transfers between tropic levels provides the materials needed for the growth of organisms -- through the construction of cellular materials. Another portion of the matter provides the stored chemical energy needed to construct those cellular materials.",
         "Large organisms are inefficient consumers: Organisms only capture a small portion of the matter from the food they eat. Most of the food an organism consumes gets released back into the environment. Due to this inefficiency, organisms must consume far more matter than they successfully capture for metabolism.",
         "Decomposers receive energy from all trophic levels: Other communities of organisms such as decomposers compete for the unprocessed matter released by larger organisms and use it for their own growth and energy production.",
         "Organisms must obtain far more matter than they are able to use directly for growth: Since the matter that organisms consume must serve two purposes (the physical materials for growth and the stored energy for growth), yet each unit of matter can serve only one of these purposes.",
-        "Each successive tropic level requires a significantly larger pool of matter from lower levels: The combined inefficiencies of consumers (in the harvesting of matter and the use of matter for growth) compound across all the organisms at a given trophic level.",
+        "Each successive trophic level requires a significantly larger pool of matter from lower levels: The combined inefficiencies of consumers (in the harvesting of matter and the use of matter for growth) compound across all the organisms at a given trophic level.",
         "All other organisms compete for a limited pool of matter and therefore energy generated by producers: Producers generate the pool of matter, and therefore energy, available for the growth of an ecosystem. All other organisms compete for this same limited pool of matter and energy.",
         "The amount of matter and inefficiencies in the transfer and use of matter constrain the size of ecosystems: These constraints limit the size of populations and the number of trophic levels in the ecosystem.",
         "Alternate energy generation pathways still depend on a source of carbon from their surroundings: Producers who do not obtain energy from the Sun use pathways that can transfer chemical energy stored in inorganic compounds into molecules of glucose."
@@ -154,7 +188,7 @@
     }
   ],
   "metadata": {
-    "version": "2026-01-05",
-    "source": "2025_LS2b.docx"
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
   }
 }
