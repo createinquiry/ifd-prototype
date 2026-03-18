@@ -1,0 +1,158 @@
+{
+  "componentIdea": {
+    "code": "ETS1.C",
+    "title": "Optimizing the Design Solution"
+  },
+  "discipline": "ETS",
+  "chapterOverview": {
+    "guidingQuestion": "How can various proposed design solutions be compared and improved?",
+    "purpose": "The purpose of this component idea is to help students understand how engineers select the optimal solution in situations where competing criteria and constraints prevent any single design from being best in all respects. Students use evidence from testing to evaluate trade-offs and make informed decisions about which solution best fits the priorities and context of a design problem. The ETS1 Disciplinary Core Ideas introduce specialized knowledge that defines an engineering process – problematizing (ETS1.A), solution design (ETS1.B), and optimization (ETS1.C). The Science and Engineering Practices are used throughout the engineering process.",
+    "centralIdeas": "There will usually be more than one solution that meets the criteria and satisfies constraints for a design problem. People may have different judgements about which solution is \"best\" depending on how they prioritize criteria and constraints. Optimization involves trade-offs since improving one criterion might degrade another. Different or multiple solutions may be necessary for the same design problem when the solutions are used in multiple contexts with different priorities."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Because there is always more than one possible solution to a problem, it is useful to compare designs, test them, and discuss their strengths and weaknesses. -- NRC, 2012",
+      "progression": "Early elementary students already make choices between different ways of doing something. They decide whether to use a fork or spoon for eating, which container is easiest to carry without spilling, or which structure they build is less likely to fall over during play. These familiar choices provide a natural entry point for optimization by helping students recognize that more than one solution can work and that solutions can be compared. At this grade band, students are not expected to optimize designs through formal testing or measurement. Instead, instruction focuses on noticing differences among solutions and talking about why one option might be preferred over another.\n\nAt this level, the idea of the \"best\" solution is informal and contextual. A solution is considered best if it works as intended and meets the most important need in a given situation. For example, when comparing bridges made from classroom materials, students might decide that the best bridge is the one that holds a toy car without collapsing, even if another bridge looks taller or more colorful. When comparing containers, students may decide that the best container is the one that keeps water inside rather than the one that is easiest to decorate. These comparisons help students begin to see that choosing a solution involves deciding which features matter most, even when all solutions are acceptable.\n\nInstruction should emphasize discussion and observation rather than precision or performance ranking. Students benefit from opportunities to place solutions side by side, describe what they notice, and explain their preferences using everyday language. Teachers can support this sensemaking by asking questions such as, \"What does this solution do well?\" or \"Why did you choose this one instead of that one?\" These conversations help students recognize that different people might value different features and that there is not always a single correct answer.\n\nStudents only have access to these ideas when appropriate design tasks are selected. If a design task involves making something that cannot be tested, such as a habitat design, then students cannot consider these ideas. Appropriate design tasks must allow two layers of testing: testing of components during the design process (ETS1.b) and the testing of final designs (ETS1.c).\n\nThis grade band lays the foundation for later optimization by establishing that selecting a solution requires judgment. Students begin to understand that success is not only about whether something works, but about which solution best fits a particular need. In later grades, this idea will expand as students use testing, criteria, and constraints more explicitly to support their decisions and to make trade-offs visible."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. -- NRC, 2012",
+      "progression": "By upper elementary grades, students become more able to reason about why some solutions work better than others and to explain their thinking using evidence. They have experience testing materials and parts of solutions during the design process, often to see what fails or what needs improvement. Testing has two purposes in this grade band including testing for improvement (ETS1.b) and testing to compare completed solutions (ETS1.c) and decide which one best addresses the criteria and constraints of a problem.\n\nAt this level, the idea of the \"best\" solution becomes more explicit and more constrained. A solution may \"work\" but must need to address other specifications, such as strength, stability, cost, or the materials available. When students test multiple solutions under similar conditions, they begin to see that more than one solution can meet the requirements of a problem. Selection becomes necessary because solutions often perform differently across criteria. For example, one garden path material may last longer, while another can be accessed freely, requiring students to decide which feature matters most for the problem they are trying to solve.\n\nInstruction at this grade band should emphasize comparison for the purpose of decision-making. Students benefit from opportunities to test final solutions in consistent ways, record what they observe, and use that evidence to explain why one solution might be chosen over another. Teachers can support this shift by asking questions such as, \"Which solution meets the criteria better?\" or \"If we can only choose one, which features matter most?\" These conversations help students move beyond improvement-focused testing and toward evidence-based selection.\n\nThis grade band serves as a critical bridge to later ideas about optimization. Students are not yet expected to use formal decision matrices or weighted criteria, but they should begin to understand that optimization involves choosing among acceptable solutions when no single design is best in every way. In middle school, this understanding will expand as students organize evidence more systematically and make trade-offs explicit when selecting an optimal solution for a specific context."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. There are systematic processes for evaluating solutions with respect to how well they meet the criteria and constraints of a problem. Comparing different designs could involve running them through the same kinds of tests and systematically recording the results to determine which design performs best. Although one design may not perform the best across all tests, identifying the characteristics of the design that performed the best in each test can provide useful information for the redesign process—that is, some of those characteristics may be incorporated into the new design. This iterative process of testing the most promising solutions and modifying what is proposed on the basis of the test results leads to greater refinement and ultimately to an optimal solution. Once such a suitable solution is determined, it is important to describe that solution, explain how it was developed, and describe the features that make it successful. -- NRC, 2012",
+      "progression": "By the middle grades, students are ready to move beyond categorizing solutions by effectiveness and begin selecting an optimal solution when multiple acceptable options exist. Students have experience testing designs to see whether they meet criteria and constraints, and they understand that more than one solution can work. Instruction shifts toward helping students recognize that acceptable solutions often perform differently across criteria, making decision-making unavoidable.\n\nAt this level, the meaning of the \"best\" solution becomes more nuanced. Students learn that a solution may perform well in some ways and less well in others, requiring trade-offs. For example, one solution might be more efficient while another is more durable, or one process might reduce waste more effectively but take more time to carry out. Students begin to see that optimization does not mean finding a solution that is best in every way but selecting a solution with the best balance of criteria for a particular context.\n\nComparison of solutions should become more systematic in both the testing and the decision making. Students benefit from testing solutions in consistent ways, recording results, and organizing evidence so that differences in performance across criteria are visible. Choosing the optimal solution may utilize tables or charts that allow students to compare tradeoffs among solutions.\n\nMiddle school optimization can extend beyond physical structures to include processes and systems. Students may compare different methods for accomplishing a task, managing resources, or controlling the flow of materials or energy. In these cases, optimization involves comparing sequences of actions rather than objects, but the underlying decision-making process is the same. Students learn that optimization is about choosing among alternatives using evidence, and that different priorities or contexts may lead to different optimal solutions.\n\nThis grade band prepares students for high school work in which criteria are prioritized more explicitly and formal decision tools, such as a decision matrix, are introduced. By the end of middle school, students should understand optimization as a deliberate process of selection based on evidence and trade-offs, not simply as an extension of design improvement."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "natureOfDecision",
+        "label": "Nature of the Decision"
+      },
+      {
+        "key": "howSolutionsAreCompared",
+        "label": "How solutions are compared"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "natureOfDecision": "Choosing between different solutions based on strengths and weaknesses.",
+        "howSolutionsAreCompared": "Informal side-by-side comparison of solutions."
+      },
+      {
+        "gradeBand": "3-5",
+        "natureOfDecision": "Choosing among tested solutions based on how well they meet criteria and constraints.",
+        "howSolutionsAreCompared": "Simple comparisons using test results aligned to criteria."
+      },
+      {
+        "gradeBand": "6-8",
+        "natureOfDecision": "Choosing among acceptable solutions by comparing trade-offs across multiple criteria.",
+        "howSolutionsAreCompared": "Organized comparison of solutions among multiple criteria."
+      },
+      {
+        "gradeBand": "9-12",
+        "natureOfDecision": "Selecting an optimal solution by prioritizing and weighing competing criteria for a specific context.",
+        "howSolutionsAreCompared": "Formal decision tools (e.g., decision matrix) used to compare and select among solutions."
+      }
+    ],
+    "narrative": "In the earliest grades, students learn that there can be more than one way to solve the same problem and that these solutions can be compared. At this level, the \"best\" solution is defined informally. It is the one that works as intended and meets the most important need in a situation. Students might compare designs by noticing simple strengths and weaknesses, such as which bridge holds more weight, or which container keeps something dry. These comparisons are grounded in observation and discussion rather than formal measurement. It is important for students to begin to recognize that different people might prefer different solutions because they value different features, even when all solutions work. This establishes an early foundation for understanding that choosing a solution involves judgment, not just success or failure.\n\nBy upper elementary grades, students move from noticing differences among solutions to using testing to inform selection. At this stage, \"best\" is defined in relation to specified criteria and constraints. Students test multiple solutions under similar conditions to determine which one solves the problem more effectively, given the stated goals and limits. This can resemble earlier testing and improvement during the solution design period, but now the emphasis shifts toward comparison for the purpose of choosing among various solutions. Students begin to recognize that no single solution may perform best in every way, and that selecting a solution requires deciding which criteria matter most. This prepares students to see optimization not as simply making something better, but as making a reasoned choice among competing options.\n\nIn middle school, students develop a more systematic approach to evaluating and selecting solutions. They learn that optimization involves comparing solutions against multiple criteria and constraints at the same time, often revealing trade-offs. A solution that performs best on one criterion may not perform as well on another, requiring students to weigh competing priorities. At this level, \"best\" is no longer absolute; instead, it reflects how well a solution balances the most important criteria in a specific context. Students may organize test results in tables or matrices to support comparison and selection, which makes the decision part of the design process. This clear attention to criteria might lead back into redesign as students recognize that features from different solutions can be combined.\n\nBy high school, students understand optimization as a deliberate and complex process of selection among many viable solutions. \"Best\" is defined through prioritization of criteria, which may be broken down into measurable components and weighted based on user needs, societal considerations, and context. Students use tools such as trade-off matrices, numerical scoring systems, and computer simulations to compare designs efficiently and transparently. They recognize that optimal solutions can change as conditions, technologies, or values change, and that different stakeholders may select different solutions from the same set of options. Optimization at this level emphasizes justified decision-making: students are expected not only to select a solution, but also to explain why it is optimal given the chosen priorities and constraints, making trade-offs visible and defensible."
+  },
+  "standards": [
+    {
+      "code": "2.ETS1.3",
+      "statement": "Compare and contrast solutions to a design problem by using evidence to point out strengths and weaknesses of the design.",
+      "bigIdea": "There can be more than one possible solution for a design task and each solution will have strengths and weaknesses.",
+      "scientificIdeas": [
+        "There can be more than one successful solution for the same design problem.",
+        "Comparing solutions involves looking at how each one performs, not just how it looks or was made.",
+        "Evidence comes from observations of what a solution does when it is used or tested.",
+        "A strength is something a solution does well, a weakness is something it does poorly.",
+        "Students can compare two very different solutions to consider strengths and weaknesses between the two overall approaches.",
+        "Students can compare similar solutions to a problem and compare strengths and weaknesses among specific parts of those solutions.",
+        "Evidence helps explain why one solution is better than another."
+      ],
+      "commonStudentIdeas": [
+        "Strength refers to how powerful a device is.",
+        "Weakness refers to how easy it is to break the solution.",
+        "If a solution has a weakness, it means the solution is failed or wrong.",
+        "If one solution is best, the others are bad.",
+        "Personal opinions are a type of evidence.",
+        "There can only be one solution to any design problem."
+      ]
+    },
+    {
+      "code": "4.ETS1.1",
+      "statement": "Categorize the effectiveness of design solutions by testing and comparing them to specified criteria and constraints.",
+      "bigIdea": "Engineers compare and categorize design solutions by testing how well the complete design meets criteria and constraints to decide which solutions are most effective for a particular problem.",
+      "scientificIdeas": [
+        "Design problems can have more than one solution that meets criteria and satisfies the constraints.",
+        "Tests provide evidence that a design will meet the specified criteria.",
+        "It may be necessary to collect information to determine whether a design adheres to design constraints.",
+        "Solutions can be categorized based on how well they meet the criteria (e.g., they meet all criteria well, meet some criteria, meet some criteria better than others).",
+        "Solutions that may perform well on one criterion may not perform well on all criteria.",
+        "Evidence from testing helps explain why some solutions are more effective than others (e.g., The bird feeder spilled less bird food but was harder to open to refill).",
+        "Picking a solution depends on deciding which criteria are most important for the problem."
+      ],
+      "commonStudentIdeas": [
+        "There is only one successful solution for any design problem.",
+        "Constraints are not important if the criteria are met.",
+        "The best looking or strongest solution is the best solution.",
+        "Testing is only used to find mistakes and failure points.",
+        "Evidence comes from opinions or votes, rather than observing how solutions perform."
+      ]
+    },
+    {
+      "code": "6.ETS1.1",
+      "statement": "Design, evaluate, and improve a possible solution for maintaining biodiversity of ecosystems.",
+      "bigIdea": "When multiple solutions can help maintain biodiversity, the optimal solution can be selected by considering trade-offs among competing criteria and the specific context in which the solution will be used.",
+      "scientificIdeas": [
+        "Complex problems often have more than one acceptable solution.",
+        "Tradeoffs arise because different solutions may prioritize different ecological outcomes (e.g., supporting one species vs increasing biodiversity).",
+        "Optimization involves selecting a solution that best aligns with the priorities for a particular ecological situation, rather than identify and single \"one size\" solution.",
+        "Design involves asking questions about the specific context for a solution, since that information is likely to influence selection of the optimal solution.",
+        "The effectiveness of a solution depends on the context in which it is used, including aspects of the ecosystem and the priorities of the selection team.",
+        "A solution that is effective in one ecosystem may be less effective in another.",
+        "Comparing individual criteria across multiple solutions helps clarify which criteria matter most when making decisions about biodiversity."
+      ],
+      "commonStudentIdeas": [
+        "There will be one perfect solution for maintaining biodiversity.",
+        "If a solution helps one species, it will help the entire ecosystem.",
+        "Choosing a solution means deciding which idea is right or wrong.",
+        "A solution that works well in one place will work well everywhere."
+      ]
+    },
+    {
+      "code": "6.ETS1.2",
+      "statement": "Design, construct, and test a device that either minimizes or maximizes thermal energy transfer by combining solutions or parts of solutions to solve a problem that can be communicated and explained to others.",
+      "bigIdea": "Since it's unlikely that a single solution will perform best across all criteria, it can be helpful to compare acceptable solutions, recognize tradeoffs, and combine high performing features to select or develop an optimal solution.",
+      "scientificIdeas": [
+        "Design problems may have multiple viable solutions that meet the criteria and constraints.",
+        "Acceptable solutions can perform differently across criteria (e.g., effectiveness, efficiency, size, or materials use).",
+        "Consistent testing is necessary to reveal differences among solutions.",
+        "Evidence from testing can be organized to compare how solutions work across multiple criteria.",
+        "When no single solution performs best across all criteria, evidence from comparisons can reveal high-performing features or components.",
+        "Combining features from different solutions may address trade-offs, but combined designs must be re-tested because features can interact in unexpected ways.",
+        "Optimization can lead back into solution design to blend features from different designs."
+      ],
+      "commonStudentIdeas": [
+        "When you reach the point of choosing a solution, you're done designing.",
+        "The best solution is the one that performs best on the most important criteria.",
+        "Combining the best parts of different designs will automatically create a better solution.",
+        "Testing is mainly used to improve a design and not to inform decision making."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

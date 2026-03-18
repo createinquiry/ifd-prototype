@@ -1,0 +1,112 @@
+{
+  "componentIdea": {
+    "code": "ETS2.B",
+    "title": "Influence of Engineering, Technology, and Science on Society and the Natural World"
+  },
+  "discipline": "ETS",
+  "chapterOverview": {
+    "guidingQuestion": "How do science, engineering, and the technologies that result from them affect the ways in which people live? How do they affect the natural world?",
+    "purpose": "The goal of this component idea is to help students understand how the arrival and use of technologies shape human relationships with one another and have consequences for the natural world.",
+    "centralIdeas": "Technologies change how people live and interact with one another. They reshape human relationships in ways that extend beyond their original purpose. All technologies rely on materials and energy from the natural world, so developing technology affects Earth's systems. The benefits of technologies are accompanied by trade-offs including costs, risks, and unintended consequences for people and the environment that depend on scale of use and time. Decisions about developing and using technology are influenced by scientific evidence, societal needs and values, and environmental constraints."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. People depend on various technologies in their lives; human life would be very different without technology. Every human-made product is designed by applying some knowledge of the natural world and is built by using materials derived from the natural world, even when the materials are not themselves natural—for example, spoons made from refined metals. Thus, developing and using technology has impacts on the natural world. -- NRC, 2012",
+      "progression": "In the early grades, students learn that technologies are things created by people to help meet every day needs and make life easier or more comfortable. At this level, technology is understood at a personal scale: tools and objects that students use themselves or see others use in their daily lives. Students learn that these technologies do not appear on their own but are made by people using knowledge about how materials behave and how objects can be shaped or combined to serve a purpose.\n\nInstruction at this grade band helps students notice that all technologies start with materials from the natural world, even when the finished products do not look natural. For example, simple metal tools are made from metals that come from rocks, glass objects begin as sand that is heated and shaped, and many plastic items are made from materials originally derived from fossil fuels. While students are not expected to understand detailed manufacturing processes, they can recognize that people change natural materials in different ways to create useful objects.\n\nThe focus in K–2 remains on the benefits of technology and how it changes the way people live. Students consider how everyday technologies help them eat, learn, play, stay safe, or communicate. Environmental impacts are introduced only in a foundational way, as students begin to realize that gathering and changing materials affect the places those materials come from. These early ideas prepare students to later consider how technologies improve over time, how their use can lead to trade-offs, and how widespread use can create larger impacts beyond individual experience."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Over time, people's needs and wants change, as do their demands for new and improved technologies. Engineers improve existing technologies or develop new ones to increase their benefits (e.g., better artificial limbs), to decrease known risks (e.g., seatbelts in cars), and to meet societal demands (e.g., cell phones). When new technologies become available, they can bring about changes in the way people live and interact with one another. -- NRC, 2012",
+      "progression": "Students began this progression by learning that humans develop technologies to improve their lives. They also recognize that all technologies depend on materials from the natural world and therefore have impacts on the environment. In this grade band, students will consider that once a technology exists, engineers continue to improve the technology, including new applications of the technology.\n\nGlass was discussed as a technology that has improved peoples' lives in the section above. In this grade band students should focus on the ways that basic technology improves over time by considering three major reasons for improving technology: increasing benefits, decreasing risks, and meeting societal demands. Tinted glass and more uniform, less wavy glass increase the benefits of glass with better ability to regulate temperature and better visibility. Tempered glass on home and car or windows will break without shattering and leaving many sharp edges. Improvements to technologies are also driven by societal demands. For example, it is possible to apply reflective surfaces to glass to create mirrors.\n\nIn earlier grades, students considered that technologies improved our lives. This idea progresses as students also consider that technologies can transform the way that people interact with each other. This can include the way people communicate, but also people's lives in general. For example, prior to the invention of mirrors, people might have only seen their own reflection – the way that others see them - in water, paintings, or polished surfaces."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. All human activity draws on natural resources and has both short- and long-term consequences, positive as well as negative, for the health of both people and the natural environment. The uses of technologies and any limitations on their use are driven by individual or societal needs, desires, and values; by the findings of scientific research; and by differences in such factors as climate, natural resources, and economic conditions. Thus, technology use varies from region to region and over time. Technologies that are beneficial for a certain purpose may later be seen to have impacts (e.g., health-related, environmental) that were not foreseen. In such cases, new regulations on the use of new technologies (to mitigate the impacts or eliminate them) may be required. -- NRC, 2012",
+      "progression": "In the middle grades, students move beyond examining how technologies are improved to analyze what drives their use and what may limit that use. By this point, students have developed a stronger understanding of Earth systems, materials, and multiple forms of energy. This background allows them to consider how technologies interact with energy production, energy transfer, and energy demand. Technologies are no longer viewed only as helpful tools, but as systems whose widespread use can shape patterns of resource use and environmental impact and the nature of human interaction.\n\nStudents begin to examine how needs, desires, and values shape technology use, and why the same technology may be used differently in different regions or contexts. Differences in climate, resource availability, economic conditions, and cultural priorities can influence which technologies are adopted and how extensively they are used. At the same time, students learn that scientific findings and emerging evidence can reveal unintended consequences of technology use, such as impacts on ecosystems, human health, or resource availability. These insights help explain why limits may be placed on certain technologies or why technologies may be redesigned or used more selectively over time.\n\nBy the end of this grade band, students understand that decisions about technology use involve trade-offs. Technologies often provide important benefits, but they can also create consequences that require attention. Students are prepared to reason about why societies may choose to limit, regulate, or modify technologies in response to new information or changing conditions. These ideas prepare students for high school, where they will analyze technological systems at larger scales and consider how cumulative impacts and mitigation strategies influence long-term decisions about technology use."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "centralQuestions",
+        "label": "Central Question(s)"
+      },
+      {
+        "key": "keyIdeas",
+        "label": "Key Ideas"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "centralQuestions": "Where do technologies come from, and how do they change the way we live?",
+        "keyIdeas": "Technologies are created by people using knowledge and materials from the environment and change everyday life."
+      },
+      {
+        "gradeBand": "3-5",
+        "centralQuestions": "How and why do technologies change over time?",
+        "keyIdeas": "New and improved technologies result from engineer's efforts to increase benefits, reduce known risks, or meet demands."
+      },
+      {
+        "gradeBand": "6-8",
+        "centralQuestions": "What drives the use and limits on the use of technologies?",
+        "keyIdeas": "Technology use and limits are shaped by needs, values, resources, scientific evidence and predicted/unforeseen consequences."
+      },
+      {
+        "gradeBand": "9-12",
+        "centralQuestions": "How does scale affect the impacts and use of technology?",
+        "keyIdeas": "Widespread use and effects that build up over time can lead to analysis of benefits and trade offs that may require attention or mitigation."
+      }
+    ],
+    "narrative": "This progression begins with students focusing on the creation and personal use of technologies. They learn that technology is something people make to help meet every day needs and make life easier, safer, or more comfortable. Their experiences should focus on technologies that are primarily used by individuals, such as utensils, containers, clothing fasteners, simple tools, or classroom materials. Instruction should help them realize that people create technologies using knowledge about how materials behave and that all technologies begin with materials from the natural world. While students are not expected to understand detailed manufacturing processes, they should begin to recognize that materials such as metals, glass, and plastics are changed from their original forms to create useful objects. At this stage, the focus remains on benefits, with environmental impacts introduced only as the idea that changing materials affect the places those materials come from.\n\nBy upper elementary grades, students extend their understanding from creation to improvement over time. They learn that technologies are not fixed, but are redesigned and refined to increase benefits, reduce known risks, or meet changing needs and demands. Students begin to examine technologies that operate beyond personal tools, such as safety devices, communication technologies, medical devices, or transportation systems. For example, they may consider how seat belts were improved to increase safety, how artificial limbs have changed as materials and scientific understanding improved, or how communication technologies have transformed how people interact with one another. At this grade band, students also begin to recognize that improved technologies can change patterns of daily life and social interaction, introducing the idea that technological change has consequences, not just benefits.\n\nIn the middle grades, students shift from improvement to examining the use and limits of technologies. They begin to recognize that technology use is driven by human needs, desires, and values, but is also shaped by resource availability, scientific findings, and emerging consequences. A key conceptual advance at this grade band is the role of scale: as more people use a technology, the demand for materials increases, and effects that were small at an individual level can become significant. Students examine technologies such as energy systems, large-scale agriculture, digital communication platforms, or transportation infrastructure, where widespread use introduces trade-offs related to environmental impacts, health, equity, or resource depletion. They also consider how unforeseen effects can lead to limits on technology use, including changes in behavior, redesign, or regulation.\n\nBy high school, students combine these ideas to consider technological systems operating at societal and global scales. They analyze how technologies shape economies, ecosystems, and human well-being over long periods of time. Students examine how the cumulative effects of widespread technology use (e.g., energy production, manufacturing, transportation, or water systems) can alter Earth's systems in ways that require deliberate analysis of benefits, risks, and costs or how technologies change the nature of human interaction. At this level, students consider how mitigation strategies, technological redesign, scientific research, and policy decisions work together to address negative impacts. Technologies are no longer viewed only as tools or solutions, but as systems whose continued use depend on informed decision-making, trade-offs, and long-term sustainability."
+  },
+  "standards": [
+    {
+      "code": "2.ETS2.2",
+      "statement": "Predict and explain how human life and the natural world would be different without current technologies.",
+      "bigIdea": "Technologies help people meet everyday needs or be more comfortable. Using technologies changes how people live and how environments are affected.",
+      "scientificIdeas": [
+        "Technologies are tools or objects created by people to make things easier or safer.",
+        "We use technologies for many everyday activities (e.g., eating with spoons, building with hammers and nails, staying warm with blankets and clothes, using megaphone to amplify our voices).",
+        "All technologies are made using materials that come from the natural world, even if they don't look like it (e.g., glass comes from sand, metals are extracted from rocks).",
+        "Changing natural materials to make technologies affects the places those materials come from (e.g., quarries are dug to get limestone to make concrete).",
+        "Different technologies require different amounts and types of materials, so their effects on the environment can be different.",
+        "Comparing life with and without certain technologies helps people understand how technologies change human life (e.g., eating without spoons, cooking without pans, buildings without windows)."
+      ],
+      "commonStudentIdeas": [
+        "Technologies are only things that plug in or use batteries.",
+        "All materials come from the Earth ready to use (e.g., iron is dug up from the ground).",
+        "Materials that don't look natural do not come use natural resources (e.g., plastic is not found in nature, so plastic is made without materials from nature).",
+        "Only modern technologies like lightbulbs have changed the way that we do things (e.g., cars and lightbulbs have made life easier, but windows and blankets have always existed)."
+      ]
+    },
+    {
+      "code": "4.ETS2.1",
+      "statement": "Explain how existing technologies have been designed or improved to increase their benefits, to decrease known risks, and to meet societal demands (e.g., artificial limbs, seatbelts, cell phones).",
+      "bigIdea": "Existing technologies are improved over time to meet people's needs, reduce risks, and increase benefits.",
+      "scientificIdeas": [
+        "Technologies are not fixed. As people learn more about how they are used or new materials or building techniques become available, they can be redesigned or improved.",
+        "Technologies can be improved to increase benefits (e.g., artificial limbs with a ball and socket allow for a greater range of motion than a hinge).",
+        "Technologies are improved to reduce known risks (e.g., seatbelt tension mechanisms improved their usability and increased their use).",
+        "Users can affect how technologies change based on how they use the device, want to use the device, and the most important features (e.g., people will accept larger cell phones when the phones have larger screens).",
+        "Scientific discoveries, new knowledge, and new types of materials make new improvements possible (e.g., carbon fiber can be used to make artificial limbs that are lighter and stronger than older materials).",
+        "Improved technologies can change how people live and interact with each other, sometimes in ways that go beyond their original purpose (e.g., navigation features of cell phones mean that fewer people use maps or printed directions)."
+      ],
+      "commonStudentIdeas": [
+        "Technologies stay the same once they are invented.",
+        "New technologies replace older technologies, rather than building on them.",
+        "Technologies only improve because of new inventions (overlooks that the ways people use technologies can affect improvement)."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

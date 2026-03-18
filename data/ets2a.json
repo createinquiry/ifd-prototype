@@ -1,0 +1,155 @@
+{
+  "componentIdea": {
+    "code": "ETS2.A",
+    "title": "Interdependence of Science, Engineering, and Technology"
+  },
+  "discipline": "ETS",
+  "chapterOverview": {
+    "guidingQuestion": "What are the relationships among science, engineering, and technology?",
+    "purpose": "The goal of this component idea is for students to see that progress in science and engineering is not one way. Scientific discovery provides new knowledge, and engineering work provides scientists with new tools, technologies, and questions.",
+    "centralIdeas": "Scientists and engineers work together in different fields. The fields of science and engineering are interdependent; scientific discovery and understanding can enable engineers to develop new technologies. In turn, the new technologies developed by engineers can provide new ways for scientists to explore the world, leading to even more discoveries and new insights. Technologies developed in one field often lead to improvements in other fields."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. People encounter questions about the natural world every day. There are many types of tools produced by engineering that can be used in science to help answer these questions through observation or measurement. Observations and measurements are also used in engineering to help test and refine design ideas. -- NRC, 2012",
+      "progression": "Curiosity and creativity are common qualities among young students, and they are also essential to both scientists and engineers. Scientists rely on curiosity to ask and answer questions about the natural world. Engineers use creativity to design and improve solutions to problems. In early grades, both science and engineering build on careful observation of what students can see, feel, hear, and compare in their everyday experiences.\n\nAt this grade band, students learn that both scientists and engineers use observations, even though they may use them for varied reasons. Scientists may use tools such as hand lenses to notice details or patterns, such as parts of a flower. Engineers may use simple tools, such as pan balances, to compare the weight of assorted designs using non-standard units like cubes or blocks. In both cases, tools help students make observations that would be harder to make without them. Although this component idea later emphasizes how technologies connect science and engineering, in K–2 the focus is on their shared use of tools to make and record observations.\n\nThe tools used at this grade band are developmentally appropriate and do not require formal measurement or complex explanations. They help students focus on noticing similarities, differences, and changes rather than calculating numbers. The intent of this component idea is for students to gain experience using a variety of simple tools as part of observing and testing ideas. Classifying tools or explaining in detail how they work are not central to this component idea. These experiences lay the foundation for later learning about measurement, instruments, and more advanced technologies."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Tools and instruments (e.g., rulers, balances, thermometers, graduated cylinders, telescopes, microscopes) are used in scientific exploration to gather data and help answer questions about the natural world. Engineering design can develop and improve such technologies. Scientific discoveries about the natural world can often lead to new and improved technologies, which are developed through the engineering design process. Knowledge of relevant scientific concepts and research findings is important in engineering. -- NRC, 2012",
+      "progression": "By grades 3–5, students begin to move beyond informal observation and comparison to using measurement as a central way of making sense of the world. Students are introduced to standard units of measure and calibrated tools, which allow observations to be recorded in consistent ways. Using tools such as rulers, thermometers, balances, graduated cylinders, microscopes, or telescopes, students can collect data that can be compared across trials, shared with others, and revisited over time. Measurement allows both scientists and engineers to move from noticing differences to describing them more precisely.\n\nAt this grade band, students also begin to see more clearly how science and engineering support one another through the development and use of technology. Scientific knowledge helps engineers design better tools by explaining how materials, light, motion, or energy behave. For example, understanding how light travels and bends through lenses has allowed engineers to design microscopes and telescopes that extend what people are able to observe. In turn, these technologies allow scientists to study objects and phenomena that could not be seen before, leading to new discoveries and new questions.\n\nThese interactions help students recognize that progress in science and engineering is not one-directional. Engineers rely on scientific knowledge to design and improve technologies, while scientists rely on those technologies to gather better evidence and expand what can be investigated. Through experiences with measurement and calibrated tools, students in grades 3–5 begin to understand how shared data and improved technologies connect scientific investigation and engineering design.\n\nAt this grade band, the focus is not on learning the purpose for specific units of measure or converting between units (for example, that centimeters measure length or that one meter equals one hundred centimeters). Instead, the bigger idea is that scientists and engineers can record, share, and compare results using standardized measures. Sharing results makes it possible for scientists to compare findings and for engineers to use scientific information when designing and improving solutions."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Engineering advances have led to important discoveries in virtually every field of science, and scientific discoveries have led to the development of entire industries and engineered systems. To design better technologies, new science may need to be explored (e.g., materials research prompted by desire for better batteries or solar cells, biological questions raised by medical problems). Technologies in turn extend the measurement, exploration, modeling, and computational capacity of scientific investigations. -- NRC, 2012",
+      "progression": "By the middle grades, students begin to use digital technologies that increase the precision of measurements and allow scientists and engineers to work at scales that are not possible with simple instruments alone. Sensors, probes, and computer-based tools make it possible to detect changes that are too small, too fast, or too complex to measure reliably by hand. These technologies also allow data to be recorded, stored, and analyzed in ways that reveal patterns and relationships that would otherwise be difficult to notice.\n\nAt this grade band, students see more clearly how science and engineering interact through expanded technological capability. Engineers design and refine digital tools that collect and process data with greater precision, drawing on scientific knowledge about materials, energy, waves, and information. For example, scientific understanding that light includes both visible and invisible wavelengths has allowed engineers to design telescopes that use digital sensors and computer systems to detect, record, and represent light beyond what the human eye can see. Scientists then use these technologies to investigate new questions and refine explanations. In many cases, the need for more precise data or for understanding complex systems drives the development of modern technologies, which in turn makes further scientific investigation possible.\n\nInstruction related to this component idea is most effective when it is embedded within science learning rather than taught in isolation. Standards from the science disciplines naturally lead students to investigate phenomena using technologies such as telescopes (e.g., the light from distant galaxies) or seismographs (e.g., analyzing patterns in seismic waves). These moments provide meaningful opportunities to pause and consider how those technologies were developed. Teachers can support students in thinking about the scientific knowledge engineers have relied on to design or improve these tools, as well as how advances in technology have expanded what scientists are able to observe, measure, and explain. Framing ETS2.A in this way helps students see the reciprocal relationship between science and engineering without diverting attention from the core science ideas being studied."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "roleOfToolsAndTechnologies",
+        "label": "Role of Tools and Technologies"
+      },
+      {
+        "key": "interactionBetweenScienceAndEngineering",
+        "label": "Interaction between science and engineering"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "roleOfToolsAndTechnologies": "Used for noticing in informal ways that do not require standardized measurement or complex interpretation.",
+        "interactionBetweenScienceAndEngineering": "Scientists and engineers both use observations. Observations help scientists ask and answer questions and help engineers test solutions."
+      },
+      {
+        "gradeBand": "3-5",
+        "roleOfToolsAndTechnologies": "Used for comparison by measuring and collecting data in ways that rely on shared units, scales, and conventions.",
+        "interactionBetweenScienceAndEngineering": "Scientific knowledge informs engineering design. Engineers develop and improve tools and instruments scientists use to gather and compare data."
+      },
+      {
+        "gradeBand": "6-8",
+        "roleOfToolsAndTechnologies": "Used to extend scale, precision, and scope of investigations, including data analysis, modeling, and simulation.",
+        "interactionBetweenScienceAndEngineering": "Science and engineering influence one another. Engineering challenges raise new questions, and science research supports improved technologies."
+      },
+      {
+        "gradeBand": "9-12",
+        "roleOfToolsAndTechnologies": "Used as integrated technological systems to investigate complex phenomena across large or small scales and large data sets.",
+        "interactionBetweenScienceAndEngineering": "Science and engineering work together in coordinated research and development teams that involve multiple disciplines and considerations."
+      }
+    ],
+    "narrative": "Across the grade bands, students develop a clearer understanding of how science, engineering, and technology advance together through an ongoing back-and-forth. In this progression, technologies refer to any objects, devices, or systems that people use with a purpose. These range from simply systems, from placing rocks to record the positions of shadows, to advanced technologies such as computers to analyze large data sets or run simulations of complicated systems. Providing students with opportunities to use various technologies deepens their understanding of how scientific concepts are applied and how the tools enhance human abilities, but the knowledge of how to operate various tools is not the focus of the standard.\n\nIn early elementary grades, students use tools that help them notice things they may not see otherwise by extending students' senses or making interactions easier to observe. These tools do not require standardized measurements or complex interpretation. For example, hand lenses help students look more closely at objects, magnets to explore attraction and repulsion, ramps allow them to observe motion, or containers help them explore the behaviors of liquids. These tools help students notice patterns and differences, but they do not produce data that must be interpreted using shared units or scales.\n\nIn upper elementary, students begin using tools and instruments that support measurement and comparison, allowing observations to be recorded and shared. Instruments such as microscopes and graduated cylinders allow students to apply their developing understanding of the behavior of light or standardized units of measure. Similar tools help students see that scientific knowledge informs engineering design, and that engineering improves the tools scientists use. Measurements allow students to compare results across investigations and to justify decisions using data rather than informal observation alone. At this level, students begin to recognize that science and engineering support one another through the development and use of increasingly reliable technologies.\n\nIn middle school, students begin using technologies that increase the precision of measurements and allow them to represent systems in diverse ways. Tools such as motion sensors or pressure probes help students to detect changes that are small to notice or occur too quickly to measure reliably. Computers are then used to record, analyze, or visualize the digital information collected by these devices. It is especially meaningful for students to encounter situations where limited precision makes it difficult to make a design decision. For example, two solutions that may appear to perform similarly until more precise measurements reveal significant differences. Precision in manufacturing is a critical component of producing increasingly sensitive devices. Experiences like these help students see that engineering problem solving often raises new scientific questions, and that scientific research supports the development of improved technologies. At this level, the ongoing back-and-forth between science and engineering becomes explicit, as advances in one continually shape progress in the other.\n\nBy high school, students recognize that many scientific and engineering problems require coordinated work among teams of people using integrated technological systems. Phenomena such as weather modeling or medical imaging illustrate how scientific understanding, engineering design, and advanced technologies develop together within research and development efforts. At this level, the interaction between science and engineering is understood not only through the tools that are used, but also through the ways scientists, engineers, and other specialists collaborate to investigate complex systems and develop solutions."
+  },
+  "standards": [
+    {
+      "code": "K.ETS2.1",
+      "statement": "Use appropriate tools (e.g., magnifying glass, rain gauge, basic balance scale) to make observations and answer testable scientific questions.",
+      "bigIdea": "All tools developed by humans are examples of technology. Scientists use diverse types of tools to make observations and measurements.",
+      "scientificIdeas": [
+        "The main thing that scientists do is to ask and answer questions.",
+        "Technology refers to any tool made by humans by applying scientific knowledge.",
+        "Tools often incorporate some sort of scientific understanding in their design (e.g., magnifiers improved when people understood that polishing a surface could improve its transparency).",
+        "Scientists make and record observations to compare two different things or different events.",
+        "Measurements need to be made in a consistent way, even if non-standard units are used.",
+        "Measurements include a value along with a non-standard unit for reference (e.g., the pencil is four paper clips long).",
+        "There are simple technologies that improve people's senses. For example, people can use magnifiers to see minute details or cones to hear faint noises."
+      ],
+      "commonStudentIdeas": [
+        "Technology only refers to electronic devices like phones, tablets, computers, etc.",
+        "Using a tool means you are engineering, not doing science.",
+        "Measuring always means using a ruler."
+      ]
+    },
+    {
+      "code": "2.ETS2.1",
+      "statement": "Use appropriate tools to make observations, record data, and refine design ideas.",
+      "bigIdea": "All tools are examples of technology. Engineers use diverse types of tools to make observations, record information and improve their design ideas.",
+      "scientificIdeas": [
+        "The main thing that engineers do is to define and solve problems.",
+        "Technology refers to any tool made by humans by applying scientific knowledge.",
+        "Tools help engineers make observations that guide how a design can be changed or improved, including comparing two designs and how well they work.",
+        "Even simple tools often incorporate some sort of scientific understanding in their design. For example, the first magnifier required people to understand that polishing a surface could improve its transparency.",
+        "Engineers can use a tool even if they do not completely understand the science that explains how it works.",
+        "Scientists make and record measurements to compare two different things or different events.",
+        "Measurements need to be made in a consistent way, even if non-standard units are used.",
+        "Measurements include a value along with a unit of measure. For example, the length of a pencil is four paperclips or 18cm.",
+        "Objects that are used as non-standard units can vary – paper clips come in assorted sizes. Standard units of measure provide a widely understood reference with little to no variation.",
+        "There are simple technologies that improve people's senses. For example, people can use magnifiers to see minute details or cones to hear faint noises."
+      ],
+      "commonStudentIdeas": [
+        "Technology only refers to electronic devices like phones, tablets, computers, etc.",
+        "Only scientists ask questions.",
+        "Measuring always refers to figuring out the length of something.",
+        "Trial-and-error is the only way to improve something.",
+        "Weighing is different from measuring it."
+      ]
+    },
+    {
+      "code": "5.ETS2.1",
+      "statement": "Use appropriate tools to make measurements and answer testable questions.",
+      "bigIdea": "Scientists and engineers use measurement tools to collect data that helps answer questions and guide decisions.",
+      "scientificIdeas": [
+        "Technology includes tools that are used to make measurements in consistent ways (e.g., measuring in standard units like grams).",
+        "Both scientists and engineers make measurements, but they may use them for different purposes.",
+        "Measurement tools rely on consistent scales (e.g., the kilogram was a real object that all measurement tools are calibrated from).",
+        "Measurements can be recorded, shared, and compared, which allows both engineers and scientists to collaborate within and across disciplines.",
+        "Engineering benefits from scientific knowledge (e.g., tungsten was a better material for making the standard kilogram because it does not rust, like iron)."
+      ],
+      "commonStudentIdeas": [
+        "Only scientists take measurements.",
+        "Technology refers to electronic devices.",
+        "Engineers only use measurements when they are evaluating final solutions."
+      ]
+    },
+    {
+      "code": "8.ETS2.1",
+      "statement": "Research and communicate information to describe how data from technologies (e.g., telescopes, satellites, space probes, seismographs) provide information about Earth and objects in space and how those scientific discoveries have in turn led to improved technologies.",
+      "bigIdea": "Scientific ideas and engineering advances depend on one another. Engineers design technologies that collect precise data and scientists use that data to develop explanations that, in turn, inform the design of improved technologies.",
+      "scientificIdeas": [
+        "Technologies are tools that collect, record, and represent data in ways that extend human observation (e.g., seismographs record motion that is too fast or small to feel).",
+        "Increased precision allows scientists and engineers to find patterns and differences that would be hidden without the improved precision (e.g., digital sensors can measure slight changes in motion, pressure, or light intensity).",
+        "Scientific knowledge guides the design and improvement of technologies by explaining how signals, materials, or energy behave (e.g., understanding that light includes infrared and ultraviolet wavelengths enabled the development of digital telescope sensors).",
+        "The increased sensitivity of more precise tools often requires engineers to develop modern technologies to build these delicate tools (e.g., sensors may be too sensitive to be manufactured with necessary precision).",
+        "Engineers may envision solutions before science fully understands how the technology needed to build the solution (e.g., scientists may need to develop new materials to withstand the conditions to operate in space).",
+        "Advances in science and engineering occur through an ongoing back and forth, rather than a one-way sequence."
+      ],
+      "commonStudentIdeas": [
+        "Devices like IR telescopes show us exactly what they are seeing, as opposed to processing information and creating a representation of that data.",
+        "Scientists benefit from using modern technologies, but engineers do not gain anything from science.",
+        "Technologies capture refined information, rather than systems designed based on scientific knowledge (e.g., the Hubble telescope relies on sensors, computers, and transmitters to send information to Earth).",
+        "Digital tools are always better than non-digital tools.",
+        "Digital tools work the same way as non-digital alternatives (e.g., tools that measure small distances use tiny rulers)."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

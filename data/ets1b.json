@@ -1,0 +1,207 @@
+{
+  "componentIdea": {
+    "code": "ETS1.B",
+    "title": "Developing Possible Solutions"
+  },
+  "discipline": "ETS",
+  "chapterOverview": {
+    "guidingQuestion": "What is the process for developing potential design solutions?",
+    "purpose": "The purpose for this component idea is to help students understand the processes involved in brainstorming, representing, testing, and comparing even when final solutions are not fully formed. The ETS1 Disciplinary Core Ideas introduce specialized knowledge that defines an engineering process – problematizing (ETS1.A), solution design (ETS1.B), and optimization (ETS1.C). The Science and Engineering Practices are used throughout the engineering process.",
+    "centralIdeas": "Potential solutions must meet defined criteria and constraints for a problem. Brainstorming can provide an initial collection of possible solutions. Sketches can communicate preliminary ideas. Models (e.g., prototypes and computational models) of solutions provide ways to test, communicate, and guide development of elements of a solution."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Designs can be conveyed through sketches, drawings, or physical models. These representations are useful in communicating ideas for a problem's solutions to other people. To design something complicated, one may need to break the problem into parts and attend to each part separately but must then bring the parts together to test the overall plan. -- NRC, 2012",
+      "progression": "In kindergarten through second grade, students begin developing an understanding that solutions do not have to be built immediately to be shared, discussed, or improved. Instead, engineers often represent their ideas first, using drawings, sketches, labels, or simple physical models to show what they are thinking and how a solution is intended to work.\n\nStudents learn that drawings and models are tools for thinking that do not need to be perfect or finished versions of a solution. A sketch might show where parts go; a labeled drawing might clarify what different parts are supposed to do, or a simple model might help show how different parts fit together. These representations help students understand that solutions can work in different ways, and that looking closely at models can help people notice similarities, differences, and possible improvements.\n\nA key concept in this grade band is recognizing that some problems are easier to solve when they are broken into parts. Students learn that a solution may involve addressing one part of a problem at a time. For example, teachers can help frame keeping something dry, making it easy to hold, or helping it stay upright as individual challenges to address before they bring those parts together into a complete design. This idea helps students move beyond seeing solutions as single objects and toward understanding them as collections of related features that work together.\n\nEvaluation at this level is informal and grounded in observations. Students consider whether a solution works and what they notice about how different solutions behave. They begin to talk about why two designs that look different might both work or why changing one part of a design changes how the whole solution functions. These early conversations lay the foundation for later grades, where students will compare solutions more systematically and use evidence to justify design decisions."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Research on a problem should be carried out—for example, through Internet searches, market research, or field observations—before beginning to design a solution. An often productive way to generate ideas is for people to work together to brainstorm, test, and refine possible solutions. Testing a solution involves investigating how well it performs under a range of likely conditions. Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs.\n\nThere are many types of models, ranging from simple physical models to computer models. They can be used to investigate how a design might work, communicate the design to others, and compare different designs. -- NRC, 2012",
+      "progression": "Late elementary students build on their early experiences representing ideas by learning that solutions can be informed, tested, and improved using evidence. Younger students used drawings and simple models to explore ideas, but students at this grade band begin to recognize that effective solutions are shaped by information gathered from research and by evidence collected through testing.\n\nA key development in this grade band is understanding that research helps imagine a wider range of possible solutions. Students learn that engineers do not design in isolation; they learn from scientific discoveries, existing technologies, and information about how people use tools or systems. Research may help students learn about materials, processes, or conditions that affect a design. For example, learning about absorbent materials might influence the design of a cleaning tool, or examining existing products might reveal features that solve similar problems. Students also begin to understand that research can reveal constraints or conditions that were not obvious at first, such as how an environment affects performance or how users interact with a solution.\n\nIn grades 3–5, students also begin to use models as tools for testing, not just communication. They learn that models can be designed to be testable so that specific features of a solution can be examined. Rather than testing a complete solution all at once, students often investigate individual elements of a design. Testing parts of a solution makes it easier to control variables and identify failure points. For instance, students might compare how different materials, shapes, or configurations affect performance under similar conditions. These tests provide evidence about which elements work well and which need to be improved.\n\nCollaboration becomes a more central part of solution development. Students learn that working with others can lead to a wider range of ideas and better solutions. They should brainstorm ideas together, share research findings, or discuss test results to make sense of evidence. As students compare results and revise designs, they begin to justify their choices by referring to what they learned from research and testing rather than personal preference."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. A solution needs to be tested, and then modified on the basis of the test results, in order to improve it. There are systematic processes for evaluating solutions with respect to how well they meet the criteria and constraints of a problem. Sometimes parts of different solutions can be combined to create a solution that is better than any of its predecessors. In any case, it is important to be able to communicate and explain solutions to others. Models of all kinds are important for testing solutions, and computers are a valuable tool for simulating systems. Simulations are useful for predicting what would happen if various parameters of the model were changed, as well as for making improvements to the model based on peer and leader (e.g., teacher) feedback. -- NRC, 2012",
+      "progression": "Middle school students build on earlier experiences representing, researching, and testing solutions by learning that evidence from tests and models should guide purposeful improvement of designs. In earlier grades, students used drawings and simple models to communicate ideas and carried out tests to identify whether parts of a solution worked. In grades 6–8, the emphasis shifts to using test results to decide how a solution should be modified and why certain changes are likely to lead to better performance.\n\nA key concept at this grade band is understanding that solutions improve through iteration. Students learn that tests are not simply checks for success or failure, but sources of information that guide revision. Tests are designed so that solutions are evaluated in comparable ways, allowing students to identify which features affect performance. Rather than discarding earlier ideas, students may combine features from multiple solutions or revise individual elements to create a solution that performs better than any single prior attempt.\n\nStudents also begin to understand solutions as systems with interacting components. A system may include physical parts of a device (such as wires, batteries, switches, and cores in an electromagnet), steps in a process, or components that interact over time. In middle school, students use models to represent these systems and to reason about how changes to one component affect the behavior of the overall design.\n\nThese models may include physical representations, diagrams that show relationships among components, or simulations that allow students to explore \"what if\" scenarios without building every possible version.\n\nSimulations and other predictive models help students focus on patterns and relationships rather than precise calculations. By adjusting variables and observing outcomes, students can anticipate how design changes are likely to affect performance and decide which revisions are worth pursuing. For example, a model of a system that incorporates an electromagnet can be used to explore how changing features such as the number of coils or the core material affects the system's ability to meet specific criteria and constraints.\n\nTogether, the middle school standards emphasize that developing solutions involves using models and test results to improve designs, combining and revising ideas intentionally, and reasoning about how systems behave as parts interact. These ideas prepare students for later grades, where models are used to evaluate trade-offs and optimize solutions within complex real-world contexts."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "useOfModels",
+        "label": "Use of Models to Represent Design Ideas and Solutions"
+      },
+      {
+        "key": "questionsForEvaluating",
+        "label": "Questions for Evaluating Solutions and Justifying Design Decisions"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "useOfModels": "Use simple drawings or physical models to explore parts of a solution or share different ideas before building.",
+        "questionsForEvaluating": "\"Does it work?\", \"What do I notice about how solutions work differently?\""
+      },
+      {
+        "gradeBand": "3-5",
+        "useOfModels": "Use comparative and testable models to brainstorm ideas, compare designs, reveal strengths/weaknesses, and revise solutions.",
+        "questionsForEvaluating": "\"Which works better?\", \"What limitations, failure points, and feedback support my choice?\""
+      },
+      {
+        "gradeBand": "6-8",
+        "useOfModels": "Use simulations and predictive models to improve designs by considering \"what if\" scenarios, and revising purposefully.",
+        "questionsForEvaluating": "\"How can we improve it?\", \"What evidence supports combining features or making specific revisions?\""
+      },
+      {
+        "gradeBand": "9-12",
+        "useOfModels": "Use CAD, computational, and multi-purpose models to balance trade-offs and optimize design solutions.",
+        "questionsForEvaluating": "\"Which solution best balances competing factors?\", \"What trade-offs were made to meet user needs and contextual requirements?\""
+      }
+    ],
+    "narrative": "This progression helps students develop an increasingly sophisticated understanding of how engineers use models to explore ideas, evaluate solutions, and make justified design decisions. This progression reflects a shift from trying out ideas to reasoning with evidence, and ultimately to making informed trade-offs in complex design contexts.\n\nIn early grades, students develop solutions through exploration. Models like simple drawings or physical models can represent parts of a solution and are primarily used for thinking and communication before building. Their models are informal and incomplete by design; their purpose is not precision, but accessibility. In the process of manipulating or observing their representations, students notice that solutions can work in different ways and that more than one approach may be successful. Evaluation at this level is informal and descriptive, focused on whether something works and what students notice when comparing outcomes.\n\nBy upper elementary grades, students move from exploration to comparison. Models at this stage might include physical examples built from shared materials, diagrams that highlight differences among designs, or simplified representations used to test features under similar conditions. Students begin to recognize that testing reveals limits and failure points, and that feedback from peers, observations, or repeated trials can guide improvement. Evaluation becomes more explicit as students compare solutions and justify choices using evidence rather than preference.\n\nMiddle school students focus on improvement through prediction and iteration. Their models increasingly allow students to consider \"what if\" scenarios without needing to build and test every possible version. Simulations and predictive models, such as system diagrams, adjustable representations, or simplified computational models, help students reason about how changing one feature of a design is likely to affect performance. These models emphasize patterns, trends, and relationships rather than exact calculations. Students use evidence from these models to revise designs purposefully, sometimes combining features from different solutions to improve overall performance. Evaluation focuses on identifying how designs can be improved and justifying revisions using evidence from models and tests.\n\nBy high school, students use models to balance trade-offs and optimize solutions. They work with advanced physical and computational models that represent complex systems and real-world constraints. The tools they use approach more professional tools, such as CAD representations, computational simulations, and multi-purpose models that allow students to analyze design alternatives efficiently, explore the effects of changing parameters, and evaluate solutions against multiple criteria and constraints. At this level, improvement is no longer about making a design simply work better, but about balancing competing factors such as cost, safety, reliability, aesthetics, and broader impacts. Students justify design decisions through evidence-based arguments that make trade-offs explicit and connect solutions to user needs and features related to a specific context."
+  },
+  "standards": [
+    {
+      "code": "K.ETS1.2",
+      "statement": "Use drawings and labels to communicate ideas and designs accurately.",
+      "bigIdea": "Drawings and labels can show what solution is supposed to do and how its parts are intended to work, even before anything is built.",
+      "scientificIdeas": [
+        "Drawings are a way to share ideas about a solution without being a finished product.",
+        "Labels help explain what different parts of a solution are for, or what they do.",
+        "A drawing does not need to look realistic to communicate how a solution is intended to work.",
+        "Drawings and labels help people understand an idea that only exists in someone else's thinking.",
+        "Representations can be changed or updated as ideas change."
+      ],
+      "commonStudentIdeas": [
+        "Drawings are mainly for art or decoration.",
+        "A drawing needs to look exactly like the final object to be useful.",
+        "Labels are optional.",
+        "You have to build something before you can explain how it works."
+      ]
+    },
+    {
+      "code": "1.ETS1.3",
+      "statement": "Develop a simple sketch, drawing, or physical model that communicates solutions to others.",
+      "bigIdea": "Models help people explore, share, and discuss different solution ideas by making their ideas visible to others.",
+      "scientificIdeas": [
+        "Models can be sketches, drawings, or physical objects (e.g., household materials, gesturing) that communicate an idea.",
+        "Talking about models helps people explain what they notice and why they might change an idea.",
+        "Models make it easier for other people to ask questions, give feedback, or suggest changes.",
+        "Models help people talk about ideas and how a solution might work before it is built.",
+        "A model might only show one part of a solution and not the whole design.",
+        "Different models can represent different ideas or parts of a solution to the same problem."
+      ],
+      "commonStudentIdeas": [
+        "Models must be able to move to be useful.",
+        "A model must be complete to be useful.",
+        "Physical models are better than drawings because they are \"real.\"",
+        "A model is not useful unless it works perfectly.",
+        "Models are the final product that gets \"turned in.\""
+      ]
+    },
+    {
+      "code": "2.ETS1.2",
+      "statement": "Recognize that to solve a problem, one may need to break the problem into parts, address each part, and then bring the parts back together.",
+      "bigIdea": "Some problems are easier to solve when a solution is thought about in parts that work together as a whole.",
+      "scientificIdeas": [
+        "A solution can be made of several parts, each with a different purpose.",
+        "Thinking about one part at a time can make the problem easier to solve.",
+        "Different materials may work better for different parts, depending on the intended function of each part.",
+        "Changing one part of a solution can affect how the whole solution works.",
+        "Parts that work well on their own still need to fit together to solve the problem.",
+        "Thinking about parts separately can help people explain which part(s) may have kept the design from working as intended."
+      ],
+      "commonStudentIdeas": [
+        "A solution is a single object, not a group of parts.",
+        "Every part of the solution does the same job.",
+        "If one part works, the whole solution will work.",
+        "Problems should be solved all at once, rather than in pieces."
+      ]
+    },
+    {
+      "code": "3.ETS1.2",
+      "statement": "Apply evidence or research to support a design solution.",
+      "bigIdea": "Research, comparison, and testing can lead to new ideas and provide evidence for choosing possible solutions to a problem.",
+      "scientificIdeas": [
+        "Research can reveal existing solutions, materials, and processes that inform new designs.",
+        "Evidence from research or testing can support decisions about where solution ideas to pursue.",
+        "Comparing information from multiple sources (e.g., tests, literature, etc.) can expand the range of possible solutions.",
+        "Research can uncover new conditions or constraints that affect how a solution will perform.",
+        "Evidence helps explain why a particular solution is likely to work better than others."
+      ],
+      "commonStudentIdeas": [
+        "Research means looking for an existing solution rather than learning from it.",
+        "Evidence is only useful after a solution has already been chosen, not to make design decisions.",
+        "Personal preference is as reliable as research when selecting a solution.",
+        "Research always leads to a single, best answer."
+      ]
+    },
+    {
+      "code": "5.ETS1.1",
+      "statement": "Plan and carry out tests on one or more elements of a prototype in which variables are controlled and failure points are considered to identify which elements need to be improved. Apply the results of tests to redesign the prototype.",
+      "bigIdea": "Testing individual parts of a solution can reveal failure points and guide decisions about how a design should be improved.",
+      "scientificIdeas": [
+        "Individual parts of a solution can be tested, without testing the entire design at once.",
+        "Testing different parts in different ways allows each test to focus on the specific function of an individual part.",
+        "Controlling variables during testing helps determine the extent to which individual variables affect performance.",
+        "Comparing individual test results can guide design decisions for specific parts of a solution."
+      ],
+      "commonStudentIdeas": [
+        "Testing is only done after a design is completed.",
+        "If one part of the design fails, the whole project needs to start over.",
+        "All parts of a solution must be tested at the same time.",
+        "Designs can't change once testing begins."
+      ]
+    },
+    {
+      "code": "7.ETS1.1",
+      "statement": "Examine a problem from the medical field (e.g., prosthetic limbs, organ transplants) and design a solution taking into consideration the criteria, constraints, and relevant scientific principles of the problem that may limit possible solutions.",
+      "bigIdea": "Design solutions should be developed and evaluated and justified based on how well they meet the criteria while accounting for constraints and scientific principles that limit what solutions are possible.",
+      "scientificIdeas": [
+        "Criteria define what a solution is intended to accomplish.",
+        "Constraints and scientific principles limit the range of possible solutions.",
+        "Constraints limit solutions for practical and societal reasons (e.g., materials are too expensive, concerns over potential misuses of solutions).",
+        "Scientific principles limit possible solutions based on scientific understanding (e.g., physical limits of materials, understanding of reactivity of material, knowledge of how body will respond).",
+        "Evidence from research, models, or tests help eliminate impractical and unfeasible solutions during the design process and focus of solutions that best meet the criteria.",
+        "Evaluating solutions involves how well they meet criteria, which may not meet every intended objective.",
+        "Justifications for solutions explain why a criterion is selected with respect to criteria, not personal preference."
+      ],
+      "commonStudentIdeas": [
+        "A solution that meets one criterion will meet all criteria.",
+        "Constraints are the same thing as limits or failure points.",
+        "Scientific principles are used to explain how solutions work, not to guide design decisions.",
+        "Evidence is only used to justify a final design decision, not during the design process.",
+        "A solution is only acceptable if it meets all criteria perfectly."
+      ]
+    },
+    {
+      "code": "8.ETS1.1-b",
+      "statement": "Use a model of a device that incorporates an electromagnet to test solutions to a design problem with specific criteria and constraints.",
+      "bigIdea": "Models (physical models, system diagrams, simulations, etc.) allow engineers to test solution components, analyze performance, and guide purposeful improvements to a design.",
+      "scientificIdeas": [
+        "Individual system components can be tested, which avoids rebuilding the entire system each time.",
+        "Testing of individual components makes it possible to determine which changes matter.",
+        "Tests provide evidence to guide improvements, rather than simply seeing if the design works.",
+        "Improving a solution can involve improving individual components, not just starting over.",
+        "Models help communicate and reason about how the components of a design interact (e.g., do the magnet and striker plate line up properly).",
+        "Simulations and models can save time and money by testing \"what if\" scenarios that might cause a design to fail."
+      ],
+      "commonStudentIdeas": [
+        "Testing is only done to prove if a design works, rather than for improvement during design.",
+        "Testing many components at once is the most efficient way to improve a design.",
+        "Solutions that involve more advanced technologies will always be better solutions.",
+        "Results from different tests can be usefully compared even if the testing conditions were not the same."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}
