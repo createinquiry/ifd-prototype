@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "2.ETS1.3",
+      "grade": "2",
       "statement": "Compare and contrast solutions to a design problem by using evidence to point out strengths and weaknesses of the design.",
       "bigIdea": "There can be more than one possible solution for a design task and each solution will have strengths and weaknesses.",
       "scientificIdeas": [
@@ -91,6 +92,7 @@
     },
     {
       "code": "4.ETS1.1",
+      "grade": "4",
       "statement": "Categorize the effectiveness of design solutions by testing and comparing them to specified criteria and constraints.",
       "bigIdea": "Engineers compare and categorize design solutions by testing how well the complete design meets criteria and constraints to decide which solutions are most effective for a particular problem.",
       "scientificIdeas": [
@@ -112,6 +114,7 @@
     },
     {
       "code": "6.ETS1.1",
+      "grade": "6",
       "statement": "Design, evaluate, and improve a possible solution for maintaining biodiversity of ecosystems.",
       "bigIdea": "When multiple solutions can help maintain biodiversity, the optimal solution can be selected by considering trade-offs among competing criteria and the specific context in which the solution will be used.",
       "scientificIdeas": [
@@ -132,6 +135,7 @@
     },
     {
       "code": "6.ETS1.2",
+      "grade": "6",
       "statement": "Design, construct, and test a device that either minimizes or maximizes thermal energy transfer by combining solutions or parts of solutions to solve a problem that can be communicated and explained to others.",
       "bigIdea": "Since it's unlikely that a single solution will perform best across all criteria, it can be helpful to compare acceptable solutions, recognize tradeoffs, and combine high performing features to select or develop an optimal solution.",
       "scientificIdeas": [

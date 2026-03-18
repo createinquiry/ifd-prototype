@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "1.ETS1.1",
+      "grade": "1",
       "statement": "Apply an engineering design approach to identify and solve practical problems.",
       "bigIdea": "Engineering is a purposeful way of solving problems that begins with identifying a thing that needs to be fixed or created.",
       "scientificIdeas": [
@@ -87,6 +88,7 @@
     },
     {
       "code": "2.ETS1.1",
+      "grade": "2",
       "statement": "Apply an engineering design approach to identify and solve practical problems.",
       "bigIdea": "Engineering is a purposeful way of solving problems that begins with identifying a thing that needs to be fixed or created.",
       "scientificIdeas": [
@@ -105,6 +107,7 @@
     },
     {
       "code": "K.ETS1.1",
+      "grade": "K",
       "statement": "Apply an engineering design approach to identify and solve practical problems.",
       "bigIdea": "Engineering is a purposeful way of solving problems that begins with identifying a thing that needs to be fixed or created.",
       "scientificIdeas": [
@@ -123,6 +126,7 @@
     },
     {
       "code": "K.ETS1.3",
+      "grade": "K",
       "statement": "Ask and answer questions about the scientific world and gather information using the senses.",
       "bigIdea": "Asking questions and making observations helps people understand a situation before trying to change it.",
       "scientificIdeas": [
@@ -141,6 +145,7 @@
     },
     {
       "code": "1.ETS1.2",
+      "grade": "1",
       "statement": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved.",
       "bigIdea": "Defining a problem involves deciding what needs to change based on observations and information about the situation.",
       "scientificIdeas": [
@@ -157,6 +162,7 @@
     },
     {
       "code": "3.ETS1.1",
+      "grade": "3",
       "statement": "Design a solution to a real-world problem that includes specified criteria and constraints.",
       "bigIdea": "Engineering problems should specify clear goals and factors that limit possible solutions.",
       "scientificIdeas": [
@@ -179,6 +185,7 @@
     },
     {
       "code": "8.ETS1.1a",
+      "grade": "8",
       "statement": "Use a model of a device that incorporates an electromagnet to test solutions to a design problem with specific criteria and constraints.",
       "bigIdea": "Clearly defined criteria and constraints guide how design solutions are tested and compared to determine how well they address a problem in a specific context.",
       "scientificIdeas": [

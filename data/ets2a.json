@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "K.ETS2.1",
+      "grade": "K",
       "statement": "Use appropriate tools (e.g., magnifying glass, rain gauge, basic balance scale) to make observations and answer testable scientific questions.",
       "bigIdea": "All tools developed by humans are examples of technology. Scientists use diverse types of tools to make observations and measurements.",
       "scientificIdeas": [
@@ -88,6 +89,7 @@
     },
     {
       "code": "2.ETS2.1",
+      "grade": "2",
       "statement": "Use appropriate tools to make observations, record data, and refine design ideas.",
       "bigIdea": "All tools are examples of technology. Engineers use diverse types of tools to make observations, record information and improve their design ideas.",
       "scientificIdeas": [
@@ -112,6 +114,7 @@
     },
     {
       "code": "5.ETS2.1",
+      "grade": "5",
       "statement": "Use appropriate tools to make measurements and answer testable questions.",
       "bigIdea": "Scientists and engineers use measurement tools to collect data that helps answer questions and guide decisions.",
       "scientificIdeas": [
@@ -129,6 +132,7 @@
     },
     {
       "code": "8.ETS2.1",
+      "grade": "8",
       "statement": "Research and communicate information to describe how data from technologies (e.g., telescopes, satellites, space probes, seismographs) provide information about Earth and objects in space and how those scientific discoveries have in turn led to improved technologies.",
       "bigIdea": "Scientific ideas and engineering advances depend on one another. Engineers design technologies that collect precise data and scientists use that data to develop explanations that, in turn, inform the design of improved technologies.",
       "scientificIdeas": [

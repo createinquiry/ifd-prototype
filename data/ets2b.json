@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "2.ETS2.2",
+      "grade": "2",
       "statement": "Predict and explain how human life and the natural world would be different without current technologies.",
       "bigIdea": "Technologies help people meet everyday needs or be more comfortable. Using technologies changes how people live and how environments are affected.",
       "scientificIdeas": [
@@ -88,6 +89,7 @@
     },
     {
       "code": "4.ETS2.1",
+      "grade": "4",
       "statement": "Explain how existing technologies have been designed or improved to increase their benefits, to decrease known risks, and to meet societal demands (e.g., artificial limbs, seatbelts, cell phones).",
       "bigIdea": "Existing technologies are improved over time to meet people's needs, reduce risks, and increase benefits.",
       "scientificIdeas": [

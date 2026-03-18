@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "K.ETS1.2",
+      "grade": "K",
       "statement": "Use drawings and labels to communicate ideas and designs accurately.",
       "bigIdea": "Drawings and labels can show what solution is supposed to do and how its parts are intended to work, even before anything is built.",
       "scientificIdeas": [
@@ -87,6 +88,7 @@
     },
     {
       "code": "1.ETS1.3",
+      "grade": "1",
       "statement": "Develop a simple sketch, drawing, or physical model that communicates solutions to others.",
       "bigIdea": "Models help people explore, share, and discuss different solution ideas by making their ideas visible to others.",
       "scientificIdeas": [
@@ -107,6 +109,7 @@
     },
     {
       "code": "2.ETS1.2",
+      "grade": "2",
       "statement": "Recognize that to solve a problem, one may need to break the problem into parts, address each part, and then bring the parts back together.",
       "bigIdea": "Some problems are easier to solve when a solution is thought about in parts that work together as a whole.",
       "scientificIdeas": [
@@ -126,6 +129,7 @@
     },
     {
       "code": "3.ETS1.2",
+      "grade": "3",
       "statement": "Apply evidence or research to support a design solution.",
       "bigIdea": "Research, comparison, and testing can lead to new ideas and provide evidence for choosing possible solutions to a problem.",
       "scientificIdeas": [
@@ -144,6 +148,7 @@
     },
     {
       "code": "5.ETS1.1",
+      "grade": "5",
       "statement": "Plan and carry out tests on one or more elements of a prototype in which variables are controlled and failure points are considered to identify which elements need to be improved. Apply the results of tests to redesign the prototype.",
       "bigIdea": "Testing individual parts of a solution can reveal failure points and guide decisions about how a design should be improved.",
       "scientificIdeas": [
@@ -161,6 +166,7 @@
     },
     {
       "code": "7.ETS1.1",
+      "grade": "7",
       "statement": "Examine a problem from the medical field (e.g., prosthetic limbs, organ transplants) and design a solution taking into consideration the criteria, constraints, and relevant scientific principles of the problem that may limit possible solutions.",
       "bigIdea": "Design solutions should be developed and evaluated and justified based on how well they meet the criteria while accounting for constraints and scientific principles that limit what solutions are possible.",
       "scientificIdeas": [
@@ -182,6 +188,7 @@
     },
     {
       "code": "8.ETS1.1-b",
+      "grade": "8",
       "statement": "Use a model of a device that incorporates an electromagnet to test solutions to a design problem with specific criteria and constraints.",
       "bigIdea": "Models (physical models, system diagrams, simulations, etc.) allow engineers to test solution components, analyze performance, and guide purposeful improvements to a design.",
       "scientificIdeas": [
