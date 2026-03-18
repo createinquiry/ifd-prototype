@@ -79,7 +79,7 @@
         "Non-living things do not grow or reproduce on their own.",
         "Sorting objects into living and non-living groups requires looking at multiple attributes, not just one feature."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "Anything that moves is alive.",
         "Anything that grows is alive (crystals, piles of sand).",
         "The Sun, fire, or clouds are alive because they move and make heat.",
@@ -112,7 +112,7 @@
         "Not all seeds look the same, some seeds drop from old flowerheads, other seeds form inside of fruits or pods.",
         "There are many different types of seeds that help plants spread and survive---seeds with fleshy fruit for animals to eat (e.g., apples, apricots, and peaches), small seeds or winged seeds that get carried by the wind (e.g., dandelion and maple), big seeds that store lots of food to help the young seedling survive until it grows its first leaves (e.g., avocado pits, acorns, and beans)."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "Plants grow because their roots get food from the soil.",
         "Plants only get water when it rains, or when they are watered.",
         "Plants produce fruit so that people and animals have something to eat.",
@@ -139,7 +139,7 @@
         "Protection can come in many forms (e.g., shells for shielding, or teeth and claws for defending actively, and camouflage for blending in with surroundings).",
         "Organisms must move to meet their needs, including escaping predators, searching for food, and relocating to better environments. They have different ways of moving and patterns that match these different approaches---some animals run (long legs), others swim (fins, long body), fly (light, have wings), or burrow (short, strong arms with claws)."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "All animals breathe through their mouths.",
         "All animals hear the same way humans do.",
         "Only hands are used for grasping---other animals don't grasp.",
@@ -162,7 +162,7 @@
         "It is often possible to divide a group of like animals into even smaller groups by looking for other similarities and differences.",
         "Putting animals into groups helps us see patterns in animal life and better understand their needs and behaviors of animals that are new to us."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "All animals that swim are fish.",
         "Anything that flies is a bird (e.g., bats, insects).",
         "Animals that live in the water must all breathe through gills.",
@@ -188,7 +188,7 @@
         "External parts such as fins, wings, and legs are shaped to help organisms move through their environment.",
         "When a part's structure changes or is damaged, its function may not work as well (e.g., a bruised finger may not bend properly; a blocked stem may prevent water from reaching a leaf)."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "The \"guts\" or inside of an organism are an unorganized mess.",
         "Each system in an organism is isolated from the other systems.",
         "Plants don't have internal parts or structures.",
@@ -219,7 +219,7 @@
         "In plant cells, the cell wall (along with vacuole) causes cells to be rigid. This helps the plant maintain its shape, even as individual cells lose or gain water. The rigidity also allows groups of cells to form hollow channels that resist the pressure of water being pulled upwards through the plant.",
         "Lysosomes were not seen under early microscopes, but their existence was inferred when scientists noticed that certain cell reactions only occurred after the cells had been broken apart and left to sit. This suggested the presence of invisible compartments that held chemicals that could break down cell parts. Over time, scientists came to understand that these chemicals were stored inside membrane-bound structures, later named lysosomes, which help cells break down waste and recycle parts."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "Cells are empty or just blobs.",
         "All cells have all the same parts.",
         "The nucleus is the brain of the cell that makes decisions.",
@@ -242,7 +242,7 @@
         "In multicellular organisms, groups of cells are able to function as part of a larger structure.",
         "Organelles within unicellular organisms meet their needs of individual cells."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "All living things are big enough to see without a microscope.",
         "Unicellular organisms are just simpler versions of plants or animals.",
         "Unicellular organisms have organs inside them just like multicellular organisms.",
@@ -271,7 +271,7 @@
         "Individual cells have nearly identical needs -- whether in unicellular or multicellular organisms.",
         "In multicellular organisms, the needs of the organism are accomplished by groups of cells with specialized functions."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "Cells in multicellular organisms are all the same.",
         "Only organs perform functions. The cells just hold the organs together.",
         "Each system in the body works on its own but does not depend on other systems.",
@@ -307,7 +307,7 @@
         "Translation occurs at ribosomes outside of the nucleus. This is a metabolic process where sets of 3 nucleotides correspond with a specific amino acid.",
         "As the ribosome processes the mRNA strand, three nucleotides at a time, a growing chain of amino acids forms. This chain of amino acids is one of many proteins that carry out the essential functions of life at the molecular level."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "We get the proteins we need from the food we eat.",
         "Cells only contain the genes for the proteins they need."
       ]
@@ -327,7 +327,7 @@
         "A positive feedback mechanism in a pathway will cause the pathway to increase its output.",
         "Organisms have feedback loops at multiple scales -- gene regulation, cell activities, and interactions between organ systems."
       ],
-      "commonStudentIdeas": [
+      "studentIdeas": [
         "Homeostasis is the same thing as chemical equilibrium."
       ]
     }
