@@ -61,6 +61,7 @@
   "standards": [
     {
       "code": "2.ESS1.1",
+      "grade": "2",
       "statement": "Recognize that some of Earth's natural processes are cyclical, while others have a beginning and an end. Some events happen quickly, while others occur slowly over time.",
       "bigIdea": "Earth's surfaces change and these changes happen at different rates and cycles.",
       "scientificIdeas": [
@@ -82,6 +83,7 @@
     },
     {
       "code": "4.ESS1.1",
+      "grade": "4",
       "statement": "Generate and support a claim with evidence that over long periods of time, erosion (i.e., weathering and transportation) and deposition have changed landscapes and created new landforms.",
       "bigIdea": "Features such as valleys, deltas, layers of sediment, or even the shape of mountains, are evidence of past changes to Earth's surface caused by the action of wind and water.",
       "scientificIdeas": [
@@ -102,6 +104,7 @@
     },
     {
       "code": "4.ESS1.2",
+      "grade": "4",
       "statement": "Use evidence from the presence and location of fossils to determine the order in which rock strata were formed.",
       "bigIdea": "Fossils are clues that tell the story of Earth's past. When the same kind of fossil is found in two different places, is shows that the rocks in which it was found formed during a similar time.",
       "scientificIdeas": [
@@ -127,6 +130,7 @@
     },
     {
       "code": "8.ESS2.1",
+      "grade": "8",
       "crossReference": "Also appears in ESS2.A",
       "statement": "Analyze and interpret data to support the assertion that rapid or gradual geographic changes lead to drastic population changes and extinction events.",
       "bigIdea": "Evidence in rock layers and fossils shows that large-scale changes have affected Earth's surface and transformed the environments that living things depend on.",

@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "1.ESS1.3",
+      "grade": "1",
       "statement": "Make observations to predict patterns between sunrise and sunset, and the change of seasons.",
       "bigIdea": "The Sun's appearance and position in the sky change in regular and predictable ways over each day and across seasons.",
       "scientificIdeas": [
@@ -95,6 +96,7 @@
     },
     {
       "code": "3.ESS1.1",
+      "grade": "3",
       "statement": "Use data to categorize different bodies in our solar system including inner and outer planets, moons, asteroids, comets, and meteoroids according to their physical properties and motion.",
       "bigIdea": "Objects in our solar system move in predictable patterns around the Sun, and these patterns in motion and basic physical properties help us identify and classify different kinds of bodies in space.",
       "scientificIdeas": [
@@ -129,6 +131,7 @@
     },
     {
       "code": "5.ESS1.3",
+      "grade": "5",
       "statement": "Use a model to explain how the orbit of the Earth and sun cause observable patterns: a. day and night; b. changes in length and direction of shadows over a day.",
       "bigIdea": "Models that can account for changes to shadows created by the Sun over days and months inform our understanding of the Earth's spin on a fixed axis and that the Sun's position in the sky changes in predictable ways over each day and through the year.",
       "scientificIdeas": [
@@ -165,6 +168,7 @@
     },
     {
       "code": "5.ESS1.4",
+      "grade": "5",
       "statement": "Explain the cause-and-effect relationship between the positions of the sun, earth, and moon and resulting eclipses, tides, and appearance of the moon.",
       "bigIdea": "These observable patterns can be explained using models to show how the arrangements of different celestial bodies cause the events.",
       "scientificIdeas": [
@@ -205,6 +209,7 @@
     },
     {
       "code": "5.ESS1.5",
+      "grade": "5",
       "statement": "Relate the tilt of the Earth's axis, as it revolves around the sun, to the varying intensities of sunlight at different latitudes. Evaluate how this causes changes in day-lengths and seasons.",
       "bigIdea": "Seasons occur because the Earth's tilt causes sunlight to strike different parts of Earth more directly at different times of the year causing changes in the intensity of sunlight, length of daylight, and temperature.",
       "scientificIdeas": [
@@ -235,6 +240,7 @@
     },
     {
       "code": "5.ESS1.6",
+      "grade": "5",
       "statement": "Use tools to describe the position of constellations and how they appear to move from the Earth's perspective throughout the seasons.",
       "bigIdea": "Earth's spin around its axis causes nightly star movement. Earth's orbit around the Sun causes different constellations to appear at different times of the year.",
       "scientificIdeas": [

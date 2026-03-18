@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "K.ESS2.1",
+      "grade": "K",
       "statement": "Make observations to gather weather data (i.e., precipitation, wind, temperature, cloud cover) using tools (e.g., thermometer, rain gauge).",
       "bigIdea": "Weather can be described by observing conditions in the sky and measured using simple tools to turn observations into data.",
       "scientificIdeas": [
@@ -86,6 +87,7 @@
     },
     {
       "code": "K.ESS2.2",
+      "grade": "K",
       "statement": "Use simple graphs and pictorial weather symbols to describe weather patterns that occur over time (i.e., hourly, daily).",
       "bigIdea": "Weather data can be organized and represented to reveal similarities, differences, and patterns from day to day.",
       "scientificIdeas": [
@@ -104,6 +106,7 @@
     },
     {
       "code": "K.ESS2.3",
+      "grade": "K",
       "statement": "Develop and use models to predict weather and identify patterns in spring, summer, autumn, and winter.",
       "bigIdea": "The weather follows repeating patterns from year to year. These patterns allow people to make predictions about what kind of weather is likely at different times of the year.",
       "scientificIdeas": [
@@ -119,6 +122,7 @@
     },
     {
       "code": "3.ESS2.3",
+      "grade": "3",
       "statement": "Use tables, graphs, and tools to describe precipitation, temperature, clouds, and wind (i.e., direction and speed) to predict local weather and climate.",
       "bigIdea": "Climate is the long-term description of typical weather patterns for a region, distinct from weather, which describes what is happening now.",
       "scientificIdeas": [
@@ -147,6 +151,7 @@
     },
     {
       "code": "3.ESS2.4",
+      "grade": "3",
       "statement": "Incorporate weather data to describe major climates (e.g., polar, temperate, tropical) in different regions of the world.",
       "bigIdea": "Even though the weather varies greatly from place to place, Earth's climates follow some typical patterns. Classifying regions based on typical weather patterns simplifies complex weather data into understandable categories.",
       "scientificIdeas": [
@@ -166,6 +171,7 @@
     },
     {
       "code": "6.ESS2.3",
+      "grade": "6",
       "statement": "Construct an explanation for how atmospheric flow, geographic features, and ocean currents affect the climate of a region through heat transfer.",
       "bigIdea": "Uneven heating of Earth's surface by the Sun sets air and water in motion. The resulting atmospheric flow, geographic features, and ocean currents redistribute this energy and shape climate in different regions.",
       "scientificIdeas": [
@@ -199,6 +205,7 @@
     },
     {
       "code": "6.ESS2.6",
+      "grade": "6",
       "statement": "Develop a model to explain the role of greenhouse gases in regulating the Earth's average surface temperature and keeping it habitable.",
       "bigIdea": "Greenhouse gases regulate Earth's average surface temperature by absorbing and radiating energy, keeping the planet warm enough to sustain life.",
       "scientificIdeas": [
@@ -228,6 +235,7 @@
     },
     {
       "code": "6.ESS2.7",
+      "grade": "6",
       "statement": "Collect data to provide evidence for how the interactions of air masses result in changes in local weather conditions and how that data can be used to predict probable local weather patterns.",
       "bigIdea": "Local weather changes when air masses with different temperatures and humidity meet. Data about air masses allows for probabilistic prediction of the weather.",
       "scientificIdeas": [

@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "1.ESS1.1",
+      "grade": "1",
       "statement": "Use observations or models of the sun, moon, and stars to describe patterns that can be predicted.",
       "bigIdea": "The appearance and motion of the Sun, Moon, and stars are predictable. These patterns help people describe and predict the changes between day and night and the seasons.",
       "note": "Students are permitted a 2D model of the sky. They are not expected to explain the causes of the changes they observe.",
@@ -100,6 +101,7 @@
     },
     {
       "code": "1.ESS1.2",
+      "grade": "1",
       "statement": "Observe natural objects in the sky that can be seen from Earth with the naked eye and recognize that a telescope, used as a tool, can provide greater detail of objects in the sky.",
       "bigIdea": "Telescopes gather light and help people make new observations and collect data about details of objects in the sky that cannot be seen with the naked eye.",
       "scientificIdeas": [
@@ -125,6 +127,7 @@
     },
     {
       "code": "5.ESS1.1",
+      "grade": "5",
       "statement": "Explain that differences in the apparent brightness of the Sun compared to other stars are due to their relative distances from the Earth.",
       "bigIdea": "Space has depth. Our Sun is like other stars but appears different because it is closer to Earth.",
       "scientificIdeas": [
@@ -150,6 +153,7 @@
     },
     {
       "code": "5.ESS1.2",
+      "grade": "5",
       "statement": "Research and explain the position of the Earth and the solar system within the Milky Way galaxy and compare the size and shape of the Milky Way to other galaxies in the universe.",
       "bigIdea": "Our Sun is one of billions of stars in the Milky Way galaxy. There are other galaxies of stars outside of our own galaxy.",
       "scientificIdeas": [
@@ -175,6 +179,7 @@
     },
     {
       "code": "8.ESS1.1",
+      "grade": "8",
       "statement": "Research, analyze, and communicate that the universe began with a period of rapid expansion using evidence from the motion of galaxies (i.e., redshift and blueshift), elemental concentrations of hydrogen and helium, and cosmic background radiation.",
       "bigIdea": "The universe is expanding – growing from an earlier hotter, and denser state.",
       "scientificIdeas": [

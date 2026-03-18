@@ -61,6 +61,7 @@
   "standards": [
     {
       "code": "2.ESS2.1",
+      "grade": "2",
       "statement": "Compare the effectiveness of multiple design solutions designed to slow or prevent wind or water from changing the shape of the land.",
       "bigIdea": "Wind and water change the land by moving Earth materials, but changing one part of the land can reduce how much those materials are moved.",
       "scientificIdeas": [
@@ -83,6 +84,7 @@
     },
     {
       "code": "2.ESS2.2",
+      "grade": "2",
       "statement": "Observe and analyze how blowing wind and flowing water can move Earth materials (soil, rocks) from one place to another, changing the shape of a landform and affecting the habitats of living things.",
       "bigIdea": "Wind, water, earth, and living things on Earth are all connected. The wind and water can change the land, which affects the things that live there.",
       "scientificIdeas": [
@@ -103,6 +105,7 @@
     },
     {
       "code": "3.ESS2.1",
+      "grade": "3",
       "statement": "Develop a model to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.",
       "bigIdea": "Earths land, water, air, and living things are connected. When on part changes it can affect others.",
       "scientificIdeas": [
@@ -131,6 +134,7 @@
     },
     {
       "code": "4.ESS2.1",
+      "grade": "4",
       "statement": "Collect and analyze data from observations to provide evidence that rocks, soils, and sediments are broken into smaller pieces through mechanical weathering (e.g., frost wedging, abrasion, tree root wedging) and are transported by water, ice, wind, gravity, and vegetation.",
       "bigIdea": "It might look like rocks don't change, but wind, water, and living things slowly break them apart and move the pieces. The changes, in turn, affect those other systems.",
       "scientificIdeas": [
@@ -153,6 +157,7 @@
     },
     {
       "code": "8.ESS2.1",
+      "grade": "8",
       "crossReference": "Also appears in ESS1.C",
       "statement": "Analyze and interpret data to support the assertion that rapid or gradual geographic changes lead to drastic population changes and extinction events.",
       "bigIdea": "Earth's systems have changed and interacted over time. When any of these systems change others are affected, including the living things that depend on them. These changes can lead to the appearance or disappearance of species as supported by Earth's geologic record.",

@@ -69,6 +69,7 @@
   "standards": [
     {
       "code": "2.ESS2.4",
+      "grade": "2",
       "statement": "Use information obtained from reliable sources to explain that water is found in the ocean, rivers, streams, lakes, and ponds, and may be solid or liquid.",
       "bigIdea": "Water is found in many places on Earth and can exist as a solid or a liquid. The presence and movement of water shape the land and environments where plants and animals live.",
       "scientificIdeas": [
@@ -97,6 +98,7 @@
     },
     {
       "code": "3.ESS2.2",
+      "grade": "3",
       "statement": "Develop a model to describe the cycling of water through Earth's spheres driven by energy from the Sun.",
       "bigIdea": "Water is stored in different places on Earth (e.g., the ocean, atmosphere, on land) and moves between these stores in ways that share weather and the surface of the planet.",
       "scientificIdeas": [
@@ -127,6 +129,7 @@
     },
     {
       "code": "6.ESS2.1",
+      "grade": "6",
       "statement": "Diagram oceanic and atmospheric convection patterns in a system that flow due to uneven heating of the Earth.",
       "bigIdea": "Uneven heating of Earth's surface causes convection in the atmosphere and ocean which creates connected circulation patterns that transfer energy around the planet.",
       "scientificIdeas": [
@@ -156,6 +159,7 @@
     },
     {
       "code": "6.ESS2.2",
+      "grade": "6",
       "statement": "Gather evidence to justify that oceanic convection currents in a system are caused by the Sun's transfer of thermal energy and differences in salinity leading to global water movement.",
       "bigIdea": "Differences in temperature and salinity cause ocean waters to move in global patterns. Energy from the Sun and gravity power these currents that transfer heat and materials through Earth's systems.",
       "scientificIdeas": [
@@ -181,6 +185,7 @@
     },
     {
       "code": "6.ESS2.4",
+      "grade": "6",
       "statement": "Develop and use a model to describe the cycling of water through Earth's systems driven by energy from the Sun and the force of gravity.",
       "bigIdea": "Water moves between the land, ocean, and atmosphere as it changes form. Energy from the Sun and the pull of gravity drive these movements, which shape weather, climate, and Earth's surface.",
       "scientificIdeas": [

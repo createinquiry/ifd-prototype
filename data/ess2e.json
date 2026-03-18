@@ -77,6 +77,7 @@
     },
     {
       "code": "4.ESS2.3",
+      "grade": "4",
       "statement": "Provide examples to support the claim that organisms affect the physical characteristics of their regions (e.g., plants' roots hold soil in place, beaver shelters alter the flow of water, paved surfaces affect runoff, leaves from trees can obstruct waterways).",
       "bigIdea": "Organisms change the physical characteristics of the places where they live, and these changes can accumulate across seasons and extend beyond the immediate area where the organisms live.",
       "scientificIdeas": [
@@ -100,6 +101,7 @@
     },
     {
       "code": "6.ESS2.5",
+      "grade": "6",
       "statement": "Analyze and interpret data to determine the impact of humans and other organisms on the water cycle, landforms (e.g., rain shadow effect) and atmospheric systems.",
       "bigIdea": "The combined activity of many organisms, acting continuously over long periods of time can gradually reshape Earth's water cycle, landforms, and atmosphere.",
       "scientificIdeas": [
