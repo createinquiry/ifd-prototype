@@ -1,0 +1,163 @@
+{
+  "componentIdea": {
+    "code": "ESS1.C",
+    "title": "The History of Planet Earth"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "How do people reconstruct the dates and events in Earth's planetary history?",
+    "purpose": "This component idea helps students understand how scientists interpret the layers of sediment, rock formations, and fossils to tell the history of planet Earth.",
+    "centralIdeas": "Every different type of rock forms through a process that is unique to that rock type and has been consistent throughout Earth's history. Gradual and sudden events create features in Earth's rock layers. Scientists analyze the arrangement and type of rock layers to determine a sequence for the events Earth's past. Radioactive dating provides an approximate age of rocks which makes it possible to approximate when events occurred."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2: Some events on Earth occur in cycles, like day and night, and others have a beginning and an end, like a volcanic eruption. Some events, like an earthquake, happen very quickly; others, such as the formation of the Grand Canyon, occur very slowly, over a time period much longer than one can observe. – NRC, 2012",
+      "progression": "In the primary grades, students begin developing the idea that different types of events cause changes to the appearance of Earth's surface and that these events can happen at different rates. Since numbers and dates describing Earth's long history are far beyond what many students can comprehend, instruction centers on observable surface changes and the time it takes for changes to occur.\n\nA simple way to introduce ideas is through a card sort that uses familiar events from students' own lives. Cards might include examples such as waking up, celebrating a birthday, finishing kindergarten, or growing taller. Working in pairs or small groups, students sort the cards into those that happen quickly, those that take a long time, and those that happen repeatedly. This discussion helps students begin to describe differences in the rate, duration, and repetition of events they already understand.\n\nOnce students have practiced describing how personal events unfold over time, teachers can extend the same reasoning to events that change Earth's surface. Some of these changes happen suddenly, like floods, landslides, or volcanic eruptions, while others, such as soil washing down a hill after many rains or rocks breaking apart over many seasons, might not be noticeable because they happen so slowly. Students also explore events that repeat in cycles, such as freezing and thawing, or daily temperature changes, and how these cycles can gradually change the land.\n\nAt this level, students focus on how and how fast events cause changes they can observe; they are not yet expected to consider how those changes become preserved in rock layers or sediments. The goal is for students to recognize that Earth's surface is always changing through a variety of fast and slow processes. In later grades, this foundation prepares them to interpret the evidence those changes leave behind."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Earth has changed over time. Understanding how landforms develop, are weathered (broken down into smaller pieces), and erode (get transported elsewhere) can help infer the history of the current landscape. Local, regional, and global patterns of rock formations reveal changes over time due to Earth forces, such as earthquakes. The presence and location of certain fossil types indicate the order in which rock layers were formed. Patterns of tree rings and ice cores from glaciers can help reconstruct Earth's recent climate history. – NRC, 2012",
+      "progression": "By upper elementary school, students already understand that Earth has not always looked the way it looks now and that different types of events can change Earth's surface at different rates. The next step is helping them see that those changes can leave behind evidence that tells something about the past. The focus in this grade band shifts from observing change in the present to recognizing traces of change from the past.\n\nStudents begin to connect familiar processes, such as weathering, erosion, and deposition, to the idea that the materials around them are records of earlier events. For example, a streambank, a pile of sand, or a fossil imprint each provides clues about what has happened in that place. Teachers can help students surface their ideas by asking questions like, \"How do you know it rained here before?\" or \"What clues tell you that this hill was once higher?\" These conversations help students move from describing change to reasoning from evidence of change.\n\nThrough local investigations and accessible examples, students can explore how materials preserve patterns that reveal the sequence or nature of past events. For instance, shells found far from the ocean suggest that an area was once underwater, or wide tree rings indicate that a year had more rainfall. The concept of layers may naturally arise in these discussions, but the emphasis should remain on the broader idea of evidence left by processes, not yet on using those layers to establish order or relative age.\n\nThis emphasis on evidence bridges the early understanding that Earth is always changing with the middle school idea that those changes can be arranged into a geologic timeline. By the end of middle school, students should see that Earth's materials are like pages in a storybook, recording both slow and sudden events that have shaped the planet over time."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. The geological time scale interpreted from rock strata provides a way to organize Earth's history. Major historical events include the formation of mountain chains and ocean basins, the evolution and extinction of particular living organisms, volcanic eruptions, periods of massive glaciation, and development of watersheds and rivers through glaciation and water erosion. Analyses of rock strata and the fossil record provide only relative dates, not an absolute scale. – NRC, 2012",
+      "progression": "By middle school, students have learned that Earth's surface records evidence of change and that fossils and landforms reveal events that happened long ago. The next step is to recognize that these records together form a timeline of Earth's history. This timeline stretches far beyond human experience, which explains how gradual processes can have such immense effects. The emphasis at this level is on understanding how geologic time provides a way to organize those events and on using patterns in rock layers and maps to interpret the formation of major features on Earth.\n\nStudents explore how layers of rock, when viewed across large regions, show both continuity and disruption. They learn that new rocks form as older ones are buried, melted, or uplifted, and that these patterns reveal how mountain ranges, ocean basins, and river systems have developed over immense spans of time. Instead of memorizing specific time periods or numerical ages, students reason about relative time. For example, one layer formed before another or that certain fossils appear only after others. Classroom discussions might center on questions such as, \"What clues in a map or cross-section show that one event happened before another?\" or \"How could a mountain made of sea-floor rock have formed?\"\n\nThese investigations connect evidence from many Earth systems, such as tectonic activity, erosion, and sedimentation, to the features visible on today's surface. Students begin to see that the same processes shaping Earth now have operated over extremely long timescales to produce its present landscape. The goal is not to assign precise ages to events, but to help students use evidence preserved in rocks and landforms to reconstruct the sequence and scale of Earth's history. In high school, students explore the concepts of nuclear chemistry that allow them to understand how an absolute timeline can be created and affirms the relative timelines inferred by geology."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "conceptualObservation",
+        "label": "Conceptual Observation"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "conceptualObservation": "Different types of events cause changes to the appearance of Earth's surface and can happen at different rates."
+      },
+      {
+        "gradeBand": "3-5",
+        "conceptualObservation": "Evidence of changes to Earth's surface and climate can be preserved in layers of rocks and fossils."
+      },
+      {
+        "gradeBand": "6-8",
+        "conceptualObservation": "Layers of rock can be used to construct a relative geologic history of Earth."
+      },
+      {
+        "gradeBand": "9-12",
+        "conceptualObservation": "Radiometric dating can be used to construct an absolute timeline of Earth's history."
+      }
+    ],
+    "narrative": "Earth's surface has changed continually since the planet formed, and those changes have left evidence that allows scientists to reconstruct Earth's story. Changes to Earth's systems occur at many scales, from invisible changes to the composition of the atmosphere to visible events such as earthquakes and eruptions and from sudden events such as floods to gradual changes that uplift mountains.\n\nIn the earliest grades, students begin by observing different kinds of events—such as rainstorms, floods, or volcanic eruptions—cause visible changes to the land and water around them. They learn that some of these changes happen quickly while others take so long that they are hard to see. Conversations often begin with familiar experiences: \"What happens to the playground after a big rain?\" or \"How long does it take a puddle to disappear?\" Children notice that some events repeat, like daily temperature changes or seasonal freezing and thawing, and that these cycles can slowly change the Earth's surface. At this stage, their explanations focus on the causes and rates of change, not yet on how those changes become recorded.\n\nIn upper elementary grades, students begin to realize that evidence of past changes is preserved in the materials that make up Earth's surface. They connect the processes they have observed, such as weathering, erosion, and deposition, to the formation of sedimentary rocks and the fossils embedded within them. Students might notice the sides of cliffs or roadcuts and wonder why the rocks have stripes. They learn that each layer represents material deposited at a different time. Fossils of plants and animals, tree rings, and ice cores serve as records of past environments and climate conditions. The biggest shift is that students should realize that changes leave evidence behind that can tell about events that have happened in the past.\n\nBy middle school, students learn that layers of Earth's rocks preserve the sequence of events in Earth's history to reconstruct a relative timeline of Earth's history. They learn that in an undisturbed sequence, lower rock layers are older than those above, and that folding, faulting, or intrusion can disrupt the order. Working with diagrams and cross-sections, they determine which events happened first and which came later, discovering that the same processes shaping Earth today—uplift, erosion, and volcanism—have operated over millions of years. Whereas elementary students recognize that rocks and fossils are evidence, middle-grade students' reason with that evidence to build sequences of events.\n\nIn high school, students add the ability to assign absolute ages to those sequences. They use radiometric dating to determine how long ago a rock formed or a volcanic eruption occurred, anchoring relative timelines to a numerical scale. They learn that continental rocks can be more than four billion years old, while oceanic crust is far younger, and that radioactive isotopes provide evidence for the age of Earth and the solar system itself. By connecting evidence from Earth and beyond, students can tell an increasingly detailed and quantitative story of our planet's history, how events large and small have changed the surface and how those changes are recorded in the rocks beneath our feet."
+  },
+  "standards": [
+    {
+      "code": "2.ESS1.1",
+      "statement": "Recognize that some of Earth's natural processes are cyclical, while others have a beginning and an end. Some events happen quickly, while others occur slowly over time.",
+      "bigIdea": "Earth's surfaces change and these changes happen at different rates and cycles.",
+      "scientificIdeas": [
+        "Earth's surface can change.",
+        "Many different types of events can change Earth's surfaces.",
+        "Some events that cause changes happen quickly (e.g., heavy rains, landslides, strong winds).",
+        "Some events happen slowly (e.g., a riverbank eroding, soil washing down a hill, rock walls crumbing apart).",
+        "Some events that happen in cycles cause changes over time (e.g., seasonal rains, summer droughts).",
+        "Fast and slow events work together to shape the land, even when changes are too small to notice each day."
+      ],
+      "commonStudentIdeas": [
+        "The Earth has always looked the way it looks now.",
+        "Earth only changes when people build things.",
+        "Only big events (e.g., tornadoes, floods, volcanoes) change the Earth.",
+        "Since rocks are hard, rocky places don't change.",
+        "Events don't really change the land; they just make things messy or dirty.",
+        "Land that looks the same from day to day is not changing."
+      ]
+    },
+    {
+      "code": "4.ESS1.1",
+      "statement": "Generate and support a claim with evidence that over long periods of time, erosion (i.e., weathering and transportation) and deposition have changed landscapes and created new landforms.",
+      "bigIdea": "Features such as valleys, deltas, layers of sediment, or even the shape of mountains, are evidence of past changes to Earth's surface caused by the action of wind and water.",
+      "scientificIdeas": [
+        "Earth's surface has changed over time and continues to change.",
+        "The same processes that have changed Earth in the past continue to shape it today.",
+        "Landscape features provide evidence of how the land has changed (e.g., rounded hills, carved valleys, sand dunes).",
+        "Weathering, erosion, and deposition are gradual processes that can move materials and deposit them in new places.",
+        "Small changes can accumulate over long periods of time to form large landforms.",
+        "Landforms are evidence about events that have happened in the past, even if those events happened too slowly to observe directly. (e.g., carving the Tennessee River Gorge, the flat top of the Cumberland Plateau, the Mississippi River Delta).",
+        "Newly exposed land can reveal events that have happened in Earth's past (e.g., layers of sediment shifted to diagonal by earthquakes)."
+      ],
+      "commonStudentIdeas": [
+        "Erosion only wears things down and cannot create new landforms.",
+        "Landforms are permanent and only change when there are major events.",
+        "Earth's surface only changes when we can actually see it change.",
+        "Landforms are unique to a place and formed by a process that only happens there."
+      ]
+    },
+    {
+      "code": "4.ESS1.2",
+      "statement": "Use evidence from the presence and location of fossils to determine the order in which rock strata were formed.",
+      "bigIdea": "Fossils are clues that tell the story of Earth's past. When the same kind of fossil is found in two different places, is shows that the rocks in which it was found formed during a similar time.",
+      "scientificIdeas": [
+        "Most of the types of things that have lived on Earth have become extinct.",
+        "Fossils are evidence of living things that once lived on Earth.",
+        "When plants or animals are buried and remain undisturbed for long periods, their remains or traces of remains can become fossils within rock.",
+        "Fossils are typically found in layers of sedimentary rock that form as materials settle and harden over time.",
+        "New layers form on top of older ones, so the position of a fossil gives clues about which organisms lived earlier or later.",
+        "The same kind of fossil found in rocks at different places suggests that those rocks formed around the same time.",
+        "Once a species has become extinct, it is not possible for new fossils of that species to begin to form.",
+        "Fossils of the same type of organism that occur in different places provide evidence that the rocks in which the fossils were found are similar age."
+      ],
+      "commonStudentIdeas": [
+        "Only dinosaurs form fossils.",
+        "Rocks only form when volcanoes erupt.",
+        "Fossils are bones/shells that were put in rocks, not pieces that formed along with the rock.",
+        "Rocks form first, then fossils get trapped in the rocks.",
+        "If two fossils are found near each other, they must have lived together.",
+        "Fossils are randomly mixed in rocks.",
+        "Fossils found deeper in rocks got pushed further down into the rocks.",
+        "All species that once lived on Earth still live on Earth today."
+      ]
+    },
+    {
+      "code": "8.ESS2.1",
+      "crossReference": "Also appears in ESS2.A",
+      "statement": "Analyze and interpret data to support the assertion that rapid or gradual geographic changes lead to drastic population changes and extinction events.",
+      "bigIdea": "Evidence in rock layers and fossils shows that large-scale changes have affected Earth's surface and transformed the environments that living things depend on.",
+      "scientificIdeas": [
+        "Earth's surface has changed through large-scale geographic events (e.g., movement of continents, opening and closing of ocean basins, formation and erosion of mountain ranges).",
+        "Large scale events happen at different rates (e.g., eruptions, landslides, asteroid impacts occur quickly and seafloor spreading, and mountain uplift happen slowly).",
+        "Geographic record contains evidence of large-scale changes (e.g., marine fossils inland, layers of volcanic ash, folding or tilted layers of rock).",
+        "The same processes that have shape Earth's surface today have erased and created landforms over vast timescales.",
+        "Fossil evidence shows periods of significant speciation and significant extinction events."
+      ],
+      "commonStudentIdeas": [
+        "Earth has always had the same system of oceans.",
+        "Marine fossils always show evidence of receding seas (sea level changes vs uplifting of seabed during mountain formation).",
+        "Earth's surface changes at the same rate in all places.",
+        "Only sudden events cause changes on Earth.",
+        "Mountains erode, but they do not rise.",
+        "Mountains form when dirt piles up vertically (vs uplift).",
+        "All mountains form from volcanoes.",
+        "Mountains are created suddenly.",
+        "Mountains form when the ground dries out/water goes away.",
+        "The ocean floor is flat.",
+        "The continents are each separate (rather than connected by a submerged crust).",
+        "Oceans formed where parts of the land sank down. (vs uplift of mountains).",
+        "Erosion causes ocean features (e.g., valleys) to form.",
+        "Species can immediately transform into new species when the environment changes.",
+        "Extinction and speciation are unrelated events."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

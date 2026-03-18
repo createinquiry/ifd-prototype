@@ -1,0 +1,265 @@
+{
+  "componentIdea": {
+    "code": "ESS1.B",
+    "title": "Earth and the Solar System"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "What are the predictable patterns caused by Earth's movement in the solar system?",
+    "purpose": "This component idea helps students understand the formation of the solar system and various phenomena on Earth that support the role of gravity in these events.",
+    "centralIdeas": "Gravity – the attractive force between matter of all sizes – was the force that brought together bits of gas, dust, and rock leading to the formation of our solar system. Gravity governs the motion of objects in the solar system which cause phenomena on Earth such as seasons, cycles of day and night, phases of the moon, tides, etc."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Seasonal patterns of sunrise and sunset can be observed, described, and predicted. – NRC, 2012",
+      "progression": "Young children enter school already noticing regular events in the world around them. They may comment that \"the Sun comes up when it's morning,\" or that \"it gets dark when the Sun goes away.\" Some may already associate longer daylight with summer and shorter days with winter. These are productive starting points: children already recognize change and pattern in the sky even if they do not yet think of Earth as moving.\n\nAt this stage, students should focus on observing, recording, and describing these repeating patterns, not yet on explaining why they occur. The purpose of instruction is to help students notice things that happen repeatedly, that sunrise and sunset times follow a yearly rhythm and that these patterns can be described, compared, and predicted. They can collect simple data such as the time of sunset, the length of a shadow at lunchtime, or the direction a shadow points. Graphing these observations over days or weeks allows them to see that changes happen gradually and repeat each year. Students may also remark that the Sun or Moon seems to follow them as they move about their day, a natural idea that reflects the constant visibility of these objects from many locations.\n\nStudents benefit from hands-on ways to record and represent what they see. A stick or \"shadow pole\" can mark the same location each day for tracing and comparing shadows over time. Charting sunrise and sunset times from a local weather source helps students notice that the amount of daylight slowly changes through the seasons. Keeping drawings in an observation journal or adding pictures to a classroom display board allows students to connect their daily observations to a growing sense of yearly rhythm. These experiences can also connect to stories and traditions from students' homes and cultures, such as seasonal celebrations or events tied to planting, harvest, or the start of a new school year, which help students see that patterns in the sky are meaningful in many parts of life."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. The orbits of Earth around the sun and of the moon around Earth, together with the rotation of Earth about an axis between its North and South poles, cause observable patterns. These include day and night; daily and seasonal changes in the length and direction of shadows; phases of the moon; and different positions of the sun, moon, and stars at different times of the day, month, and year.\n\nSome objects in the solar system can be seen with the naked eye. Planets in the night sky change positions and are not always visible from Earth as they orbit the sun. Stars appear in patterns called constellations, which can be used for navigation and appear to move together across the sky because of Earth's rotation. (NRC, 2012)",
+      "progression": "In early elementary school, students begin to observe that there are patterns in the changes they observe over the course of a day and the year.\n\nBy upper elementary, students begin to use models to explain the patterns they have long observed. They move beyond noticing that sunrise and sunset happen every day to realizing that these events can be explained by Earth's rotation. They learn that the daily path of the Sun, the changing length and direction of shadows, and the repeating phases of the Moon can all be understood as consequences of the positions and motions of Earth, the Moon, and the Sun. Students begin to think of the sky not as a flat surface overhead but as a vast space filled with moving objects, and of Earth as one of those objects.\n\nThis is also the point when students start revising intuitive ideas that once fit their everyday experiences. Many enter this grade band picturing the Sun as moving around a stationary Earth or imagining that the Moon changes shape on its own. Through model-based reasoning, they come to understand that these appearances are due to the motion and orientation of celestial bodies relative to one another. These are productive revisions that emerge through using models, not simply viewing them. The role of instruction is to help students use models to explain specific phenomena rather than to display all features of the solar system at once. For example, a classroom model showing every planet orbiting the Sun may distract from the goal of explaining why the Moon appears to change shape. A more focused model that includes only Earth, the Moon, the Sun, and a light source allows students to trace light and shadow to understand lunar phases or eclipses.\n\nModels at this level can be physical, diagrammatic, or digital, but they should always be connected to questions of cause and effect: What makes day and night? Why do shadows change? Why can we see the Moon only in certain shapes? Students can investigate these questions by shining a flashlight on a tilted globe to observe how light strikes different parts of Earth, or by recording the direction and length of shadows over several weeks. They can model the phases of the Moon by using spheres and light sources to represent relative positions or use time-lapse photographs and simple star maps to track the apparent motion of constellations.\n\nIn later grade, students will move from explanations about how the arrangements of objects in the solar system produce a variety of patterns and begin to understand the role of gravity in causing the repeated arrangements of the Earth, Sun, Moon and other objects in space."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. The solar system consists of the sun and a collection of objects, including planets, their moons, and asteroids that are held in orbit around the sun by its gravitational pull on them. This model of the solar system can explain tides, eclipses of the sun and the moon, and the motion of the planets in the sky relative to the stars. Earth's spin axis is fixed in direction over the short term but tilted relative to its orbit around the sun. The seasons are a result of that tilt and are caused by the differential intensity of sunlight on different areas of Earth across the year.",
+      "progression": "In earlier grades, students observed patterns in the sky and used models to explain them. They learned that day and night result from Earth's rotation, that seasons occur as Earth revolves around the Sun on a tilted axis, and that the Moon's appearance changes as it orbits Earth. These experiences helped them see the solar system as a set of moving objects whose positions and motions produce predictable patterns. Students now have the foundation to ask a deeper question: What causes those motions to happen and remain so regular?\n\nBy middle school, students are ready to connect the predictable patterns they have modeled in earlier grades to the forces that make those patterns possible. They now shift from describing and representing motion to explaining why objects in the solar system move the way they do. Gravity becomes the unifying cause that explains not only why Earth orbits the Sun and the Moon orbits Earth, but also how the entire solar system formed and maintains its structure.\n\nStudents often enter this grade band with gravity limited to their personal experience: it is the force that \"pulls things down\" toward the ground. A productive next step is to broaden this idea where students learn gravity does not pull \"down,\" but acts toward the center of mass of any object, and it operates across empty space. Helping students think about gravity as a force of attraction between any two objects with mass allows them to extend a familiar concept to a cosmic scale. Once they understand that every object in space exerts a gravitational pull on every other, it becomes possible to explain curved orbits, tides, and even the flattened disk shape of our solar system as it formed. As students expand their definitions of forces in the universe, they should understand that gravity's ability to act over infinite distance makes it a unique force relative to other forces and why it dominates at scales of the cosmos.\n\nAt this level, students can begin to explore how the combination of straight-line motion and gravitational attraction produces orbital motion. Using computer simulations or simple physical analogs, such as a marble rolling across a stretched fabric or a ball tied to a string, students can visualize how gravity continually changes the direction of an object's motion without necessarily changing its speed. These models can also demonstrate how variations in mass or distance change the strength of gravitational pull, helping students' reason why the Sun, as the most massive object in our system, exerts the dominant gravitational influence.\n\nMiddle grades students can also start thinking about how gravity helped form the solar system itself. Simple representations showing how small particles of dust and gas clump together under gravity can help them imagine how planets and moons were built over time. Teachers might connect this to everyday analogies, such as flour gathering into a ball in a mixing bowl when stirred, to show that the same principles apply at vastly different scales."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "typeOfUnderstanding",
+        "label": "Type of Understanding"
+      },
+      {
+        "key": "conceptualShift",
+        "label": "Conceptual Shift"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "typeOfUnderstanding": "Descriptive – students track repeating events without a defined spatial model.",
+        "conceptualShift": "From noticing change to identifying predictable, repeating patterns."
+      },
+      {
+        "gradeBand": "3-5",
+        "typeOfUnderstanding": "Representational – students use diagrammatic and physical models to explain phenomena.",
+        "conceptualShift": "From surface observation to spatial reasoning about relative motion."
+      },
+      {
+        "gradeBand": "6-8",
+        "typeOfUnderstanding": "Causal – students develop explanations with gravity as underlying cause of repeating patterns.",
+        "conceptualShift": "From geometric reasoning to force based explanation."
+      },
+      {
+        "gradeBand": "9-12",
+        "typeOfUnderstanding": "Analytical and Predictive – students use mathematical models and conservation laws to explain and predict stability, and long-term system change.",
+        "conceptualShift": "From force-based reasoning to quantitative modeling and system-level behavior across time scales."
+      }
+    ],
+    "narrative": "This progression describes how students' understanding of the solar system and the formation of Earth within the solar system becomes more sophisticated over time. The first column, type of understanding, shows how students think about what they observe, whether they are simply noticing, representing, explaining, or predicting. The second column, conceptual shift, describes how their ideas grow more powerful as they move from describing what happens to explaining why it happens and, eventually, to predicting how the system will behave in the future.\n\nIn the early grades, students become careful observers of the sky. They notice that sunrise and sunset happen every day, that days become longer or shorter through the seasons, and that these patterns repeat year after year. Their focus is on describing what changes and recognizing regularity, but without needing to explain the cause. At this stage, students understand that sunlight creates day and its absence creates night, but they do not yet imagine Earth as moving in space. For practical purposes, students can still hold models where the Sun moves around Earth, rather than introducing discussions about rotation and revolution.\n\nBy upper elementary school, students begin using simple models to explain the patterns they observe. They learn that Earth spins on its axis, which causes day and night, and that it travels around the Sun once each year, leading to seasonal changes in daylight. They may tilt a globe under a lamp or draw diagrams to show how the Moon's position changes during its phases. Their thinking shifts from describing events on Earth's surface to reasoning about how objects move and interact in three-dimensional space.\n\nIn middle school, students extend this reasoning to explain why those motions occur. They recognize gravity as the force that holds planets in orbit around the Sun and moons in orbit around planets. With this understanding, they can explain how tides, eclipses, and the motion of planets result from gravitational pulls among celestial bodies. They begin to see the solar system as an interconnected structure governed by invisible but predictable forces, and they can apply this same idea to explain how the Sun and planets formed from a rotating cloud of gas and dust drawn together by gravity.\n\nBy high school, students analyze and predict the behavior of the solar system using mathematical relationships and conservation laws. They use Kepler's and Newton's laws to describe the shapes and speeds of orbits and to understand how gravitational interactions maintain stability or cause gradual changes over time. Their explanations are quantitative as well as conceptual. They can calculate relationships, test models, and use data to predict phenomena such as eclipses or variations in Earth's orbit. At this level, students see the solar system as a dynamic, evolving system whose motions and long-term cycles can be understood through the same physical principles that govern motion everywhere in the universe."
+  },
+  "standards": [
+    {
+      "code": "1.ESS1.3",
+      "statement": "Make observations to predict patterns between sunrise and sunset, and the change of seasons.",
+      "bigIdea": "The Sun's appearance and position in the sky change in regular and predictable ways over each day and across seasons.",
+      "scientificIdeas": [
+        "The Sun produces light. Rays can be used to represent this light.",
+        "The Sun's light causes daytime.",
+        "The Sun always appears to rise on the same side of the sky and set on the opposite side.",
+        "The number of hours of sunlight changes through the year.",
+        "The time from sunrise to sunset is longest in the summer and shortest in the winter.",
+        "The greatest changes in day length happen during spring and fall, and the least during the middle of winter and summer.",
+        "Shadows form when an object blocks light.",
+        "When the Sun is lower in the sky, it will create longer shadows. (e.g., morning, winter)",
+        "When the Sun is higher in the sky, it will create shorter shadows. (e.g., midday, summer)",
+        "The length of shadows changes across the day and seasons.",
+        "Observations of sunrise and sunset over many days can be used to predict future patterns of daylight."
+      ],
+      "commonStudentIdeas": [
+        "Shadows only move when objects move.",
+        "The Sun rises from anywhere.",
+        "The Sun follows us as we walk or drive.",
+        "Days and nights are always the same length.",
+        "Each 24-hour period is half daytime and half nighttime.",
+        "Nighttime is shorter than daytime."
+      ]
+    },
+    {
+      "code": "3.ESS1.1",
+      "statement": "Use data to categorize different bodies in our solar system including inner and outer planets, moons, asteroids, comets, and meteoroids according to their physical properties and motion.",
+      "bigIdea": "Objects in our solar system move in predictable patterns around the Sun, and these patterns in motion and basic physical properties help us identify and classify different kinds of bodies in space.",
+      "scientificIdeas": [
+        "The Sun is the only star and is at the center of our solar system.",
+        "All other stars and constellations are much further away than anything in our solar system, and do not appear to change position over short periods of time.",
+        "Planets orbit the Sun in repeating paths.",
+        "Earth is one of the planets that orbits the Sun.",
+        "Some planets can be seen without a telescope.",
+        "Planets change position in the sky over days and weeks because they orbit the Sun.",
+        "Planets are not always visible because their positions change relative to the Earth and Sun.",
+        "Constellations in the night sky appear to move because the Earth rotates.",
+        "Moons orbit planets.",
+        "Asteroids, comets, and meteoroids are smaller objects that also move through space in predictable paths.",
+        "Inner planets have rocky, solid surfaces with different types of atmospheres that affect how they heat and cool between day and night.",
+        "Outer planets are much larger and mostly made of gas or liquids without a solid surface like the inner planets.",
+        "The solar system shows us that space has three-dimensions and that the sky is not a curved surface.",
+        "Jupiter and Saturn are close enough to the sun that they are Gas Giants without a solid surface like Earth.",
+        "Uranus and Neptune are further away from the Sun and also lack a solid surface. Their atmospheres become thick and fluid."
+      ],
+      "commonStudentIdeas": [
+        "The Sun moves around Earth each day.",
+        "The sky is a curved dome with things attached to it.",
+        "Planets stay in one place, like stars.",
+        "Planets and stars are the same type of object.",
+        "Planets and the moon disappear because they go behind clouds.",
+        "All objects in space move in the same way.",
+        "The moon is the only object that orbits something.",
+        "Bigger objects move faster.",
+        "Things in the solar system are arranged in a straight line.",
+        "Objects that are far away do not move."
+      ]
+    },
+    {
+      "code": "5.ESS1.3",
+      "statement": "Use a model to explain how the orbit of the Earth and sun cause observable patterns: a. day and night; b. changes in length and direction of shadows over a day.",
+      "bigIdea": "Models that can account for changes to shadows created by the Sun over days and months inform our understanding of the Earth's spin on a fixed axis and that the Sun's position in the sky changes in predictable ways over each day and through the year.",
+      "scientificIdeas": [
+        "Light and Shadows: The Sun produces light that travels through space in straight lines.",
+        "Because the Sun is very far away, the rays of sunlight that reach Earth are nearly parallel.",
+        "At any point in time, the sun shines on half of the Earth's surface.",
+        "Light rays are not able to travel through the Earth and therefore the opposite side of the Earth is in a shadow caused by the Earth.",
+        "Shadows form when an object blocks sunlight and prevents rays from reaching a surface.",
+        "Shadows always form on the opposite side of an object relative to the light source.",
+        "The Earth is spherical and spins on a fixed axis.",
+        "Daytime is a phenomenon that occurs when a location on Earth is within the illuminated half of the Earth.",
+        "Night is a phenomenon that occurs when a location on Earth is within the Earth's shadow.",
+        "Sunrise occurs as a location on Earth moves from the side of the Earth that is in shadow to the portion of the Earth that is illuminated.",
+        "Sunset occurs as a location on Earth moves from the illuminated side of the Earth into to the portion of the Earth that is in shadow.",
+        "Day and Night: The Sun shines on only half of Earth at any moment.",
+        "Light cannot travel through Earth, so the side facing away from the Sun is in a shadow. This is night.",
+        "The Earth's shape is spherical, and it spins on an imaginary line called its axis once every 24 hours.",
+        "A location on Earth experiences day when it faces the Sun and night when it spins away from the Sun.",
+        "Sunrise and sunset occur as a location moves from the dark side of Earth into the sunlight and back again due to its spin.",
+        "Seasonal and Latitude Connections: The Sun's apparent height in the sky changes with the seasons, which affects shadow length at the same time each day.",
+        "The tilt of Earth's axis causes the Sun's daily path to be higher in summer and lower in winter creating differences in daylight and shadow length across the year."
+      ],
+      "commonStudentIdeas": [
+        "The Sun travels around the Earth once a day.",
+        "Shadows change because the Sun moves across the sky (Rather than Earth's orbit).",
+        "Shadows change because of clouds or weather change the brightness of the Sun.",
+        "The speed of Earth's spin changes and this causes longer/shorter days at different times.",
+        "Night happens when the Earth is on one side of the Sun and Day happens when the Earth is on the other side of the Sun.",
+        "Days are longer when the Sun and Earth are closer to each other and shorter when the Sun and Earth are further away.",
+        "The Sun will always be straight overhead at noon, regardless of one's location.",
+        "The Sun always shines directly on the equator during the day.",
+        "The entire Earth experiences daytime simultaneously."
+      ]
+    },
+    {
+      "code": "5.ESS1.4",
+      "statement": "Explain the cause-and-effect relationship between the positions of the sun, earth, and moon and resulting eclipses, tides, and appearance of the moon.",
+      "bigIdea": "These observable patterns can be explained using models to show how the arrangements of different celestial bodies cause the events.",
+      "scientificIdeas": [
+        "Light and Observation: The Sun is a star that produces its own light.",
+        "The Moon and planets are visible because they reflect sunlight.",
+        "Light travels in straight lines and the rays of sunlight reaching Earth are nearly parallel due to the Sun's great distance from Earth.",
+        "Nighttime occurs when Earth blocks sunlight from reaching the side of the planet facing away from the Sun.",
+        "Objects that block light produce shadows, and these shadows explain many observed celestial phenomena.",
+        "Phases of the Moon: The Moon is always spherical.",
+        "Half of the Moon is always illuminated by light from the Sun – except briefly during a lunar eclipse.",
+        "The Moons phases occur because different portions of its sunlit half are visible.",
+        "On some nights, the Moon is not visible because its location is overhead at a part of the Earth experiencing daylight.",
+        "The Moon takes significantly longer than one day to travel around the Earth.",
+        "Only one side of the Moon is visible from Earth on any night because the Moon's spin and orbit take the same amount of time.",
+        "Eclipses: Eclipses occur when one celestial body moves into the shadow of another.",
+        "Tides: Gravity is a non-contact force that pulls objects towards each other, even over vast distances in space.",
+        "Liquids can move and flow when they experience a force.",
+        "Oceans and other large bodies of water are pulled on by the gravitational attraction of the Sun and Moon.",
+        "During a high tide, water gets pulled further onto the shore by the gravitational forces – the ocean seems to swell.",
+        "During a low tide, water gets pulled further away from the shore by gravitational forces.",
+        "Distance is the dominant factor in gravitational force, which explains why the Moon has a much greater effect on tides than the Sun.",
+        "Stars and Constellations: Stars produce light, but most are too far away to be visible during the day because the Sun outshines them.",
+        "Stars appear to move across the night sky because the Earth rotates.",
+        "Different constellations are visible in different seasons because Earth orbits the Sun, changing our nighttime view of the sky.",
+        "In the Norther Hemisphere, the North Star appears nearly fixed in position, providing evidence of Earth's rotation and the orientation of its axis.",
+        "The North star is not visible from all places on Earth including most places in the Southern Hemisphere."
+      ],
+      "commonStudentIdeas": [
+        "The Moon produces its own light.",
+        "The Moon's shape changes because part of it disappears or is cut off.",
+        "Different amounts of the Moon are illuminated during each phase.",
+        "The Moon does not spin.",
+        "The Moon travels around the Earth faster than the Earth Spins.",
+        "On nights when the Moon cannot be seen, it is because the Moon is in the Earth's shadow.",
+        "High and low tide are caused by wind blowing water onto or away from the beach.",
+        "Waves cause high tides, and low tides happen when there are no waves."
+      ]
+    },
+    {
+      "code": "5.ESS1.5",
+      "statement": "Relate the tilt of the Earth's axis, as it revolves around the sun, to the varying intensities of sunlight at different latitudes. Evaluate how this causes changes in day-lengths and seasons.",
+      "bigIdea": "Seasons occur because the Earth's tilt causes sunlight to strike different parts of Earth more directly at different times of the year causing changes in the intensity of sunlight, length of daylight, and temperature.",
+      "scientificIdeas": [
+        "Sunlight travels in straight lines (represented with rays) that transfer energy to Earth's surface, warming it.",
+        "The rays of sunlight that reach Earth are nearly parallel because the Sun is so far away.",
+        "The intensity of sunlight depends on the angle where it strikes the surface. Light that strikes a surface directly (perpendicular) concentrates more energy in a smaller area. Light that strikes at an angle spreads the same amount of energy over a larger area.",
+        "Direct rays cause more warming than indirect rays.",
+        "The curvature of Earth causes the Sun's rays to transfer the most energy when it is directly over a certain latitude.",
+        "The Earth is a sphere and half of the sphere is illuminated by the Sun at any time.",
+        "Sunrise occurs when a location rotates into the area illuminated by the Sun. Sunset occurs as the location rotates out of the area illuminated by the Sun.",
+        "During the summer, days are longer because the path of a location spends more time on the illuminated side of Earth than the dark side.",
+        "There are points at the most polar latitudes that remain in daylight because they do not rotate into the shadow caused by Earth's curvature.",
+        "The tilt of the Earth causes opposite seasons in each hemisphere (e.g., when its winter in the northern hemisphere, it is summer in the southern hemisphere).",
+        "Because of the tilt of Earth's axis, the direct rays strike different points at different times of the year.",
+        "In the middle of summer in the Northern hemisphere, the Sun passes directly over the northernmost latitude along its path.",
+        "The tilt of the Earth explains why seasons occur, not its distance from the Sun which does not change significantly."
+      ],
+      "commonStudentIdeas": [
+        "The Sun travels around the Earth.",
+        "The Earth is closer to the Sun in the summer and further away in the winter.",
+        "The tilt of Earth's axis one hemisphere to be closer to the Sun that the other hemisphere – this causes summer in the closer hemisphere.",
+        "The Sun and Earth are closer together in the summer and further apart in the winter.",
+        "The Sun always shines directly onto the equator.",
+        "Both hemispheres experience the same season at the same time.",
+        "The Earth's axis tilts back and forth during the year.",
+        "Summer happens when the Sun gets warmer."
+      ]
+    },
+    {
+      "code": "5.ESS1.6",
+      "statement": "Use tools to describe the position of constellations and how they appear to move from the Earth's perspective throughout the seasons.",
+      "bigIdea": "Earth's spin around its axis causes nightly star movement. Earth's orbit around the Sun causes different constellations to appear at different times of the year.",
+      "scientificIdeas": [
+        "Stars produce their own light.",
+        "Stars are present at night but are not visible because the Sun's light outshines them.",
+        "The Earth's spin causes stars to appear to move over the course of each night.",
+        "The North Star appears stationary because at night its location aligns with the axis of Earth's spin.",
+        "Stars that are closer to the North Star (over the North Pole) appear to move less than those that are close to the horizon.",
+        "Observers at the same latitude or within the same hemisphere see mostly the same constellations.",
+        "Different constellations are visible from each hemisphere.",
+        "Some constellations are visible only during certain seasons because Earth's position in its orbit determines which part of the sky is visible at night."
+      ],
+      "commonStudentIdeas": [
+        "Stars appear at random, changing locations each night.",
+        "The Earth is the central object, and stars rotate overhead at night.",
+        "Stars go away during the day.",
+        "Observers at the same latitude, but opposite sides of the Earth will see different stars at night because night happens 12 hours later.",
+        "The same constellations are visible every night of the year.",
+        "People in all places on Earth can see the same stars."
+      ]
+    }
+  ],
+  "note": "The 6-8 grade band progression narrative is included but there is no 6-8 standard listed in this component idea (noted as 'No Standard' in the source document).",
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

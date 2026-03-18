@@ -1,0 +1,212 @@
+{
+  "componentIdea": {
+    "code": "ESS1.A",
+    "title": "The Universe and Its Stars"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "What is the universe, and what goes on in stars?",
+    "purpose": "This strand explores the motion of objects in the universe and the formation and life cycle of stars which provide insights about the history of our universe and its contents.",
+    "centralIdeas": "The things in outer space are constantly changing - stars are being born and eventually die, galaxies move away from each other, etc. The patterns in the motion of galaxies and an understanding of gravity help us understand the history of the universe."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Patterns of the motion of the sun, moon, and stars in the sky can be observed, described, and predicted. At night one can see the light coming from many stars with the naked eye, but telescopes make it possible to see many more and to observe them and the moon and planets in greater detail. – NRC, 2012",
+      "progression": "Young students are likely to be familiar with features of the sky (e.g., day and night). Early elementary standards help students look beyond the features of the sky and help them notice patterns. These patterns focus on the appearance, arrangement, and movement of objects in the sky.\n\nIt is acceptable for students to have the same models of the sky as ancient people; the sky as a curved domed surface across which objects travel or appear at different times. The path of the sun or appearance of stars and the moon can be drawn on a two-dimensional surface to represent the curved dome students see overhead.\n\nUsing this model appropriately constrains the types of events that students are expected to observe and explain. For example, it is possible for students to notice events relating to the horizon, such as where sunrise and sunset occur or the changes to the height of the Sun over the course of the year. Students can observe that these changes to the Sun's course result in longer and shorter days. This same model also allows students to notice that stars appear in consistent groupings at night and that the arrangement and locations are not random.\n\nStudents may have made observations about the Moon without noticing a pattern in its appearance. Like ancient cultures, students may believe that the changes in the appearance of the Moon are caused by seeing different moons each night. Telescopes helped people notice features on the surface of the moon and planet. These observations provided evidence that the same object appears each night.\n\nIn later grades, students will develop models to explain the changing appearance of the Moon as a result of its position in the sky relative to the Sun and observer, supporting a model of the sky as a space with depth. The idea of \"space\" as a place with depth, later in elementary school, updates the early elementary model of the sky as a flat surface.\n\nIt is acceptable for students to hold a \"curved dome\" model for the sky as a steppingstone that allows students to notice grade-appropriate features of the sky, but teachers should carefully consider the misconceptions that might arise if they choose to intentionally introduce such a model."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. The sun is a star that appears larger and brighter than other stars because it is closer. Stars range greatly in their size and distance from Earth. – NRC, 2012",
+      "progression": "In early elementary grades, students made observations that could be explained with a simple model of the sky as a curved dome overhead. They could describe how the Sun appears to move across the sky each day, how its path changes through the seasons, and how stars are arranged in recognizable, stable groups.\n\nIn grades 3-5, students move to a model of the sky that includes the concept of space. The sky is no longer a single, layered surface above Earth. It has depth that extends in all directions. This model allows students to explain observations that a dome model could not, such as changes in the appearance of the moon caused by its position relative to the Sun (ESS1.b).\n\nStudents' reasoning often mirrors our historical understanding of the Sun. Initially, the Sun seems to be a flat disk. Once students understand that space has depth, they can accept that the Sun is a sphere, not a circle of light. Throughout history, the Sun and other celestial objects were imagined as perfect, unchanging spheres, which reflected the idea that perfection belonged to the heavens. Observations of sunspots, however, showed that the Sun's surface changes over time and that it rotates like a physical object. Students should understand that the Sun is an active, dynamic sphere of matter, not a flawless light.\n\nStudents who have seen a truly dark night sky may have noticed a glowing band of light that stretches across the sky. In the late 1700s, the scientist William Herschel mapped thousands of stars in this band of light and concluded that these stars formed a flattened disk of stars. This was the first evidence that our Sun is just one of billions of stars in a single galaxy. Students may be accustomed to seeing images of the Milky Way galaxy but not understand that these images are not photographs – humans have not sent probes beyond our solar system, let alone far enough to look back on our own galaxy. All images of the Milky Way are rendered system models.\n\nWhen students understand the location of the Sun within the Milky Way galaxy, they are less likely to think of the Sun or Earth as the center of space. However, students may still confuse the scale of a galaxies and the universe. This same confusion existed in science for more than a century after Herschel's work. In the 1920s, astronomers debated whether faint \"nebulae\" in space were clouds within the Milky Way or separate \"island galaxies\" beyond it. Edwin Hubble resolved this debate by mapping their distances and showing that these nebulae are other galaxies. Each galaxy is a vast system of stars like our own and part of a much greater universe.\n\nBy the end of elementary school, students should understand that the universe is immense and contains many galaxies, including the one that contains our Sun. In middle school, students will extend this understanding by recognizing that stars and galaxies are not fixed in place, but in constant motion and part of an evolving universe."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Patterns of the apparent motion of the sun, the moon, and stars in the sky can be observed, described, predicted, and explained with models. The universe began with a period of extreme and rapid expansion known as the Big Bang. Earth and its solar system are part of the Milky Way galaxy, which is one of many galaxies in the universe. – NRC, 2012",
+      "progression": "Students have progressed through two simpler understandings of the sky. At first, they may have pictured the sky as a curved dome overhead. By the end of upper elementary, students should understand that space has depth and that space is filled with many galaxies outside the boundaries of our own Milky Way galaxy.\n\nStudents may believe that the universe is eternal and unchanging. In middle school, students learn that the universe itself is expanding. Einstein's equations for general relativity allowed for a changing universe, and in 1927 physicist and priest Georges Lemaître used those equations, along with Vesto Slipher's measurements of galaxy motion, to describe an expanding universe that began in a smaller, denser state. A few years later, Edwin Hubble confirmed this expansion through his own observations, showing that galaxies move away faster the farther they are from us.\n\nStudents may imagine that an expanding universe began as matter packed into a small ball that exploded outward. Scientists now understand that in its earliest moments, the universe contained energy rather than matter. As it expanded and cooled, energy condensed into particles, and nuclear forces formed the first hydrogen and helium nuclei. For hundreds of thousands of years, the universe was a glowing plasma where light scattered in all directions. When it cooled enough for atoms to form, light could finally travel freely through space. This light continues to fill space, but as space itself has expanded, the wavelength of this light has been stretched leaving behind a faint cosmic microwave background that still the universe today.\n\nWhen visualizing this expansion, it is helpful to think of space itself stretching, not galaxies flying outward from a single point. Like a coordinate grid drawn on a piece of rubber, all distances increase as the rubber stretches. As the rubber is stretched, the grid itself expands, which carries points on that plane further apart. Hubble's Law defines the rate that we observe matter in space moving apart. As space expands, it also stretches the wavelengths of light traveling through it. Light that was once bright and hot has been stretched into the low-energy microwaves we detect today, providing evidence that the universe has been expanding for billions of years."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "permittedModelOfTheSky",
+        "label": "Permitted Model of the Sky"
+      },
+      {
+        "key": "observablePatterns",
+        "label": "Observable Patterns"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "permittedModelOfTheSky": "Single layer dome above the Earth",
+        "observablePatterns": "Path of Sun, Length of Day, Arrangement of stars, Moon's surface features"
+      },
+      {
+        "gradeBand": "3-5",
+        "permittedModelOfTheSky": "Objects exist at different distances.",
+        "observablePatterns": "Band of light visible with dark skies. Sun is brighter than other stars in the sky."
+      },
+      {
+        "gradeBand": "6-8",
+        "permittedModelOfTheSky": "A vast space, where galaxies burst from a single point in space.",
+        "observablePatterns": "Space has many galaxies located outside of our own galaxy."
+      },
+      {
+        "gradeBand": "9-12",
+        "permittedModelOfTheSky": "A universe that grows as all of space expands in every direction.",
+        "observablePatterns": "Stars have a life cycle, shown by emission spectra."
+      }
+    ],
+    "narrative": "Humans have long noticed and used patterns in the night sky to predict celestial events. Making useful predictions has never required a completely accurate model for what is happening in the universe. In both human history and student learning, understanding develops by building models that are \"good enough\" to describe what can be observed at the time. Across this progression, students describe and explain patterns of increasing complexity, refining their models while making reasonable simplifications. These simplifications are not misconceptions to be corrected but productive steps that focus attention on certain features of the sky. This progression highlights some productive simplifications and evidence that eventually leads students toward more accurate models.\n\nYoung students may share models of the universe with ancient astronomers who treated the sky as a solid dome. The Sun, Moon, and stars appear as flat lights that move across this single-layered surface. Even with this simple model, students can observe that the Sun rises on one horizon and sets on the opposite horizon, and that day length changes throughout the year. Stars show up in consistent arrangements. Telescopes and mapping features of the Moon's surface eventually provided direct evidence that the moon was the same object returning to the sky each night, despite different appearances.\n\nEarly Greeks thinkers began to imagine that the sky was not a flat surface and developed models that added depth to the sky. Some described objects travel along rings of varying diameters, or on nested spheres. Upper elementary students should understand that the sky is not a flat surface. A model where space has depth is necessary for accurate explanations of the Moon's phases (ESS1.B). Once students understand that the universe has depth, the brightness of our Sun can be explained by its proximity to our Earth, not by its uniqueness. The Sun becomes one of many stars, unremarkable in size. Observing that the universe is filled with enormous numbers of stars provides a shift to understanding that our Sun is not the center of space. Students are still likely to hold a view that where space is centralized around either the Earth or Sun.\n\nStudents who have experienced truly dark skies may have seen a glowing ribbon of light across the night sky. In the 1600s, Galileo explained that this ribbon of light was made by countless distant stars. In 1785, William Herschel synthesized decades of systematic mapping of star locations and proposed a model of the universe where stars were organized into a flattened disk and that our Sun was located closer to one edge of this disk, rather than the center of the Universe. Many students may imagine that all of space exists within the Milky Way galaxy or they place the Sun at the center of the universe. By the end of middle school, students should understand that galaxies are outside of the Milky way and move outward, even if they picture this expansion originating from a single location in space, like debris from an explosion.\n\nIn high school, students refine their models further. They use evidence from telescopes that detect light outside of the visible spectrum to explain the life cycles of stars and the observation that the universe explains uniformly."
+  },
+  "standards": [
+    {
+      "code": "1.ESS1.1",
+      "statement": "Use observations or models of the sun, moon, and stars to describe patterns that can be predicted.",
+      "bigIdea": "The appearance and motion of the Sun, Moon, and stars are predictable. These patterns help people describe and predict the changes between day and night and the seasons.",
+      "note": "Students are permitted a 2D model of the sky. They are not expected to explain the causes of the changes they observe.",
+      "scientificIdeas": [
+        "The appearance of the sky changes during the day and at night (e.g., the Sun, Moon, and stars move).",
+        "The Sun rises from the same side of the sky each day.",
+        "The Sun appears to rise from nearly the same side of the sky each morning and set on the opposite side each evening.",
+        "The number of daylight hours changes over the course of the year. The solstices mark the longest (summer) and shortest (winter) days.",
+        "The Sun moves from a point which appears close to the Earth's surface to its highest point in the sky and then back towards Earth's surface.",
+        "The Sun's path follows a predictable arc across the sky.",
+        "The Sun will reach its highest point in the sky at the middle of the day.",
+        "The angle of the Sun's highest point in the sky changes throughout the year. The summer and winter solstices mark the highest and lowest angles.",
+        "The appearance of the Moon changes from night to night in a repeating cycle.",
+        "Although the Moon's shape changes from night to night, it does not change shape during a single night.",
+        "The Moon also appears to move across the sky at night.",
+        "Stars are the easiest to see at night.",
+        "The positions of stars in the night sky appear to move slowly across the sky, but the arrangements are the same from night to night.",
+        "The same star patterns can be seen in different seasons, though they may appear in different places in the sky."
+      ],
+      "commonStudentIdeas": [
+        "Each 24-hour day is 12 hours of daylight and 12 hours of night.",
+        "Every day has the same number of hours of daylight.",
+        "The Sun is directly overhead at noon for everyone, everywhere.",
+        "The Sun rises and sets at the same place every day.",
+        "The Moon looks the same every night.",
+        "The changes to the appearance of the Moon are random.",
+        "The arrangement of stars is different each night."
+      ]
+    },
+    {
+      "code": "1.ESS1.2",
+      "statement": "Observe natural objects in the sky that can be seen from Earth with the naked eye and recognize that a telescope, used as a tool, can provide greater detail of objects in the sky.",
+      "bigIdea": "Telescopes gather light and help people make new observations and collect data about details of objects in the sky that cannot be seen with the naked eye.",
+      "scientificIdeas": [
+        "Some objects in the sky (the Sun, Moon, stars, and clouds) can be seen without any tools.",
+        "Light travels in straight lines that we can represent with rays, showing how light reaches our eyes and enters telescopes.",
+        "Telescopes gather and focus light, allowing people to see details they could not see with the unaided eye.",
+        "Telescopes should be used differently depending on the object being observed. People can look directly through a telescope to observe features of the Moon, stars, and planets.",
+        "Looking at the Sun is dangerous. The Sun's light should be projected onto a flat surface, rather than viewed directly through the telescope.",
+        "Telescopic observations show that the same Sun and Moon appear in the sky each day and night.",
+        "Projections of the Sun can show Sunspots that move across the surface of the Sun, showing that the Sun changes over time.",
+        "The Moon has surface features, such as craters and darker patches, which stay the same from night to night."
+      ],
+      "commonStudentIdeas": [
+        "The Sun, Moon, and stars are different each night.",
+        "The things we see through the telescope are different than things that we see with our naked eye.",
+        "A telescope makes it possible to see stars, even if their light does not reach Earth.",
+        "The Sun is just a bright light in the sky.",
+        "Things look bigger in a telescope, but do not show new details.",
+        "If things look blurry in a telescope, it is because the telescope is broken.",
+        "Telescopes send out light to see faraway stars.",
+        "The telescope brings things closer so that they are easier to see."
+      ]
+    },
+    {
+      "code": "5.ESS1.1",
+      "statement": "Explain that differences in the apparent brightness of the Sun compared to other stars are due to their relative distances from the Earth.",
+      "bigIdea": "Space has depth. Our Sun is like other stars but appears different because it is closer to Earth.",
+      "scientificIdeas": [
+        "The sky has depth that extends far away from our Earth.",
+        "The Sun is an imperfect, physical object with surface features such as Sunspots that show that it rotates and is made of matter.",
+        "The Sun produces its own light.",
+        "Light can be represented as rays that travel in straight lines away from the Sun.",
+        "Since the Sun is so far away, its rays reach Earth as nearly parallel lines.",
+        "All stars produce light and rays.",
+        "As rays travel outward from a source, their light becomes less concentrated – the further the light travels, the dimmer the light appears.",
+        "Sunlight and the light from stars scatter as it bounces off particles in the air.",
+        "Scattering of light from distant stars gives stars their twinkling appearance.",
+        "The Sun does not appear to twinkle because its rays are so concentrated."
+      ],
+      "commonStudentIdeas": [
+        "The Sun is a bright light in the sky, but not an object.",
+        "The sky is a curved dome above us.",
+        "The Sun, Moon, and Stars are flat circles of light that travel across the sky.",
+        "Stars are smaller versions of the Sun that orbit around the Earth.",
+        "Light rays curve.",
+        "The Sun looks bigger because its rays spread out more."
+      ]
+    },
+    {
+      "code": "5.ESS1.2",
+      "statement": "Research and explain the position of the Earth and the solar system within the Milky Way galaxy and compare the size and shape of the Milky Way to other galaxies in the universe.",
+      "bigIdea": "Our Sun is one of billions of stars in the Milky Way galaxy. There are other galaxies of stars outside of our own galaxy.",
+      "scientificIdeas": [
+        "Space has three dimensions, and depth is one of these dimensions.",
+        "In places with dark night skies, a glowing band of stars stretches across the night sky.",
+        "The Milky Way's glow comes from many distant stars that appear so close that they blend into a continuous glow.",
+        "The Milky way galaxy is shaped like a flattened disk with a bulging center.",
+        "Gravity holds together the billions of stars, gas, and dust that make up the Milky Way.",
+        "Scientists can measure the distances to stars using data, not rulers. They rely on understanding patterns in the behavior of stars (Cepheid Variable Stars), light, and motion to determine distances.",
+        "Other galaxies exist in space beyond the boundary of the Milky Way.",
+        "Gravity can also lead to the formation of galaxies with other shapes.",
+        "Galaxies also form groups or clusters – just like stars form clusters within galaxies.",
+        "The distance between galaxies is much greater than the distance between the stars within galaxies."
+      ],
+      "commonStudentIdeas": [
+        "The Sun is the center of space and the entire universe.",
+        "All visible stars are part of the Milky Way and located at roughly the same distance away from us.",
+        "Images of the Milky Way Galaxy are taken by probes that have traveled out of our Galaxy.",
+        "Scientists have viewed the Milky Way Galaxy from beyond its limits.",
+        "The Milky Way is the largest or only galaxy in space.",
+        "Scientists measure distances using physical rulers or scopes like range finders."
+      ]
+    },
+    {
+      "code": "8.ESS1.1",
+      "statement": "Research, analyze, and communicate that the universe began with a period of rapid expansion using evidence from the motion of galaxies (i.e., redshift and blueshift), elemental concentrations of hydrogen and helium, and cosmic background radiation.",
+      "bigIdea": "The universe is expanding – growing from an earlier hotter, and denser state.",
+      "scientificIdeas": [
+        "Expansion of the Universe: Light exhibits behavior of a wave where its wavelength corresponds to its energy.",
+        "Every element produces a characteristic set of photons of light at specific wavelengths.",
+        "When light travels through space, it's wavelength can stretch or compress depending on the motion of the source relative to an observer. Redshift occurs when the source and observer move further apart, blueshift happens when they move towards each other.",
+        "The light from most galaxies is redshifted – those galaxies are moving away from us.",
+        "The greater the redshift, the faster the galaxy is receding which shows that space is expanding in all directions.",
+        "Blueshift is only observed within galaxies clusters where the attractive force of gravity can cause more motion caused by the expansion of space.",
+        "Clusters of galaxies outside of our own cluster are redshifted, even if individual galaxies within the cluster are not red-shifted.",
+        "Composition of the Universe: The universe contains large amounts of hydrogen and helium and smaller amounts of heavier elements.",
+        "Proportions are consistent with a model of the universe where extreme temperatures allowed protons and neutrons to form atomic nuclei through nuclear fusion.",
+        "Heavier elements are less common because they form under different conditions than those of an early universe.",
+        "Cosmic Background Radiation: The universe was once so hot that light could not travel freely because it was constantly scattered (i.e., rays were constantly redirected).",
+        "As the universe expanded and cooled atoms formed, and light was able to move freely through space.",
+        "The expansion of space also stretches the light that fills space. The early light from the universe is now stretched into the microwave spectrum and observed as cosmic microwave background radiation.",
+        "The cosmic microwave background CMB is uniform in all directions, showing that the early universe was nearly the same everywhere, but has cooled as space has expanded.",
+        "Putting it together: The combination of evidence shows that the universe expanded for an earlier hot dense state (CMB and composition) and continues to expand today (redshift).",
+        "This expansion does not have a central point. Space itself is stretching, carrying galaxies apart like points on an inflating balloon."
+      ],
+      "commonStudentIdeas": [
+        "The universe began with an explosion of matter into empty space.",
+        "The universe began with a burst of light or fireball that filled space.",
+        "Galaxies are moving away from a central point (e.g., moving away from where the Milky Way is located).",
+        "Redshift means color change (the light looks red).",
+        "Hydrogen and helium form in stars.",
+        "Cosmic background radiation is leftover starlight, rather than radiation from a time before stars existed."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}
