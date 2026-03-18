@@ -1,0 +1,190 @@
+{
+  "componentIdea": {
+    "code": "ESS2.A",
+    "title": "Earth Materials and Systems"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "How do Earth's major systems interact?",
+    "purpose": "The purpose of this component idea is to describe Earth as an open, dynamic system where the flow of energy and cycling of matter connect and transform its four subsystems: the geosphere, the atmosphere, the hydrosphere, and the biosphere.",
+    "centralIdeas": "Four major systems on Earth include the geosphere, the atmosphere, the hydrosphere, and the biosphere. These systems are not separate but connected by continual exchanges in energy and matter. The ongoing interactions among Earth's systems shape the planet's surface, regulate its climate, and sustain life."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Wind and water can change the shape of the land. The resulting landforms, together with the materials on the land, provide homes for living things. – NRC, 2012",
+      "progression": "Students in kindergarten through second grade notice how the parts of the Earth's systems are connected through everyday events they can see and feel. They likely have experiences seeing dust devils carry bits of dirt and sand across the playground, or rainwater gathering and soaking into the soil or drying out as the Sun comes out again. These familiar experiences provide access points for students to being to see that the air, land, water and living things interact with each other.\n\nAt this stage, students are not expected to recognize or use more technical names for Earth's systems, but it may be helpful to think of the Earth in four parts: land, sky, water, and living things. The goal is for them to see that parts of Earth are connected and that those connections can cause changes they can observe directly. Teachers can guide this reasoning by asking students to describe how the land looks or feels before and after a rainfall or to predict what will happen if water continues to flow in the same place. These conversations help students think about cause and effect and can lead students to think about the different parts of Earth that are connected by single events.\n\nSimple models can help students represent the processes they observe, such as using a tray of sand or soil to investigate how moving water reshapes the surface. The purpose of these models is not to reproduce Earth's systems in detail but to represent real events that show how one part of Earth can affect another. Teachers may need to provide supports such as analogy maps or side-by-side comparisons to help students connect what happens in the classroom to what they see in the real world.\n\nThrough repeated observation and reflection, students begin to build an early understanding that the land, air, water, and living things form a connected whole. These experiences lay the foundation for later learning about systems that are less visible, such as gases in the atmosphere or materials deep within Earth's surface."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Earth's major systems are the geosphere (solid and molten rock, soil, and sediments), the hydrosphere (water and ice), the atmosphere (air), and the biosphere (living things, including humans). These systems interact in multiple ways to affect Earth's surface materials and processes. The ocean supports a variety of ecosystems and organisms, shapes landforms, and influences climate. Winds and clouds in the atmosphere interact with the landforms to determine patterns of weather. Rainfall helps shape the land and affects the types of living things found in a region. Water, ice, wind, living organisms, and gravity break rocks, soils, and sediments into smaller particles and move them around. Human activities affect Earth's systems and their interactions at its surface. -NRC, 2012",
+      "progression": "In earlier grades, students learned from direct experiences that land, air, water, and living things are connected and can cause visible changes to one another. Standards called for students to observe how wind and water shape the land and how those changes affect where plants and animals live. By upper elementary grades, students are ready to move from observing individual events to recognizing that these connections form larger patterns that shape Earth's surface over time. They begin to identify Earth as a whole system made of interacting parts and to look for evidence of how materials move among those parts.\n\nIn grades 3–5, students develop more explicit ideas about Earth's systems and the processes that link them. They describe how the land (geosphere), water (hydrosphere), air (atmosphere), and living things (biosphere) affect one another through processes such as rainfall, weathering, erosion, and plant growth. These interactions occur over a range of time scales, from short-term events such as a storm moving sand along a shoreline to long-term changes such as soil forming through the breakdown of rock and organic matter. Students see that these systems are distinct but connected, and that changes in one part of Earth can influence others.\n\nTeachers can help students make these ideas visible by drawing on familiar representations, such as food webs. Just as a food web shows how living things depend on and affect one another, a similar network can be used to show how Earth's subsystems interact. For example, rainfall links the atmosphere and hydrosphere to the geosphere, while plant growth links the biosphere to soil and water. By mapping these relationships, students can begin to conceptualize that the effects of events and changes to Earth are not isolated within separate systems. This approach helps them see that events have effects that ripple through multiple parts of Earth's system, much as a change in one population affects others within an ecosystem.\n\nIn middle school, students will extend these ideas by tracing the flows of energy and matter that drive these interactions and by explaining the underlying mechanisms that connect Earth's systems. What begins here as a conceptual map of relationships will become a dynamic model of energy transfer and material cycling across scales and time."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. All Earth processes are the result of energy flowing and matter cycling within and among the planet's systems. This energy is derived from the sun and Earth's hot interior. The energy that flows and matter that cycles produce chemical and physical changes in Earth's materials and living organisms. The planet's systems interact over scales that range from microscopic to global in size, and they operate over fractions of a second to billions of years. These interactions have shaped Earth's history and will determine its future. – NRC, 2012",
+      "progression": "In earlier grades, students learned that Earth's surface and living environments are shaped by the interactions among land, water, air, and living things. They saw that water and wind move materials and that living things can change the surface where they grow or live. By middle school, students are ready to extend these ideas to include processes that operate across much broader scales of time and space. They begin to see that all Earth processes, from shaping mountains, to circulating ocean water, or changing atmospheric composition, result from the movement of energy and matter within and among Earth's systems.\n\nStudents now have the conceptual tools from physical science to make sense of how these interactions occur. They understand that energy from the Sun and from Earth's interior drives the movement of materials, and that these movements cause changes in rocks, water, air, and living things. In this grade band, students analyze evidence that energy and matter flows are responsible for both gradual and catastrophic changes to Earth's surface and environments. These may include volcanic eruptions, earthquakes, mountain building, glacial cycles, or long-term shifts in climate, as possible examples of how the geosphere, hydrosphere, atmosphere, and biosphere interact dynamically.\n\nTeachers can help students make these connections visible by comparing processes that occur at different time scales or by mapping how energy and matter move through systems during a specific event. For example, analyzing data from a volcanic eruption or landslide can help students trace how thermal energy, gases, and sediments move among systems and alter local habitats. Purposeful models, such as system diagrams showing how changes in one sphere trigger responses in others, help students explain how a single event can cascade through the Earth system.\n\nThis understanding provides a bridge to ideas developed in high school and in ESS1.C, where students consider how interactions among Earth's systems influence the course and distribution of life. The same energy and matter flows that drive geologic and atmospheric change also shape the conditions under which species adapt or become extinct. Recognizing Earth as a dynamic, interconnected system prepares students to link the history of the planet to the history of life itself."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "scaleOfInteractions",
+        "label": "Scale of Interactions Among Earth's Systems"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "scaleOfInteractions": "Students explore observable interactions at familiar and observable scales."
+      },
+      {
+        "gradeBand": "3-5",
+        "scaleOfInteractions": "Students identify larger systems and web of connections among them."
+      },
+      {
+        "gradeBand": "6-8",
+        "scaleOfInteractions": "Students trace flows of matter and energy among Earth's systems to explain changes."
+      },
+      {
+        "gradeBand": "9-12",
+        "scaleOfInteractions": "Students explore feedback effects among systems at a variety of time and spatial scales."
+      }
+    ],
+    "narrative": "This component idea focuses on the connections among Earth's major systems. The other chapters in ESS2 examine these systems in greater depth and often in isolation, but ESS2.A emphasizes the interactions and exchanges of energy and matter that link them.\n\nIn grades K–2, students explore observable interactions at familiar scales. They notice that wind and water can move soil and shape landforms, and that these changes affect where living things make their homes. Such firsthand experiences help students recognize that Earth's parts influence one another. Their first observations should occur at scales they can see directly, such as puddles forming, streams carving paths, or soil collecting after rain. This mirrors the way they observe living things sharing and depending on local spaces in their schoolyard.\n\nIn grades 3–5, students begin identifying larger systems and modeling the web of connections among them. They name the geosphere, hydrosphere, atmosphere, and biosphere and explore how these systems interact. Understanding these systems provides a structure for explaining how materials and processes are linked. This is similar to identifying organisms in a food web to explain how energy and matter move through ecosystems. Students see that local events, such as rainfall or plant growth, can contribute to larger changes when viewed over time or across regions.\n\nIn grades 6–8, students trace flows of matter and energy among Earth's systems to explain the mechanisms driving change. They learn that energy from the Sun and from Earth's interior powers processes such as rock formation, erosion, and the cycling of elements through air, water, and living things. These ideas connect with their developing understanding of chemical reactions and energy transfer in physical science, giving them the tools to recognize how systems interact at both visible and invisible scales.\n\nBy grades 9–12, students extend their understanding to feedback effects among systems operating across a wide range of time and spatial scales. They use system models to explain how interactions can stabilize or amplify changes in Earth's climate, surface, and life-supporting processes. Students consider how small disturbances in one system can cascade through others, leading to large-scale consequences. This is conceptually like gene regulation and homeostasis in biology, where feedback maintains or disrupts balance within complex systems."
+  },
+  "standards": [
+    {
+      "code": "2.ESS2.1",
+      "statement": "Compare the effectiveness of multiple design solutions designed to slow or prevent wind or water from changing the shape of the land.",
+      "bigIdea": "Wind and water change the land by moving Earth materials, but changing one part of the land can reduce how much those materials are moved.",
+      "scientificIdeas": [
+        "Wind and flowing water can move soil, sand, and small rocks from one place to another.",
+        "The faster wind blows or water flows, the more material it can move.",
+        "Materials that are loose already, or not held in place are easier to move.",
+        "Plants roots can help hold soil.",
+        "Some rocks or objects are less likely to be affected by wind (e.g., harder, heavier, don't dissolve) and can be placed to slow moving water or wind.",
+        "When less materials is moved, the shape of the land does not change as quickly.",
+        "Changing one part of the land (e.g, adding plants) can affect how wind and water interact with it.",
+        "Preventing soil from moving can help protect habitats for living things."
+      ],
+      "commonStudentIdeas": [
+        "The shape of the land only changes when people change it (e.g., using machines).",
+        "Wind moves above the land, not across it's surface.",
+        "Rocks and soil are heavy, so wind and water cannot move them.",
+        "Barriers completely stop wind and water.",
+        "If soil is moved away, it disappears, rather than ending up somewhere else."
+      ]
+    },
+    {
+      "code": "2.ESS2.2",
+      "statement": "Observe and analyze how blowing wind and flowing water can move Earth materials (soil, rocks) from one place to another, changing the shape of a landform and affecting the habitats of living things.",
+      "bigIdea": "Wind, water, earth, and living things on Earth are all connected. The wind and water can change the land, which affects the things that live there.",
+      "scientificIdeas": [
+        "Wind and water can move Earth materials (e.g., dust, sand, dirt).",
+        "Moving materials do not disappear, they end up somewhere. (e.g., inlets can be filled with debris).",
+        "Living things need soil and shelter which can be provided by accumulating debris.",
+        "Wind and water can change the shape and characteristics of the land (e.g., form caves, ponds, rockpiles).",
+        "New shapes in the land can provide shelter, water, or other needs for living things.",
+        "Dirt and soil can absorb and hold onto water. Plants can use their roots to collect this water."
+      ],
+      "commonStudentIdeas": [
+        "The shape of the land only changes when people do things to it.",
+        "Wind and water move across the land, but do not move parts of the land.",
+        "Rocks and soil are too heavy to be moved.",
+        "Water disappears after it's done raining, rather than being absorbed or flowing somewhere else.",
+        "Living things use the land but are not affected when it changes."
+      ]
+    },
+    {
+      "code": "3.ESS2.1",
+      "statement": "Develop a model to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.",
+      "bigIdea": "Earths land, water, air, and living things are connected. When on part changes it can affect others.",
+      "scientificIdeas": [
+        "The shape of the land directs the flow and collection of water and movements of air.",
+        "Landforms create places for living things to grow, hide, or build homes.",
+        "The type of soil and rock determines what plants grow and what animals live nearby.",
+        "Water shapes the land by carrying and depositing rock and soil.",
+        "Rain and rivers provide water that plants and animals need to survive.",
+        "Evaporation and freezing water influence humidity.",
+        "Wind and storms move sand, soil, and water that change the land's surface.",
+        "Air temperature and moisture influence where rain happen.",
+        "Winds transport seeds and pollen which spread plant life.",
+        "Air moves water vapor and determines where it rains.",
+        "Living things can change the land (e.g., digging burrows, compacting soils, breaking rocks).",
+        "Vegetation slows down erosion and helps retain water.",
+        "The decay of living things adds materials to the soil.",
+        "Models can show connections between systems."
+      ],
+      "commonStudentIdeas": [
+        "Earth's parts act separately and are not connected.",
+        "Only people or big events can change the land and water.",
+        "The atmosphere is empty, except when there are clouds in the sky.",
+        "Living things use Earth's surface but are too small to change it.",
+        "Water moves across the land, but only floods and big rain events carry or drop materials."
+      ]
+    },
+    {
+      "code": "4.ESS2.1",
+      "statement": "Collect and analyze data from observations to provide evidence that rocks, soils, and sediments are broken into smaller pieces through mechanical weathering (e.g., frost wedging, abrasion, tree root wedging) and are transported by water, ice, wind, gravity, and vegetation.",
+      "bigIdea": "It might look like rocks don't change, but wind, water, and living things slowly break them apart and move the pieces. The changes, in turn, affect those other systems.",
+      "scientificIdeas": [
+        "There are multiple systems that interact on Earth – the biosphere, the geosphere, the hydrosphere, and the atmosphere.",
+        "Events in one system also create changes in the other systems.",
+        "Weathering can be caused by other systems – components of the atmosphere can affect the surface, water flow and freeze/thaw cycles can slowly split rock apart, plant root and burrows can widen cracks.",
+        "Multiple systems can work together (e.g., tree roots can provide new places for water to enter rocks).",
+        "Weathering creates materials for new landforms (e.g., beaches, deltas, rockpiles).",
+        "The process of breaking down rock and creating landforms is gradual.",
+        "Evidence for gradual processes can be observed (tree roots cracking sidewalks, rivers carving new banks).",
+        "Rocks, like water, already tend to move downhill once they're set in motion."
+      ],
+      "commonStudentIdeas": [
+        "Rocks are hard, so they can't be broken apart.",
+        "Rocks only break when they fall or get hit hard.",
+        "Water and wind move over rocks but cannot move parts of rocks.",
+        "Sand and soil appear, rather than accumulating after being moved from another place.",
+        "Landforms stay the same unless a big event changes them."
+      ]
+    },
+    {
+      "code": "8.ESS2.1",
+      "crossReference": "Also appears in ESS1.C",
+      "statement": "Analyze and interpret data to support the assertion that rapid or gradual geographic changes lead to drastic population changes and extinction events.",
+      "bigIdea": "Earth's systems have changed and interacted over time. When any of these systems change others are affected, including the living things that depend on them. These changes can lead to the appearance or disappearance of species as supported by Earth's geologic record.",
+      "scientificIdeas": [
+        "Volcanic activity (geosphere) released gases that formed early atmosphere.",
+        "As the planet cooled, water condensed, accumulating on surface and permitting chemical reactions.",
+        "Early photosynthetic organisms in oceans released oxygen that changed composition of oceans and the atmosphere.",
+        "The movement and materials and flow of energy connect Earth's systems now, as they have in the past. Whenever one systems changes, it alters conditions in the other.",
+        "Earth's history records evidence of interactions among systems (e.g., in rock layers, landforms, fossil records that record changes to land, water, air, and life).",
+        "Geographic changes create new conditions for life (e.g., uplift of Appalachians changed rainfall patterns, created new river systems, changing habitats).",
+        "Continental drift gradually separated populations of organisms leading to isolation, adaptation, and emergence of new species.",
+        "Shifts in ocean passages changed ocean circulation which affected local climates and influenced which species could survive in a place.",
+        "Sudden events can cause rapid, large-scale changes (e.g., volcanoes released gases, and ash that cool global climates and lead to ecosystem collapses).",
+        "Asteroid impacts, drastically changed atmospheric conditions, blocking sunlight and triggering extinction.",
+        "Gradual tectonic movement builds and erodes mountains, changing distribution of land and sea."
+      ],
+      "commonStudentIdeas": [
+        "Earth's surface, oceans, and atmosphere have always looked mostly the same.",
+        "Geographic changes happen quickly or only during major disasters.",
+        "Processes that occur slowly do not cause major changes to life or Earth's systems.",
+        "Climate, landforms, and living things change independently rather than together.",
+        "Extinction only happens when one species outcompetes another, not because their environments changed.",
+        "Organisms can always adapt as long as there is enough time.",
+        "The fossil record is not reliable because it is incomplete (Does not recognize obstacles to fossil formation).",
+        "Living things appeared as soon as habitat was available.",
+        "Not accurately estimating durations of gradual or sudden events.",
+        "Changes in one system happen first, then others respond later (vs. continuous)."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

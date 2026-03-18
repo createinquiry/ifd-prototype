@@ -1,0 +1,233 @@
+{
+  "componentIdea": {
+    "code": "ESS2.B",
+    "title": "Plate Tectonics and Large-Scale System Interactions"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "Why do the continents move, and what causes earthquakes and volcanoes?",
+    "purpose": "This component idea explores the geosphere and helps students understand past and current movements and changes to the rocks at Earth's surface and how the plate tectonic theory explains these changes.",
+    "centralIdeas": "Earth's geosphere changes as mountain ranges and ocean basins are created or destroyed during associated events such as earthquakes and volcanoes. Tectonic theory explains that these changes occur due to movements of enormous portions of Earth's crust forced by convection within Earth's interior. The convection cells are fueled by energy released during the decay of radioactive materials in Earth's core."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Rocks, soil, and sand are present in most areas where plants and animals live. There may also be rivers, streams, lakes, and ponds. Maps show where things are located. One can map the shapes and kinds of land and water in any area. – NRC, 2012",
+      "progression": "Young children's sense of the Earth's surface is shaped by experiences such as digging in the dirt, playing in sand, collecting rocks, and noticing where puddles form after rain. The ground beneath their feet feels solid and doesn't seem to change. This view parallels early human understanding of the land as a stable foundation for life. Ancient maps and early explorers recorded what they could see from the surface: rivers, coastlines, and mountains, but not the unseen materials beneath. Both young learners and early mapmakers begin by describing what is visible and concrete.\n\nIn these early grades, students notice that the surface of Earth is made of different materials and that these materials are distributed unevenly. For example, they may realize that sand becomes more common when they're closer to water. By investigating rocks, soils, and sand, and by representing these features on simple maps, students start to describe the landscape in organized ways. This is their first step toward recognizing the geosphere as something that can be studied and represented. Students can use their maps to recognize patterns. For example, they may notice that puddles are more common on or near streets and sidewalks than in the middle of fields. The most accessible maps for students will be at the scale of places they can see directly. For example, maps of the schoolyard allow students to associate features on the map with sites they explore.\n\nThis early understanding lays the foundation for later insights about Earth's dynamic nature. Once students can recognize and represent the variety of surface materials and landforms, they are ready to notice larger patterns that extend beyond their immediate surroundings. Students can begin to represent features on Earth's surface as well as features hidden beneath bodies of water."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. The locations of mountain ranges, deep ocean trenches, ocean floor structures, earthquakes, and volcanoes occur in patterns. Most earthquakes and volcanoes occur in bands that are often along the boundaries between continents and oceans. Major mountain chains form inside continents or near their edges. Maps can help locate the different land and water features where people live and in other areas of Earth. – NRC, 2012",
+      "progression": "By the upper elementary years, students have explored local examples of rocks, soils, sand, and water and can represent what they see on simple maps. At this stage, Earth's surface still feels like a large unchanging place. This view mirrors early human understanding of the geosphere. Volcanoes were regarded as isolated phenomena, often explained as the anger of local gods or as portals to fiery realms beneath the surface. Earthquakes, too, were thought to arise from winds or explosions trapped underground. These explanations focused on the immediate and visible, not on the idea that such events might be connected across great distances.\n\nAs societies began to explore farther from home, the need to navigate and record discoveries transformed maps into tools for gathering knowledge rather than simple illustrations. Each new map added to a growing picture of Earth's varied surface that included mountains, islands, volcanoes, and ocean depths. As maps began to cover larger regions, observers noticed that Earth's surface features were not scattered randomly. People noticed that volcanoes tended to cluster along coasts and island chains, and earthquakes occurred in some regions more than others. The world that was once experienced only through local observation, began to reveal interconnected features that could be compared and cataloged. At the time, these patterns were noted but not yet explained; the maps themselves were the data that gave rise to new questions as people tried to understand the patterns that were becoming visible.\n\nIn this grade band, students make a similar intellectual shift. Their investigations center on where features occur rather than why. Students use maps and data to identify relationships among mountains, trenches, volcanoes, and earthquakes, finding patterns that link distant places. Recognizing these patterns prepares them to explore the causes that lie beneath. In middle school, they will revisit these same patterns and discover that the movement of Earth's plates and the flow of energy deep within the planet provide the explanations overturned earlier ideas about what the inside of Earth might be like."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Plate tectonics is the unifying theory that explains the past and current movements of the rocks at Earth's surface and provides a framework for understanding its geological history. Plate movements are responsible for most continental and ocean floor features and for the distribution of most rocks and minerals within Earth's crust. Maps of ancient land and water patterns, based on investigations of rocks and fossils, make clear how Earth's plates have moved great distances, collided, and spread apart. – NRC, 2012",
+      "progression": "By middle school, students have learned that Earth's features and events occur in patterns, but the causes of those patterns remain hidden. This understanding mirrors a turning point in human understanding of the geosphere. For centuries, volcanoes and earthquakes were seen as isolated local events that were spectacular but unrelated outbursts from beneath the ground. Early explanations imagined winds, vapors, or explosive forces trapped within the Earth. At this time, maps merely recorded where these events happened. As mapping improved and records accumulated, the repeated alignment of mountain chains, volcanic belts, and earthquake zones suggested that these events might be connected.\n\nIn the middle grades, students begin to explore those mechanisms directly. The first key idea they encounter is that Earth's solid surface is divided into enormous sections, or plates. Earth's surface that once seemed to be a single, continuous shell, is now revealed as a collection of vast fragments that fit together like a global puzzle. The second major idea is that Earth's interior has a different composition from its surface. Under the crust lies a thick, hot mantle of partly softened rock that can move very slowly, and still deeper, a dense metallic core that releases energy as heat. The third idea brings these two together: Earth's plates are in motion, driven by energy from within. Mantle material circulates through slow convection currents, causing plates to pull apart, collide, or slide past one another. Tectonic theory connects these processes to explain the same patterns students observed in earlier grades as a single interconnected system.\n\nHistorically, this stage of learning parallels the shift from 19th-century mapping to 20th-century discovery. As instruments for measuring magnetic patterns, earthquake waves, and seafloor topography became available, scientists realized that continents and oceans were not fixed. The data that once described surface features now revealed motion on a planetary scale. In the classroom, students follow a similar path of reasoning: they gather and interpret evidence, build models of Earth's structure, and use those models to explain how energy from the interior drives surface change.\n\nBy the end of middle school, students understand that Earth's surface is dynamic. The plates that make up the lithosphere move slowly but continuously, powered by the transfer of heat from deeper within the planet. This new view transforms the isolated features of earlier learning into interacting parts of a single geosphere. In high school, students will extend this understanding by connecting plate motion to the deeper flow of energy and matter and examine how radioactive decay sustains convection, how crustal materials are created and recycled, and how these internal processes shape Earth's long-term evolution."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "focusOfObservations",
+        "label": "Focus of Observations"
+      },
+      {
+        "key": "typicalRepresentations",
+        "label": "Typical Representations"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "focusOfObservations": "Earth's surface is made of different types of materials and land.",
+        "typicalRepresentations": "Simple maps or drawing showing types of land and water as well as distributions of surface materials."
+      },
+      {
+        "gradeBand": "3-5",
+        "focusOfObservations": "Earth's landforms and events occur in recognizable patterns.",
+        "typicalRepresentations": "World maps showing patterns of features."
+      },
+      {
+        "gradeBand": "6-8",
+        "focusOfObservations": "Earth's crust and upper mantle are divided into large plates that move slowly over time.",
+        "typicalRepresentations": "Diagrams of mantle convection, plate boundaries, seafloor spreading, fossil and landmass distributions."
+      },
+      {
+        "gradeBand": "9-12",
+        "focusOfObservations": "Energy from radioactive decay drives mantle convection and creation, movement and recycling of crust material.",
+        "typicalRepresentations": "Models and simulations that are showing energy flow, convection cells, and recycling over geologic time."
+      }
+    ],
+    "narrative": "Our current understanding of the geosphere has developed through centuries of observation and explanation, moving from surface descriptions to models of motion within Earth's interior. This same intellectual journey is mirrored in students' learning: they begin with what can be seen and gradually come to understand the hidden processes that shape and reshape the Earth's surface. The progression for ESS2.B follows this historical arc, building from surface observations to plate tectonics as the unifying theory for large-scale interactions within the geosphere.\n\nIn early elementary school, students explore Earth's solid surface as a collection of different materials and learn that these materials form the foundation for all land and water areas. Their work focuses on describing and representing the visible surface through simple maps or drawings. At this stage, students only think of the geosphere as the ground beneath their feet, an unchanging surface made of recognizable parts. Mapping and classifying these materials introduce the earliest ideas of Earth as something that can be described and modeled, setting the foundation for later ideas about its larger structure and patterns.\n\nBy late elementary school, students recognize that landforms and geologic events occur in patterns that can be revealed through maps and data. They begin to understand that the surface of Earth is not uniform or unchanging. Mountains, trenches, volcanoes, and earthquake zones are distributed in ways that can be predicted and described, suggesting that unseen forces shape these features. In this grade band, students' thinking mirrors that of early geologists who recognized patterns in rock layers and landforms before understanding their causes. Students learn that maps show the locations of things and can also provide evidence for how Earth changes over time.\n\nIn middle school, students move from describing patterns to explaining them. They learn how scientists have come to understand that Earth's crust and upper mantle form a dynamic system composed of large plates that move slowly over time. Energy from the planet's hot interior drives convection within the mantle, causing these plates to interact, collide, and separate. The theory of plate tectonics provides a unifying explanation for the patterns students observed in earlier grades as well as for the arrangement of continents and ocean basins. Middle-grade learning parallels the scientific revolution of the twentieth century, when new evidence from ocean-floor mapping, magnetic anomalies, and fossil distributions revealed the mechanisms behind continental movement.\n\nBy high school, students connect plate motion to deeper processes of energy and matter flow within the geosphere. They learn that radioactive decay in Earth's interior continually generates heat, driving convection and the recycling of crustal materials through creation, subduction, and uplift. Students come to see plate tectonics as the surface expression of energy transfer and material cycling occurring within Earth's interior. Students can analyze Earth as an interconnected structure extending from core to crust, with interactions across scales that shape continents, ocean basins, and the planet's geological history."
+  },
+  "standards": [
+    {
+      "code": "2.ESS2.3",
+      "statement": "Develop and compare simple maps of different land areas to observe the shapes and kinds of land (rock, soil, sand) and water (river, stream, lake, pond).",
+      "bigIdea": "There are different types of materials covering Earth's surface, including water. Maps are representations of places and can communicate the types of surface materials at different locations.",
+      "scientificIdeas": [
+        "There are different types of materials on Earth's surface including: Rocks which include bedrock and pieces of rock that break off the bedrock.",
+        "Soil – bits of rock combined with the broken down remains of living organisms.",
+        "Sand – finely broken-down bits of rocks (minerals). [In these grades, students do not need to recognize the difference between rocks and minerals.]",
+        "Clay – which are smaller particles than sand.",
+        "These different types of materials often accumulate so that large amounts of the material are found in one place (e.g., beaches often contain large amounts of sand, fields and forests often contain large amounts of soil, cliffs and plateaus often contain large amounts of exposed rocks and bedrocks).",
+        "Maps can show the locations where these materials accumulate.",
+        "Outlines on maps show the boundaries and shapes of the areas where materials accumulate.",
+        "Maps show differently shaped areas that may contain or be made of different materials.",
+        "On a map, there are no gaps or spaces between different areas.",
+        "Maps can show the shapes of different types of water bodies (e.g., lakes, streams, rivers, oceans). (Note: In K-2, students focus on visible/external features, so elements such as lakebeds that are covered by water are not necessary on their maps)."
+      ],
+      "commonStudentIdeas": [
+        "All \"dirt\" is the same.",
+        "Dirt and soil mean the same thing and all soils are the same.",
+        "The Earth's surface is covered by soil, except where there are sidewalks or water.",
+        "Water and land are separate, rather than connected.",
+        "Maps are only used for driving and showing roads."
+      ]
+    },
+    {
+      "code": "4.ESS2.2",
+      "statement": "Explain how data from maps and other reliable sources can be used to determine patterns for the locations of mountain ranges, deep ocean trenches, volcanoes, and earthquakes.",
+      "bigIdea": "Maps help us see patterns in Earth's futures, including those that are too large, too distant, or hidden from view to observe directly.",
+      "scientificIdeas": [
+        "The simplest maps of Earth's surface show the boundaries between land and water, including the boundaries between oceans and continents (boundary: students are not expected to name specific oceans or continents).",
+        "Maps and data sources are tools that organize observations and reveal patterns that may not be visible from one location, or on land.",
+        "The same sets of data can be presented on different maps from different perspectives to reveal different patterns (e.g., sounding measurements from ships could reveal ocean depths and mapped to show depths from overhead or in profile).",
+        "Earth contains different types of features, in addition to the different types of surface materials explored in earlier grades.",
+        "Maps can be used to show the locations of events (e.g., the epicenter of an earthquake or the location of a volcanic eruption).",
+        "Events in Earth's history leave evidence in layers of Earth's rocks, and these events can be mapped.",
+        "It is possible to make maps that show features of the Earth that are covered by water.",
+        "Many different features on Earth's surface occur on the interior of continents and oceans, not just at their edges.",
+        "Mountain ranges and volcanoes are common features where oceans and continents meet. [Note: discussion of plate boundaries is beyond the scope of this standard.]",
+        "Deep ocean trenches are located near coastlines.",
+        "Coastal mountain chains and deep ocean trenches are found together near coastlines.",
+        "The waves that people feel after an Earthquake all originate from one location (epicenter).",
+        "Historical maps of earthquake locations can reveal patterns over time.",
+        "Because earthquakes produce waves that travel away from their point of origin many people may feel shaking caused by the earthquake, giving the impression that the earthquake has a large geographic scale.",
+        "Coastal waterways can look different."
+      ],
+      "commonStudentIdeas": [
+        "Mountain ranges are permanent features on Earth's surface.",
+        "Maps can only show things that we can observe directly.",
+        "It's not possible to make maps of areas that are covered by water.",
+        "There is land underneath oceans or large lakes.",
+        "Continents are piles of dirt that are tallest in the middle and gradually slope down towards the shore.",
+        "All maps of the same place should look identical.",
+        "Mountains, volcanoes, and earthquakes occur randomly.",
+        "The shaking from an earthquake happens everywhere at once, rather than spreading from one point (Ignores that earthquakes have an epicenter that is a single point).",
+        "Maps are mainly used for showing roads."
+      ]
+    },
+    {
+      "code": "8.ESS2.2",
+      "statement": "Evaluate data collected from seismographs to create a model of Earth's structure and to understand how energy is derived from Earth's hot interior.",
+      "bigIdea": "Analysis of the behavior of seismic waves generated by earthquakes reveals a model of the Earth's interior consisting of a layered interior and a hot inner core.",
+      "scientificIdeas": [
+        "Earth's interior cannot be directly observed. Its structure can be inferred from evidence in the behavior of waves.",
+        "Earthquakes produce seismic waves that travel through the Earth and can be detected and recorded by seismographs.",
+        "Earthquakes release energy that travels through Earth in several different types of waves, each shaking the ground in a different direction.",
+        "The speed and direction of [seismic] waves change as waves changes as they pass through materials of different density and composition.",
+        "It is possible to predict the behavior of waves through certain changes in medium, and possible to predict the nature of media based on the behavior of waves.",
+        "Solids and liquids transmit waves differently because of their material properties.",
+        "Patterns in how waves arrive at seismograph stations provide evidence for distinct layers with Earth.",
+        "The outer core must be liquid because certain seismic waves do not pass through it.",
+        "Earth's inner core must be solid due to the refraction of p-waves as they travel through the Earth's core."
+      ],
+      "commonStudentIdeas": [
+        "Earth's inside is filled with magma.",
+        "All of Earth's interior is made of solid rock.",
+        "Seismic waves only travel across Earth's surface.",
+        "Earthquakes are caused by explosions inside of Earth.",
+        "Waves cannot pass through solids.",
+        "All waves can travel through liquids.",
+        "Seismic activity only generates one type of wave.",
+        "Earth's crust wraps around a solid interior.",
+        "Humans have sent probes deeply enough inside its interior to take measurements or gather samples.",
+        "Earth's core is cool because it's cooled to become a solid.",
+        "Earthquakes shake the whole earth, all at once."
+      ]
+    },
+    {
+      "code": "8.ESS2.3",
+      "statement": "Gather and evaluate evidence that energy from the earth's interior drives convection cycles within the asthenosphere which creates changes within the lithosphere including plate movements, plate boundaries, and seafloor spreading.",
+      "bigIdea": "Earth's plates are embedded in the upper mantle and move as part of an enormous convection cell that extends down to the inner mantle, driven by energy from Earth's interior.",
+      "scientificIdeas": [
+        "The movement of matter is one way to transport energy in a system.",
+        "Earth's interior releases energy stored in radioactive rocks and heat leftover from Earth's formation.",
+        "Heat energy moves through the Earth's interior by convection, a process which warmer, less dense material rises, while cooler material sinks.",
+        "The layer beneath earth's plates is made of rock that is hotter and less rigid than the plates. Similar to the way wax and metal become softened when heated but not yet melted.",
+        "The mantle is solid rock that can flow very slowly, over long timescales because of the high temperatures and pressures inside Earth.",
+        "The upper portion of the mantle receives the energy brought from Earth's core through convection.",
+        "The rock layer that includes Earth's surface is divided into massive sections of solid rocks called plates that are miles thick.",
+        "The transfer of energy through convection produces a force that slowly moves the plates above the mantle.",
+        "Material that rises at the centers of convection cells can create new crust.",
+        "Material that sinks and cools becomes part of the recycled materials deep inside of Earth.",
+        "Less dense material can be pushed above more dense material at Earth's surface forming new continental crust."
+      ],
+      "commonStudentIdeas": [
+        "Convection occurs only in liquids and gases, not in rock.",
+        "Motion in the mantle is rapid like boiling water, rather than very slowly.",
+        "The mantle is completely molten rather than a soft solid.",
+        "Heat radiates or conducts through Earth's interior, rather than being carried by solids.",
+        "Hot material rises to the surface and stays there, rather than cooling.",
+        "Motion in the mantle starts and stops which causes earthquakes when the motion changes.",
+        "Earth's plates sit on a layer of liquid, rather than being embedded in the mantle.",
+        "Earth's continents float on a layer of water.",
+        "The physical properties of rocks are constant, regardless of temperature."
+      ]
+    },
+    {
+      "code": "8.ESS2.4",
+      "statement": "Construct a scientific explanation using data that explains the gradual process of plate tectonics accounting for (a) the distribution of fossils on different continents, and (b) continental and ocean floor features (i.e., mountains, volcanoes, faults, and trenches).",
+      "bigIdea": "The slow motion of Earth's places explains how mountains, volcanoes, and other surface features form over time, and is supported by a range of evidence in rocks, fossils, and seafloor patterns.",
+      "scientificIdeas": [
+        "Energy from Earth's hot interior spreads outward through the convection of materials in the mantle.",
+        "Differences in temperature cause density differences inside Earth and generate upward and downward forces on mantle materials.",
+        "Forces caused by motion in the mantle push, pull, and drag plates, causing gradual and sudden changes.",
+        "Sudden releases of pressure at plate boundaries cause earthquakes as energy is released.",
+        "The Earth's entire crust, including the ocean floor, is part of a network of plates that can move apart, press together, or slide past each other.",
+        "When two plates pull apart from each other, melted rock rises up between the plates. This rock solidifies as it cools, adding new oceanic plate material to the edges of both plates so that the plates are always in contact with each other and no space forms between them.",
+        "The process of melted rock rising between the plates can be gradual, with the melted rock material slowly welling up between the plates, and it can be sudden, with melted rock material suddenly projecting out from between the plates in volcanic eruptions.",
+        "Melted rock can well up or erupt anywhere along the boundary where two plates are pulling apart. As the melted rock cools, it begins to form a row of mountains along the edges of both plates where they are pulling apart.",
+        "When two plates move apart and split a continent in two, an ocean basin forms between them that widens over time. The ocean basin grows as new plate material is continuously added to the edge of the separating plates.",
+        "The earth's plates move continuously and very slowly (several inches per year) along with the slightly softened layer of rock beneath them.",
+        "The motion of the plates results in the motion of all things that are part of the plates (e.g., continents, ocean basins, mountain ranges) and all things that sit on top of the plates (e.g., soil, ocean sediment, living things, and buildings).",
+        "Because the slow motion of plates is continuous, it can result in plates moving great distances across the surface of the earth over very long periods of time.",
+        "The direction of motion is different for different plates, and the direction of motion of a plate can change over time so that where a plate once pushed into another plate, it can later pull away from that plate.",
+        "Because different plates move in different directions, plates can press together, move away from each other, and move alongside (parallel to) each other.",
+        "It is possible to measure the rate of motion and direction of motion of a plate.",
+        "Continental plate material makes up continents, oceanic plate material makes up ocean basins, and the top part of any plate can be made of either oceanic or continental plate material or continental plate material in some places and oceanic plate material in other places.",
+        "Continental plate material is made of rock that is less dense and much thicker than oceanic plate material.",
+        "When two plates press together, if one plate has plate material at its edge that is less dense than the edge of the other plate, the less dense plate material will crumple upward, creating a bend or fold in the plate material but not causing the plate to break into smaller pieces of rock. If the plate material is approximately the same density on both edges, the edges of both will crumple upward.",
+        "When continental plate material from one plate presses against oceanic plate material from another plate, the continental plate material crumples up over the oceanic plate material.",
+        "As continental plate material from one plate presses against continental plate material from another plate, the edges of both plates crumple up, creating a bend or fold in the plate material but not causing the plate to break into smaller pieces of rock.",
+        "The result of a plate crumpling up is mountains, which are composed of the continental plate material that has been folded upward.",
+        "The crumpling up of plate material reduces the area of the earth's surface covered by a plate.",
+        "New mountains have formed throughout earth's history, and mountains continue to develop as plates move and press together."
+      ],
+      "commonStudentIdeas": [
+        "Continents are areas of land that were dropped into the ocean long ago.",
+        "Mid ocean ridges form where two oceanic plates run into each other.",
+        "There is no difference between oceanic and continental crusts.",
+        "Earth's plates are located deep within the Earth and are not exposed at its surface.",
+        "Earth's plates are separated by empty gaps.",
+        "There is one continent on each plate.",
+        "The boundaries of continents are the same as the boundaries of plates.",
+        "Continents sit on top of a layer of water and the plates are under that water.",
+        "Plates are separated from each other by oceans.",
+        "Continents are next to plates, but not part of plates.",
+        "Erosion is the only way that old parts of Earth's crust are removed."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "componentIdea": {
+    "code": "ESS2.C",
+    "title": "The Roles of Water in Earth's Surface Processes"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "How do the properties and movements of water shape Earth's surface and affect its systems?",
+    "purpose": "This component idea explores how the abundance and unique properties of water make Earth a dynamic and habitable planet. Water's ability to absorb, store, and transport energy drives many of the processes that shape Earth's surface, power weather and climate, and connect its systems.",
+    "centralIdeas": "Water's capacity to store and transport energy is central to Earth's dynamics. By absorbing energy during evaporation, storing heat in the oceans, and redistributing it through atmospheric and oceanic circulation, water drives weather, climate, and the continuous reshaping of Earth's surface. These energy transfers, coupled with water's ability to dissolve and carry materials, make Earth a dynamic and habitable planet."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Water is found in the ocean, rivers, lakes, and ponds. Water exists as solid ice and in liquid form. It carries soil and rocks from one place to another and determines the variety of life forms that can live in a particular location. – NRC, 2012",
+      "progression": "In early grades, students see water as a visible part of their everyday world. They observe rain running off roofs, puddles forming in low spots around the school and ice melting and refreezing on snow days. Water seems to appear and disappear, to collect in some places, and to vanish from others. At this stage, students think of water as a surface feature that fills oceans, lakes, and rivers and provides for living things. Since students have not been introduced to invisible forms of matter, many may not consider the source of the rain that fills lakes or oceans and view rain as a random or constant event.\n\nA key conceptual development in this grade band is recognizing that ice and liquid water are the same substance that can change form with temperature. This insight marks one of the first times students connect an observed change (freezing/melting) to a physical cause (temperature change). Experiences that allow them to see melting, freezing, and flowing side by side help them begin to understand that the same material can exist in different states. Teachers can deepen this understanding by helping students describe where water is found, notice its movement across the land, and connect these patterns to the needs of plants and animals.\n\nEarly elementary standards stop short of introducing the full water cycle. Understanding that water can exist as an invisible gas and that it moves between the surface and atmosphere requires knowledge of matter in unseen forms. This is a physical science idea that emerges in upper elementary grades. For now, instruction should remain grounded in what students can directly observe: where water is found, how it changes with temperature, and how it shapes the land and supports life. These early ideas provide the foundation for later explanations of how water circulates and connects Earth's systems."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Water is found almost everywhere on Earth: as vapor; as fog or clouds in the atmosphere; as rain or snow falling from clouds; as ice, snow, and running water on land and in the ocean; and as groundwater beneath the surface. The downhill movement of water as it flows to the ocean shapes the appearance of the land. Nearly all of Earth's available water is in the ocean. Most fresh water is in glaciers or underground; only a tiny fraction is in streams, lakes, wetlands, and the atmosphere. – NRC, 2012",
+      "progression": "Upper elementary students begin to revisit familiar experiences with water through new questions like: Where does the water in rain come from? Why do puddles dry up? Why don't oceans keep rising if rivers constantly flow into them? These questions reflect natural curiosity about patterns they have already observed but could not yet explain. The physical science concept that matter can exist in invisible forms extends to an understanding that water, as a form of matter, exists in both visible and invisible forms and that it moves through a continuous cycle connecting the ocean, land, and atmosphere. Students shift from thinking of water as a surface feature to recognizing it as part of a global system that is constantly circulating rather than accumulating.\n\nStudents have the background in physical science to reason that the Sun warms surfaces and that this warming can causing water to change from liquid to vapor and rise into the air. As they explore condensation and precipitation, they begin to understand that clouds are made of tiny droplets of liquid water and that rainfall represents water returning to the surface. Although they recognize that sunlight drives these changes, the idea of energy transfer is a middle school development. At this stage, the focus is on observing cause-and-effect relationships between sunlight, temperature, and the changing state or location of water. Typical textbook diagrams of the water cycle often oversimplify the process, leading students to view the atmosphere as merely a pathway rather than a store of water. As a result, they may believe that water moves directly from oceans or lakes to mountaintops, where it immediately falls as rain.\n\nInstruction in this grade band should help students connect familiar phenomena such as snow, fog, clouds, and flowing streams, to a single system driven by the Sun. Models that trace how water moves between the land, ocean, and atmosphere help students visualize an unseen process and explain why Earth's total water supply remains constant over time. These investigations prepare students for middle school explanations that describe how energy and matter interact to drive the cycling of water and the larger patterns of weather and climate."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Water continually cycles among land, ocean, and atmosphere via transpiration, evaporation, condensation and crystallization, and precipitation as well as downhill flows on land. The complex patterns of the changes and the movement of water in the atmosphere, determined by winds, landforms, and ocean temperatures and currents, are major determinants of local weather patterns. Global movements of water and its changes in form are propelled by sunlight and gravity. Variations in density due to variations in temperature and salinity drive a global pattern of interconnected ocean currents. Water's movements—both on the land and underground—cause weathering and erosion, which change the land's surface features and create underground formations. – NRC, 2012",
+      "progression": "By middle school, students can now extend their understanding of the water cycle to include the energy and forces that drive it. They recognize that sunlight warms Earth's surface unevenly and that both energy from the Sun and the pull of gravity cause water to move continuously through the land, ocean, and atmosphere. Evaporation and condensation are now understood not simply as observations of phase change, but as processes in which energy is absorbed or released as matter changes form. This provides one of the clearest examples of the role of matter as the conduit for energy transfer where the movement of water is also the movement of energy that gets transported through the atmosphere as water vapor and through the ocean as currents.\n\nIn this grade band, students can use regional weather patterns to make sense of how water and energy circulate through Earth's systems. For example, warm, humid air masses rising from the Gulf of Mexico carry large amounts of stored energy in the form of water vapor. When these air masses meet cool, dry polar air moving south, the difference in energy between them drives storms that form along frontal boundaries. The thunderstorms and winter systems that are common in Tennessee provide familiar examples of how water's phase changes transfer energy through the atmosphere. Storms become understandable as energy-balancing events, where contrasting air masses interact until their relative energies equalize.\n\nStudents also extend their understanding of water's movement beyond the atmosphere to include gravity-driven and density-driven flows in the ocean. They learn that differences in temperature and salinity cause variations in water density, setting deep ocean currents in motion that redistribute energy around the planet. These global convection patterns, powered by the Sun and guided by Earth's topography and rotation, connect distant regions and influence local climates. Students can now model these relationships as part of an interconnected system in which energy from the Sun and gravity's pull on water work together to shape the patterns of weather, climate, and surface change observed on Earth.\n\nThe grade-band boundary for middle school stops short of explaining why water can absorb and hold large amounts of energy or how its molecular structure gives rise to these properties. The concept of specific heat capacity is introduced in high school when students study the molecular properties of water. At this level, instruction should emphasize tracing energy and matter through systems: how energy from the Sun drives phase changes, how gravity returns water to the surface, and how together these processes produce the global and regional patterns of weather, climate, and erosion observed on Earth."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "howWaterIsViewed",
+        "label": "How water is viewed"
+      },
+      {
+        "key": "roleOfWaterInEarthsSystems",
+        "label": "Role of Water in Earth's Systems"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "howWaterIsViewed": "Water takes local and visible forms as part of the surface environment.",
+        "roleOfWaterInEarthsSystems": "It supports life and moves materials such as soil across the land."
+      },
+      {
+        "gradeBand": "3-5",
+        "howWaterIsViewed": "Water moves through Earth's systems in visible and invisible forms.",
+        "roleOfWaterInEarthsSystems": "It connects places and reshapes surfaces through global circulation driven by sunlight."
+      },
+      {
+        "gradeBand": "6-8",
+        "howWaterIsViewed": "Water links Earth's systems through energy and matter flow.",
+        "roleOfWaterInEarthsSystems": "It acts as a medium for energy transfer driving weather, ocean currents, and surface change."
+      },
+      {
+        "gradeBand": "9-12",
+        "howWaterIsViewed": "Water's molecular properties explain it's macroscopic behaviors.",
+        "roleOfWaterInEarthsSystems": "It serves as a medium for energy storage and release, stabilizing climate and supporting life."
+      }
+    ],
+    "narrative": "Students' earliest ideas about water center on things they can see directly. In early elementary school, students notice that water exists in familiar places, such as rivers, ponds, puddles, and rainfall, and that it supports plants and animals. They observe that flowing water can move soil and shape the land. This view mirrors early human understanding, when water was recognized mainly as a visible surface feature that was essential to life, but was also a force that could both nourish and destroy.\n\nHistorically, scientists faced the same puzzle that students may encounter as they move into late elementary: if rain and rivers kept delivering water to the sea, why didn't the oceans continue to rise? Students can resolve this problem when they learn that water circulates rather than accumulates. As students explore evaporation, condensation, and precipitation, they discover that water exists in invisible forms and moves through a closed system driven by sunlight and gravity. They begin to understand water as a circulating substance that connects distant places and reshapes the surface of the Earth.\n\nLate elementary students may recognize that the Sun causes surfaces to warm, which can explain how the Sun drives the cycling of water. Middle school students' conceptual understanding of energy improves, and they can begin to associate the movements of water with specific energy types. For example, they can explain that evaporation removes energy for the ocean, which can offset some of the Sun's warming effects on the ocean. This allows students to explain how ocean currents drive climate and weather patterns. These developments reflect nineteenth- and twentieth-century scientific advances that revealed water as a medium of energy transfer, can connect oceanography, meteorology, and geology within a single Earth system.\n\nBy high school, students connect these global processes to the molecular structure of water itself. They explain how water's physical and chemical properties, such as its heat capacity, solvent abilities, and phase changes, allow it to absorb, store, and release energy. They begin to recognize that the same properties that shape Earth's climate also sustain life. Through this progression, students move from viewing water as a local feature of the landscape to understanding it as a planetary agent whose unique properties make Earth dynamic and habitable."
+  },
+  "standards": [
+    {
+      "code": "2.ESS2.4",
+      "statement": "Use information obtained from reliable sources to explain that water is found in the ocean, rivers, streams, lakes, and ponds, and may be solid or liquid.",
+      "bigIdea": "Water is found in many places on Earth and can exist as a solid or a liquid. The presence and movement of water shape the land and environments where plants and animals live.",
+      "scientificIdeas": [
+        "Water is found on Earth's surface in many forms and locations, including oceans, lakes, ponds, rivers, and streams.",
+        "Some bodies of water (e.g., lakes and ponds) appear to stay in one place, while others, (e.g., rivers and streams) move across the land.",
+        "The places where water appears to sit (ponds, lakes, the ocean) are often connected by sections of moving water (rivers and streams).",
+        "Moving water tends to follow the same path (e.g., streams and rivers tend to stay within their banks).",
+        "Visible sources of water can change with the seasons (e.g., water levels rise after rain, ponds freeze, and streams can dry up).",
+        "A pond that contains ice in the winter and liquid water.",
+        "In cold conditions, portions or entire bodies of water may freeze, but the water remains the same substance in a different form.",
+        "Rain and snowfall bring water to Earth's surface, which then flows downhill.",
+        "The dependence of living things on water can reveal the presence of water (e.g., A group of green plants can reveal places where water accumulates even in dry conditions).",
+        "Water's ability to move materials can indicate the activity of water (e.g., accumulations of leaves and grass clippings can reveal where water flows when it rains)."
+      ],
+      "commonStudentIdeas": [
+        "When a pond or stream freezes, the solid surface is \"not water.\"",
+        "Rivers and creeks start from holes underground.",
+        "Lakes flow from below.",
+        "Ice is a different substance than water. \"When a pond freezes, ice replaces the water.\"",
+        "Rainwater soaks into the ground and is gone (vs. running across the ground).",
+        "Water only flows across the ground when it falls on a steep hill.",
+        "All streams form from lakes that are higher up mountains.",
+        "The water we drink is made by people vs collected from the environment.",
+        "Each time it rains, water follows a new path."
+      ]
+    },
+    {
+      "code": "3.ESS2.2",
+      "statement": "Develop a model to describe the cycling of water through Earth's spheres driven by energy from the Sun.",
+      "bigIdea": "Water is stored in different places on Earth (e.g., the ocean, atmosphere, on land) and moves between these stores in ways that share weather and the surface of the planet.",
+      "scientificIdeas": [
+        "Water is stored in different places (stores) on Earth, including the ocean, lates, rivers, groundwater, ice, and the atmosphere.",
+        "The amount of water in each store can change, but the total amount of water on Earth stays about the same.",
+        "Water moves between stores through observable processes such as evaporation, condensation, precipitation, and runoff.",
+        "The Sun's energy that causes particles to speed up.",
+        "The physical state of water is caused by the interplay between the attractive forces between individual water particles and the motion of the particles.",
+        "The Sun warms water causing particles to speed up and increasing rates of evaporation.",
+        "As water particles slow down, they lose the ability to escape their mutual attractions and begin to stick together.",
+        "Water particles that evaporate become part of the atmosphere.",
+        "Where the atmosphere is cold enough, water particles slow down and stick together.",
+        "The atmosphere is a store of water, not just a pathway.",
+        "Precipitation transfers water from the atmosphere towards Earth's surface.",
+        "Earth's surface waters flow downhill to places where they accumulate."
+      ],
+      "commonStudentIdeas": [
+        "If rivers keep flowing into the ocean, the oceans will overflow.",
+        "The amount of water on Earth changes over time and can be used up.",
+        "Water that disappears has been used up or gone underground.",
+        "Fresh water in lakes fills from underground.",
+        "Rain falls from clouds because the clouds squeeze water out of the air.",
+        "Rain comes from the sky or space.",
+        "The water cycle is immediate (e.g., \"Water moves directly from mountaintops from oceans\").",
+        "Water moves directly from oceans to rainfall and back to oceans.",
+        "Rain appears randomly or happens when the sky gets full of water."
+      ]
+    },
+    {
+      "code": "6.ESS2.1",
+      "statement": "Diagram oceanic and atmospheric convection patterns in a system that flow due to uneven heating of the Earth.",
+      "bigIdea": "Uneven heating of Earth's surface causes convection in the atmosphere and ocean which creates connected circulation patterns that transfer energy around the planet.",
+      "scientificIdeas": [
+        "Earth's spherical shape leads to more direct/intense light near the equator than the poles.",
+        "The Sun's light causes Earth's surfaces to warm and areas that receive more sunlight warm more than areas that receive less sunlight.",
+        "Warming causes air and water to become less dense and rise while cooling air and water become denser and sink.",
+        "Rising and sinking motions create convection patterns that more air in the atmosphere and water in the ocean.",
+        "Air and water that rises/sinks lead to horizontal movements of air and water, respectively.",
+        "Atmospheric and ocean circulation are connected parts of a single system that transfers energy from warmer regions to cooler regions.",
+        "Light from the Sun warms Earth's surfaces, but not it's atmosphere.",
+        "The atmosphere warms from below as Earth's surface cools and conduction transfers energy from the surface to molecules in the atmosphere.",
+        "Air near the surfaces becomes less dense as it is heated and rises due to convection.",
+        "Cooler air sinks to fill in the warmer air.",
+        "Movement of water from Earth's surface/oceans redistributes energy into the atmosphere.",
+        "Evaporation cools Earth's surfaces as water particles and their associated energy move from surfaces to the atmosphere.",
+        "As atmospheric water particles cool, they warm the surrounding atmospheric air."
+      ],
+      "commonStudentIdeas": [
+        "The equator is warmer because it is closer to the Sun than the poles.",
+        "Air moves because it is pushed by the wind or an external force.",
+        "Water moves because waves or an external force push it.",
+        "Convection creates a loop that traps air/water in the cycle.",
+        "The density of air and water do not change.",
+        "The top of the Earth's atmosphere is warmer because it is closer to the Sun.",
+        "Evaporation and condensation only involve movement of matter, not energy."
+      ]
+    },
+    {
+      "code": "6.ESS2.2",
+      "statement": "Gather evidence to justify that oceanic convection currents in a system are caused by the Sun's transfer of thermal energy and differences in salinity leading to global water movement.",
+      "bigIdea": "Differences in temperature and salinity cause ocean waters to move in global patterns. Energy from the Sun and gravity power these currents that transfer heat and materials through Earth's systems.",
+      "scientificIdeas": [
+        "The Sun's energy warms surface ocean unevenly such that water near the equator receives more energy than at the poles.",
+        "Water's physical properties determine how it moves and stores energy.",
+        "Differences in density can be caused by warming to lower density, cooling to increase density, freezing which excludes salt and causes surrounding water to become denser.",
+        "Denser, colder, saltier water sinks, while warmer less dense water rises. This interaction creates convection currents.",
+        "Even underwater, dense water follows land features such as valleys and hills as it moves downhill.",
+        "Land masses and underwater canyons influence the path of ocean currents in the deep ocean in the same way that they influence the paths of streams and rivers through canyons on land.",
+        "Four main ocean basins create the \"canyons\" that the deep ocean currents flow through.",
+        "Ocean circulation influences weather and climate by moving warm and cold water between regions."
+      ],
+      "commonStudentIdeas": [
+        "The ocean floor is relatively flat.",
+        "When water freezes, the salt becomes part of the ice.",
+        "The water at the bottom of the ocean just sits there.",
+        "The ocean is the same temperature and salinity everywhere.",
+        "Once cold-water sinks, it remains at the bottom of the ocean.",
+        "Cold water falls straight down (as opposed to running across underwater landforms).",
+        "Wind and waves cause ocean currents.",
+        "Water moves in the same direction on the surface and in the deep ocean."
+      ]
+    },
+    {
+      "code": "6.ESS2.4",
+      "statement": "Develop and use a model to describe the cycling of water through Earth's systems driven by energy from the Sun and the force of gravity.",
+      "bigIdea": "Water moves between the land, ocean, and atmosphere as it changes form. Energy from the Sun and the pull of gravity drive these movements, which shape weather, climate, and Earth's surface.",
+      "scientificIdeas": [
+        "Energy from the Sun warms Earth surface and the air above it.",
+        "The Sun's energy causes evaporation of liquid water and transpiration from plants. These processes transform the Sun's energy into the thermal energy of gaseous water particles.",
+        "Water particles that evaporate lower the thermal energy from wet surfaces and bodies of water.",
+        "During condensation, energy transfers from the particles to their surroundings.",
+        "Crystallization forms organized groups of molecules which release additional energy to the surroundings.",
+        "Gravity pulls water downward as rain, snowmelt, and runoff. The force transforms water's potential energy into kinetic energy, which can shape the land through erosion and deposition.",
+        "Energy is absorbed when water evaporates and released when it condenses, linking energy flow to changes in state and movement of matter.",
+        "These processes move water among Earth's major stores – the ocean, atmosphere, glaciers, lakes, rivers, and groundwater.",
+        "The total amount of water on Earth stays nearly constant, but its location and form change continuously."
+      ],
+      "commonStudentIdeas": [
+        "Water in the atmosphere is separate from water on Earth's system, and they don't mix.",
+        "The atmosphere is a pathway for water, rather than a place where water is stored.",
+        "The amount of water on Earth can increase or decrease depending on the weather.",
+        "Wherever the ocean feels cold, it must cool the surrounding land."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

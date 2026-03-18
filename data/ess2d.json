@@ -1,0 +1,259 @@
+{
+  "componentIdea": {
+    "code": "ESS2.D",
+    "title": "Weather and Climate"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "What regulates weather and climate?",
+    "purpose": "This component idea explores how energy transfers among systems influence conditions in the atmosphere – the weather – as well as factors that shape Earth's local and global climate.",
+    "centralIdeas": "Weather is a description of the atmosphere at one time and place, while climate describes the weather over longer periods of time at that place. The weather and climate at a place are caused by interactions among multiple factors – sunlight, the ocean, the atmosphere, ice, landforms, and living things. As people learn more about how these factors contribute to the climate at a place, it is possible to predict how changes to these factors can cause the climate to change."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "Weather is the combination of sunlight, wind, snow or rain, and temperature in a particular region at a particular time. People measure these conditions to describe and record the weather and to notice patterns over time. – NRC, 2012",
+      "progression": "In early elementary school, students experience the weather directly. They can see sunny or cloudy skies and rain or snow. They can feel warm or cold temperatures, windy or calm conditions. Their understanding is sensory and immediate, limited to the location where they happen to be at any moment.\n\nEven in the earliest grades, students can begin to use simple tools such as thermometers, windsocks, or rain gauges to measure what they can feel and see. These tools help students understand that the weather is a collection of pieces of information about the sky that they can measure and record changes over days or weeks. Students may notice that weather conditions vary from morning to afternoon and that some types of weather occur more often in certain seasons. Their perspective reflects that of early human societies, which carefully observed the sky and seasons, and used recurring patterns to guide daily life, but did not yet have scientific explanations for the causes of those changes. For example, students may realize that certain seasons are better suited for planting seeds outdoors.\n\nAs students begin to recognize short-term patterns (e.g., daily temperature changes or regular rainfall in certain months), they are not expected to reason the causes for these patterns. The goal is for students to see that weather conditions can be observed, measured, and described, but not yet explained in terms of energy transfer, air pressure, or atmospheric motion. These explanations fall outside the conceptual boundaries of early elementary learning. There is no expectation that students begin to discuss climate, since identifying different climates and patterns requires students to recognize patterns that extend beyond their lived experience in both time and geography.\n\nInstruction should build directly on children's curiosity about the weather they experience. Daily or weekly observation routines provide a meaningful structure for students to collect data, share observations, and begin recognizing patterns. Students should use simple, tangible tools, such as thermometers for temperature, windsocks for wind direction, and rain gauges for precipitation, which help students connect sensory experiences to recorded measurements. Teachers can guide students to represent their observations with drawings, pictographs, or simple data charts that make patterns visible over time. Instructional conversations should emphasize describing and comparing rather than explaining causes, using questions such as \"What do we notice about today compared to yesterday?\" or \"What kind of weather have we had this week?\". Viewing or discussing local weather forecasts can also connect classroom observations to real-world uses of weather data.\n\nThese early experiences establish the habits of observation, recording, and comparison that form the foundation for later learning. In upper elementary grades, they will expand the scope of their observations across longer time periods and larger regions, which provides the context to distinguish weather from climate."
+    },
+    "3-5": {
+      "nrcQuote": "Weather is the minute-by-minute to day-by-day variation of the atmosphere's condition on a local scale. Scientists record the patterns of the weather across different times and areas so that they can make predictions about what kind of weather might happen next. Climate describes the ranges of an area's typical weather conditions and the extent to which those conditions vary over years to centuries. – NRC, 2012",
+      "progression": "In early elementary school, students learned that they could use collect information about the weather by recording their observations and making measurements with simple tools. At the time, students limited their data to firsthand and local experiences. By upper elementary, students broaden their view of weather by observing data from larger areas and longer spans of time.\n\nOnce students expand the size of their data to larger areas and longer timespans, they have the context needed to distinguish weather from climate. They learn that weather describes the short-term condition of the atmosphere, while climate represents the long-term pattern of those conditions in a particular region.\n\nThis progression parallels the advancements made during the late nineteenth century, when the spread of the telegraph allowed weather observations from distant locations to be transmitted almost instantly. For the first time, scientists could gather data from across the nation on a single day and create the first weather maps showing the movement of storms and temperature systems. The telegraph connected networks of data and transformed meteorology from a collection of local reports into a coordinated scientific system. Students can begin to see larger, more meaningful patterns can be found when individual weather observations are combined into shared data sets.\n\nAs data accumulated, scientists recognized that temperature and precipitation records could be used to identify typical climate zones around the world. In much the same way, students begin to group places by common weather characteristics, describing regions as warmer or cooler, wetter or drier. Students may confuse the ideas of climate zones with biomes or even reverse cause and effect relationships. For example, students may describe that a desert is hot and dry because cacti live there. Instruction should help students understand that climate influences the organisms that live in a place, not the other way around, and that vegetation reflects environmental conditions rather than determines them.\n\nLearning experiences in this grade band should emphasize data collection, organization, and comparison across places and times. Students can compile temperature or precipitation data for their own region and compare it to other Tennessee communities or to national data sets. Mapping activities (e.g., paper charts or digital simulations) help them see that weather varies, and that long-term patterns form recognizable climate regions.\n\nThese experiences prepare students to see weather and climate as interconnected parts of a larger system that extends beyond their immediate environment. In middle school, they will build on this foundation by explaining why these patterns exist; connecting uneven heating of Earth's surface, global circulation, and greenhouse gases to the patterns of temperature and precipitation they first identified in elementary school."
+    },
+    "6-8": {
+      "nrcQuote": "Weather and climate are influenced by interactions involving sunlight, the ocean, the atmosphere, ice, landforms, and living things. These interactions vary with latitude, altitude, and local and regional geography, all of which can affect oceanic and atmospheric flow patterns. Because these patterns are so complex, weather can be predicted only probabilistically.\n\nThe ocean exerts a major influence on weather and climate by absorbing energy from the sun, releasing it over time, and globally redistributing it through ocean currents. Greenhouse gases in the atmosphere absorb and retain the energy radiated from land and ocean surfaces, thereby regulating Earth's average surface temperature and keeping it habitable. – NRC, 2012",
+      "progression": "In upper elementary grades, students learned that weather patterns can be recorded and compared across different places and times and that these patterns describe the long-term climate of a region. Their descriptions of climate focused on recognizing that certain weather conditions occur together or in regular sequences. In middle school, students begin to explain why those patterns exist. While exploring a variety of phenomena, middle school students begin to see that weather and climate are outcomes of energy redistribution across Earth's systems.\n\nSunlight does not heat Earth's surface evenly. Differences in latitude, surface materials, and geography create temperature gradients that drive the movement of air and water. The continuous transfer and transformation of this energy through radiation, conduction, and convection connects the atmosphere, ocean, land, and ice, creating the patterns we recognize as weather and climate.\n\nEach of the systems and features identified in the standards (i.e., sunlight, the ocean, the atmosphere, ice, landforms, and living things) plays a role in how energy moves through Earth's system. The uneven heating of Earth's surface drives circulation in both air and water, transferring energy from warmer to cooler regions. Landforms and surface materials modify these movements by absorbing, storing, or reflecting energy at different rates, while ice and snow further influence how much sunlight is reflected into space. The composition of the atmosphere and the presence of living things determine how long energy remains in the system through processes such as the greenhouse effect and photosynthesis.\n\nTeaching the concepts within these standards as connected ideas helps students see weather and climate as parts of larger, interacting systems rather than separate topics. The crosscutting concepts of systems and system models, stability and change, and energy and matter provide useful lenses for organizing instruction and discussion. Teachers can help students make these connections by asking questions such as: What system is involved in this phenomenon, and how does energy move through it? How do changes in one part of the system affect stability in another? What roles does matter play in this energy transfer? Using these questions regularly allows students to connect individual weather and climate events to the broader processes that maintain and sometimes disrupt balance in Earth's system.\n\nIn high school, students will extend these ideas by analyzing how feedback processes can amplify or stabilize changes within Earth's climate system. They will examine examples of both positive feedback that push a system further from equilibrium (e.g., warming that melts ice and increases absorption of sunlight) and negative feedback that restore balance to the system (e.g., warming surfaces release more heat through infrared radiation). Students will also investigate geologic evidence showing that living things have dramatically altered Earth's atmosphere and climate in the past, such as during the Great Oxidation Event, and will consider that life continues to have this potential today."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "umbrellaConcept",
+        "label": "Umbrella Concept"
+      },
+      {
+        "key": "studentFocus",
+        "label": "Student Focus"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "umbrellaConcept": "The weather is what we see and feel locally.",
+        "studentFocus": "Measuring, analyzing, and predicting using observations of daily and seasonal patterns."
+      },
+      {
+        "gradeBand": "3-5",
+        "umbrellaConcept": "Climate is a pattern of weather over time and place.",
+        "studentFocus": "Classification and comparison."
+      },
+      {
+        "gradeBand": "6-8",
+        "umbrellaConcept": "The atmosphere redistributes energy by moving air and water.",
+        "studentFocus": "Mechanistic explanations for how and why patterns occur."
+      },
+      {
+        "gradeBand": "9-12",
+        "umbrellaConcept": "Feedback and energy balance within Earth's system.",
+        "studentFocus": "Quantitative and dynamic modeling of past to help predict future."
+      }
+    ],
+    "narrative": "Human understanding of weather and climate has developed from simple observation of local conditions to predictions based on global modeling of energy flow through Earth's systems. Students' learning in this progression follows a similar path. Each grade band adds a new layer of scale, evidence, and mechanism that mirrors how the scientific study of weather and climate has evolved.\n\nIn early elementary school, students experience weather directly and describe what they can see and feel, such as sunny or cloudy skies, warm or cold temperatures, windy or calm conditions, rain or snow. They use simple tools to measure what they can feel and see, such as firsthand observations of the sky, wind meters, thermometers, rain gauges, etc. Their perspectives reflect those of early human societies that recognized that weather follows familiar patterns but did not have scientific explanations for those patterns. Students do not begin to address the idea of climate since this involves data from longer periods of time or larger geographic areas.\n\nBy upper elementary, students extend their observations over greater distances and longer time periods. They recognize that weather patterns repeat regionally and seasonally, and that these patterns can be used to describe typical conditions, or climate, for a place. This stage parallels a period in history when telegraph networks were expanding, and scientists could begin to compare simultaneous weather reports across regions and create the first weather maps. As collections of data grew, scientists recognized that temperature and precipitation data could be used to define global climate zones. Students have the background knowledge to recognize that these climate zones follow patterns across latitudes.\n\nIn middle school, students move beyond describing weather and climate patterns to explain the processes that produce them. They connect patterns of temperature, wind, and precipitation to the uneven heating of Earth's surface, rotation, and geography, recognizing that these factors drive circulation in the atmosphere and ocean. Their understanding parallels the shift in climate science from descriptive climate zones to dynamic models that account for energy transfer and motion within Earth's systems. Students explain that the ocean absorbs and redistributes heat and that greenhouse gases trap energy in the atmosphere, regulating Earth's surface temperature. They recognize that these complex interactions make weather predictable only in terms of probability, and that climate represents a long-term balance maintained among Earth's systems.\n\nBy high school, students view weather and climate as parts of a single, interconnected Earth system regulated by the balance between energy entering and leaving the planet. They apply knowledge of radiation, heat capacity, and feedback processes to explain how the atmosphere, ocean, land, and ice maintain or alter global temperature. Students analyze evidence of past climate variation and learn that changes in solar output, greenhouse gas concentrations, or ocean circulation can shift this balance. Their understanding mirrors the modern era of Earth system science, when global satellite data and climate models revealed that climate is dynamic, sensitive to feedback. Students see geologic evidence that living things have changed climates in the past (e.g., Great Oxidation Event) and have the potential to affect climates in the future."
+  },
+  "standards": [
+    {
+      "code": "K.ESS2.1",
+      "statement": "Make observations to gather weather data (i.e., precipitation, wind, temperature, cloud cover) using tools (e.g., thermometer, rain gauge).",
+      "bigIdea": "Weather can be described by observing conditions in the sky and measured using simple tools to turn observations into data.",
+      "scientificIdeas": [
+        "Weather is a description of the sky and air at a particular time and place.",
+        "Weather involves more than one description of the conditions in the sky.",
+        "Temperature, wind (speed and direction), cloud cover, and rainfall/snowfall are observable and measurable aspects of weather.",
+        "Scientists use simple tools to make more accurate measurements than feel or appearance."
+      ],
+      "commonStudentIdeas": [
+        "The weather is just sunny or raining.",
+        "Certain conditions always/never occur together (e.g., It can't be sunny and windy at once.)",
+        "Things like temperature or wind can be felt but not measured.",
+        "Tools make the weather, rather than measure the weather."
+      ]
+    },
+    {
+      "code": "K.ESS2.2",
+      "statement": "Use simple graphs and pictorial weather symbols to describe weather patterns that occur over time (i.e., hourly, daily).",
+      "bigIdea": "Weather data can be organized and represented to reveal similarities, differences, and patterns from day to day.",
+      "scientificIdeas": [
+        "Data can be organized using pictures, symbols, or simple graphs to identify and describe weather quickly.",
+        "Weather changes over different time spans in ways that follow short term patterns. (e.g., mornings are typically cooler than afternoons; sunny and rainy days often group together).",
+        "By collecting more weather data, it is easier to spot things that are typical vs things that are unusual.",
+        "Representations of weather allow scientists to communicate about the weather and to make predictions.",
+        "Representations help identify relationships (e.g., big temperature changes can often accompany windy days)."
+      ],
+      "commonStudentIdeas": [
+        "Each day's weather is independent, not part of a larger pattern.",
+        "Graphs and charts (e.g., weather reports) cause the weather to occur.",
+        "Since the weather changes, there won't be patterns in the weather.",
+        "When we figure out a pattern, our predictions will always be right."
+      ]
+    },
+    {
+      "code": "K.ESS2.3",
+      "statement": "Develop and use models to predict weather and identify patterns in spring, summer, autumn, and winter.",
+      "bigIdea": "The weather follows repeating patterns from year to year. These patterns allow people to make predictions about what kind of weather is likely at different times of the year.",
+      "scientificIdeas": [
+        "Weather changes from day to day but also follows larger patterns related to the time of the year.",
+        "There are patterns within each component of the weather (temperature, precipitation, and daylight) in spring, summer, fall, and winter.",
+        "Models (drawings, charts, symbols) can show these repeated patterns and make simple forecasts (e.g., when the weather will be best for planting seeds)."
+      ],
+      "commonStudentIdeas": [
+        "The season causes weather events (e.g., \"It's raining because it's spring\").",
+        "Believing that typical patterns cause weather events. (e.g., \"It will rain today because it rained on this day last year\").",
+        "Believing that \"predictions\" cause weather to occur."
+      ]
+    },
+    {
+      "code": "3.ESS2.3",
+      "statement": "Use tables, graphs, and tools to describe precipitation, temperature, clouds, and wind (i.e., direction and speed) to predict local weather and climate.",
+      "bigIdea": "Climate is the long-term description of typical weather patterns for a region, distinct from weather, which describes what is happening now.",
+      "scientificIdeas": [
+        "Weather describes the short-term conditions of the atmosphere.",
+        "The climate describes the long-term patterns of weather that are typical in a region.",
+        "The weather in two places might be different at any moment, even if those places have the same climate classification.",
+        "Weather is more localized, and locations that are closer together are more likely to experience similar weather conditions.",
+        "Identifying climate requires data that is organized over time, rather than a single day.",
+        "Weather may not always reflect the typical conditions for a place.",
+        "Since patterns in climate are based on longer term data, changes in climate have not historically been observable in a human lifetime.",
+        "Water can be solid/liquid/gas.",
+        "Air is made of matter and can hold water in the form of water vapor.",
+        "Warm air tends to rise, and cool air tends to sink, which influences cloud cover and precipitation patterns.",
+        "Clouds reveal atmospheric conditions (weather) at places where people cannot experience the conditions firsthand. (e.g., Clouds form when temperatures are low enough and moisture content is high enough)."
+      ],
+      "commonStudentIdeas": [
+        "Thinking that a single event (e.g., a snowstorm) determines a place's climate.",
+        "Climate data alone will allow us to predict weather (e.g., \"It's going to rain tomorrow because we haven't gotten as much rain as we typically do for this month\").",
+        "Certain types of weather never occur in some places (e.g., it never rains in regions with patterns of hot temperatures).",
+        "Weather has a purpose or intention (e.g., Clouds try to make rain, it rains because plants need water).",
+        "Observations cannot be wrong (e.g., The thermometer must be broken, because it feels cold, but the temperature is high).",
+        "Treating clouds as an object or smoke, without recognizing them as a group of water droplets. If the sun is out, it will be warm, and if it's cloudy, it will be cold.",
+        "Water goes away when it's not visible – once steam/clouds are gone, the vapor is gone.",
+        "Climate predicts the weather."
+      ]
+    },
+    {
+      "code": "3.ESS2.4",
+      "statement": "Incorporate weather data to describe major climates (e.g., polar, temperate, tropical) in different regions of the world.",
+      "bigIdea": "Even though the weather varies greatly from place to place, Earth's climates follow some typical patterns. Classifying regions based on typical weather patterns simplifies complex weather data into understandable categories.",
+      "scientificIdeas": [
+        "The angle that the Sun's rays strike Earth's surface cause differences in the intensity of the light at different latitudes. Greater latitudes receive less intense sunlight.",
+        "Areas on Earth's surface will be warmer where the Sun's light shines more directly.",
+        "Due to the shape of the Earth, areas with similar climates wrap around Earth in ways that are like, but don't exactly follow latitudes.",
+        "Similar types of plants and animals can indicate similar climate patterns, but do not cause the climate."
+      ],
+      "commonStudentIdeas": [
+        "Plants cause/define different climates (\"It's a rainforest because there are rainforest types of trees there\").",
+        "The distribution of climate zones across Earth is random.",
+        "It's hotter near the equator because the equator is closer to the Sun than the poles.",
+        "Climate descriptions only belong to \"other places,\" not to where I live.",
+        "Climate boundaries will match country boundaries (e.g., all states in the US have the same climate type).",
+        "Climate is defined by extreme events, not by typical conditions."
+      ]
+    },
+    {
+      "code": "6.ESS2.3",
+      "statement": "Construct an explanation for how atmospheric flow, geographic features, and ocean currents affect the climate of a region through heat transfer.",
+      "bigIdea": "Uneven heating of Earth's surface by the Sun sets air and water in motion. The resulting atmospheric flow, geographic features, and ocean currents redistribute this energy and shape climate in different regions.",
+      "scientificIdeas": [
+        "Uneven heating of Earth's surface happens because different locations receive sunlight at different angles and for different lengths of time.",
+        "Uneven heating creates temperature differences that drive movement of air and water as energy flows from warmer regions to cooler regions.",
+        "Interactions of the atmosphere, ocean, land, and ice determine how energy is redistributed across Earth's systems.",
+        "Long-term patterns that emerge among systems define climate, while short term variations within the patterns determine the weather.",
+        "Air above warmer surfaces becomes less dense and rises, while cooler air sinks, creating large-scale movement of air across the planet.",
+        "Rising air masses leave low pressure regions on Earth's surface. Descending cool air masses increases air pressure.",
+        "Differences in temperature and pressure cause large air masses to move across Earth's surface, creating patterns in wind and atmospheric circulation.",
+        "Moving air transports heat (energy) and moisture, influencing typical precipitation patterns that define a region's climate.",
+        "Earth's surface is not uniform. As masses move over land, water or ice, they can be warmed, cooled, dried or moistened, leading to climate conditions they create.",
+        "Water warms and cools more slowly than land surfaces. This allows the ocean to store larger amounts of solar energy.",
+        "Currents move warm or cool water over long distances, transferring energy to or from the land, and moderating the climate of coastal regions.",
+        "Regions near warm currents tend to experience milder winters than similar latitudes. Areas near cold currents often have cooler average temperatures.",
+        "Landforms (e.g., mountains, plateaus, coastlines) influence how air and moisture move across a region.",
+        "Rising air moving over mountains cools, causing precipitation on one side and drier conditions on the other. Differences between land and water surfaces produce local variations that combine to shape regional climate patterns that may be different from latitude-based predictions."
+      ],
+      "commonStudentIdeas": [
+        "Warmer climates are found near the equator because it is closer to the Sun than the poles.",
+        "All places on Earth receive the same amount of the Sun's energy each day.",
+        "Land and water warm at the same rate.",
+        "Air moves randomly or is caused by wind, storms, and/or moving objects.",
+        "Warm air must not leave the ground because it's always warm near the ground.",
+        "Clouds move through the atmosphere, but the atmosphere itself does not move.",
+        "The ocean cannot warm the air.",
+        "Mountains are cold because they're closer to space.",
+        "Mountains cause deserts on one side because they block wet air from reaching certain areas.",
+        "Climate is determined by the sum of weather events (rather than by energy flows across systems)."
+      ]
+    },
+    {
+      "code": "6.ESS2.6",
+      "statement": "Develop a model to explain the role of greenhouse gases in regulating the Earth's average surface temperature and keeping it habitable.",
+      "bigIdea": "Greenhouse gases regulate Earth's average surface temperature by absorbing and radiating energy, keeping the planet warm enough to sustain life.",
+      "scientificIdeas": [
+        "The greenhouse effect caused Earth's temperatures to become conducive to light and keep Earth habitable.",
+        "Earth's atmosphere is a collection of gases, held in place by gravity, and transparent to incoming visible light (i.e., visible light passes through the atmosphere without transferring energy to the atmosphere).",
+        "Light (electromagnetic radiation) from the Sun passes easily through Earth's atmosphere and warms Earth's surface.",
+        "Earth's surfaces warm and cool by absorbing or releasing electromagnetic radiation.",
+        "Incoming light (e.g., visible light, ultraviolet light) warm Earth's surface, while infrared radiation transfers energy away from Earth's surface.",
+        "Greenhouse gases (carbon dioxide, methane, water vapor) warm Earth's atmosphere by absorbing a portion of the infrared radiation released by Earth's surface.",
+        "Increasing amounts of greenhouse gases trap larger amounts of IR radiation, causing climates to warm.",
+        "Decreasing amounts of greenhouse gases reduce the amount of energy collected by Earth's atmosphere and results in lower global temperatures."
+      ],
+      "commonStudentIdeas": [
+        "All planets/celestial bodies have an atmosphere.",
+        "Greenhouse gases did not exist until people created them.",
+        "Greenhouse gases are pollution.",
+        "Only carbon dioxide causes warming.",
+        "Water vapor does not affect temperature because it's a natural part of the water cycle.",
+        "Greenhouse gases trap warm air. (vs absorbing IR light)",
+        "Confusing ozone layer with greenhouse gases.",
+        "Carbon dioxide and other greenhouse gases are inherently warmer, so more of them cause atmospheric temperatures to increase.",
+        "You can see greenhouse gases.",
+        "The greenhouse effect is a bad thing.",
+        "Greenhouse gases reflect IR light back to Earth's surface.",
+        "Levels of greenhouse gas correspond with the weather (e.g., \"It's cool today, which means that levels of greenhouse gases have dropped\")."
+      ]
+    },
+    {
+      "code": "6.ESS2.7",
+      "statement": "Collect data to provide evidence for how the interactions of air masses result in changes in local weather conditions and how that data can be used to predict probable local weather patterns.",
+      "bigIdea": "Local weather changes when air masses with different temperatures and humidity meet. Data about air masses allows for probabilistic prediction of the weather.",
+      "scientificIdeas": [
+        "Air masses are large bodies of air with relatively uniform temperature and moisture characteristics.",
+        "Air masses form when air stays over a region long enough to take on characteristics like the surface.",
+        "When air masses move, they carry their temperature and humidity with them, changing local weather as they move into an area.",
+        "Weather changes occur where air masses meet, because differences in temperature and humidity influence the formation of clouds and precipitation.",
+        "Weather changes can be calm or severe depending on the differences between the characteristics of interacting with air masses. More severe weather occurs with greater differences.",
+        "Air masses follow predictable paths influenced by larger-scale flows in the atmosphere.",
+        "Observing some characteristics of the weather (e.g., wind direction, cloud shape, temperature, and humidity) provides clues about approaching air masses. (Note: The intent is not memorization (e.g., cloud types), but to be able to predict based on patterns (stronger winds, indicate greater pressure changes).",
+        "Recognizing patterns in how air masses interact allows for probabilistic weather predictions."
+      ],
+      "commonStudentIdeas": [
+        "The air is the same everywhere.",
+        "Two air masses mix evenly when they meet.",
+        "Weather is caused by clouds and precipitation.",
+        "Temperature is only caused by the amount of sunlight, not by air masses.",
+        "Local weather is caused by what is happening overhead, not by air masses.",
+        "Clouds cause weather.",
+        "Air movement is the same at all elevations in the atmosphere.",
+        "The air only moves across the land."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

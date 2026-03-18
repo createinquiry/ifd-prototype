@@ -1,0 +1,125 @@
+{
+  "componentIdea": {
+    "code": "ESS2.E",
+    "title": "Biogeology"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "How do living organisms alter Earth's processes and structures?",
+    "purpose": "This component idea helps students understand that living things cause changes to Earth – including changes to Earth's surface and to the rates of naturally occurring processes.",
+    "centralIdeas": "Organisms change their surroundings as they attempt to obtain the things they need to survive. Plants, animals, microbes can cause changes that are observable and also changes that happen at scales that are too small to be seen. Some of the changes caused by living things are so gradual that the effects are only visible over geologic time scales. Living things can cause changes to the rates of natural processes."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Plants and animals (including humans) depend on the land, water, and air to live and grow. They in turn can change their environment (e.g., the shape of land, the flow of water). – NRC, 2012",
+      "progression": "In life science standards, students are learning that organisms have needs and that they meet these needs by getting things from their surroundings. The biogeology component idea (ESS2.E) helps students understand that organisms will affect their surroundings as they go about meeting their needs. The main idea is that living things cause changes to the non-living environment.\n\nStudents should consider examples where the effects of the organisms are directly observable. For example, students may see tracks of dirt left in lawns where moles have tunneled in the dirt. Plants also change the environment. For example, tree roots, accumulation of leaves, and fallen logs may divert the flow of a stream. Humans are living things and change the environment in many ways. Students may see ruts where water runs off roofs and across the ground or areas of compacted dirt on the playground near soccer goals, baseball bases, or other paths where people often walk.\n\nIn later grades, students will extend this understanding to the idea that changes accumulate over time and can occur in systems where they may not even be visible."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Living things affect the physical characteristics of their regions (e.g., plants' roots hold soil in place, beaver shelters and human-built dams alter the flow of water, plants' respiration affects the air). Many types of rocks and minerals are formed from the remains of organisms or are altered by their activities. – NRC, 2012",
+      "progression": "By upper elementary, many students still hold the intuitive idea that Earth is so large and stable, or that things like rocks are so hard that living things cannot meaningfully change it. This grade band challenges that belief by expanding the scale of changes students consider including both larger and smaller scales than those observed in early elementary. Students build on their intuitive perceptions about change and begin to recognize that organisms can influence entire sections of a stream, hillside, or forest, and that some of the most important changes occur at microscopic scales through unfamiliar processes like decomposition.\n\nInstruction should support students in tracing causal relationships across space and time. For example, students might develop and share models for how the root ball of a fallen tree gradually deposits sediment into a nearby creek. Seasonal changes such as leaf accumulation, muddy runoff after storms of changes in soil stability along walking paths provide meaningful entry points for students to communicate their ideas to each other.\n\nThese ideas connect naturally to life science concepts where at this grade band students obtain everything they need from their surroundings. Students should see that, in many cases, organisms do not deliberately attempt to change their environments, but that the changes are the consequence of organisms' methods of survival in the places where they live.\n\nIn middle grades, students will explore the capacity of organisms to impact their environments at even larger scales as impacts accumulate over tremendous amounts of time or because of the combined effects of large numbers or organisms. The fossil record preserves instances where the proliferation of life has changed Earth's systems in various ways."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Evolution is shaped by Earth's varying geological conditions. Sudden changes in conditions (e.g., meteor impacts, major volcanic eruptions) have caused mass extinctions, but these changes, as well as more gradual ones, have ultimately allowed other life forms to flourish. The evolution and proliferation of living things over geological time have in turn changed the rates of weathering and erosion of land surfaces, altered the composition of Earth's soils and atmosphere, and affected the distribution of water in the hydrosphere. – NRC, 2012",
+      "progression": "By middle school, students are ready to extend their understanding of biogeology to time spans and spatial scales that extend far beyond everyday experience. Many students still rely on intuitive ideas grounded in the visible and immediate. For example, believing that landscapes only change due to dramatic events or that life is too small to influence anything beyond its immediate surroundings. This grade band challenges these assumptions by introducing the idea that the combined activity of living things, accumulating over many generations, can gradually reshape entire regions and eventually alter planetary systems such as the atmosphere, hydrosphere, and geosphere.\n\nInstruction should emphasize how small biological processes can produce large-scale effects when carried out continuously or by large populations over long periods of time. For example, students might examine how mats of algae in shallow ponds trap fine sediments, gradually building new layers of mud that change the shape of the shoreline from year to year. They might explore how the slow expansion of prairie grasses can increase the rate of soil formation across broad regions by breaking apart rock fragments and trapping organic material. Even everyday observations, such as the way lichens weather boulders or how mosses slowly accumulate soil on the edges of parking lots, can help students recognize that these processes are always operating, even when the rate of change is too slow to notice within a school year.\n\nThese ideas connect directly to life science learning at this grade band, where students begin to consider how organisms interact with their environments, how populations grow, and how environmental changes influence survival across generations. Understanding how organisms influence Earth's systems reinforces ideas from LS2 and LS4 by showing that environments are not static backdrops, but dynamic systems shaped, in part, by the organisms that inhabit them, and which shapes the characteristics of species over generations.\n\nThis grade band prepares students for the high school study of global biogeochemical cycles, atmospheric evolution, and long-term climate stability. As students see how small-scale biological activity can accumulate to produce large-scale geological and atmospheric changes, they build the foundation for understanding how the oxygenation of Earth's atmosphere, long-term carbon cycling, and the rise and fall of ancient ecosystems have shaped the planet over geologic time."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "spatialScaleOfChanges",
+        "label": "Spatial Scale of Changes"
+      },
+      {
+        "key": "appropriateRatesOfChange",
+        "label": "Appropriate Rates of Change"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "spatialScaleOfChanges": "Small, local, directly observable changes to land, water, and air.",
+        "appropriateRatesOfChange": "Immediate or short-term changes (days to seasons)."
+      },
+      {
+        "gradeBand": "3-5",
+        "spatialScaleOfChanges": "Local-to-regional changes including changes by microbes on soil and air.",
+        "appropriateRatesOfChange": "Short-term to multi-season changes that can begin to accumulate."
+      },
+      {
+        "gradeBand": "6-8",
+        "spatialScaleOfChanges": "Regional to planetary effects as living things influence Earth's systems over long timescales.",
+        "appropriateRatesOfChange": "Generational to geologic timescales. Gradual changes that accumulate significantly."
+      },
+      {
+        "gradeBand": "9-12",
+        "spatialScaleOfChanges": "Planetary scale impacts through global biogeochemical cycles and feedback.",
+        "appropriateRatesOfChange": "Geologic and evolutionary timescales; potential for accelerating rates of change through feedback loops."
+      }
+    ],
+    "narrative": "The goal of this progression is to identify appropriate scales or change that will help students see the way that living things – the biosphere – impact Earth's other systems.\n\nStudents in early elementary begin this progression by looking at the most immediate examples of how living things change the places where they live. These changes should be observable with respect to both time and visibility. Students can see the way that foot and automobile traffic causes soils to become compacted. The timeframe for these changes can extend from the hours moles may spend digging through a playground to seasons where leaf accumulations are observable in the fall. These changes occur as an inevitable result of organisms meeting their needs for food, water, and shelter.\n\nIn upper elementary school, students being to consider both larger and smaller scales of change. Larger changes include potential changes across larger regions, such as beaver dams that may divert a normal path of a stream. Smaller scales may not be directly visible, such as the activity of microbes during decomposition and hidden changes such as the gradual growth of tree roots that may loosen rocks and soils or stabilize soils near stream banks. Students begin to see that changes can accumulate over time even when immediate effects are not evident.\n\nMiddle school students explore how living things are affected by changes over time and across different spatial scales beyond what can be directly observed. Earth's geologic features present evidence that timescales that greatly exceed human history. Over these immense timescales, small, everyday processes have the capacity to accumulate at substantial scales. Features of Earth's surface present evidence of long-term influence of life, such as coal beds formed from ancient swamp lands and Tennessee's karst topography created from the remains of marine organisms when the region lay beneath a shallow sea. These examples from Earth's past help students imagine the scale of future changes such as the way that soils may accumulate over generations, the potential for atmospheric changes, and the impact of vegetation of weathering and erosion.\n\nIn high school, students learn that feedback loops can amplify changes. This builds on the idea that changes occur over deep time scales, while adding the nuance that rates of change are not constant. For example, bands of red formations in the geologic record reveal times when increased levels of oxygen in the atmosphere due to photosynthetic organisms accelerated the oxidation of iron or the potential amplification of the effects of atmospheric accumulation of greenhouse gases. These feedback loops provide a mechanism for change at global scales."
+  },
+  "standards": [
+    {
+      "code": "K-2",
+      "note": "No standard listed for this grade band in ESS2.E.",
+      "statement": "",
+      "bigIdea": "",
+      "scientificIdeas": [],
+      "commonStudentIdeas": []
+    },
+    {
+      "code": "4.ESS2.3",
+      "statement": "Provide examples to support the claim that organisms affect the physical characteristics of their regions (e.g., plants' roots hold soil in place, beaver shelters alter the flow of water, paved surfaces affect runoff, leaves from trees can obstruct waterways).",
+      "bigIdea": "Organisms change the physical characteristics of the places where they live, and these changes can accumulate across seasons and extend beyond the immediate area where the organisms live.",
+      "scientificIdeas": [
+        "Organisms meet their needs for food, water, and shelter in ways that change non-living parts of their environment.",
+        "Small, local changes caused by organisms can add up to larger changes across a larger area (e.g., a stream, hillside, forest).",
+        "Plants change their surroundings below the surface, across the surface, and in the air above the surface (e.g., anchoring soil, altering the flow of water, dropping leaves).",
+        "Animals change the surface by disturbing, moving, or reorganizing materials (e.g., building shelters, burrowing, removing vegetation, gathering).",
+        "Microorganisms form new soils by decomposing the remains of living things.",
+        "Human activities, specifically, change the environments (e.g., paving surfaces, redirecting the flow of water, adding or removing vegetation).",
+        "Changes occur at different scales: some are immediately visible, while others accumulate over time."
+      ],
+      "commonStudentIdeas": [
+        "Earth is too large/too stable for living things to change it.",
+        "Humans are the only organisms that affect Earth's systems.",
+        "Only animals, not plants, affect Earth's systems.",
+        "Microorganisms (and other tiny organisms) are too small to cause meaningful changes.",
+        "Changes must be significant, immediate, or dramatic to have lasting impacts.",
+        "The physical properties of some materials make them resistant to change (e.g., rocks are too hard to change).",
+        "All changes to Earth's system will be visible."
+      ]
+    },
+    {
+      "code": "6.ESS2.5",
+      "statement": "Analyze and interpret data to determine the impact of humans and other organisms on the water cycle, landforms (e.g., rain shadow effect) and atmospheric systems.",
+      "bigIdea": "The combined activity of many organisms, acting continuously over long periods of time can gradually reshape Earth's water cycle, landforms, and atmosphere.",
+      "scientificIdeas": [
+        "Living things change Earth's systems gradually.",
+        "Gradual changes may not be observable during a human lifetime, but the cumulative effects leave evidence in Earth's systems.",
+        "The combined activity of many organisms magnifies environmental change.",
+        "Biological activity contributes to the breakdown and formation of Earth materials (e.g., deep roots of trees loosen soil as they grow and become a source of organic material when the tree dies).",
+        "Changes caused by organisms can scale up to influence regional climate patterns (e.g., levels of transpiration can impact atmospheric water content).",
+        "Human activities can accelerate or redirect natural processes. (e.g., Land use can impact ecosystem dynamics)."
+      ],
+      "commonStudentIdeas": [
+        "Soil is just dirt and does not change over time.",
+        "Small changes don't matter. (e.g., microorganisms are \"too small\" to cause meaningful changes).",
+        "Pollution is the only way that Earth's atmosphere can change.",
+        "The Earth is big enough to absorb the changes of living things."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}
