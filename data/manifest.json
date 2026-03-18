@@ -31,6 +31,10 @@
 {"id": "ess2c", "discipline": "ESS", "componentIdea": "ESS2.C", "path": "data/ess2c.json"},
 {"id": "ess2d", "discipline": "ESS", "componentIdea": "ESS2.D", "path": "data/ess2d.json"},
 {"id": "ess2e", "discipline": "ESS", "componentIdea": "ESS2.E", "path": "data/ess2e.json"},
+    {"id": "ess3a", "discipline": "ESS", "componentIdea": "ESS3.A", "path": "data/ess3a.json"},
+{"id": "ess3b", "discipline": "ESS", "componentIdea": "ESS3.B", "path": "data/ess3b.json"},
+{"id": "ess3c", "discipline": "ESS", "componentIdea": "ESS3.C", "path": "data/ess3c.json"},
+{"id": "ess3d", "discipline": "ESS", "componentIdea": "ESS3.D", "path": "data/ess3d.json"},
 {"id": "ets1a", "discipline": "ETS", "componentIdea": "ETS1.A", "path": "data/ets1a.json"}
   ]
 }
