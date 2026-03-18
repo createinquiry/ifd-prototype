@@ -1,0 +1,75 @@
+{
+  "componentIdea": {
+    "code": "ESS3.D",
+    "title": "Global Climate Change"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "How do people model and predict the effects of human activities on Earth's climate?",
+    "purpose": "The goal for this component idea is for students to understand how Earth's climate system functions, how it changes, and how those changes affect humans. The theme across all component ideas within the larger disciplinary core idea is the ways that Earth's processes affect humans and are, in turn, affected by humans.",
+    "centralIdeas": "Most changes to Earth's systems happen so slowly that we do not notice them. Over our history, humans have developed new technologies that allow us to make and store a variety of measurements about Earth's past. Scientists combine this accumulated data with our growing understanding of chemistry and physics to develop models that predict how Earth's climate will change in the future. These predictions help us plan for growing populations, but also contain uncertainties associated with both the underlying science and our ability to predict how human behaviors may change."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2: [Intentionally left blank] – NRC, 2012",
+      "progression": "In this grade band, students should have firsthand experiences that support the science concepts they are learning. However, the foundational ideas for this component idea are large – Earth's systems, population growth. Students also need to be able to observe trends in data that exceed K-2 math standards. Due to these disparities, there are no standards in this component idea until later grades. Students are learning about weather (ESS2.D) and the ways that humans affect their environment overlap with this component idea."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. If Earth's global mean temperature continues to rise, the lives of humans and other organisms will be affected in many different ways. - NRC, 2012",
+      "progression": "By upper elementary grades, students have many everyday experiences with temperature and seasonal changes, even if they have not yet learned about climate as a long-term pattern. They know that some days are warmer or colder than others and that certain plants grow only during specific times of the year. They also notice patterns connected to their own activities, such as when it becomes warm enough to swim, when frost kills certain plants, or how unusually hot or dry stretches of weather affect outdoor plans. Students may believe that short-term changes in weather directly reflect long-term trends, or that climate simply means \"the usual weather.\" These everyday ideas provide an important starting point for expanding their understanding of changes that occur over much longer timescales than daily or seasonal weather.\n\nIn this grade band, students encounter their first ideas related to long-term climate change. Instruction does not address detailed mechanisms of climate change; instead, students build on their understanding that the Sun warms Earth's surface and that living things survive within particular ranges of temperature and moisture. Using these familiar concepts, students begin to reason that if Earth's average temperatures rise over extended periods, the habitats available for plants and animals may shift in predictable ways. Examples that are meaningful to students include changes in migration patterns, such as monarch butterflies arriving earlier or later, or changes in the timing of flowering and growing seasons for familiar plants. These examples help students see that changes in long-term conditions can influence how living things behave, where they live, and the resources they rely on.\n\nInstruction at this grade band should focus on helping students distinguish weather from climate and recognize that long-term changes require evidence gathered over many years. Students can examine multiple data sets that show trends in temperature or ice coverage over time, using simple graphs to make sense of patterns. They are not yet expected to understand the mechanisms behind these trends, but they can use evidence to reason about observable impacts on ecosystems. Hands-on comparisons, such as analyzing warming rates of different surfaces or observing how plants respond to variations in heat and moisture, can anchor abstract ideas in concrete experiences.\n\nTeachers can use purposeful talk activities that help students surface common confusions, such as assuming that one unusually warm year indicates a permanent change, or that climate varies as quickly as weather. The goal in grades 3–5 is to lay the conceptual foundation for later understanding: students begin to recognize that Earth's long-term temperature patterns can change and that these changes affect the living world in ways that can be observed, described, and supported with evidence.\n\nNote: There is no standard written specifically for this collection of ideas in grades 3-5, however some of the ideas will overlap with ideas covered in 4.LS2.4 and 4.ESS3.2."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Human activities, such as the release of greenhouse gases from burning fossil fuels, are major factors in the current rise in Earth's mean surface temperature (global warming). Reducing human vulnerability to whatever climate changes do occur depend on the understanding of climate science, engineering capabilities, and other kinds of knowledge, such as understanding of human behavior and on applying that knowledge wisely in decisions and activities. – NRC, 2012",
+      "progression": "By the middle grades, students have developed enough background knowledge in energy, matter, and Earth's systems to begin making sense of climate change through underlying mechanisms rather than only through its effects. They have experience interpreting data sets, identifying patterns, and reasoning about how changes in one part of a system can influence other parts. These experiences prepare them to deepen their understanding of climate by examining how certain gases in the atmosphere affect the movement of energy into and out of the Earth system. Students may bring everyday ideas that greenhouse gases \"trap heat like a blanket\" or that rising temperatures are caused only by warmer sunlight. Instruction should help refine these ideas by connecting them to more accurate scientific concepts about energy flow and atmospheric composition.\n\nIn this grade band, students learn that greenhouse gases affect the balance of energy within the Earth system. They analyze curated data sets that show patterns linking greenhouse gas concentrations, surface temperatures, and human activities. These investigations help students reason that changes to atmospheric composition can change how much energy the Earth retains, and that such changes contribute to long-term climate patterns. Students are not expected to consider complex mathematical models of climate, but they should understand that scientists use evidence from many sources, including modern measurements and proxy records, to make sense of both past and present climate conditions.\n\nInstruction should emphasize how scientific knowledge supports the development of solutions. Middle school is an appropriate time for students to consider that responding to climate-related changes depends on understanding climate science itself, as well as engineering capabilities, new technologies, and human decision-making. Classroom investigations might focus on how forecasting tools, technological designs, and historical data inform community planning and help reduce vulnerability to climate-related effects. Through these experiences, students see that scientific understanding is essential for describing how climate is changing and for anticipating the ways those changes may influence ecosystems and human systems.\n\nNote: There is no standard written specifically for this collection of ideas in grades 6-8, however some of the ideas will overlap with ideas covered in 6.ESS2.6."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "climateMechanisms",
+        "label": "Climate Mechanisms"
+      },
+      {
+        "key": "predictingAndModelingClimateEffects",
+        "label": "Predicting and Modeling Climate Effects"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "climateMechanisms": "n/a",
+        "predictingAndModelingClimateEffects": "n/a"
+      },
+      {
+        "gradeBand": "3-5",
+        "climateMechanisms": "Earth's temperatures rise.",
+        "predictingAndModelingClimateEffects": "Direct effects on living things."
+      },
+      {
+        "gradeBand": "6-8",
+        "climateMechanisms": "Greenhouse gases change energy balances.",
+        "predictingAndModelingClimateEffects": "Models depend on understanding climate science, engineering capabilities, and understanding human behavior."
+      },
+      {
+        "gradeBand": "9-12",
+        "climateMechanisms": "Feedback and system interactions drive change that happens slowly.",
+        "predictingAndModelingClimateEffects": "Our abilities to predict and manage are greater than ever."
+      }
+    ],
+    "narrative": "Across the grade bands, learning in ESS3.D develops along two parallel strands. Climate Mechanisms includes the foundational ideas about how Earth's climate system works, what is changing, and why it is changing. Predicting and Modeling Climate Effects addresses how scientists use measurements, historical and proxy data, and climate models to interpret past and present changes, make informed projections about future conditions, and understand the purposes and limits of those models.\n\nThis component idea does not address climate change in the earliest grades since students are focusing on concrete experiences with weather, but not longer-term conditions such as climate within the weather and climate progression. Without foundational ideas about climate, it would not be possible to begin to address climate change.\n\nBy upper elementary grades, students learn about climate and encounter the first ideas related to long-term climate change. Students do not address true mechanisms of climate change but build on their knowledge that the Sun warms the Earth and that plants and animals survive within a limited range of conditions. Students reason that increases to Earth's temperatures over long periods can influence where organisms live, how they grow and their behaviors. These might include things like changes in migration patterns or altered growing conditions that could affect plants that would typically be familiar in an area.\n\nStudents in middle school begin to understand the mechanism of climate change. They learn that certain gases in the atmosphere influence the flow of energy through the Earth system and can alter the balance between incoming and outgoing energy. Datasets allow students to identify relationships among greenhouse gas levels, temperature changes, and human activities. They also consider how scientific understanding, engineering capabilities, and human choices contribute to the development of solutions that reduce vulnerability to climate-related impacts and understand that emerging technologies and materials can open up new solution pathways.\n\nIn high school, students integrate principles from physical science and Earth systems to explain climate change in terms of feedbacks and interactions among multiple systems. They examine processes such as changes in surface reflectivity, water vapor feedback, and ocean–atmosphere interactions to understand why climate changes occur gradually and respond predictably to disturbances. Students deepen their understanding of climate models by analyzing how these models incorporate mechanisms, data, and assumptions. As modeling and data collection advance, students recognize that our ability to predict and manage climate-related risks continues to improve, even as uncertainties remain."
+  },
+  "note": "ESS3.D has no standards at the K-2, 3-5, or 6-8 grade bands. The 3-5 ideas overlap with 4.LS2.4 and 4.ESS3.2; the 6-8 ideas overlap with 6.ESS2.6.",
+  "standards": [],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}
