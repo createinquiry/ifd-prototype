@@ -5,42 +5,39 @@
   },
   "discipline": "LS",
   "chapterOverview": {
-    "guidingQuestion": "How do the structures of organisms enable life’s functions?",
-    "purpose": "The purpose of this component idea is for students to see that organisms are made of many parts with unique functions and structures that support those functions – from the largest body parts down to the DNA inside of single cells. Each structure performs a narrow range of tasks. The function of every different part relates directly to its structure.",
-    "centralIdeas": "From the smallest particles inside of cells to the body parts of the largest organisms, living things are organized to perform tasks needed to grow, survive, and reproduce. The bodies of large organisms have external parts and internal organs that specialize in certain tasks. Cells group together in tissues that carry out specific functions. Inside cells, organelles perform essential processes and even the DNA and molecules within cells are highly organized to support the work of life. When structures are altered their function may be impaired."
+    "guidingQuestion": "How do the structures of organisms enable life's functions?",
+    "purpose": "The purpose of this component idea is for students to see that organisms are made of many parts with unique functions and structures that support those functions -- from the largest body parts down to the DNA inside of single cells. Each structure performs a narrow range of tasks. The function of every different part relates directly to its structure.",
+    "centralIdeas": [
+      "From the smallest particles inside of cells to the body parts of the largest organisms, living things are organized to perform tasks needed to grow, survive, and reproduce.",
+      "The bodies of large organisms have external parts and internal organs that specialize in certain tasks.",
+      "Cells group together in tissues that carry out specific functions.",
+      "Inside cells, organelles perform essential processes and even the DNA and molecules within cells are highly organized to support the work of life.",
+      "When structures are altered their function may be impaired."
+    ]
   },
   "gradeBandIntro": {
     "K-2": {
       "nrcQuote": "By the end of grade 2. All organisms have external parts. Different animals use their body parts in different ways to see, hear, grasp objects, protect themselves, move from place to place, and seek, find, and take in food, water, and air. Plants also have different parts (roots, stems, leaves, flowers, fruits) that help them survive, grow, and produce more plants. -NRC, 2012",
-      "progression": "Students are learning that animals need food and that plants need water and light to live and grow (LS1.C). This component idea is about the different parts of an organism that help them get the things they need. There are three main ideas to connect: organisms have needs, organisms are a collection of parts that perform a narrow range of functions, and each specialized part helps the organism meet its needs. For example, our hands and fingers have many joints that work well for grasping, we use our arms for reaching and the elbow helps us reach things that are close to our bodies as well as extend our arms to reach things that are further away, or the shape of the outer ear that funnels sound towards the inner parts of the ear.\n\nConcrete experiences help students connect structure to function. For example, mittens or popsicle stick finger splints change the structure of the hand. Students can experience how these changes affect their ability to grasp and do simple tasks. Select tasks that specifically connect structure and survival to an organism’s needs, such as removing grapes from their stems compared to writing their names. Similarly, splints that prevent students from using their elbows change the function of the arms so that they can still reach but no longer bring food to their mouths. Effective science instruction ensures that students connect these experiences to the ideas of structure and function.\n\nLimit the initial exploration of the structures of organisms to visible, external structures. In later grades, this component idea will eventually include internal structures that they cannot see and eventually microscopic structures such as cells and even smaller components inside of cells.\n\nStudents do not encounter invisible forms of matter until grades 3-5 so discussions about taking in air should focus on breathing through the nose or mouth as a common behavior in many living animals. The ideas of taking in food, water, and air are common experiences that are familiar to students – eating, drinking, and breathing. It is not necessary to talk about the different gases that make up air or any specific purpose for breathing."
+      "progression": "Students are learning that animals need food and that plants need water and light to live and grow (LS1.C). This component idea is about the different parts of an organism that help them get the things they need. There are three main ideas to connect: organisms have needs, organisms are a collection of parts that perform a narrow range of functions, and each specialized part helps the organism meet its needs. For example, our hands and fingers have many joints that work well for grasping, we use our arms for reaching and the elbow helps us reach things that are close to our bodies as well as extend our arms to reach things that are further away, or the shape of the outer ear that funnels sound towards the inner parts of the ear.\n\nConcrete experiences help students connect structure to function. For example, mittens or popsicle stick finger splints change the structure of the hand. Students can experience how these changes affect their ability to grasp and do simple tasks. Select tasks that specifically connect structure and survival to an organism's needs, such as removing grapes from their stems compared to writing their names. Similarly, splints that prevent students from using their elbows change the function of the arms so that they can still reach but no longer bring food to their mouths. Effective science instruction ensures that students connect these experiences to the ideas of structure and function.\n\nLimit the initial exploration of the structures of organisms to visible, external structures. In later grades, this component idea will eventually include internal structures that they cannot see and eventually microscopic structures such as cells and even smaller components inside of cells.\n\nStudents do not encounter invisible forms of matter until grades 3-5 so discussions about taking in air should focus on breathing through the nose or mouth as a common behavior in many living animals. The ideas of taking in food, water, and air are common experiences that are familiar to students -- eating, drinking, and breathing. It is not necessary to talk about the different gases that make up air or any specific purpose for breathing."
     },
     "3-5": {
-      "nrcQuote": "By the end of grade 5. Plants and animals have both internal and external structures that serve various functions in growth, survival, behavior, and reproduction. (Boundary: Stress at this grade level is on understanding the macroscale systems and their function, not microscopic processes.) – NRC, 2012",
-      "progression": "Students looked at the structure and function of external parts of plants and animals in earlier grades. At that time there was a very limited set of needs for living things to grow – plants need light and water, and animals need food. Students explored how the shape of external parts of organisms supports tasks that help plants and animals grow and stay alive.\n\nThere are two developments in grades 3-5 that affect this component idea. The first development is learning that there are invisible forms of matter. Students have already discussed that living things breathe in earlier grades. At that time there was no attempt to explain why. Now that students understand that air is made of particles, it is possible for students to understand that breathing is a way that living things take in air particles. The second development is that there can be unseen layers of organization. This allows students to consider that living things have internal structures. These internal structures perform a limited set of tasks just like external structures students studied in earlier grades. For example – organisms have lungs where air particles move to and from as they breathe in and out.\n\nInstruction should focus on internal structures that are related to grade-appropriate functions. For example, it is reasonable to talk about the windpipe/trachea that connects the mouth and nose to the lungs and allows air particles to move from outside the body into the lungs. Using grade-appropriate structures also allows students to see how changes to these structures will impede their function. For example, narrowing or obstructing the windpipe prevents air from reaching the lungs."
+      "nrcQuote": "By the end of grade 5. Plants and animals have both internal and external structures that serve various functions in growth, survival, behavior, and reproduction. (Boundary: Stress at this grade level is on understanding the macroscale systems and their function, not microscopic processes.) -- NRC, 2012",
+      "progression": "Students looked at the structure and function of external parts of plants and animals in earlier grades. At that time there was a very limited set of needs for living things to grow -- plants need light and water, and animals need food. Students explored how the shape of external parts of organisms supports tasks that help plants and animals grow and stay alive.\n\nThere are two developments in grades 3-5 that affect this component idea. The first development is learning that there are invisible forms of matter. Students have already discussed that living things breathe in earlier grades. At that time there was no attempt to explain why. Now that students understand that air is made of particles, it is possible for students to understand that breathing is a way that living things take in air particles. The second development is that there can be unseen layers of organization. This allows students to consider that living things have internal structures. These internal structures perform a limited set of tasks just like external structures students studied in earlier grades. For example -- organisms have lungs where air particles move to and from as they breathe in and out.\n\nInstruction should focus on internal structures that are related to grade-appropriate functions. For example, it is reasonable to talk about the windpipe/trachea that connects the mouth and nose to the lungs and allows air particles to move from outside the body into the lungs. Using grade-appropriate structures also allows students to see how changes to these structures will impede their function. For example, narrowing or obstructing the windpipe prevents air from reaching the lungs."
     },
     "6-8": {
-      "nrcQuote": "By the end of grade 8. All living things are made up of cells, which is the smallest unit that can be said to be alive. An organism may consist of one single cell (unicellular) or many different numbers and types of cells (multicellular). Unicellular organisms (microorganisms), like multicellular organisms, need food, water, a way to dispose of waste, and an environment in which they can live.",
-      "progression": "Within cells, special structures are responsible for particular functions, and the cell membrane forms the boundary that controls what enters and leaves the cell. In multicellular organisms, the body is a system of multiple interacting subsystems. These subsystems are groups of cells that work together to form tissues or organs that are specialized for particular body functions. (Boundary: At this grade level, only a few major cell structures should be introduced.) – NRC, 2012\n\nThe idea that all living things are made of cells and that all matter is made from a limited set of different types of atoms shapes the middle grades progression for this component idea.\n\nThe structures covered in this component idea have gotten progressively smaller through grade bands. First students considered only external parts of living things and how the structure of these parts contributed to their function. Then students learned that organisms have internal structures that help them get the bulk materials (e.g., food, water, air) they need to support growing and staying alive in earlier grades. The idea of internal organization progresses in this component idea as students learn that the structures they learned about in earlier grades are organized still further into tissues composed of different types of cells.\n\nStudents learn that some materials get used by living things and must be constantly replenished, but other materials accumulate and must be removed from our bodies. As students learn that “bodies” as collections of cells, they can understand that all those cells must have a way to receive the materials they use and ways to get rid of the materials that accumulate.\n\nFor example, students learn that “air” is really a collection of specific gases, such as carbon dioxide and oxygen gas. Cells far away from the lungs must be able to get oxygen and get rid of carbon dioxide. Students learn that different types of cells exist as tissues that make up structures such as the lungs, blood vessels, and/or blood that each perform a specific function to allow cells to exchange carbon dioxide and oxygen.\n\nThe idea of function being affected by structure also appears on a new scale. Students can consider how certain tissue types are necessary for the different larger structures to function. For example, this could include how arrangements of tissues in the lungs permit gas exchange. (Note: Middle school students are not expected to understand the differences between cell types that contribute to their unique functions.)"
+      "nrcQuote": "By the end of grade 8. All living things are made up of cells, which is the smallest unit that can be said to be alive. An organism may consist of one single cell (unicellular) or many different numbers and types of cells (multicellular). Unicellular organisms (microorganisms), like multicellular organisms, need food, water, a way to dispose of waste, and an environment in which they can live.\n\nWithin cells, special structures are responsible for particular functions, and the cell membrane forms the boundary that controls what enters and leaves the cell. In multicellular organisms, the body is a system of multiple interacting subsystems. These subsystems are groups of cells that work together to form tissues or organs that are specialized for particular body functions. (Boundary: At this grade level, only a few major cell structures should be introduced.) -- NRC, 2012",
+      "progression": "The idea that all living things are made of cells and that all matter is made from a limited set of different types of atoms shapes the middle grades progression for this component idea.\n\nThe structures covered in this component idea have gotten progressively smaller through grade bands. First students considered only external parts of living things and how the structure of these parts contributed to their function. Then students learned that organisms have internal structures that help them get the bulk materials (e.g., food, water, air) they need to support growing and staying alive in earlier grades. The idea of internal organization progresses in this component idea as students learn that the structures they learned about in earlier grades are organized still further into tissues composed of different types of cells.\n\nStudents learn that some materials get used by living things and must be constantly replenished, but other materials accumulate and must be removed from our bodies. As students learn that \"bodies\" as collections of cells, they can understand that all those cells must have a way to receive the materials they use and ways to get rid of the materials that accumulate.\n\nFor example, students learn that \"air\" is really a collection of specific gases, such as carbon dioxide and oxygen gas. Cells far away from the lungs must be able to get oxygen and get rid of carbon dioxide. Students learn that different types of cells exist as tissues that make up structures such as the lungs, blood vessels, and/or blood that each perform a specific function to allow cells to exchange carbon dioxide and oxygen.\n\nThe idea of function being affected by structure also appears on a new scale. Students can consider how certain tissue types are necessary for the different larger structures to function. For example, this could include how arrangements of tissues in the lungs permit gas exchange. (Note: Middle school students are not expected to understand the differences between cell types that contribute to their unique functions.)"
     },
     "Biology": {
-      "nrcQuote": "Systems of specialized cells within organisms help them perform the essential functions of life, which involve chemical reactions that take place between different types of molecules, such as water, proteins, carbohydrates, lipids, and nucleic acids. All cells contain genetic information in the form of DNA molecules. Genes are regions in the DNA that contain the instructions that code for the formation of proteins, which carry out most of the work of cells.",
-      "progression": "Multicellular organisms have a hierarchical structural organization, in which any one system is made up of numerous parts and is itself a component of the next level. Feedback mechanisms maintain a living system’s internal conditions within certain limits and mediate behaviors, allowing it to remain alive and functional even as external conditions change within some range. Outside that range (e.g., at a too-high or too-low external temperature, with too little food or water available), the organism cannot survive. Feedback mechanisms can encourage (through positive feedback) or discourage (negative feedback) what is going on inside the living system. – NRC, 2012\n\nThis progression includes three large ideas that emerge in high school.\n\nCells are organized and have internal components. The structure of these parts increases the efficiency of the unique reactions that occur within each part.\n\nGenes are highly organized sections of DNA where sections of the sequence (parts) play a role in regulating gene expression and thus the development of organisms.\n\nLiving things are a collection of chemical reactions and organisms have systems that maintain optimal conditions for these reactions to occur.\n\nAt all levels, living things are highly organized. Specialized parts perform a limited range of tasks that help an organism survive. The structure of each part is suited to its specific function. In early elementary school, students begin this progression by considering the large, external parts or organisms (e.g., elbows, ears) and how their structure is suited to their function. Internal parts of organisms, such as bones and organs, are added in intermediate grades. In middle school, students learn that organs are smaller parts of larger systems. The larger system and smaller components each have specialized functions and are organized in ways optimized for these functions, including different types of cells organized into tissues. The trend of exploring smaller and smaller parts continues in high school where students learn that cells contain internal parts with specialized roles.\n\nIn earlier grades, students learned that survival depends on getting food, water, and air. By middle school, students begin to understand that food provides both matter and energy needed to survive. In high school, students should understand that to “stay alive” means that an organism must sustain a collection of chemical reactions between a variety of molecules. These chemical reactions produce proteins, permit growth through cell division, etc. Cells are a system with internal components. The internal parts of cells have unique structures that increase the efficiency of specific sets of reactions that occur within each part.\n\nStudents should reach high school with an understanding that inheritance explains why there are similarities between parents and their offspring. In middle school, students learn that chromosomes contain genes from both parents and that the transfer of these genes from parent to offspring is the mechanism for inheritance. Students have not learned specifically about DNA, nor that genes are also organized. It is important for students to understand that all cells contain all genes and that the expression of different parts of these genes explains the variety of cells that arise as the cells in multicellular organisms divide and differentiate.\n\nIn intermediate grades, students learned that factors affect how quickly solids dissolve. Students were introduced to chemical reactions in the middle grades. These concepts are a likely starting point for students with less chemistry background to understand that conditions such as temperature affect how quickly life-sustaining reactions occur in living organisms. Organisms have mechanisms that serve to keep their bodies within a range of conditions that are ideal for the reactions that occur within their cells and bodies."
+      "nrcQuote": "Systems of specialized cells within organisms help them perform the essential functions of life, which involve chemical reactions that take place between different types of molecules, such as water, proteins, carbohydrates, lipids, and nucleic acids. All cells contain genetic information in the form of DNA molecules. Genes are regions in the DNA that contain the instructions that code for the formation of proteins, which carry out most of the work of cells.\n\nMulticellular organisms have a hierarchical structural organization, in which any one system is made up of numerous parts and is itself a component of the next level. Feedback mechanisms maintain a living system's internal conditions within certain limits and mediate behaviors, allowing it to remain alive and functional even as external conditions change within some range. Outside that range (e.g., at a too-high or too-low external temperature, with too little food or water available), the organism cannot survive. Feedback mechanisms can encourage (through positive feedback) or discourage (negative feedback) what is going on inside the living system. -- NRC, 2012",
+      "progression": "This progression includes three large ideas that emerge in high school.\n\n1. Cells are organized and have internal components. The structure of these parts increases the efficiency of the unique reactions that occur within each part.\n\n2. Genes are highly organized sections of DNA where sections of the sequence (parts) play a role in regulating gene expression and thus the development of organisms.\n\n3. Living things are a collection of chemical reactions and organisms have systems that maintain optimal conditions for these reactions to occur.\n\nAt all levels, living things are highly organized. Specialized parts perform a limited range of tasks that help an organism survive. The structure of each part is suited to its specific function. In early elementary school, students begin this progression by considering the large, external parts or organisms (e.g., elbows, ears) and how their structure is suited to their function. Internal parts of organisms, such as bones and organs, are added in intermediate grades. In middle school, students learn that organs are smaller parts of larger systems. The larger system and smaller components each have specialized functions and are organized in ways optimized for these functions, including different types of cells organized into tissues. The trend of exploring smaller and smaller parts continues in high school where students learn that cells contain internal parts with specialized roles.\n\nIn earlier grades, students learned that survival depends on getting food, water, and air. By middle school, students begin to understand that food provides both matter and energy needed to survive. In high school, students should understand that to \"stay alive\" means that an organism must sustain a collection of chemical reactions between a variety of molecules. These chemical reactions produce proteins, permit growth through cell division, etc. Cells are a system with internal components. The internal parts of cells have unique structures that increase the efficiency of specific sets of reactions that occur within each part.\n\nStudents should reach high school with an understanding that inheritance explains why there are similarities between parents and their offspring. In middle school, students learn that chromosomes contain genes from both parents and that the transfer of these genes from parent to offspring is the mechanism for inheritance. Students have not learned specifically about DNA, nor that genes are also organized. It is important for students to understand that all cells contain all genes and that the expression of different parts of these genes explains the variety of cells that arise as the cells in multicellular organisms divide and differentiate.\n\nIn intermediate grades, students learned that factors affect how quickly solids dissolve. Students were introduced to chemical reactions in the middle grades. These concepts are a likely starting point for students with less chemistry background to understand that conditions such as temperature affect how quickly life-sustaining reactions occur in living organisms. Organisms have mechanisms that serve to keep their bodies within a range of conditions that are ideal for the reactions that occur within their cells and bodies."
     }
   },
   "progression": {
     "columns": [
-      {
-        "key": "gradeBand",
-        "label": "Grade Band"
-      },
-      {
-        "key": "scale",
-        "label": "Scale"
-      },
-      {
-        "key": "parts",
-        "label": "Parts"
-      }
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "scale", "label": "Scale" },
+      { "key": "parts", "label": "Parts" }
     ],
     "table": [
       {
@@ -68,11 +65,36 @@
   },
   "standards": [
     {
-      "grade": "1",
-      "discipline": "LS",
+      "code": "K.LS1.2",
+      "grade": "K",
+      "statement": "Recognize differences between living organisms and non-living materials and sort them into groups by observable physical attributes.",
+      "bigIdea": "Living things have observable parts and behaviors that help them survive and grow. Non-living things do not have these needs.",
+      "scientificIdeas": [
+        "Living things have needs like water, food, air, and a place to live.",
+        "Living things have parts they use to take in food and water (e.g., mouths for eating and drinking, roots to absorb water).",
+        "Living things grow and change over time in predictable ways.",
+        "Living things can sense and move on their own as they grow (e.g., animals finding food, plants moving towards sunlight, growing upwards).",
+        "Living things are made of parts.",
+        "Some living things can move, but only when something else makes them move (e.g., clouds and leaves being blown, a ball rolling).",
+        "Non-living things do not grow or reproduce on their own.",
+        "Sorting objects into living and non-living groups requires looking at multiple attributes, not just one feature."
+      ],
+      "commonStudentIdeas": [
+        "Anything that moves is alive.",
+        "Anything that grows is alive (crystals, piles of sand).",
+        "The Sun, fire, or clouds are alive because they move and make heat.",
+        "Seeds are not alive because they don't do anything.",
+        "Living things must be animals.",
+        "Living things must make noise to be alive.",
+        "If something was once alive, it remains alive (e.g., a stick, cicada molt)."
+      ]
+    },
+    {
       "code": "1.LS1.1",
-      "statement": "1.LS1.1 – Develop and use a model to explain the structure of plants (i.e., roots, stems, leaves, flowers, fruits) and describe the function of the parts (taking in water and air, producing food, making new plants).",
-      "bigIdea": "Plants need light and water, and their flowers need pollinators to make fruit. Plants have structure of different plant parts to help them meet these needs.\n(Note: Plants need air, but it is not critical to emphasize this need to K-2 students since students won’t learn that air contains “stuff”—invisible particles used for growth and energy capture.)",
+      "grade": "1",
+      "statement": "Develop and use a model to explain the structure of plants (i.e., roots, stems, leaves, flowers, fruits) and describe the function of the parts (taking in water and air, producing food, making new plants).",
+      "bigIdea": "Plants need light and water, and their flowers need pollinators to make fruit. Plants have structure of different plant parts to help them meet these needs.",
+      "note": "Plants need air, but it is not critical to emphasize this need to K-2 students since students won't learn that air contains \"stuff\"---invisible particles used for growth and energy capture.",
       "scientificIdeas": [
         "Plants are alive and therefore they grow, make new plants, and will eventually die.",
         "Plants need water and light to survive and grow.",
@@ -80,57 +102,57 @@
         "Nearly all plants have the same basic parts with structures that reflect different approaches to meeting these needs.",
         "There are patterns where plants that grow in similar conditions will have similar structures to their parts.",
         "Plant stems help them grow towards light and take water from the roots.",
-        "There are different types of stems. They look and feel different because plants have a variety of strategies to getting to light – Stiff trunks help some plants grow above others, flexible stems can grow along the ground or wind and climb like vines.",
-        "Plant leaf shape and texture can vary large leaves allow plants to capture sunlight even in darker areas but may get “burnt” in sunny places. Smaller leaves are sufficient in bright areas. (Note: Students have not yet learned that water can evaporate or turn from a gas to a liquid. Without this knowledge, it may be difficult for students to understand how hairs or waxy leaf coverings keep the plant from drying out.)",
-        "Plants roots have different shapes – some roots grow as a single, long root. Having lots of tiny roots near the surface allows quick water absorption, while a single deep root reaches deeper into soils that may dry near the top. Some plants produce many little roots that spread out like a mat (fibrous roots). Other plants have one big root that grows deep down.",
+        "There are different types of stems. They look and feel different because plants have a variety of strategies to getting to light -- Stiff trunks help some plants grow above others, flexible stems can grow along the ground or wind and climb like vines.",
+        "Plant leaf shape and texture can vary large leaves allow plants to capture sunlight even in darker areas but may get \"burnt\" in sunny places. Smaller leaves are sufficient in bright areas. (Note: Students have not yet learned that water can evaporate or turn from a gas to a liquid. Without this knowledge, it may be difficult for students to understand how hairs or waxy leaf coverings keep the plant from drying out.)",
+        "Plants roots have different shapes -- some roots grow as a single, long root. Having lots of tiny roots near the surface allows quick water absorption, while a single deep root reaches deeper into soils that may dry near the top. Some plants produce many little roots that spread out like a mat (fibrous roots). Other plants have one big root that grows deep down.",
         "Plants with flowers produce seeds when they have been visited by pollinators. Seeds grow into new plants.",
         "Different types of flowers have unique colors, smells, and patterns that certain pollinators like.",
         "A flower on a plant only lasts a few days before the flowerhead begins to change.",
         "If a flower gets pollinated, seeds will develop where plants once had flowers.",
         "Not all seeds look the same, some seeds drop from old flowerheads, other seeds form inside of fruits or pods.",
-        "There are many different types of seeds that help plants spread and survive—seeds with fleshy fruit for animals to eat (e.g., apples, apricots, and peaches), small seeds or winged seeds that get carried by the wind (e.g., dandelion and maple), big seeds that store lots of food to help the young seedling survive until it grows its first leaves (e.g., avocado pits, acorns, and beans)."
+        "There are many different types of seeds that help plants spread and survive---seeds with fleshy fruit for animals to eat (e.g., apples, apricots, and peaches), small seeds or winged seeds that get carried by the wind (e.g., dandelion and maple), big seeds that store lots of food to help the young seedling survive until it grows its first leaves (e.g., avocado pits, acorns, and beans)."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "Plants grow because their roots get food from the soil.",
         "Plants only get water when it rains, or when they are watered.",
         "Plants produce fruit so that people and animals have something to eat.",
         "Stems are always stiff and straight.",
-        "Plant leaves aren’t important—they’re just for making shade.",
-        "Plant roots don’t grow."
+        "Plant leaves aren't important---they're just for making shade.",
+        "Plant roots don't grow."
       ]
     },
     {
-      "grade": "2",
-      "discipline": "LS",
       "code": "2.LS1.1",
-      "statement": "2.LS1.1 – Use evidence and observations to explain that many animals use their body parts and senses in different ways to see, hear, grasp objects, protect themselves, move from place to place, and seek, find, and take in food, water, and air.",
-      "bigIdea": "Animals have external body parts with structures that work well for doing certain things, but don’t work well for all tasks.\n(Note: Taking in air refers to the process of breathing (e.g., inhaling, exhaling), without the technical details. Students learn that air contains particles in grades 3-5, and that these particles contain specific gases like carbon dioxide and oxygen in middle school.)",
+      "grade": "2",
+      "statement": "Use evidence and observations to explain that many animals use their body parts and senses in different ways to see, hear, grasp objects, protect themselves, move from place to place, and seek, find, and take in food, water, and air.",
+      "bigIdea": "Animals have external body parts with structures that work well for doing certain things, but don't work well for all tasks.",
+      "note": "Taking in air refers to the process of breathing (e.g., inhaling, exhaling), without the technical details. Students learn that air contains particles in grades 3-5, and that these particles contain specific gases like carbon dioxide and oxygen in middle school.",
       "scientificIdeas": [
         "Animals have different body parts.",
         "Parts that have similar structures typically have similar functions, even in different types of animals (e.g., different animals have flat molars for chewing).",
         "The external parts have structures that are conducive to their respective purpose (e.g., fingers have joints for bending, ears capture and focus vibrations).",
-        "All animals have similar needs—breathing (taking in air), eating (taking in food), drinking (taking in water), and staying safe (protecting themselves).",
+        "All animals have similar needs---breathing (taking in air), eating (taking in food), drinking (taking in water), and staying safe (protecting themselves).",
         "There are many different types of animals and among them, they take many different approaches to meet their needs.",
         "Animals can see objects that are illuminated by a light source. Organisms have eyes that are positioned in different locations for different purposes (e.g., owls have forward facing eyes to locate prey, rabbits have eyes on side of head to scan for predators, and moles or cavefish have reduced or absent eyes because they live in the dark).",
         "All objects that make noise produce vibrations. Organisms have different structures for capturing these vibrations (e.g., Humans and dogs have ears with outer parts that direct sound into an ear canal, while frogs have visible eardrums on the outside of their heads. Fish sense vibrations in the water using special structures called lateral lines.).",
         "Organisms grasp for different purposes, moving from place to place, bringing food to mouth parts, using tools. Grasping parts have different structures depending on their specific purpose. Fingers and thumbs in chimpanzees allow for precision grasping, hawks have long/hooked talons to grasp prey, and animals that climb may have curled toes or suction cups.",
         "Protection can come in many forms (e.g., shells for shielding, or teeth and claws for defending actively, and camouflage for blending in with surroundings).",
-        "Organisms must move to meet their needs, including escaping predators, searching for food, and relocating to better environments. They have different ways of moving and patterns that match these different approaches—some animals run (long legs), others swim (fins, long body), fly (light, have wings), or burrow (short, strong arms with claws)."
+        "Organisms must move to meet their needs, including escaping predators, searching for food, and relocating to better environments. They have different ways of moving and patterns that match these different approaches---some animals run (long legs), others swim (fins, long body), fly (light, have wings), or burrow (short, strong arms with claws)."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "All animals breathe through their mouths.",
         "All animals hear the same way humans do.",
-        "Only hands are used for grasping—other animals don't grasp.",
-        "Movement only helps animals run away; it’s not needed for finding food or exploring.",
+        "Only hands are used for grasping---other animals don't grasp.",
+        "Movement only helps animals run away; it's not needed for finding food or exploring.",
         "If animals have eyes or ears, they all use them the same way and the parts will look the same."
       ]
     },
     {
-      "grade": "2",
-      "discipline": "LS",
       "code": "2.LS1.2",
-      "statement": "2.LS1.2 – Obtain and communicate information to classify animals (i.e., vertebrates: mammals, birds, amphibians, reptiles, fish; and invertebrates: insects) based on physical characteristics.",
-      "bigIdea": "Animals can be grouped by their physical features. Each group includes animals with different lifestyles and environments, but shared external structures help us recognize patterns across related animals.\n(Note: While the standard refers to \"vertebrates,\" students at this grade level have not yet been introduced to internal structures like skeletons. Classification should focus on observable parts such as body covering, number of legs, or presence of wings.)",
+      "grade": "2",
+      "statement": "Obtain and communicate information to classify animals (i.e., vertebrates: mammals, birds, amphibians, reptiles, fish; and invertebrates: insects) based on physical characteristics.",
+      "bigIdea": "Animals can be grouped by their physical features. Each group includes animals with different lifestyles and environments, but shared external structures help us recognize patterns across related animals.",
+      "note": "While the standard refers to \"vertebrates,\" students at this grade level have not yet been introduced to internal structures like skeletons. Classification should focus on observable parts such as body covering, number of legs, or presence of wings.",
       "scientificIdeas": [
         "Animals have bodies and their bodies have different visible parts.",
         "Many different types of animals have body parts that look similar and similar-looking parts are often used in similar ways (e.g., many animals have legs they use to move).",
@@ -140,23 +162,22 @@
         "It is often possible to divide a group of like animals into even smaller groups by looking for other similarities and differences.",
         "Putting animals into groups helps us see patterns in animal life and better understand their needs and behaviors of animals that are new to us."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "All animals that swim are fish.",
         "Anything that flies is a bird (e.g., bats, insects).",
         "Animals that live in the water must all breathe through gills.",
         "Furry animals are always pets or mammals are always tame.",
-        "Insects are just “bugs” and not real animals.",
+        "Insects are just \"bugs\" and not real animals.",
         "Animals can only belong to one group based on where they live (e.g., frogs are fish because they live in water).",
         "All animals breathe through their mouths.",
         "All animals have all of the same body parts, they may just look different."
       ]
     },
     {
-      "grade": "3",
-      "discipline": "LS",
       "code": "3.LS1.2",
-      "statement": "3.LS1.2 – Analyze the internal and external structures that aquatic and land animals and plants have to support survival, growth, behavior, and reproduction.",
-      "bigIdea": "Organisms are a large system that contains subsystems of organs that interact to keep the organism alive. [Clarification: Focus should be on large processes, not microscopic processes.]\nOrganisms have internal structures and organizations and like the external parts explored in earlier grades, these structures interact and support life functions. [Boundary: This standard does not attempt to establish a representative species but intends for students to explore the variety of ways that individual organisms achieve a common set of activities.]",
+      "grade": "3",
+      "statement": "Analyze the internal and external structures that aquatic and land animals and plants have to support survival, growth, behavior, and reproduction.",
+      "bigIdea": "Organisms are a large system that contains subsystems of organs that interact to keep the organism alive. [Clarification: Focus should be on large processes, not microscopic processes.] Organisms have internal structures and organizations and like the external parts explored in earlier grades, these structures interact and support life functions. [Boundary: This standard does not attempt to establish a representative species but intends for students to explore the variety of ways that individual organisms achieve a common set of activities.]",
       "scientificIdeas": [
         "Organisms survive within a certain range of conditions and have both internal and external parts that help them survive (meet their physical needs), grow, behave, and reproduce.",
         "Internal and external parts have structures suited to perform specific functions (e.g., Lungs are hollow chambers that fill with air, fur traps air to regulate body temperature).",
@@ -165,65 +186,63 @@
         "Groups of parts work together to help organisms perform the functions of life (e.g., muscles can push and pull on rigid bones to make movement possible in organisms that have a skeletal system).",
         "These parts may look different depending on whether the organism lives on land or in water.",
         "External parts such as fins, wings, and legs are shaped to help organisms move through their environment.",
-        "When a part’s structure changes or is damaged, its function may not work as well (e.g., a bruised finger may not bend properly; a blocked stem may prevent water from reaching a leaf)."
+        "When a part's structure changes or is damaged, its function may not work as well (e.g., a bruised finger may not bend properly; a blocked stem may prevent water from reaching a leaf)."
       ],
-      "studentIdeas": [
-        "The “guts” or inside of an organism are an unorganized mess.",
+      "commonStudentIdeas": [
+        "The \"guts\" or inside of an organism are an unorganized mess.",
         "Each system in an organism is isolated from the other systems.",
-        "Plants don’t have internal parts or structures.",
+        "Plants don't have internal parts or structures.",
         "All animals breathe the same way, no matter where they live.",
         "Only land animals have legs or ways to move.",
-        "Aquatic plants don’t need roots or stems.",
+        "Aquatic plants don't need roots or stems.",
         "Plants don't reproduce, they're just dug up and moved."
       ]
     },
     {
-      "grade": "7",
-      "discipline": "LS",
       "code": "7.LS1.1",
-      "statement": "7.LS1.1 - Develop models that identify and explain the structure and function of major cell organelles and structures (i.e., vacuoles, chloroplasts, lysosomes, mitochondria, cell membrane, cell wall, nucleus, cytoplasm) as they contribute to the life activities within a system.",
+      "grade": "7",
+      "statement": "Develop models that identify and explain the structure and function of major cell organelles and structures (i.e., vacuoles, chloroplasts, lysosomes, mitochondria, cell membrane, cell wall, nucleus, cytoplasm) as they contribute to the life activities within a system.",
       "bigIdea": "Cells have internal parts called organelles, many of which are visible with a light microscope. The structure of these organelles impacts their function and macroscopic structure, and functions depend on these structures found inside cells.",
       "scientificIdeas": [
         "All living things are made of cells, and cells are the smallest unit of life.",
-        "Each organelle within a cell has a specific function that supports the cell’s life processes.",
+        "Each organelle within a cell has a specific function that supports the cell's life processes.",
         "The structure of each organelle is related to the task it performs.",
         "The structure of the cell membrane creates a boundary that separates the inside of the cell from its surroundings. This boundary helps the cell keep the materials it needs for life processes in one place and controls what enters and leaves, helping the cell stay balanced and respond to changes in its environment. (Note: High school students will address the molecular properties of the membrane and how these support its function.)",
-        "The cytoplasm was first seen as an inactive, jelly-like filler in the cell when observed with the earliest microscopes. Using live cells and better microscopes it was possible to see movement in the cytoplasm. Scientists now understand this cytoplasmic streaming is deliberate and creates a net movement of materials towards the cell’s center.",
+        "The cytoplasm was first seen as an inactive, jelly-like filler in the cell when observed with the earliest microscopes. Using live cells and better microscopes it was possible to see movement in the cytoplasm. Scientists now understand this cytoplasmic streaming is deliberate and creates a net movement of materials towards the cell's center.",
         "Mitochondria were first observed and isolated in the 1850's. Originally called \"sarcosomes\" the understanding that these structures were responsible for energy production was due to the observable pattern that greater numbers of mitochondria are found in muscle tissues where energy used to create motion is higher.",
         "Reactions that produce energy in the mitochondria happen across its membranes. Folds in the membrane produce more surface area, to maximize energy creation in a small space. Muscle cells which use more energy contain higher number of mitochondria.",
         "Genes are contained on chromosomes found inside the cell's nucleus, enclosed by a nuclear membrane. The nucleus stores and protects these instructions, while the process of using those instructions to build proteins happens in the cytoplasm. By keeping these processes separate, yet linked by pores in the nucleus, the cell can better control how and when its genes are used.",
         "Compared to the cell's membrane, the nuclear membrane contains a unique lamina layer involved in the organization and positioning of chromosomes within the nucleus and the disassembly and reassembly of the nuclear membrane when the cell divides.",
-        "Beginning in the 1700s, scientists became interested in the ability of plants to produce “vital air” – air containing molecules later identified as oxygen. In the 1830s, scientists observed green-colored bodies in plant cells, later named chloroplasts. They noticed the pattern that these chloroplasts were found only in the green parts of plants, and only active in sunlight. Over time scientists connected these observations to the process of photosynthesis, in which the same reactions that release oxygen (vital air) also produce the sugars plants use for energy and growth.",
-        "Due to their large size—especially in plant cells—vacuoles were among the first cell structures observed. Early scientists often interpreted them as empty or accidental spaces, possibly the result of errors in slide preparation. As microscopes improved, scientists observed that vacuoles often contained pigments and other substances, leading to the understanding that vacuoles served as storage sites. Eventually, scientists discovered that vacuoles help regulate the amount of water inside a cell. In plants, this regulation maintains rigidity and structural support; in some unicellular organisms, like paramecium, it helps expel excess water to maintain internal balance.",
+        "Beginning in the 1700s, scientists became interested in the ability of plants to produce \"vital air\" -- air containing molecules later identified as oxygen. In the 1830s, scientists observed green-colored bodies in plant cells, later named chloroplasts. They noticed the pattern that these chloroplasts were found only in the green parts of plants, and only active in sunlight. Over time scientists connected these observations to the process of photosynthesis, in which the same reactions that release oxygen (vital air) also produce the sugars plants use for energy and growth.",
+        "Due to their large size---especially in plant cells---vacuoles were among the first cell structures observed. Early scientists often interpreted them as empty or accidental spaces, possibly the result of errors in slide preparation. As microscopes improved, scientists observed that vacuoles often contained pigments and other substances, leading to the understanding that vacuoles served as storage sites. Eventually, scientists discovered that vacuoles help regulate the amount of water inside a cell. In plants, this regulation maintains rigidity and structural support; in some unicellular organisms, like paramecium, it helps expel excess water to maintain internal balance.",
         "Cells may look and function differently based on the organelles they contain and the job they do in the organism.",
         "In plant cells, the cell wall (along with vacuole) causes cells to be rigid. This helps the plant maintain its shape, even as individual cells lose or gain water. The rigidity also allows groups of cells to form hollow channels that resist the pressure of water being pulled upwards through the plant.",
         "Lysosomes were not seen under early microscopes, but their existence was inferred when scientists noticed that certain cell reactions only occurred after the cells had been broken apart and left to sit. This suggested the presence of invisible compartments that held chemicals that could break down cell parts. Over time, scientists came to understand that these chemicals were stored inside membrane-bound structures, later named lysosomes, which help cells break down waste and recycle parts."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "Cells are empty or just blobs.",
         "All cells have all the same parts.",
         "The nucleus is the brain of the cell that makes decisions.",
         "Organelles can leave the cell.",
         "All cells have cell walls.",
-        "Cytoplasm is just a stationary, jelly-like material that does not affect the cell’s function.",
+        "Cytoplasm is just a stationary, jelly-like material that does not affect the cell's function.",
         "Scientists watch the parts of a cell move around to see what they are doing."
       ]
     },
     {
-      "grade": "7",
-      "discipline": "LS",
       "code": "7.LS1.2",
-      "statement": "7.LS1.2 - Obtain information about the cellular structures of unicellular and multicellular organisms across kingdoms and domains in order to compare how these structures support the functions (i.e., obtain food, water, waste disposal, and the environment in which they live) of the organism.",
+      "grade": "7",
+      "statement": "Obtain information about the cellular structures of unicellular and multicellular organisms across kingdoms and domains in order to compare how these structures support the functions (i.e., obtain food, water, waste disposal, and the environment in which they live) of the organism.",
       "bigIdea": "All living things, from single-celled organisms to complex multicellular organisms, use their internal structures to perform life functions. Multicellular organisms have organ systems to meet these needs, but unicellular organisms meet the same needs within a single cell through structures called organelles.",
       "scientificIdeas": [
-        "All living things – unicellular and multicellular – have some overlapping needs: sources of energy, sources of matter (for growth and division), water (for transporting substances and supporting chemical reactions), to exchange gases with the surroundings and remove waste.",
+        "All living things -- unicellular and multicellular -- have some overlapping needs: sources of energy, sources of matter (for growth and division), water (for transporting substances and supporting chemical reactions), to exchange gases with the surroundings and remove waste.",
         "Multicellular organisms possess systems of organs to meet these needs.",
         "Multicellular organisms are made of many cells, each specialized for particular tasks.",
         "Cells in multicellular organisms work together to meet the needs of the organisms, which also include the needs of individual cells.",
         "In multicellular organisms, groups of cells are able to function as part of a larger structure.",
         "Organelles within unicellular organisms meet their needs of individual cells."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "All living things are big enough to see without a microscope.",
         "Unicellular organisms are just simpler versions of plants or animals.",
         "Unicellular organisms have organs inside them just like multicellular organisms.",
@@ -234,10 +253,9 @@
       ]
     },
     {
-      "grade": "7",
-      "discipline": "LS",
       "code": "7.LS1.3",
-      "statement": "7.LS1.3 - Develop and use a hierarchical model of a multicellular organism to explain that the body of humans and other animals is a system of multiple interacting subsystems specialized for particular body functions [e.g., digestion, respiration, excretion, circulation, sensation (nervous and integumentary), locomotion (musculoskeletal), reproduction, and immunity].",
+      "grade": "7",
+      "statement": "Develop and use a hierarchical model of a multicellular organism to explain that the body of humans and other animals is a system of multiple interacting subsystems specialized for particular body functions [e.g., digestion, respiration, excretion, circulation, sensation (nervous and integumentary), locomotion (musculoskeletal), reproduction, and immunity].",
       "bigIdea": "Multicellular organisms are systems of interacting subsystems. The subsystems are composed of tissues and organs made from specialized cells, which each contribute to body-level functions like digestion, circulation, and reproduction.",
       "scientificIdeas": [
         "Cells are the smallest unit of life.",
@@ -250,10 +268,10 @@
         "Organ systems interact with each other and depend on each other.",
         "The cells in a multicellular organism all come from a single cell, but as they divide, the cells respond to external signals, express different genes, and which leads to cell specialization.",
         "The cell is the building block of all living things. All living things are made of at least one cell.",
-        "Individual cells have nearly identical needs – whether in unicellular or multicellular organisms.",
+        "Individual cells have nearly identical needs -- whether in unicellular or multicellular organisms.",
         "In multicellular organisms, the needs of the organism are accomplished by groups of cells with specialized functions."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "Cells in multicellular organisms are all the same.",
         "Only organs perform functions. The cells just hold the organs together.",
         "Each system in the body works on its own but does not depend on other systems.",
@@ -262,13 +280,11 @@
       ]
     },
     {
-      "grade": "Bio1",
-      "discipline": "LS",
       "code": "Bio1.LS1.1",
-      "statement": "Bio1.LS1.1 – Construct an explanation based on evidence that the essential functions of life are primarily carried out through the work of proteins that are coded for by genes in DNA, as described by the Central Dogma (i.e., transcription, translation).",
-      "bigIdea": "Genes are organized sequences of DNA that include regions with specific functions. The expression of coding regions of DNA produces proteins through the processes of transcription and translation.\n(overlap with LS3.A endpoints)",
+      "grade": "Biology",
+      "statement": "Construct an explanation based on evidence that the essential functions of life are primarily carried out through the work of proteins that are coded for by genes in DNA, as described by the Central Dogma (i.e., transcription, translation).",
+      "bigIdea": "Genes are organized sequences of DNA that include regions with specific functions. The expression of coding regions of DNA produces proteins through the processes of transcription and translation. (overlap with LS3.A endpoints)",
       "scientificIdeas": [
-        "Proteins:",
         "Most of the macroscopic features and processes of living things depend on interactions between proteins at the sub-cellular scale. Various conditions and disorders arise in cells/organisms that are unable to produce proteins, produce too much of a protein, or produce altered forms of a protein.",
         "Each different type of organism produces a unique set of proteins. Even in organisms of the same type, there can be variation in the expression of proteins.",
         "Proteins are particles made in cells that are smaller than cells. They exist inside cells, embedded in other cell parts, or outside of cells in multicellular organisms.",
@@ -278,13 +294,11 @@
         "Proteins perform a variety of roles in which they interact with different compounds, such as other proteins, sections of DNA, materials such as carbohydrates that are consumed by organisms, etc.",
         "When a protein interacts with another compound, the shape of the protein changes. Shape changes can enable further reactions. In other cases, shape changes prevent further reactions. These shape changes allow proteins to be involved with a variety of feedback mechanisms.",
         "It is possible for a protein to take an irregular shape, either during or even after it is produced.",
-        "DNA, Chromosomes, and Genes:",
-        "All living things contain cells with DNA. In multicellular organisms, the DNA can take the form of a chromosome – a nucleic acid molecule made of a very long chain of nucleotides.",
+        "All living things contain cells with DNA. In multicellular organisms, the DNA can take the form of a chromosome -- a nucleic acid molecule made of a very long chain of nucleotides.",
         "Nucleotides are incredibly small pieces that make up a molecule of DNA. This molecule is not visible, even with a microscope, except when the chain wraps/bundles up tightly.",
-        "Then entire nucleotide chain is made of four different nucleotides – adenine, thymine, guanine, and cytosine. Adenine and thymine nucleotides occur in equal amounts, and the nucleotides guanine and cytosine occur in equal amounts.",
-        "Each chromosome is organized and has sections of nucleotides called genes. There are many genes on a single chromosome.",
+        "Then entire nucleotide chain is made of four different nucleotides -- adenine, thymine, guanine, and cytosine. Adenine and thymine nucleotides occur in equal amounts, and the nucleotides guanine and cytosine occur in equal amounts.",
+        "Each chromosome is organized and has sections of nucleotides called genes. There are many genes on a single chromosome.",
         "Each gene is organized into sections of nucleotides with specific functions: a promoter region of nucleotides where RNA polymerase bonds, sequences of nucleotides that can block or allow RNA polymerase, a coding region that is transcribed to make a mRNA molecule, and a termination sequence that stops the transcription of the mRNA.",
-        "Genes to Proteins",
         "The major tasks involved in producing a protein from the information encoded in a gene are transcription and translation.",
         "During the process of transcription, an enzyme called RNA polymerase creates an RNA copy of one strand of DNA. This copy is called mRNA.",
         "Transcription occurs in the nucleus and results in the creation of an RNA copy of the gene that can travel out of the nucleus.",
@@ -293,16 +307,15 @@
         "Translation occurs at ribosomes outside of the nucleus. This is a metabolic process where sets of 3 nucleotides correspond with a specific amino acid.",
         "As the ribosome processes the mRNA strand, three nucleotides at a time, a growing chain of amino acids forms. This chain of amino acids is one of many proteins that carry out the essential functions of life at the molecular level."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "We get the proteins we need from the food we eat.",
         "Cells only contain the genes for the proteins they need."
       ]
     },
     {
-      "grade": "Bio1",
-      "discipline": "LS",
       "code": "Bio1.LS1.2",
-      "statement": "Bio1.LS1.2 – Plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis.",
+      "grade": "Biology",
+      "statement": "Plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis.",
       "bigIdea": "Organisms survive in a variety of external conditions because they have feedback mechanisms that maintain relatively stable internal conditions.",
       "scientificIdeas": [
         "Living things depend on a variety of metabolic pathways (sequences of chemical reactions).",
@@ -312,15 +325,15 @@
         "A feedback loop happens when the presence of one thing causes a change in a pathway.",
         "A negative feedback mechanism in a pathway will slow down or turn off a pathway.",
         "A positive feedback mechanism in a pathway will cause the pathway to increase its output.",
-        "Organisms have feedback loops at multiple scales – gene regulation, cell activities, and interactions between organ systems."
+        "Organisms have feedback loops at multiple scales -- gene regulation, cell activities, and interactions between organ systems."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "Homeostasis is the same thing as chemical equilibrium."
       ]
     }
   ],
   "metadata": {
-    "version": "2026-01-05",
-    "source": "TN Science IFDs - LS1.A"
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
   }
 }

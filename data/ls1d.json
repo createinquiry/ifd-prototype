@@ -7,50 +7,44 @@
   "chapterOverview": {
     "guidingQuestion": "How do organisms detect, process, and use information about the environment?",
     "purpose": "The purpose of this component idea is to help students understand that living things have systems that gather information about their surroundings and systems that guide their responses.",
-    "centralIdeas": "The ability to sense and respond to environmental information is central to survival. Animals have specialized structures for detecting different kinds of stimuli (lights, sound, chemical signals, mechanical forces, temperature, etc.). Information from receptors is transmitted to processing centers (e.g., brains), where it may lead to immediate behaviors or be stored as memories. Brain function in complex animals involves coordinated activity across specialized regions. Plants also respond to environmental inputs, though without nervous systems."
+    "centralIdeas": [
+      "The ability to sense and respond to environmental information is central to survival.",
+      "Animals have specialized structures for detecting different kinds of stimuli (lights, sound, chemical signals, mechanical forces, temperature, etc.).",
+      "Information from receptors is transmitted to processing centers (e.g., brains), where it may lead to immediate behaviors or be stored as memories.",
+      "Brain function in complex animals involves coordinated activity across specialized regions.",
+      "Plants also respond to environmental inputs, though without nervous systems."
+    ]
   },
   "gradeBandIntro": {
     "K-2": {
-      "nrcQuote": "By the end of grade 2. Animals have body parts that capture and convey different kinds of information needed for growth and survival-for example, eyes for light, ears for sound, and skin for temperature and touch. Animals respond to these inputs with behaviors that help them survive (e.g., find food, run from predator). Plants also respond to some external inputs (e.g., turn leaves toward the sun). \n – NRC, 2012",
-      "progression": "Animals need to be able to gather information about their surroundings in order to survive. In the early grades, students begin to learn that different body parts allow them to sense different things in the environment (e.g., eyes for light, ears for sound, noses for smell, and skin for touch). These inputs guide behaviors that help animals meet basic needs, such as finding food or avoiding danger. For example, a hummingbird uses its eyes to sense the bright colors of flowers (collecting an input). It then seems to “figure out” that the bright colors indicate a nectar source which leads it to fly to the flower and use its beak to feed on nectar. This sequence highlights how sensory input supports survival by guiding an animal’s decisions and actions.\n\nSince students and animals share many senses, animals feel familiar and easy to connect with. This makes it especially important to highlight that plants respond to their environment even without having the same senses. For instance, plants turn their leaves toward sunlight or wilt when water is scarce. Wilting is often misinterpreted as a sign that the plant is dying, but it is actually a survival response that reduces water loss. Including plant examples ensures that students see sensing and responding as a broader feature of life, not something limited to animals.\n\nInstructionally, teachers can explore students’ existing ideas about how body parts help animals and humans know what is around them, then press for evidence by asking students to explain how they know a body part helps them sense something (e.g., “How do you know your eyes help you see the flower?”). Teachers can also highlight the key science idea that animals have different body parts that are specialized to detect specific inputs from the environment. By focusing on visible and concrete structures and the simple behaviors they support, students lay the foundation for later grades, where internal sensory receptors and the brain’s role in processing information will be introduced."
+      "nrcQuote": "By the end of grade 2. Animals have body parts that capture and convey different kinds of information needed for growth and survival-for example, eyes for light, ears for sound, and skin for temperature and touch. Animals respond to these inputs with behaviors that help them survive (e.g., find food, run from predator). Plants also respond to some external inputs (e.g., turn leaves toward the sun). -- NRC, 2012",
+      "progression": "Animals need to be able to gather information about their surroundings in order to survive. In the early grades, students begin to learn that different body parts allow them to sense different things in the environment (e.g., eyes for light, ears for sound, noses for smell, and skin for touch). These inputs guide behaviors that help animals meet basic needs, such as finding food or avoiding danger. For example, a hummingbird uses its eyes to sense the bright colors of flowers (collecting an input). It then seems to \"figure out\" that the bright colors indicate a nectar source which leads it to fly to the flower and use its beak to feed on nectar. This sequence highlights how sensory input supports survival by guiding an animal's decisions and actions.\n\nSince students and animals share many senses, animals feel familiar and easy to connect with. This makes it especially important to highlight that plants respond to their environment even without having the same senses. For instance, plants turn their leaves toward sunlight or wilt when water is scarce. Wilting is often misinterpreted as a sign that the plant is dying, but it is actually a survival response that reduces water loss. Including plant examples ensures that students see sensing and responding as a broader feature of life, not something limited to animals.\n\nInstructionally, teachers can explore students' existing ideas about how body parts help animals and humans know what is around them, then press for evidence by asking students to explain how they know a body part helps them sense something (e.g., \"How do you know your eyes help you see the flower?\"). Teachers can also highlight the key science idea that animals have different body parts that are specialized to detect specific inputs from the environment. By focusing on visible and concrete structures and the simple behaviors they support, students lay the foundation for later grades, where internal sensory receptors and the brain's role in processing information will be introduced."
     },
     "3-5": {
-      "nrcQuote": "By the end of grade 5. Different sense receptors are specialized for specific types of information, which may then be processed and integrated by an animal’s brain, with some information stored as memories. Animals are able to use their perceptions and memories to guide their actions. Some responses to information are instinctive-that is, the animal’s brains are organized so that they do not have to think about how to respond to certain stimuli. – NRC, 2012",
-      "progression": "In upper elementary, students begin to recognize that organisms have internal structures that explain how sensing and responding occur. This marks an important shift in scale: while younger students focus on external body parts like eyes and ears, students at this level learn that these parts contain specialized internal structures that detect particular kinds of input, such as the retina in the eye or the eardrum in the ear. This grade band also introduces the brain as a physical structure that collects and processes information from multiple senses, with the capacity to store some of that information as memory. These new ideas help students explain more complex behaviors, such as how an animal remembers the location of food or instinctively flees from danger.\n\nThe grade 5 standard (5.LS1.1) asks students to compare instinctive and learned behaviors, but the intent goes beyond sorting examples into categories. The deeper goal is for students to explain how information gathered by the senses is processed in the brain and used to guide actions. By recognizing that some actions are stored as memory while others are immediate and instinctive, students connect behaviors to the internal systems that make them possible.\n\nInstructionally, teachers can make student thinking visible by exploring phenomena where animals respond directly to a stimulus and asking them to share what they think happens “inside” when an animal sees, hears, or smells something. Students can express their responses through discussions, drawing explanatory models, etc. Teachers can then press for evidence and connect ideas to science content and helping students uncover that animals must have internal receptors within body parts and the ability for the brain to integrate information from different senses. Highlighting these hidden structures helps students move from simply naming external parts to explaining how those parts work together with the brain to guide behavior.\n\nStudents will be introduced to cells in middle school creating the opportunity to discuss neurons, rods and cone cells of the retina, hair cells within the ear, etc. In late elementary it is sufficient to discuss these structures as parts of a larger structure – the retina is a part of the eye – without going into the composition of the smaller parts. By focusing on larger internal structures, students have the opportunity to consider how different parts work as a system to permit the function of the structure. For example, the lens focuses light on the retina where the image is captured and sent to the brain."
+      "nrcQuote": "By the end of grade 5. Different sense receptors are specialized for specific types of information, which may then be processed and integrated by an animal's brain, with some information stored as memories. Animals are able to use their perceptions and memories to guide their actions. Some responses to information are instinctive-that is, the animal's brains are organized so that they do not have to think about how to respond to certain stimuli. -- NRC, 2012",
+      "progression": "In upper elementary, students begin to recognize that organisms have internal structures that explain how sensing and responding occur. This marks an important shift in scale: while younger students focus on external body parts like eyes and ears, students at this level learn that these parts contain specialized internal structures that detect particular kinds of input, such as the retina in the eye or the eardrum in the ear. This grade band also introduces the brain as a physical structure that collects and processes information from multiple senses, with the capacity to store some of that information as memory. These new ideas help students explain more complex behaviors, such as how an animal remembers the location of food or instinctively flees from danger.\n\nThe grade 5 standard (5.LS1.1) asks students to compare instinctive and learned behaviors, but the intent goes beyond sorting examples into categories. The deeper goal is for students to explain how information gathered by the senses is processed in the brain and used to guide actions. By recognizing that some actions are stored as memory while others are immediate and instinctive, students connect behaviors to the internal systems that make them possible.\n\nInstructionally, teachers can make student thinking visible by exploring phenomena where animals respond directly to a stimulus and asking them to share what they think happens \"inside\" when an animal sees, hears, or smells something. Students can express their responses through discussions, drawing explanatory models, etc. Teachers can then press for evidence and connect ideas to science content and helping students uncover that animals must have internal receptors within body parts and the ability for the brain to integrate information from different senses. Highlighting these hidden structures helps students move from simply naming external parts to explaining how those parts work together with the brain to guide behavior.\n\nStudents will be introduced to cells in middle school creating the opportunity to discuss neurons, rods and cone cells of the retina, hair cells within the ear, etc. In late elementary it is sufficient to discuss these structures as parts of a larger structure -- the retina is a part of the eye -- without going into the composition of the smaller parts. By focusing on larger internal structures, students have the opportunity to consider how different parts work as a system to permit the function of the structure. For example, the lens focuses light on the retina where the image is captured and sent to the brain."
     },
     "6-8": {
-      "nrcQuote": "By the end of grade 8. Each sense receptor responds to different inputs (electromagnetic, mechanical, chemical) transmitting them as signals that travel along nerve cells to the brain. The signals are then processed in the brain, resulting in immediate behaviors or memories. Changes in the structure and functioning of many millions of interconnected nerve cells allow the combined inputs to be stored as memories for long periods of time. – NRC, 2012",
-      "progression": "In middle school, students’ new understanding that all living things are made of cells provides the foundation for studying nerve cells and the nervous system. This allows them to revisit earlier ideas about senses and the brain at a new scale of complexity.\n\nStudents learn that specialized nerve cells respond to specific types of input: electromagnetic (light), mechanical (e.g., hearing, touch), or chemical (e.g., smell, taste). Each receptor cell generates a signal in response to an input, and strands of nerve cells transmit these signals to the brain. For example, rod and cone cells in the eye detect light and send signals through the optic nerve. Teachers can elicit and refine student ideas by asking how inputs like light or sound are turned into signals the brain can use.\n\nThe brain processes these signals by activating connections among neurons. Students begin to see that processing is not just “the brain thinking” but the coordinated activity of many circuits of neurons within regions of the brain. Some responses are possible because nerve connections are present from birth (instincts), while others depend on experiences that change and strengthen nerve connections (learned behaviors).\n\nIf a person looks at a circle, for instance, thousands of rod and cone cells send signals at once, which are processed into an image by visual circuits. Prior experiences and memories strengthen certain connections, enabling recognition of familiar shapes like circles. Instructionally, teachers can press for evidence by asking students to explain how the brain uses both current input and prior experience to interpret what is seen.\n\nOnce signals are processed, the brain directs actions across body systems through outgoing nerve signals. Some responses are immediate and automatic (e.g., blinking at a sudden light), while others involve learned coordination and memory. For example, learning to navigate a video game requires the strengthening of connections between visual and tactile circuits, so that over time the player can act quickly without consciously thinking about each movement. This illustrates how responses are shaped both by instinctive circuits and by learned changes in neural connections.\n\nBy the end of middle school, students should understand that the nervous system forms a connected pathway: sense receptors detect inputs, signals travel along neurons to the brain for processing, and the brain directs responses. Teachers can help students connect these science ideas by using models to show the flow of signals and by highlighting how memory and learning are tied to strengthening connections among neurons. These ideas prepare students for high school discussions about emotions, memory recall, and how integrated brain functions support survival and reproduction."
+      "nrcQuote": "By the end of grade 8. Each sense receptor responds to different inputs (electromagnetic, mechanical, chemical) transmitting them as signals that travel along nerve cells to the brain. The signals are then processed in the brain, resulting in immediate behaviors or memories. Changes in the structure and functioning of many millions of interconnected nerve cells allow the combined inputs to be stored as memories for long periods of time. -- NRC, 2012",
+      "progression": "In middle school, students' new understanding that all living things are made of cells provides the foundation for studying nerve cells and the nervous system. This allows them to revisit earlier ideas about senses and the brain at a new scale of complexity.\n\nStudents learn that specialized nerve cells respond to specific types of input: electromagnetic (light), mechanical (e.g., hearing, touch), or chemical (e.g., smell, taste). Each receptor cell generates a signal in response to an input, and strands of nerve cells transmit these signals to the brain. For example, rod and cone cells in the eye detect light and send signals through the optic nerve. Teachers can elicit and refine student ideas by asking how inputs like light or sound are turned into signals the brain can use.\n\nThe brain processes these signals by activating connections among neurons. Students begin to see that processing is not just \"the brain thinking\" but the coordinated activity of many circuits of neurons within regions of the brain. Some responses are possible because nerve connections are present from birth (instincts), while others depend on experiences that change and strengthen nerve connections (learned behaviors).\n\nIf a person looks at a circle, for instance, thousands of rod and cone cells send signals at once, which are processed into an image by visual circuits. Prior experiences and memories strengthen certain connections, enabling recognition of familiar shapes like circles. Instructionally, teachers can press for evidence by asking students to explain how the brain uses both current input and prior experience to interpret what is seen.\n\nOnce signals are processed, the brain directs actions across body systems through outgoing nerve signals. Some responses are immediate and automatic (e.g., blinking at a sudden light), while others involve learned coordination and memory. For example, learning to navigate a video game requires the strengthening of connections between visual and tactile circuits, so that over time the player can act quickly without consciously thinking about each movement. This illustrates how responses are shaped both by instinctive circuits and by learned changes in neural connections.\n\nBy the end of middle school, students should understand that the nervous system forms a connected pathway: sense receptors detect inputs, signals travel along neurons to the brain for processing, and the brain directs responses. Teachers can help students connect these science ideas by using models to show the flow of signals and by highlighting how memory and learning are tied to strengthening connections among neurons. These ideas prepare students for high school discussions about emotions, memory recall, and how integrated brain functions support survival and reproduction."
     },
     "Biology": {
-      "nrcQuote": "In complex animals, the brain is divided into several distinct regions and circuits, each of which primarily serves dedicated functions, such as visual perception, auditory perception, interpretation of perceptual information, guidance of motor movement, and decision-making about actions to take in the event of certain inputs. In addition, some circuits give rise to emotions and memories that motivate organisms to seek rewards, avoid punishments, develop fears, or form attachments to members of their own species and, in some cases, to individuals of other species (e.g., mixed herds of mammals, mixed flocks of birds). The integrated functioning of all parts of the brain is important for the successful interpretation of inputs and generation of behaviors in response to them. – NRC, 2012",
-      "progression": "Neurons are a specialized type of cell in the brain that send and receive signals. A neuron can connect to many other neurons. This allows a single neuron to receive signals from more than one other neuron. A single neuron can also send a signal to more than one other neuron. The network of connections in the brain can become extremely complex because each neuron can connect to so many other neurons. Specialized cells can be activated by specific inputs. These cells send signals to the brain and the brain processes these signals in circuits of neurons. The brain can also generate signals that travel to different types of specialized cells that allow an organism to respond to the stimulus.\n\nThere are patterns where the same type of input will activate similar circuits of neurons. The brain is organized, and circuits responsible for related tasks are close to each other. Data collected showing which circuits are activated by certain events reveal that the brain is organized into regions and the circuits in each region are responsible for a limited range of specialized tasks.\n\nEmotions are created by activity in circuits in the brain. Activity in some parts of the brain is expected for a certain stimulus. For example, circuits in the part of the brain that processes input from the eyes are likely to have activity when an object moves suddenly across a person’s field of view. There will also be activity in the parts of the brain that generate emotions. These emotions help an organism survive. If the moving object causes the person to feel surprised, their body is more prepared to move quickly out of the way of something like a falling object. Emotions also drive organisms to sense and respond to social connections that lead to groups which are an advantage to members of the group.\n\nMemories form when the brain uses the same circuits over and over. For example, similar neural circuits activate each time we see the same object or smell a familiar scent. With repeated use, the connections between the nerve cells become stronger. Some of the connections can become so strong that they can be activated without the typical external stimulus. For example, we can visualize our best friend’s face or seem to smell a familiar soap even when that friend or soap is not around us. Circuits may also trigger other circuits – a particular perfume may activate one set of nerve cells that is so tightly associated with another set of circuits that we recall memories of a person who wore that perfume.\n\nThe brain receives countless stimuli all at once. The brain must coordinate all these inputs and respond accordingly. There are circuits in the brain that are responsible for tuning out distractions. A person’s interpretation and response to stimuli depends on multiple circuits activating and regulating their response."
+      "nrcQuote": "In complex animals, the brain is divided into several distinct regions and circuits, each of which primarily serves dedicated functions, such as visual perception, auditory perception, interpretation of perceptual information, guidance of motor movement, and decision-making about actions to take in the event of certain inputs. In addition, some circuits give rise to emotions and memories that motivate organisms to seek rewards, avoid punishments, develop fears, or form attachments to members of their own species and, in some cases, to individuals of other species (e.g., mixed herds of mammals, mixed flocks of birds). The integrated functioning of all parts of the brain is important for the successful interpretation of inputs and generation of behaviors in response to them. -- NRC, 2012",
+      "progression": "Neurons are a specialized type of cell in the brain that send and receive signals. A neuron can connect to many other neurons. This allows a single neuron to receive signals from more than one other neuron. A single neuron can also send a signal to more than one other neuron. The network of connections in the brain can become extremely complex because each neuron can connect to so many other neurons. Specialized cells can be activated by specific inputs. These cells send signals to the brain and the brain processes these signals in circuits of neurons. The brain can also generate signals that travel to different types of specialized cells that allow an organism to respond to the stimulus.\n\nThere are patterns where the same type of input will activate similar circuits of neurons. The brain is organized, and circuits responsible for related tasks are close to each other. Data collected showing which circuits are activated by certain events reveal that the brain is organized into regions and the circuits in each region are responsible for a limited range of specialized tasks.\n\nEmotions are created by activity in circuits in the brain. Activity in some parts of the brain is expected for a certain stimulus. For example, circuits in the part of the brain that processes input from the eyes are likely to have activity when an object moves suddenly across a person's field of view. There will also be activity in the parts of the brain that generate emotions. These emotions help an organism survive. If the moving object causes the person to feel surprised, their body is more prepared to move quickly out of the way of something like a falling object. Emotions also drive organisms to sense and respond to social connections that lead to groups which are an advantage to members of the group.\n\nMemories form when the brain uses the same circuits over and over. For example, similar neural circuits activate each time we see the same object or smell a familiar scent. With repeated use, the connections between the nerve cells become stronger. Some of the connections can become so strong that they can be activated without the typical external stimulus. For example, we can visualize our best friend's face or seem to smell a familiar soap even when that friend or soap is not around us. Circuits may also trigger other circuits -- a particular perfume may activate one set of nerve cells that is so tightly associated with another set of circuits that we recall memories of a person who wore that perfume.\n\nThe brain receives countless stimuli all at once. The brain must coordinate all these inputs and respond accordingly. There are circuits in the brain that are responsible for tuning out distractions. A person's interpretation and response to stimuli depends on multiple circuits activating and regulating their response."
     }
   },
   "progression": {
     "columns": [
-      {
-        "key": "gradeBand",
-        "label": "Grade Band"
-      },
-      {
-        "key": "sensoryInput",
-        "label": "Sensory Input"
-      },
-      {
-        "key": "processing",
-        "label": "Processing"
-      },
-      {
-        "key": "outputResponse",
-        "label": "Output/Response"
-      }
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "sensoryInput", "label": "Sensory Input" },
+      { "key": "processing", "label": "Processing" },
+      { "key": "outputResponse", "label": "Output/Response" }
     ],
     "table": [
       {
         "gradeBand": "K-2",
         "sensoryInput": "External body parts (e.g., ears, eyes, nose) gather or communicate information; plants detect light and other cues",
-        "processing": "Animals seem to “figure out” what to do.",
+        "processing": "Animals seem to \"figure out\" what to do.",
         "outputResponse": "Animals use information for survival behaviors; plants use information for growth and movements."
       },
       {
@@ -72,13 +66,12 @@
         "outputResponse": "The brain directs actions across body systems, with emotions and memories shaping behaviors that support survival and reproduction."
       }
     ],
-    "narrative": "There are three dimensions to the progression for LS1.D: how organisms detect information, how they process it, and how they respond. This explanation identifies the underlying pattern and highlights the shifts in scale and complexity across those three dimensions.\n\nAcross the inputs progression, the physical structures used to collect information and the types of inputs become more complex, moving from external parts to specialized receptors within those parts, and to interconnected systems. For example, early grade students describe visible body parts such as the eyes or ears that detect information, while by upper elementary they recognize that these same parts contain internal structures like the retina or eardrum that detect specific types of input. This follows the typical progression between early and late elementary that moves from the concrete and visible to the hidden parts of systems; “Having a part that senses” develops into a more detailed understanding of specialized receptors within that part, showing the shift in scale and complexity that continues into later grades.\n\nAcross the processing progression, explanations become more complex, moving from general ideas about “figuring out”, to locating processing in the brain, to describing signals traveling along nerve cells, and finally to identifying specialized circuits within brain regions where processing occurs. For example, in the early grades animals are described as simply seeming to “figure out” what to do, while by upper elementary students recognize that animals have a brain that collects and processes information from multiple receptors and may store it as memory. The brain is not introduced in early elementary because it is a hidden structure, and instruction at that level emphasizes visible parts. This illustrates how a vague idea of decision-making becomes connected to a specific internal structure, showing the shift in scale and complexity that continues into later grades.\n\nThe response dimension moves from simple, observable behaviors (concrete for early elementary) to increasingly integrated actions involving multiple systems, memories, and emotions (systems level for high school). For example, early elementary students describe animals running from danger or plants turning toward the sun, while by upper elementary they explain that the brain drives actions, some instinctive and others guided by memory. This illustrates how concrete observations of behavior become linked to underlying causes in the nervous system, showing the shift in scale and complexity that continues into later grades.\n\nAt the highest level, the progression makes explicit how students move from noticing what organisms do, to investigating how specialized systems gather and process information, and finally to understanding why integrated sensory, processing, and response systems work together to support survival and reproduction."
+    "narrative": "There are three dimensions to the progression for LS1.D: how organisms detect information, how they process it, and how they respond. This explanation identifies the underlying pattern and highlights the shifts in scale and complexity across those three dimensions.\n\nAcross the inputs progression, the physical structures used to collect information and the types of inputs become more complex, moving from external parts to specialized receptors within those parts, and to interconnected systems. For example, early grade students describe visible body parts such as the eyes or ears that detect information, while by upper elementary they recognize that these same parts contain internal structures like the retina or eardrum that detect specific types of input. This follows the typical progression between early and late elementary that moves from the concrete and visible to the hidden parts of systems; \"Having a part that senses\" develops into a more detailed understanding of specialized receptors within that part, showing the shift in scale and complexity that continues into later grades.\n\nAcross the processing progression, explanations become more complex, moving from general ideas about \"figuring out\", to locating processing in the brain, to describing signals traveling along nerve cells, and finally to identifying specialized circuits within brain regions where processing occurs. For example, in the early grades animals are described as simply seeming to \"figure out\" what to do, while by upper elementary students recognize that animals have a brain that collects and processes information from multiple receptors and may store it as memory. The brain is not introduced in early elementary because it is a hidden structure, and instruction at that level emphasizes visible parts. This illustrates how a vague idea of decision-making becomes connected to a specific internal structure, showing the shift in scale and complexity that continues into later grades.\n\nThe response dimension moves from simple, observable behaviors (concrete for early elementary) to increasingly integrated actions involving multiple systems, memories, and emotions (systems level for high school). For example, early elementary students describe animals running from danger or plants turning toward the sun, while by upper elementary they explain that the brain drives actions, some instinctive and others guided by memory. This illustrates how concrete observations of behavior become linked to underlying causes in the nervous system, showing the shift in scale and complexity that continues into later grades.\n\nAt the highest level, the progression makes explicit how students move from noticing what organisms do, to investigating how specialized systems gather and process information, and finally to understanding why integrated sensory, processing, and response systems work together to support survival and reproduction."
   },
   "standards": [
     {
-      "grade": "K",
-      "discipline": "LS",
       "code": "K.LS1.3",
+      "grade": "K",
       "statement": "Explain how animals, including humans, use their five senses to interact with the environment.",
       "bigIdea": "Animals, including humans, have five senses associated with specific body parts to gather information their environment, and guide their actions.",
       "scientificIdeas": [
@@ -88,87 +81,74 @@
         "Animals collect different types of input simultaneously (e.g., We can see flashing lights and hear a siren).",
         "Animals have body parts (eyes, ears, nose, tongue skin) that gather specific types of information.",
         "Animals make decisions that will help them survive.",
-        "Animals “figure out” what to do by using information they collect about the environment (e.g., look for shade when it’s sunny outside).",
+        "Animals \"figure out\" what to do by using information they collect about the environment (e.g., look for shade when it's sunny outside).",
         "There are some events that occur that humans are not able to detect using their senses because the events happen too slowly or quickly, are too big or small, or are too far away.",
         "Humans use their senses in similar ways to other animals."
       ],
-      "studentIdeas": [
-        "Only humans figure things out – other animals do things automatically.",
+      "commonStudentIdeas": [
+        "Only humans figure things out -- other animals do things automatically.",
         "Animals only use their senses to avoid being eaten.",
-        "Animals don’t have senses.",
-        "Our senses don’t work when it is dark.",
-        "Animals that look very different from us (e.g., worms) don’t have senses.",
+        "Animals don't have senses.",
+        "Our senses don't work when it is dark.",
+        "Animals that look very different from us (e.g., worms) don't have senses.",
         "Our senses mainly exist for our enjoyment (e.g., seeing a sunset, smelling a flower), rather than for survival."
       ]
     },
     {
-      "grade": "1",
-      "discipline": "LS",
       "code": "1.LS1.3",
+      "grade": "1",
       "statement": "Analyze and interpret data from observations to describe how plants respond to changes in the environment (e.g., turn leaves toward the sun).",
-      "bigIdea": "Plants respond to their environment even though they don’t have the same senses that we do.",
+      "bigIdea": "Plants respond to their environment even though they don't have the same senses that we do.",
       "scientificIdeas": [
         "Plants need sunlight and water to survive.",
         "Plants grow and change over time.",
         "Plants respond to light by growing towards it.",
         "Plants respond to having too much or too little water (e.g., when there is too little water, plants will wilt).",
-        "Responding to their environment will help a plant survive.",
-        "A potato vine that grows towards light in an otherwise dark place will help meet its need for light.",
-        "Seedlings planted close together will grow taller as they all try to get as much light as possible.",
-        "Plants will orient different parts (leaves and flowers) towards the sun.",
-        "Peas, beans, types of squash, etc. have tendrils that they can wrap around things to help them grow upwards even without a rigid stem/trunk.",
+        "Responding to their environment will help a plant survive. A potato vine that grows towards light in an otherwise dark place will help meet its need for light. Seedlings planted close together will grow taller as they all try to get as much light as possible. Plants will orient different parts (leaves and flowers) towards the sun. Peas, beans, types of squash, etc. have tendrils that they can wrap around things to help them grow upwards even without a rigid stem/trunk.",
         "Plants respond to gravity with leaves and stems that grow upwards and roots that grow downwards."
       ],
-      "studentIdeas": [
-        "Plants don’t have eyes, ears, noses, and so they don’t respond to their environment.",
+      "commonStudentIdeas": [
+        "Plants don't have eyes, ears, noses, and so they don't respond to their environment.",
         "Plants wilt because they are dying.",
         "Plants only move or grow differently when they are touched, or when the wind blows.",
         "Plants grow in random ways without patterns in how they grow.",
-        "Plants don’t respond, since their responses don’t happen quickly.",
+        "Plants don't respond, since their responses don't happen quickly.",
         "Plants must have some senses because they respond to their environment."
       ]
     },
     {
-      "grade": "5",
-      "discipline": "LS",
       "code": "5.LS1.1",
+      "grade": "5",
       "statement": "Compare and contrast animal responses that are instinctual versus those that are learned by gathering information through the senses, which is then processed in the brain and stored as memories to guide their actions.",
       "bigIdea": "Animals gather information through their senses, which is processed in the brain. Some actions are immediate and instinctive, while others are guided by memories of past experiences.",
       "scientificIdeas": [
         "Organisms have both external and internal features that help them gather information from their environment.",
-        "Sense receptors are parts of larger body parts which detect specific inputs from the environment.",
-        "The retina of the eye detects light.",
-        "The eardrum detects vibrations in the air.",
-        "The skin has receptors that sense differences in temperature, pressure, and texture.",
-        "The tongue has taste buds that detect different tastes.",
-        "The olfactory region in the nose detects chemicals in the air.",
-        "These receptors send signals to the brain.",
+        "Sense receptors are parts of larger body parts which detect specific inputs from the environment. The retina of the eye detects light. The eardrum detects vibrations in the air. The skin has receptors that sense differences in temperature, pressure, and texture. The tongue has taste buds that detect different tastes. The olfactory region in the nose detects chemicals in the air. These receptors send signals to the brain.",
         "The brain is a physical structure inside of animals that collects and processes information from many receptors.",
         "The brain processes inputs from the senses, guiding immediate actions and storing information as memories.",
         "Some responses happen without intentional decisions (e.g., breathing, blinking at a sudden bright light, a sea turtle hatchling moving toward the ocean), while others are guided by memory or experience.",
         "Learned behaviors depend on past experience and memory (e.g., a dog learning to follow commands, a child remembering where food is stored).",
-        "Responses to the environment may be instinctive, learned from memory, or a combination of both—and all play a role in helping organisms survive.",
+        "Responses to the environment may be instinctive, learned from memory, or a combination of both---and all play a role in helping organisms survive.",
         "Both instinctive and learned behaviors help animals survive by guiding actions such as finding food, avoiding danger, and forming social bonds.",
         "Many complex behaviors combine instinctive responses with learned information (e.g., birds instinctively migrate but may learn improved routes)."
       ],
-      "studentIdeas": [
-        "Our brains make decisions for us, and we don’t really control what our brains do.",
-        "When a behavior is an instinct, the animal doesn’t use its brain.",
-        "Animals always choose what to do, and instinct is just “really strong memory.”",
-        "All actions are learned — if an animal can do something, it must have been taught.",
-        "Senses just “tell us things” — the brain doesn’t have to do anything with that information.",
-        "The eye (or ear, nose, etc.) “sends the picture” (or “sends the sound”) directly into the brain, like a TV screen.",
+      "commonStudentIdeas": [
+        "Our brains make decisions for us, and we don't really control what our brains do.",
+        "When a behavior is an instinct, the animal doesn't use its brain.",
+        "Animals always choose what to do, and instinct is just \"really strong memory.\"",
+        "All actions are learned --- if an animal can do something, it must have been taught.",
+        "Senses just \"tell us things\" --- the brain doesn't have to do anything with that information.",
+        "The eye (or ear, nose, etc.) \"sends the picture\" (or \"sends the sound\") directly into the brain, like a TV screen.",
         "The brain only processes one sense at a time (e.g., you can only use sight or hearing).",
         "If an animal responds quickly (like pulling back from a hot stove), it must have thought about it really fast.",
         "Learned behaviors eventually turn into instincts if you practice them long enough.",
-        "Our brains make decisions for us, and we don’t control our brains.",
-        "When a behavior is an instinct, the animal doesn’t use its brain."
+        "Our brains make decisions for us, and we don't control our brains.",
+        "When a behavior is an instinct, the animal doesn't use its brain."
       ]
     },
     {
-      "grade": "7",
-      "discipline": "LS",
       "code": "7.LS1.5",
+      "grade": "7",
       "statement": "Obtain and communicate information to provide evidence that illustrates the causal relationships between information received by sensory receptors and behavior, both immediate and over longer time scales.",
       "bigIdea": "Animals survive by using sensory receptors to collect information from their surroundings, with nerve cells carrying these signals to the brain. The brain processes this information through circuits that support both immediate responses and longer-term behaviors shaped by memory.",
       "scientificIdeas": [
@@ -176,58 +156,57 @@
         "The brain is a collection of nerve cells with physical connections that allow the cells to pass and receive signals.",
         "Since the brain is made of a huge number of cells, it is able to receive signals from many receptors simultaneously.",
         "The strength/efficiency of the physical connections between cells in the brain can be increased or decreased.",
-        "When two nerve cells get activated together repeatedly, the connection between these cells becomes strengthened. (“Neurons that get fired together get wired together.”)",
+        "When two nerve cells get activated together repeatedly, the connection between these cells becomes strengthened. (\"Neurons that get fired together get wired together.\")",
         "Some neural pathways are organized by genetic instructions during development.",
-        "These “hard-wired” circuits activate predictable behaviors without prior experience (e.g., reflexes, startle responses, sea turtle hatchlings moving toward light).",
+        "These \"hard-wired\" circuits activate predictable behaviors without prior experience (e.g., reflexes, startle responses, sea turtle hatchlings moving toward light).",
         "Innate circuits ensure immediate survival behaviors that do not depend on learning.",
         "Connections between neurons (synapses) can strengthen, weaken, or reorganize based on repeated experiences.",
         "Memories form by altering the strength of connections between groups of neurons.",
-        "Learned behaviors result from the brain combining new inputs with stored memories (e.g., recognizing a friend’s voice, remembering where food was stored).",
+        "Learned behaviors result from the brain combining new inputs with stored memories (e.g., recognizing a friend's voice, remembering where food was stored).",
         "Many behaviors combine innate circuits with learned connections (e.g., a bird innately migrates but learns improved routes).",
         "The brain integrates signals from multiple sensory systems and directs outputs across motor systems.",
         "Responses may be immediate (instinctive reflexes) or shaped by prior experiences (learned behaviors).",
         "Both innate and learned responses increase survival by guiding actions such as finding food, avoiding danger, or forming social bonds."
       ],
-      "studentIdeas": [
-        "Animals do not “know” anything or how to act until they begin to learn.",
-        "The same part of the body both detects and interprets information (e.g., “the eyes know what they are seeing”).",
-        "When a behavior is an instinct, the animal doesn’t use its brain.",
+      "commonStudentIdeas": [
+        "Animals do not \"know\" anything or how to act until they begin to learn.",
+        "The same part of the body both detects and interprets information (e.g., \"the eyes know what they are seeing\").",
+        "When a behavior is an instinct, the animal doesn't use its brain.",
         "Instinctive responses and learned responses are completely separate and never overlap.",
-        "Memories are stored in the brain like files, pictures, or movies that can be “played back” exactly as they happened.",
+        "Memories are stored in the brain like files, pictures, or movies that can be \"played back\" exactly as they happened.",
         "Once a memory is formed, it never changes.",
         "Learning happens instantly the first time something is experienced (rather than through repeated exposure).",
-        "The brain makes decisions for us, and we don’t control our brains.",
-        "All responses are controlled consciously — animals think before they act in every case.",
-        "Reflexes or automatic behaviors are mistakes, accidents, or signs of “not paying attention.”",
-        "Stronger or faster responses mean the brain is “working harder.”",
+        "The brain makes decisions for us, and we don't control our brains.",
+        "All responses are controlled consciously --- animals think before they act in every case.",
+        "Reflexes or automatic behaviors are mistakes, accidents, or signs of \"not paying attention.\"",
+        "Stronger or faster responses mean the brain is \"working harder.\"",
         "Instinctive behaviors are always perfect and never influenced by experience."
       ]
     },
     {
-      "grade": "Bio1",
-      "discipline": "LS",
       "code": "Bio1.LS1.7",
+      "grade": "Biology",
       "statement": "Construct an explanation from evidence to explain how the integrated functions of the brain in complex animals result in successful interpretation of input and generation of behaviors in response to those inputs.",
       "bigIdea": "A single stimulus will activate many circuits across different regions of the brain. Some of these circuits help regulate the organism's behaviors in response to the input.",
       "scientificIdeas": [
-        "Organisms have a variety of sense receptors that generate signals in response to specific types of external stimuli – chemical inputs, relative temperature changes, electromagnetic inputs (light), and mechanical inputs (touch, pressure).",
-        "Nerve cells throughout an organism’s body transmit signals from receptor cells to the brain.",
-        "When a signal from the body’s receptors reaches the brain, it travels through circuits of neurons in the brain.",
+        "Organisms have a variety of sense receptors that generate signals in response to specific types of external stimuli -- chemical inputs, relative temperature changes, electromagnetic inputs (light), and mechanical inputs (touch, pressure).",
+        "Nerve cells throughout an organism's body transmit signals from receptor cells to the brain.",
+        "When a signal from the body's receptors reaches the brain, it travels through circuits of neurons in the brain.",
         "The structure of a neuron provides a way for it to make a physical connection to and from multiple other neurons.",
-        "When a signal reaches the brain, the branching connections between neurons provide a way for a single stimulus to activate multiple parts of the brain at one time. For example, one part of the brain may construct an image of the person’s surroundings the connected circuits allow another part of the brain to associate certain emotions with these responses.",
+        "When a signal reaches the brain, the branching connections between neurons provide a way for a single stimulus to activate multiple parts of the brain at one time. For example, one part of the brain may construct an image of the person's surroundings the connected circuits allow another part of the brain to associate certain emotions with these responses.",
         "Repeated stimuli of a particular circuit strengthen connections between the neurons in that circuit.",
         "Over time, connections between circuits can become so strong that a particular stimulus may activate circuits that may or may not be useful in an organism's particular setting.",
         "The brain can generate signals that travel outward to specialized cells that generate a motor response.",
         "The circuits in the part of the brain associated with emotions influence the way an organism responds to its surroundings."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "Each sense occurs at a particular sensor. For example, sight happens in our eyes.",
         "Each memory that we have is like a folder in a file cabinet."
       ]
     }
   ],
   "metadata": {
-    "version": "2026-01-06",
-    "source": "TN Science IFDs - 10/25 release"
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
   }
 }

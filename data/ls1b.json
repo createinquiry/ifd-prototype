@@ -7,75 +7,73 @@
   "chapterOverview": {
     "guidingQuestion": "How do organisms grow and develop?",
     "purpose": "The purpose of this component idea is for students to see that each different type of living thing progresses through typical changes as they develop and get older. This includes changes in structure and behavior.",
-    "centralIdeas": "All living things progress through developmental stages as part of their life cycle. Each species has a unique life cycle. Developmental stages are marked by changes in the appearance and behaviors of the organisms. Organisms grow as their cells divide. When living things do not have access to resources (social and/or material), they may not grow and develop in a way that is typical for their species. Reproducing is one part of a species’ life cycle. A species can become extinct if it does not reproduce fast enough to replace organisms that die off."
+    "centralIdeas": [
+      "All living things progress through developmental stages as part of their life cycle.",
+      "Each species has a unique life cycle.",
+      "Developmental stages are marked by changes in the appearance and behaviors of the organisms.",
+      "Organisms grow as their cells divide.",
+      "When living things do not have access to resources (social and/or material), they may not grow and develop in a way that is typical for their species.",
+      "Reproducing is one part of a species' life cycle.",
+      "A species can become extinct if it does not reproduce fast enough to replace organisms that die off."
+    ]
   },
   "gradeBandIntro": {
     "K-2": {
-      "nrcQuote": "By the end of grade 2. Plants and animals have predictable characteristics at different stages of development. Plants and animals grow and change. Adult plants and animals can have young. In many kinds of animals, parents and the offspring themselves engage in behaviors that help the offspring to survive. \n– NRC, 2012",
-      "progression": "All living things progress through a sequence of developmental stages – these stages are marked by changes in the appearance and the behavior of the organism and are typical among each type of organism.\n\nEarly elementary students begin by observing that young and adult organisms of the same species often look different from each other. They may notice that baby animals are smaller, have different fur or coloring, or make different sounds. They also observe that young organisms often behave differently—for example, ducklings follow their mother, fawns stay hidden in tall grass, or puppies play more and rely on adults for food. These types of changes in appearance and behavior are accessible to young students and provide a foundation for identifying patterns of development over time.\n\nAt this grade-level, the major instructional focus is on recognizing that living things grow and change in predictable ways. Students learn that adult organisms can have offspring and that young organisms of the same species tend to go through similar stages of development. These understandings are grounded in direct observation and might be supported through classroom pets, videos, books, or discussions of students’ own life experiences.\n\nTeachers can support this learning by highlighting examples that are familiar and meaningful to students. For instance, children can compare the behavior of a kitten versus an adult cat or notice how human babies behave differently than grown-ups. These comparisons help students build early ideas about what it means to grow and develop, and they begin to distinguish between types of changes that are temporary (e.g., haircut, injury) and those that are part of a life cycle.\n\nThis early understanding prepares students for later grades, where they will compare the life cycles of different species, learn that organisms reproduce in different ways, and explore the cellular processes that support growth and development. The emphasis on both appearance and behavior in these early years lays the groundwork for a more detailed understanding of how organisms function and change throughout their lives."
+      "nrcQuote": "By the end of grade 2. Plants and animals have predictable characteristics at different stages of development. Plants and animals grow and change. Adult plants and animals can have young. In many kinds of animals, parents and the offspring themselves engage in behaviors that help the offspring to survive. -- NRC, 2012",
+      "progression": "All living things progress through a sequence of developmental stages -- these stages are marked by changes in the appearance and the behavior of the organism and are typical among each type of organism.\n\nEarly elementary students begin by observing that young and adult organisms of the same species often look different from each other. They may notice that baby animals are smaller, have different fur or coloring, or make different sounds. They also observe that young organisms often behave differently---for example, ducklings follow their mother, fawns stay hidden in tall grass, or puppies play more and rely on adults for food. These types of changes in appearance and behavior are accessible to young students and provide a foundation for identifying patterns of development over time.\n\nAt this grade-level, the major instructional focus is on recognizing that living things grow and change in predictable ways. Students learn that adult organisms can have offspring and that young organisms of the same species tend to go through similar stages of development. These understandings are grounded in direct observation and might be supported through classroom pets, videos, books, or discussions of students' own life experiences.\n\nTeachers can support this learning by highlighting examples that are familiar and meaningful to students. For instance, children can compare the behavior of a kitten versus an adult cat or notice how human babies behave differently than grown-ups. These comparisons help students build early ideas about what it means to grow and develop, and they begin to distinguish between types of changes that are temporary (e.g., haircut, injury) and those that are part of a life cycle.\n\nThis early understanding prepares students for later grades, where they will compare the life cycles of different species, learn that organisms reproduce in different ways, and explore the cellular processes that support growth and development. The emphasis on both appearance and behavior in these early years lays the groundwork for a more detailed understanding of how organisms function and change throughout their lives."
     },
     "3-5": {
-      "nrcQuote": "By the end of grade 5. Reproduction is essential to the continued existence of every kind of organism. Plants and animals have unique and diverse life cycles that include being born (sprouting in plants), growing, developing into adults, reproducing, and eventually dying. – NRC, 2012",
-      "progression": "In kindergarten through second grade, students begin to notice that living things grow and change in ways that are predictable for each type of organism. They observe that organisms pass through developmental stages—such as growing from young to adult—and that these changes often involve both physical appearance and behavior. These early understandings focus primarily on individual growth within an organism’s life.\n\nIn grades 3–5, the focus expands to the full life cycle of organisms, emphasizing not just how an individual grows, but how a species continues over time. Students learn that all organisms follow a sequence of stages which typically includes birth (or sprouting), growth, reproduction, and death. Even though this pattern is shared across all forms of life it looks different in different organisms. This is the first point in the progression where students shift from observing growth in one organism to comparing life cycles across many species. More importantly, they begin to understand that reproduction is essential to the survival of each kind of organism, because without it, the life cycle would not continue beyond a single generation, and species would become extinct.\n\nInstructionally, this grade band offers rich opportunities for students to analyze and compare life cycles using diagrams, timelines, and other graphical tools. Engaging with a range of examples, such as frogs, butterflies, chickens, flowering plants, and humans, students see both the shared pattern and the diversity of life cycle structures. Teachers should support students in describing life cycle stages in their own words before introducing more formal vocabulary. It is not necessary for students to memorize terms for every stage in every species; rather, the goal is for them to recognize patterns and use evidence to explain similarities and differences.\n\nThis foundational understanding prepares students for middle school, where they will explore the cellular basis for growth and reproduction. Students will learn that organisms grow as their cells divide, that reproduction can be sexual or asexual, and that genetic and environmental factors influence how organisms develop."
+      "nrcQuote": "By the end of grade 5. Reproduction is essential to the continued existence of every kind of organism. Plants and animals have unique and diverse life cycles that include being born (sprouting in plants), growing, developing into adults, reproducing, and eventually dying. -- NRC, 2012",
+      "progression": "In kindergarten through second grade, students begin to notice that living things grow and change in ways that are predictable for each type of organism. They observe that organisms pass through developmental stages---such as growing from young to adult---and that these changes often involve both physical appearance and behavior. These early understandings focus primarily on individual growth within an organism's life.\n\nIn grades 3--5, the focus expands to the full life cycle of organisms, emphasizing not just how an individual grows, but how a species continues over time. Students learn that all organisms follow a sequence of stages which typically includes birth (or sprouting), growth, reproduction, and death. Even though this pattern is shared across all forms of life it looks different in different organisms. This is the first point in the progression where students shift from observing growth in one organism to comparing life cycles across many species. More importantly, they begin to understand that reproduction is essential to the survival of each kind of organism, because without it, the life cycle would not continue beyond a single generation, and species would become extinct.\n\nInstructionally, this grade band offers rich opportunities for students to analyze and compare life cycles using diagrams, timelines, and other graphical tools. Engaging with a range of examples, such as frogs, butterflies, chickens, flowering plants, and humans, students see both the shared pattern and the diversity of life cycle structures. Teachers should support students in describing life cycle stages in their own words before introducing more formal vocabulary. It is not necessary for students to memorize terms for every stage in every species; rather, the goal is for them to recognize patterns and use evidence to explain similarities and differences.\n\nThis foundational understanding prepares students for middle school, where they will explore the cellular basis for growth and reproduction. Students will learn that organisms grow as their cells divide, that reproduction can be sexual or asexual, and that genetic and environmental factors influence how organisms develop."
     },
     "6-8": {
-      "nrcQuote": "By the end of grade 8. Organisms reproduce, either sexually or asexually, and transfer their genetic information to their offspring. Animals engage in characteristic behaviors that increase the odds of reproduction. Plants reproduce in a variety of ways, sometimes depending on animal behavior and specialized features (such as attractively colored flowers) for reproduction. Plant growth can continue throughout the plant’s life through production of plant matter in photosynthesis. Genetic factors as well as local conditions affect the size of the adult plant. The growth of an animal is controlled by genetic factors, food intake, and interactions with other organisms, and each species has a typical adult size range. (Boundary: Reproduction is not treated in any detail here; for more specifics about grade level, see LS3.A.) – NRC, 2012",
-      "progression": "In elementary school, students learned that all organisms progress through a series of life cycle stages, including birth, growth, reproduction, and death, and that these stages are both predictable and unique to different species. They come to understand that a species only survives if individual members reproduce and that individuals grow and change as they move through these stages. These early understandings focus on patterns of development and visual comparisons among species.\n\nIn grades 6–8, students move beyond observing patterns to exploring the underlying mechanisms of growth and development. They learn that all organisms grow through cell division, and they distinguish between the processes of growth and reproduction. Students are introduced to the difference between sexual reproduction, which produces offspring with genetic variation, and asexual reproduction, which produces offspring that are genetically identical to the parent. They also learn that organisms do not develop in isolation—factors such as food availability, space, interactions with other organisms, and genetic traits can influence the rate and extent of growth. At this stage, the focus is not just on describing what happens during development, but on using evidence to explain how and why growth and reproduction occur the way they do.\n\nEffective instruction at this level includes the use of models to represent growth through cell division (e.g., mitosis) and reproduction. Students may have developed ideas about how growth occurs without incorporating cells into their mental models. It is important that students have opportunities to make their models for the growth of organisms visible and incorporate new elements such as tissues and cells into these models. Data sets can also help students explore the influence of genetic and environmental factors (e.g., comparing plant growth under different light conditions or examining breed-specific size ranges in animals). These tasks help students move from descriptive accounts of life cycles to causal explanations grounded in biological processes.\n\nThis cellular understanding of growth and reproduction lays the groundwork for high school biology, where students will explore the molecular and cellular basis for development in more detail. In particular, students will learn how a fertilized egg gives rise to a multicellular organism through mitosis, and how differentiation leads to the formation of specialized cells and systems that began from a single cell. They will also study how gene expression and environmental factors interact to guide development at the cellular level, building directly on the concepts introduced in middle school."
+      "nrcQuote": "By the end of grade 8. Organisms reproduce, either sexually or asexually, and transfer their genetic information to their offspring. Animals engage in characteristic behaviors that increase the odds of reproduction. Plants reproduce in a variety of ways, sometimes depending on animal behavior and specialized features (such as attractively colored flowers) for reproduction. Plant growth can continue throughout the plant's life through production of plant matter in photosynthesis. Genetic factors as well as local conditions affect the size of the adult plant. The growth of an animal is controlled by genetic factors, food intake, and interactions with other organisms, and each species has a typical adult size range. (Boundary: Reproduction is not treated in any detail here; for more specifics about grade level, see LS3.A.) -- NRC, 2012",
+      "progression": "In elementary school, students learned that all organisms progress through a series of life cycle stages, including birth, growth, reproduction, and death, and that these stages are both predictable and unique to different species. They come to understand that a species only survives if individual members reproduce and that individuals grow and change as they move through these stages. These early understandings focus on patterns of development and visual comparisons among species.\n\nIn grades 6--8, students move beyond observing patterns to exploring the underlying mechanisms of growth and development. They learn that all organisms grow through cell division, and they distinguish between the processes of growth and reproduction. Students are introduced to the difference between sexual reproduction, which produces offspring with genetic variation, and asexual reproduction, which produces offspring that are genetically identical to the parent. They also learn that organisms do not develop in isolation---factors such as food availability, space, interactions with other organisms, and genetic traits can influence the rate and extent of growth. At this stage, the focus is not just on describing what happens during development, but on using evidence to explain how and why growth and reproduction occur the way they do.\n\nEffective instruction at this level includes the use of models to represent growth through cell division (e.g., mitosis) and reproduction. Students may have developed ideas about how growth occurs without incorporating cells into their mental models. It is important that students have opportunities to make their models for the growth of organisms visible and incorporate new elements such as tissues and cells into these models. Data sets can also help students explore the influence of genetic and environmental factors (e.g., comparing plant growth under different light conditions or examining breed-specific size ranges in animals). These tasks help students move from descriptive accounts of life cycles to causal explanations grounded in biological processes.\n\nThis cellular understanding of growth and reproduction lays the groundwork for high school biology, where students will explore the molecular and cellular basis for development in more detail. In particular, students will learn how a fertilized egg gives rise to a multicellular organism through mitosis, and how differentiation leads to the formation of specialized cells and systems that began from a single cell. They will also study how gene expression and environmental factors interact to guide development at the cellular level, building directly on the concepts introduced in middle school."
     },
     "Biology": {
-      "nrcQuote": "In multicellular organisms, individual cells grow and then divide via a process called mitosis, thereby allowing the organism to grow. The organism begins as a single cell (fertilized egg) that divides successively to produce many cells, with each parent cell passing identical genetic material (two variants of each chromosome pair) to both daughter cells. As successive subdivisions of an embryo’s cells occur, programmed genetic instructions and small differences in their immediate environments activate or inactivate different genes, which cause the cells to develop differently—a process called differentiation. Cellular division and differentiation produce and maintain a complex organism, composed of systems of tissues and organs that work together to meet the needs of the whole organism. In sexual reproduction, a specialized type of cell division called meiosis occurs that results in the production of sex cells, such as gametes in animals (sperm and eggs), which contain only one member from each chromosome pair in the parent cell.\n – NRC, 2012",
-      "progression": "There are two key ideas in high school standards about the growth and development of organisms.\n\nCell division, which explains how a single cell can divide to produce such a great quantity of cells in an adult organism through mitosis.\n\nCell differentiation, which explains how a single cell can divide to become such a great diversity of cells in an adult organism through gene regulation and expression.\n\nThe highly organized structure of living things arises out of repeated cell divisions, starting from a single cell. In all grade bands, this component idea helps students understand that life develops in stages. Thinking of development in stages begins with individual organisms and observing patterns in organisms of the same type at certain points in their lives. Students might observe that all chickens hatch from eggs and are born with soft feathers that are different from their adult feathers. In plants, students may observe that the first leaves of many plants occur as a pair or that fruits only develop after plants flower. In the intermediate grades, students consider life cycles, observing that there are patterns across all living things that include being born, growing, reproducing, and eventually dying. Discussions of life cycles overlap with early discussions of inheritance where students observe that organisms have features that are similar to their parents. \n\nThe focus of middle school standards relating to growth and development is on reproduction and the interplay of genes and environmental factors on growth. Middle school students discuss the gene as a unit of inheritance that passes from parent to offspring. The transfer of this unit of inheritance explains similarities in the characteristics of parents and offspring. Component idea LS1.B introduces specialized reproductive cells that can explain how genes transfer to offspring and how new combinations of genes emerge in offspring – there is no explicit discussion of the mechanism of sexual reproduction or the formation of reproductive cells. As middle school students learn about specific elements and different forms of energy, they can consider that growth is a combination of genetic and environmental factors.\n\nIn high school, students return to the idea that growth occurs in stages. The scale of these discussions is smaller. Students consider how organisms develop from a single cell through cell differentiation and the stages of cellular division during mitosis. The focus of discussions of mitosis should be on the mechanism that leads to subsequent cells with a complete copy of the organism’s genes. When students understand that all cells contain a full copy of the gene, they are prepared to understand the way that turning on and off certain genes can lead to such a variety of cells and tissues in a fully developed organism."
+      "nrcQuote": "In multicellular organisms, individual cells grow and then divide via a process called mitosis, thereby allowing the organism to grow. The organism begins as a single cell (fertilized egg) that divides successively to produce many cells, with each parent cell passing identical genetic material (two variants of each chromosome pair) to both daughter cells. As successive subdivisions of an embryo's cells occur, programmed genetic instructions and small differences in their immediate environments activate or inactivate different genes, which cause the cells to develop differently---a process called differentiation. Cellular division and differentiation produce and maintain a complex organism, composed of systems of tissues and organs that work together to meet the needs of the whole organism. In sexual reproduction, a specialized type of cell division called meiosis occurs that results in the production of sex cells, such as gametes in animals (sperm and eggs), which contain only one member from each chromosome pair in the parent cell. -- NRC, 2012",
+      "progression": "There are two key ideas in high school standards about the growth and development of organisms.\n\n1. Cell division, which explains how a single cell can divide to produce such a great quantity of cells in an adult organism through mitosis.\n\n2. Cell differentiation, which explains how a single cell can divide to become such a great diversity of cells in an adult organism through gene regulation and expression.\n\nThe highly organized structure of living things arises out of repeated cell divisions, starting from a single cell. In all grade bands, this component idea helps students understand that life develops in stages. Thinking of development in stages begins with individual organisms and observing patterns in organisms of the same type at certain points in their lives. Students might observe that all chickens hatch from eggs and are born with soft feathers that are different from their adult feathers. In plants, students may observe that the first leaves of many plants occur as a pair or that fruits only develop after plants flower. In the intermediate grades, students consider life cycles, observing that there are patterns across all living things that include being born, growing, reproducing, and eventually dying. Discussions of life cycles overlap with early discussions of inheritance where students observe that organisms have features that are similar to their parents.\n\nThe focus of middle school standards relating to growth and development is on reproduction and the interplay of genes and environmental factors on growth. Middle school students discuss the gene as a unit of inheritance that passes from parent to offspring. The transfer of this unit of inheritance explains similarities in the characteristics of parents and offspring. Component idea LS1.B introduces specialized reproductive cells that can explain how genes transfer to offspring and how new combinations of genes emerge in offspring -- there is no explicit discussion of the mechanism of sexual reproduction or the formation of reproductive cells. As middle school students learn about specific elements and different forms of energy, they can consider that growth is a combination of genetic and environmental factors.\n\nIn high school, students return to the idea that growth occurs in stages. The scale of these discussions is smaller. Students consider how organisms develop from a single cell through cell differentiation and the stages of cellular division during mitosis. The focus of discussions of mitosis should be on the mechanism that leads to subsequent cells with a complete copy of the organism's genes. When students understand that all cells contain a full copy of the gene, they are prepared to understand the way that turning on and off certain genes can lead to such a variety of cells and tissues in a fully developed organism."
     }
   },
   "progression": {
     "columns": [
-      {
-        "key": "gradeBand",
-        "label": "Grade Band"
-      },
-      {
-        "key": "growthAndDevelopment",
-        "label": "Growth and Development"
-      },
-      {
-        "key": "factorsThatInfluenceGrowthAndDevelopment",
-        "label": "Factors That Influence Growth and Development."
-      }
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "growthAndDevelopment", "label": "Growth and Development" },
+      { "key": "factorsInfluencing", "label": "Factors That Influence Growth and Development" }
     ],
     "table": [
       {
         "gradeBand": "K-2",
         "growthAndDevelopment": "Organisms follow predictable developments stages. Adults can have young.",
-        "factorsThatInfluenceGrowthAndDevelopment": "Parental behaviors can support growth and development."
+        "factorsInfluencing": "Parental behaviors can support growth and development."
       },
       {
         "gradeBand": "3-5",
         "growthAndDevelopment": "Life cycles follow a pattern with stages: birth, growth, reproduction, and death.",
-        "factorsThatInfluenceGrowthAndDevelopment": "Not a central theme within this grade band."
+        "factorsInfluencing": "Not a central theme within this grade band."
       },
       {
         "gradeBand": "6-8",
         "growthAndDevelopment": "Organisms grow through cell division. Reproduction can be sexual or asexual.",
-        "factorsThatInfluenceGrowthAndDevelopment": "Genetic and environmental factors influence growth and development."
+        "factorsInfluencing": "Genetic and environmental factors influence growth and development."
       },
       {
         "gradeBand": "9-12",
         "growthAndDevelopment": "Growth begins with a fertilized egg. Cells divide and differentiate to form systems that meet the needs of the organism.",
-        "factorsThatInfluenceGrowthAndDevelopment": "Gene expression and the environment influence how cells grow and specialize."
+        "factorsInfluencing": "Gene expression and the environment influence how cells grow and specialize."
       }
     ],
     "narrative": "The two columns in the progression table provide the major themes of this component idea. The \"Growth and Development\" column traces how student understanding of developmental stages deepens across grade bands, moving from simple observable patterns (e.g., baby to adult) to the cellular and molecular mechanisms that allow organisms to grow. The \"Factors That Influence Growth and Development\" column highlights why growth and development might be different among individual organisms and eventually among individual cells.\n\nStudents begin this progression by observing that all members of a particular species will undergo similar changes in appearance at approximately the same age. Students learn that reproduction is essential for the survival of each species since the life cycle of all living things eventually includes death. By upper elementary, students recognize that organisms share a general life cycle structure but that specific patterns differ among species. In the middle grades, students learn about cells, which allows them to understand that an organism grows because its cells divide. They also begin to explain how reproduction contributes to species continuity and how both genes and environmental factors influence growth. By high school, students are expected to understand the role of mitosis and differentiation in producing complex multicellular organisms and to explain how gene expression and environmental signals influence the development of specialized cells that function together to sustain life."
   },
   "standards": [
     {
-      "grade": "1",
-      "discipline": "LS",
       "code": "1.LS1.2",
+      "grade": "1",
       "statement": "Observe and analyze how living organisms grow and change over time.",
-      "bigIdea": "There are typical changes in each type of organism’s behavior and appearance as it grows from young to adult. All individuals of that type share these changes.",
+      "bigIdea": "There are typical changes in each type of organism's behavior and appearance as it grows from young to adult. All individuals of that type share these changes.",
       "scientificIdeas": [
         "All living things grow and change as they get older.",
-        "Growth and development happen in distinct phases – being born (seeds sprouting in plants) and growing.",
+        "Growth and development happen in distinct phases -- being born (seeds sprouting in plants) and growing.",
         "Each type of organism has a typical pattern of development shared by all individuals of that type.",
         "Growing includes both getting older and getting bigger.",
         "Organisms that are the same type will typically experience the same changes in appearance and behavior at approximately the same age. For example, the spots on a young deer are not present in their second spring of life, skunks will stop following their mother.",
@@ -85,17 +83,16 @@
         "Changes to appearance may happen early and quickly in some types of organisms, while other types of organisms may change slowly.",
         "Adult plants and animals can have young."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "Organisms, like butterflies, are different organisms when they emerge after a significant change in their appearance.",
-        "Growing up just means “getting bigger” – behavior doesn’t change.",
+        "Growing up just means \"getting bigger\" -- behavior doesn't change.",
         "Any change is evidence that something is growing up (e.g., haircut, injury).",
         "All young animals look like little versions of adults."
       ]
     },
     {
-      "grade": "2",
-      "discipline": "LS",
       "code": "2.LS1.3",
+      "grade": "2",
       "statement": "Identify ways in which some animals, both parents and offspring, participate in behaviors that help the offspring survive.",
       "bigIdea": "Young animals and their parents behave in a variety of different ways that help the young survive. These behaviors are commonly shared among most individuals of the same type.",
       "scientificIdeas": [
@@ -106,70 +103,52 @@
         "These behaviors are typical and consistent within a species (e.g., all wolf pups nurse from adults, and all emperor penguin chicks are brooded by a parent).",
         "Although specific behaviors vary between species, the function of helping offspring survive is shared across many animals."
       ],
-      "studentIdeas": [
-        "Baby animals don’t do things to help themselves, it’s always the adult.",
-        "If baby animals are alone, it means their parents don’t care or forgot about them.",
-        "Surviving just means “not getting eaten,” but doesn’t include getting food, water, warmth, etc.",
+      "commonStudentIdeas": [
+        "Baby animals don't do things to help themselves, it's always the adult.",
+        "If baby animals are alone, it means their parents don't care or forgot about them.",
+        "Surviving just means \"not getting eaten,\" but doesn't include getting food, water, warmth, etc.",
         "Only humans take care of their babies.",
-        "If something looks uncomfortable to the baby animal, it must be unsafe or mean (e.g., a wolf pup being carried by its scruff).",
-        "3-5 Standards",
-        "By the end of grade 5. Reproduction is essential to the continued existence of every kind of organism. Plants and animals have unique and diverse life cycles that include being born (sprouting in plants), growing, developing into adults, reproducing, and eventually dying. – NRC, 2012",
-        "Progression Across Grade Bands",
-        "In kindergarten through second grade, students begin to notice that living things grow and change in ways that are predictable for each type of organism. They observe that organisms pass through developmental stages—such as growing from young to adult—and that these changes often involve both physical appearance and behavior. These early understandings focus primarily on individual growth within an organism’s life.",
-        "In grades 3–5, the focus expands to the full life cycle of organisms, emphasizing not just how an individual grows, but how a species continues over time. Students learn that all organisms follow a sequence of stages which typically includes birth (or sprouting), growth, reproduction, and death. Even though this pattern is shared across all forms of life it looks different in different organisms. This is the first point in the progression where students shift from observing growth in one organism to comparing life cycles across many species. More importantly, they begin to understand that reproduction is essential to the survival of each kind of organism, because without it, the life cycle would not continue beyond a single generation, and species would become extinct.",
-        "Instructionally, this grade band offers rich opportunities for students to analyze and compare life cycles using diagrams, timelines, and other graphical tools. Engaging with a range of examples, such as frogs, butterflies, chickens, flowering plants, and humans, students see both the shared pattern and the diversity of life cycle structures. Teachers should support students in describing life cycle stages in their own words before introducing more formal vocabulary. It is not necessary for students to memorize terms for every stage in every species; rather, the goal is for them to recognize patterns and use evidence to explain similarities and differences.",
-        "This foundational understanding prepares students for middle school, where they will explore the cellular basis for growth and reproduction. Students will learn that organisms grow as their cells divide, that reproduction can be sexual or asexual, and that genetic and environmental factors influence how organisms develop.",
-        "2025 Standards: 3.LS1.1"
+        "If something looks uncomfortable to the baby animal, it must be unsafe or mean (e.g., a wolf pup being carried by its scruff)."
       ]
     },
     {
-      "grade": "3",
-      "discipline": "LS",
       "code": "3.LS1.1",
+      "grade": "3",
       "statement": "Use graphical representations to compare how species including humans and other organisms have unique and diverse life cycles.",
       "bigIdea": "All organisms have a life cycle that helps the species continue, but the way they grow, reproduce, and change is different for each type of organism. These differences often match patterns in their environment.",
       "scientificIdeas": [
         "All living things go through a life cycle that includes birth (sprouting), growth, reproduction, and death.",
         "Organisms must reproduce for their species to continue. If no individuals reproduce, the species will eventually disappear.",
-        "Different species have different life cycle patterns even though they all include the same basic stages (e.g., butterfly growth includes a complete metamorphosis, while kittens gradually grow into adult cats)",
+        "Different species have different life cycle patterns even though they all include the same basic stages (e.g., butterfly growth includes a complete metamorphosis, while kittens gradually grow into adult cats).",
         "The timing and location of life cycle events often match conditions in the environment conditions or specific environmental signals (e.g., seeds depend on things like soil temperature or chill hours before germination, many herbivores give birth in early summer when food is more abundant).",
         "Not all organisms grow at the same speed or live the same length of time (e.g., some mayflies live only a few days as adults, while humans may live for many decades).",
         "Some organisms reproduce once and die (annual plants like marigolds or corn, salmon), while other organisms reproduce many times (e.g., oak trees, rodents)."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "All young organisms look like smaller versions of adults.",
         "If two organisms are the same size, they must be at the same point in their life cycle.",
         "Life cycles are always the same: birth, growing up, dying.",
-        "A species that can’t reproduce can still continue (e.g., seedless watermelons).",
-        "Plants don’t have life cycles; they just get bigger over time.",
+        "A species that can't reproduce can still continue (e.g., seedless watermelons).",
+        "Plants don't have life cycles; they just get bigger over time.",
         "Growth and reproduction happen randomly, as opposed to being connected to events in their surroundings.",
-        "All life cycles look like human life cycles (e.g., all baby animals are cared for by their parents).",
-        "6-8 Standards",
-        "By the end of grade 8. Organisms reproduce, either sexually or asexually, and transfer their genetic information to their offspring. Animals engage in characteristic behaviors that increase the odds of reproduction. Plants reproduce in a variety of ways, sometimes depending on animal behavior and specialized features (such as attractively colored flowers) for reproduction. Plant growth can continue throughout the plant’s life through production of plant matter in photosynthesis. Genetic factors as well as local conditions affect the size of the adult plant. The growth of an animal is controlled by genetic factors, food intake, and interactions with other organisms, and each species has a typical adult size range. (Boundary: Reproduction is not treated in any detail here; for more specifics about grade level, see LS3.A.) – NRC, 2012",
-        "Progression across grades:",
-        "In elementary school, students learned that all organisms progress through a series of life cycle stages, including birth, growth, reproduction, and death, and that these stages are both predictable and unique to different species. They come to understand that a species only survives if individual members reproduce and that individuals grow and change as they move through these stages. These early understandings focus on patterns of development and visual comparisons among species.",
-        "In grades 6–8, students move beyond observing patterns to exploring the underlying mechanisms of growth and development. They learn that all organisms grow through cell division, and they distinguish between the processes of growth and reproduction. Students are introduced to the difference between sexual reproduction, which produces offspring with genetic variation, and asexual reproduction, which produces offspring that are genetically identical to the parent. They also learn that organisms do not develop in isolation—factors such as food availability, space, interactions with other organisms, and genetic traits can influence the rate and extent of growth. At this stage, the focus is not just on describing what happens during development, but on using evidence to explain how and why growth and reproduction occur the way they do.",
-        "Effective instruction at this level includes the use of models to represent growth through cell division (e.g., mitosis) and reproduction. Students may have developed ideas about how growth occurs without incorporating cells into their mental models. It is important that students have opportunities to make their models for the growth of organisms visible and incorporate new elements such as tissues and cells into these models. Data sets can also help students explore the influence of genetic and environmental factors (e.g., comparing plant growth under different light conditions or examining breed-specific size ranges in animals). These tasks help students move from descriptive accounts of life cycles to causal explanations grounded in biological processes.",
-        "This cellular understanding of growth and reproduction lays the groundwork for high school biology, where students will explore the molecular and cellular basis for development in more detail. In particular, students will learn how a fertilized egg gives rise to a multicellular organism through mitosis, and how differentiation leads to the formation of specialized cells and systems that began from a single cell. They will also study how gene expression and environmental factors interact to guide development at the cellular level, building directly on the concepts introduced in middle school.",
-        "2025 Standards: 7.LS1.4, 7.LS1.6"
+        "All life cycles look like human life cycles (e.g., all baby animals are cared for by their parents)."
       ]
     },
     {
-      "grade": "7",
-      "discipline": "LS",
       "code": "7.LS1.4",
+      "grade": "7",
       "statement": "Analyze data to determine the effect of genetic factors (e.g., specific breeds of organisms and their typical sizes) and environmental factors (e.g., food and space availability) that influence the growth of plants and animals.",
-      "bigIdea": "An organism’s growth is influenced by both the genetic traits it inherits and the conditions of its environment. These two factors interact to affect how much, how quickly, and in what ways an organism grows over time.",
+      "bigIdea": "An organism's growth is influenced by both the genetic traits it inherits and the conditions of its environment. These two factors interact to affect how much, how quickly, and in what ways an organism grows over time.",
       "scientificIdeas": [
         "All living organisms grow and develop, but how they grow depends on both inherited genetic information and their environmental conditions.",
         "Genes provide instructions that influence growth patterns such as size range, rate of growth, and body proportions (e.g., different breeds of dogs have different typical adult sizes, even under similar conditions).",
         "Environmental factors such as nutrition, space, water availability, light, and interactions with other organisms, affect how those genetic instructions are expressed (e.g., a sunflower may not reach its typical height without enough sunlight or water).",
         "The same organism may grow differently in different environments, even if it has the same genetic information.",
-        "Genetic and environmental factors often interact — meaning that one may amplify or limit the influence of the other (e.g., some fish may grow larger in nutrient-rich waters, but their maximum size is still influenced by their species and genetics).",
+        "Genetic and environmental factors often interact --- meaning that one may amplify or limit the influence of the other (e.g., some fish may grow larger in nutrient-rich waters, but their maximum size is still influenced by their species and genetics).",
         "Growth patterns in animals may also be affected by environmental stress, social structure, or competition for resources (e.g., the presence of predators may affect how much time animals spend feeding, which influences growth).",
         "Traits and the environment can interact in ways that affect growth and limit where organisms thrive. For example, fish with gills suited to slower moving water may struggle to get enough oxygen to grow properly in fast-moving streams."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "Only genes determine how an organism grows.",
         "If an organism gets enough food, it will develop to a typical size.",
         "Each trait is determined either by genes or the environment, but not both.",
@@ -179,20 +158,20 @@
       ]
     },
     {
-      "grade": "7",
-      "discipline": "LS",
       "code": "7.LS1.6",
+      "grade": "7",
       "statement": "Develop and use a model (e.g., Punnett squares, diagrams, and simulations) as evidence to demonstrate why asexual reproduction results in offspring with identical genetic information and sexual reproduction results in offspring with genetic variation.",
-      "bigIdea": "Organisms can reproduce either sexually or asexually. Asexual reproduction creates offspring with identical genetic information, while sexual reproduction creates offspring with genetic differences. These differences arise because genetic material comes from two parents rather than one.\n\nNote: Meiosis as the mechanism for producing cells with half the genetic information is beyond the intended scope of this standard.",
+      "bigIdea": "Organisms can reproduce either sexually or asexually. Asexual reproduction creates offspring with identical genetic information, while sexual reproduction creates offspring with genetic differences. These differences arise because genetic material comes from two parents rather than one.",
+      "note": "Meiosis as the mechanism for producing cells with half the genetic information is beyond the intended scope of this standard.",
       "scientificIdeas": [
-        "Genes are segments of chromosomes that carry instructions for building proteins. \n(Note: The structure of DNA and how proteins are made is addressed in high school.)",
-        "Proteins play important roles in an organism’s body, influencing traits like appearance and behavior. \n(Note: Protein structure and types of proteins are addressed in high school.)",
+        "Genes are segments of chromosomes that carry instructions for building proteins. (Note: The structure of DNA and how proteins are made is addressed in high school.)",
+        "Proteins play important roles in an organism's body, influencing traits like appearance and behavior. (Note: Protein structure and types of proteins are addressed in high school.)",
         "Most organisms, including humans, have two copies of each gene. There is one copy of each the gene on both chromosomes in a pair.",
         "In both sexual and asexual reproduction, organisms transfer genetic information to their offspring by transferring chromosomes.",
         "Not all organisms can reproduce sexually and asexually.",
         "In all forms of reproduction, genetic information is passed from parent to offspring through chromosomes.",
         "In asexual reproduction, organisms receive a full set of chromosomes from a single parent.",
-        "Because the full set of chromosomes is transferred exactly, the offspring’s genes are identical to the parent’s genes.",
+        "Because the full set of chromosomes is transferred exactly, the offspring's genes are identical to the parent's genes.",
         "Ignoring the effects of the environment, asexual reproduction will result in offspring with characteristics that are exactly like their parents.",
         "In sexual reproduction, each parent makes a special reproductive cell (a gamete such as egg or sperm) that contains only one set of chromosomes. This is half as much genetic information as every other cell in their body.",
         "These reproductive cells combine during fertilization to form a new cell with two copies of most genes.",
@@ -200,52 +179,42 @@
         "Sexual reproduction increases genetic variation since offspring have new combinations of genes that were not found in their parents.",
         "Sexual reproduction will create offspring that look similar to either parent, but not will not be identical to either parent."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "Sexual and asexual reproduction both create offspring that are equally similar to the parent generation.",
-        "If organisms are very similar genetically, then they will also be visually identical – ignores the effect of the environment.",
+        "If organisms are very similar genetically, then they will also be visually identical -- ignores the effect of the environment.",
         "Sexual reproduction only refers to animals (or humans) mating in ways similar to humans.",
         "In sexual reproduction, the parents transfer all of their genes to their offspring.",
-        "A trait can only come from one parent – not understanding combinations of gene pairs.",
+        "A trait can only come from one parent -- not understanding combinations of gene pairs.",
         "All cells contain the same amount of genetic information.",
-        "Genetic variation only changes when there are gene mutations or organisms die.",
-        "9-12 Standards",
-        "In multicellular organisms, individual cells grow and then divide via a process called mitosis, thereby allowing the organism to grow. The organism begins as a single cell (fertilized egg) that divides successively to produce many cells, with each parent cell passing identical genetic material (two variants of each chromosome pair) to both daughter cells. As successive subdivisions of an embryo’s cells occur, programmed genetic instructions and small differences in their immediate environments activate or inactivate different genes, which cause the cells to develop differently—a process called differentiation. Cellular division and differentiation produce and maintain a complex organism, composed of systems of tissues and organs that work together to meet the needs of the whole organism. In sexual reproduction, a specialized type of cell division called meiosis occurs that results in the production of sex cells, such as gametes in animals (sperm and eggs), which contain only one member from each chromosome pair in the parent cell.\n – NRC, 2012",
-        "Progression Across Grade Bands",
-        "There are two key ideas in high school standards about the growth and development of organisms.",
-        "Cell division, which explains how a single cell can divide to produce such a great quantity of cells in an adult organism through mitosis.",
-        "Cell differentiation, which explains how a single cell can divide to become such a great diversity of cells in an adult organism through gene regulation and expression.",
-        "The highly organized structure of living things arises out of repeated cell divisions, starting from a single cell. In all grade bands, this component idea helps students understand that life develops in stages. Thinking of development in stages begins with individual organisms and observing patterns in organisms of the same type at certain points in their lives. Students might observe that all chickens hatch from eggs and are born with soft feathers that are different from their adult feathers. In plants, students may observe that the first leaves of many plants occur as a pair or that fruits only develop after plants flower. In the intermediate grades, students consider life cycles, observing that there are patterns across all living things that include being born, growing, reproducing, and eventually dying. Discussions of life cycles overlap with early discussions of inheritance where students observe that organisms have features that are similar to their parents. \n\nThe focus of middle school standards relating to growth and development is on reproduction and the interplay of genes and environmental factors on growth. Middle school students discuss the gene as a unit of inheritance that passes from parent to offspring. The transfer of this unit of inheritance explains similarities in the characteristics of parents and offspring. Component idea LS1.B introduces specialized reproductive cells that can explain how genes transfer to offspring and how new combinations of genes emerge in offspring – there is no explicit discussion of the mechanism of sexual reproduction or the formation of reproductive cells. As middle school students learn about specific elements and different forms of energy, they can consider that growth is a combination of genetic and environmental factors.",
-        "In high school, students return to the idea that growth occurs in stages. The scale of these discussions is smaller. Students consider how organisms develop from a single cell through cell differentiation and the stages of cellular division during mitosis. The focus of discussions of mitosis should be on the mechanism that leads to subsequent cells with a complete copy of the organism’s genes. When students understand that all cells contain a full copy of the gene, they are prepared to understand the way that turning on and off certain genes can lead to such a variety of cells and tissues in a fully developed organism.",
-        "2025 Standards: Bio1.LS1.3"
+        "Genetic variation only changes when there are gene mutations or organisms die."
       ]
     },
     {
-      "grade": "Bio1",
-      "discipline": "LS",
       "code": "Bio1.LS1.3",
+      "grade": "Biology",
       "statement": "Use a model to describe how differentiation in a multicellular organism creates specialized cells that perform diverse functions to work together to meet the needs of the entire organism, including human development.",
-      "bigIdea": "Factors in a cell’s immediate environment can activate and deactivate certain sets of genes. Different cell types arise from differences in the proteins they produce. This mechanism explains how a single cell can divide to become a wide variety of different cells, tissues, and structures in multicellular organisms (e.g., plants, animals, etc.).",
+      "bigIdea": "Factors in a cell's immediate environment can activate and deactivate certain sets of genes. Different cell types arise from differences in the proteins they produce. This mechanism explains how a single cell can divide to become a wide variety of different cells, tissues, and structures in multicellular organisms (e.g., plants, animals, etc.).",
       "scientificIdeas": [
         "Every organism is made of an enormous collection of cells and within this collection of cells there are many different types of cells.",
         "Organisms are organized into different parts made of different types of tissues of cells.",
         "Different cells perform unique functions, and these functions depend on the specialized structures within the cells.",
         "Most cells in a multicellular organism have a long period of interphase. During this time, a cell is carrying out a narrow range of functions that contribute to the survival of the organism as a whole.",
         "The specialized structures within a cell are produced using information encoded in its genes.",
-        "Each gene produces a specific protein or small set of proteins when it is expressed. These proteins carry out life’s functions.",
+        "Each gene produces a specific protein or small set of proteins when it is expressed. These proteins carry out life's functions.",
         "All cells in a multicellular organism contain a complete set of the genes for that organism.",
         "Genes are turned on and off by a specific chemical reaction. For each gene, there is only one or a small number of chemicals that regulate its expression.",
         "Different cell types arise by expressing different genes from the complete set of genes they possess.",
         "The expression of genes in a cell determines the parts that develop in the cell and therefore determine the role a cell plays as part of a larger organism."
       ],
-      "studentIdeas": [
+      "commonStudentIdeas": [
         "All the cells in an organism are identical.",
         "Each cell is a closed system that is insulated from other cells and its surroundings.",
-        "Cells have only the genes they need to perform their particular role and therefore a cell’s role is predetermined."
+        "Cells have only the genes they need to perform their particular role and therefore a cell's role is predetermined."
       ]
     }
   ],
   "metadata": {
-    "version": "2026-01-05",
-    "source": "TN Science IFDs - 10/25 release"
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
   }
 }
