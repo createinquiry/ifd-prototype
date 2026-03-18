@@ -17,10 +17,12 @@
     {"id": "ls1b", "discipline": "LS", "componentIdea": "LS1.B", "path": "data/ls1b.json"},
     {"id": "ls1c", "discipline": "LS", "componentIdea": "LS1.C", "path": "data/ls1c.json"},
     {"id": "ls1d", "discipline": "LS", "componentIdea": "LS1.D", "path": "data/ls1d.json"},
-    {"id": "ls2a", "discipline": "LS", "componentIdea": "LS2.A", "path": "data/ls2a.json"},
-    {"id": "ls2b", "discipline": "LS", "componentIdea": "LS2.B", "path": "data/ls2b.json"},
-    {"id": "ls2c", "discipline": "LS", "componentIdea": "LS2.C", "path": "data/ls2c.json"},
-    {"id": "ls2d", "discipline": "LS", "componentIdea": "LS2.D", "path": "data/ls2d.json"},
+{"id": "ls2a", "discipline": "LS", "componentIdea": "LS2.A", "path": "data/ls2a.json"},
+{"id": "ls2b", "discipline": "LS", "componentIdea": "LS2.B", "path": "data/ls2b.json"},
+{"id": "ls2c", "discipline": "LS", "componentIdea": "LS2.C", "path": "data/ls2c.json"},
+{"id": "ls2d", "discipline": "LS", "componentIdea": "LS2.D", "path": "data/ls2d.json"},
+{"id": "ls3a", "discipline": "LS", "componentIdea": "LS3.A", "path": "data/ls3a.json"},
+{"id": "ls3b", "discipline": "LS", "componentIdea": "LS3.B", "path": "data/ls3b.json"}
     {"id": "ets1a", "discipline": "ETS", "componentIdea": "ETS1.A", "path": "data/ets1a.json"}
   ]
 }
