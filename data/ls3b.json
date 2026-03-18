@@ -1,0 +1,220 @@
+{
+  "componentIdea": {
+    "code": "LS3.B",
+    "title": "Variation of Traits"
+  },
+  "discipline": "LS",
+  "chapterOverview": {
+    "guidingQuestion": "Why do individuals of the same species vary in how they look, function, and behave?",
+    "purpose": "The purpose of this component idea is for students to first observe that organisms of the same kind look different from each other in many ways and then to explain increasingly sophisticated mechanisms that cause for these differences.",
+    "centralIdeas": [
+      "Organisms can be grouped by similar features, but no two individuals will be identical.",
+      "Variation occurs at multiple levels -- within populations (distribution of traits across members), within individuals (expression of genes), within chromosomes (recombination and segregation create new allele combinations) and within genes (mutations that generate new alleles).",
+      "Interactions with the environment can affect any of these scales."
+    ]
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Individuals of the same kind of plant or animal are recognizable as similar but can also vary in many ways. -- NRC, 2012",
+      "progression": "In early elementary school, students begin with the simple but important insight that living things can be grouped into kinds of things that look similar to them (e.g., cats, oak trees, zinnias). Once they recognize these kinds, the next step is noticing that individuals within the same kind are not identical. For example, every zinnia has colorful petals, but the number, shape, and size of these petals can vary from one zinnia to another. These observations establish the idea of variation, which is the small differences among members of the same kind.\n\nThe instructional focus at this level should be on two related patterns. First, students should be able to recognize what makes something part of a kind. This could be accomplished by providing students with a variety of cut flowers and asking them to sort the flowers into groups and explain why they organized their group in a particular way. Teachers might probe and challenge student ideas to cause them to arrive at groups of flowers that are the same kind. Second, students should notice that members of the same kind still differ in particular details (zinnias may have different colored blooms). At this grade band, the goal is not to explain the causes of these differences, but to help students carefully observe and describe them.\n\nIn later grades, students will begin to see that inheritance introduces variation among individuals that are related and begin to consider the ways that some differences in appearance may result from the environment."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Offspring acquire a mix of traits from their biological parents. Different organisms vary in how they look and function because they have different inherited information. In each kind of organism, there is variation in the traits themselves, and different kinds of organisms may have different versions of the trait. The environment also affects the traits that an organism develops---differences in where they grow or in the food they consume may cause organisms that are related to end up looking or behaving differently. -- NRC, 2012",
+      "progression": "This progression begins with early elementary students identifying that living things can be placed into groups and that within these groups there are features that look different between individuals even though they are the same type. The purpose of this progression is to observe that individual characteristics can vary among individuals of the same type and explain the sources of variation.\n\nIn late elementary school, students can begin to understand that one reason that organisms look different is because they inherit a blend of their parents' features - they have some characteristics that resemble one parent and others that resemble the other parent. Siblings also look different because they inherit a different blend of their parents' features. For example, one sibling may have mom's hair color, and another sibling may have dad's hair color. In later grades, students will learn to explain why some features may not appear to resemble either parent.\n\nOrganisms of the same type can end up looking very different from each other because there is variation in nearly every trait and there are many traits. Individuals look different because they each have a unique mix of traits they inherit from their parents, and most individuals do not have the same parents. Students should develop an appreciation that variation within and across species results in an enormous amount of variation across living things -- there is an endless variety of flower types, sizes, smells, colors, arrangements, etc.\n\nThe environment also contributes to variation. Two plants of the same kind may grow to different heights or produce different colored leaves if they receive different amounts of sunlight or nutrients. Students' explanations of variation in grades 3--5 include both inherited traits from parents and influences from the environment.\n\nVariation caused by the environment is generally not something that gets passed from parent to offspring. However, it is a source of variation and introduces the idea that the environment can influence variation. This prepares students for middle and high school, when they will explore genes, gene expression, and population-level variation in more depth. Variations across populations are caused, in part, by environmental differences around each population.\n\nThe ability to differentiate between variations of the same trait provides a foundation for the genetic concept of alleles that students will encounter in middle school."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. In sexually reproducing organisms, each parent contributes half of the genes acquired (at random) by the offspring. Individuals have two of each chromosome and hence two alleles of each gene, one acquired from each parent. These versions may be identical or may differ from each other.\n\nIn addition to variations that arise from sexual reproduction, genetic information can be altered because of mutations. Though rare, mutations may result in changes to the structure and function of proteins. Some changes are beneficial, others harmful, and some neutral to the organism. -- NRC, 2012",
+      "progression": "This progression begins with students learning to arrange organisms into groups based on shared characteristics and describe the variations within these characteristics. Students have learned that inheritance is one source of variation---an individual organism's characteristics are a blend of their parent's characteristics. This means they will not be identical to either parent or to their siblings. Students have also addressed the possible influence of the environment on the characteristics of an organism.\n\nIn middle school, students learn about the existence of genes on chromosomes, the role of genes in inheritance and how proteins encoded by these genes influence an individual's characteristics. This presents a mechanism that explains how organisms become a blend of their parent's characteristics---physical genetic information in the form of chromosomes are transferred from parent to offspring. Variation between parent and offspring occurs because the offspring receives genes from both parents and therefore the offspring's genome (complete set of traits) will not be identical to either parent.\n\nThe concept of alleles emerges in middle school, but discussions in earlier grades have prepared students for these discussions. Students have learned to distinguish between traits and variations of traits. This framing, combined with the concept of multiple alleles, should help students understand that an organism's characteristics are the result of a combination of alleles.\n\nMiddle school standards do not expect for students to encounter the details of meiosis that explain how unique sex cells arise. It is sufficient for middle grade students to understand that organisms can produce a specialized sex cell -- egg, sperm, pollen, etc. -- and that a unique characteristic of these cells is that they contain only half of the number of chromosomes.\n\nStudents have seen that there are occasions where new characteristics are observed among offspring that were not seen in the parent generation. Genes provide a way to explain how new variations can emerge. Sometimes a \"new variation\" is not actually new but was a recessive allele in a population -- for example, a pea plant that produces yellow peas appears among a group of plants that mainly produce green peas. Alleles for some traits may exist in a population, but these alleles are masked by other alleles. The effects of the masked (recessive) alleles and their existence are concealed by the effects of dominant alleles. Students should be able to explain that parents may contribute a set of alleles, and the blend of these alleles may not resemble either parent. Typical examples include offspring with a set of recessive alleles from parents with a dominant phenotype.\n\nIt is also possible that changes to genes can create alleles that are completely new. Mutations in genes can create new variations for a characteristic. Mutations are rare and many factors make it unlikely that mutations will persist in a population."
+    },
+    "Biology": {
+      "nrcQuote": "In all organisms, the genetic instructions for forming species' characteristics are carried in the chromosomes. Each chromosome consists of a single very long DNA molecule, and each gene on the chromosome is a particular segment of that DNA. The instructions for forming species' characteristics are carried in DNA. All cells in an organism have the same genetic content, but the genes used (expressed) by the cell may be regulated in different ways. Not all DNA codes for a protein; some segments of DNA are involved in regulatory or structural functions, and some have no as-yet-known function. -- NRC, 2012",
+      "progression": "Students begin this progression by developing an understanding that it is possible to group or categorize living things based on shared characteristics. Within these groups of like things, students should also have described how the organisms look differently. Variation refers to the small differences that exist within a group of similar things.\n\nIn the intermediate grades, students begin to discuss the idea of inheritance (LS3.A). Students should identify that variation exists even between parents and offspring. Inheritance also explains why individuals with the same parents look more similar than individuals with different parents. Students may again look within groups of like individuals and begin to place the differences into groups. For example, students may create two groups of trees -- those that produce acorns and those that do not produce acorns. Within the group of trees that all produce acorns, there are further differences in the shapes of the individual acorns. Students should understand that the shape of the acorn is a trait that the tree inherited from its parents and that some additional differences may come from environmental factors, such as insects that create holes in the acorns.\n\nGenes -- segments of chromosomes -- provide the physical mechanism that transfers information from parent to offspring. In middle school, students learn to explain that variation between parent and offspring arises because each offspring possesses a duplicate set of all genes. The combination of alleles in offspring may be different from either parent and explain variation between parents and offspring. Students do not learn any details about the structure or decoding of DNA until high school.\n\nSome of the concepts for this component idea overlap with standards from component idea LS1.A. The two big takeaways for high school should be the ability to explain how gene expression contributes to the observable variations in a population and to explain how variations of a trait can arise in a population due to changes in genes."
+    }
+  },
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "observationOfVariation", "label": "Observation of Variation" },
+      { "key": "mechanismCausingVariation", "label": "Mechanism Causing Variation" }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "observationOfVariation": "Individuals of the same kind have the same set of characteristics, yet they can look different in the details of those characteristics.",
+        "mechanismCausingVariation": "No mechanisms to explain are uncovered yet. Focus on observations."
+      },
+      {
+        "gradeBand": "3-5",
+        "observationOfVariation": "Offspring do not look exactly like either parent, and siblings look different from one another.",
+        "mechanismCausingVariation": "Variation happens because offspring inherit some traits from each parent, and due to the environment."
+      },
+      {
+        "gradeBand": "6-8",
+        "observationOfVariation": "Some traits seem to appear unexpectedly or \"skip\" generations. (e.g., recessive traits)",
+        "mechanismCausingVariation": "Variation arises during sexual reproduction and (infrequently) from mutations from genes on chromosomes."
+      },
+      {
+        "gradeBand": "9-12",
+        "observationOfVariation": "Trait frequencies vary among individuals in a population.",
+        "mechanismCausingVariation": "Variation arises due to random combination and segregation of chromosomes, regulation of gene expression, or mutations in DNA."
+      }
+    ],
+    "narrative": "Variation of traits is the idea that while organisms of the same kind share common characteristics, no two individuals are identical. The column \"observation of variation\" refers to the things that students should be called to notice in each grade band -- what patterns of similarity and difference should they see and describe? The column \"mechanism causing variation\" refers to the explanations students should be able to articulate for why those patterns occur.\n\nIn the earliest grades, students notice that individuals of the same kind share a common set of characteristics, such as \"all cats have tails\" or \"all daisies have petals.\" Most importantly, they should see that there are differences in these characteristics. For example, some types of cats have long tails, while other types of cats have shorter tails. This is an example of variation -- the different possible appearances of the same characteristic. Students are not yet expected to understand any causes for this variation.\n\nThe first mechanism to explain variation is introduced in late elementary. Students learn that organisms don't look exactly like either parent because their traits are a blend of each parent's traits. Students arrive at this understanding by making careful observations about offspring relative to each parent, as well as to siblings. For example, one puppy might have the markings of its mother, while another puppy might have its father's markings. Students also learn that organisms can look different from each other because the environment can affect the appearance of an individual. Understanding that these differences arise due to the fusion of gametes during fertilization is not grade appropriate content for elementary school.\n\nGenes and the concept of genetic variation are introduced in middle school. Students learn that traits are controlled by the genes on chromosomes and that these genes are transferred from parent to offspring. Each parent contributes one version (allele) of a gene, and a combination of alleles determines and organism's traits. Genetic variation leads to the idea that not all variations in a population will be visible by observing a single generation. Recessive traits may not show up in one generation but can reappear in a later generation. Mutations, although rare, can occasionally make new alleles and add to the amount of genetic variation in a population.\n\nBy high school, students broaden their focus from individual organisms to populations. They observe not just that traits differ, but that the frequency of traits varies among groups of individuals. For example, one eye color may be common in a particular population but less common in another. Students learn new mechanisms that maintain variation -- such as the way that chromosomes sort and recombine during meiosis as well as differences in gene expression that results from environmental influences. At this level, students integrate molecular, chromosomal, and environmental explanations to understand the full range and possible sources of variation within populations."
+  },
+  "standards": [
+    {
+      "code": "K.LS3.1",
+      "grade": "K",
+      "statement": "Collect and analyze observational data to show that young living things are like, but not exactly like, their parents.",
+      "bigIdea": "Each kind of living thing has a defining set of characteristics we can see, and each of those characteristics can have different appearances across individuals of the same kind.",
+      "note": "Characteristics with more variation may help students make sense of LS3.B. Because family groups can be small, students may find broader ranges of variation if they observe larger groups that extend beyond immediate families, or by studying kinds of organisms that produce many offspring.",
+      "scientificIdeas": [
+        "We can describe the way that organisms look (their characteristics) (e.g., size, shape, color, markings, etc.).",
+        "Organisms that are the same kind will have many similarities, even if they are not related.",
+        "Variation is expected -- no two individuals of the same kind are exactly alike.",
+        "In a larger group of organisms that are the same type, there will be different appearances of the same characteristic between individuals.",
+        "For each characteristic, there will be a limited number of possible appearances.",
+        "It is possible to define a characteristic and describe the observed variations of that characteristic.",
+        "Some variations are common, and others are rare (e.g., three-leaf vs four-leaf clovers)."
+      ],
+      "studentIdeas": [
+        "All individuals of the same kind look exactly alike.",
+        "Only family members will share characteristics with each other.",
+        "Rare variations don't count.",
+        "Differences/variations in some traits mean that something is \"wrong\" (e.g., the albino skunk is sick)."
+      ]
+    },
+    {
+      "code": "5.LS3.2",
+      "grade": "5",
+      "statement": "Provide evidence and analyze data that plants and animals have traits inherited from parents and that variations of these traits exist in a group of similar organisms.",
+      "bigIdea": "Organisms that are the same type share a set of characteristics, but no two individuals are exactly alike. There is variation within the group because each offspring inherits a unique combination of traits from their parents and because the environment influences the appearance of those traits.",
+      "scientificIdeas": [
+        "All living things have many observable characteristics (traits) such as size, shape, color, markings, or behaviors.",
+        "Organisms that are the same type share a set of defining characteristics that make them recognizable as that type.",
+        "Within a type of organism, each trait can take different forms.",
+        "No two individuals of the same kind are exactly alike.",
+        "Some variation occurs because each offspring inherits a mix of traits from both parents.",
+        "Some variations are more common in a group, while others are less common.",
+        "Some variation occurs because the environment also influences how traits appear (e.g., amount of sunlight, type of food, living conditions).",
+        "An offspring may share certain characteristics with one parent, and other characteristics with the other parent.",
+        "There can be more variations among the same type of organism than may be observable within a family (e.g., None of my family has red hair, but I see that some people do).",
+        "Siblings can share some characteristics (e.g., all have freckles) but differ in others (e.g., one has curly hair, another has straight hair).",
+        "The appearance of an offspring may have variations for characteristics that are not observed in either parent."
+      ],
+      "studentIdeas": [
+        "If organisms appear different, then they are different types of organisms.",
+        "All individuals of the same kind should look exactly alike. Differences are treated as mistakes, or exceptions, not normal variation.",
+        "Only animals have traits, plants are identical except for differences caused by the environment.",
+        "Two variations of the same trait are actually different traits. (e.g., brown fur and black fur are different traits or red roses and yellow roses.)",
+        "Variations that are uncommon are mutations and don't get inherited."
+      ]
+    },
+    {
+      "code": "7.LS3.2",
+      "grade": "7",
+      "statement": "Construct an explanation to describe how the impact of changes to genes (i.e., mutations) located on chromosomes may result in harmful, beneficial, or neutral effects to the structure and function of the organism.",
+      "bigIdea": "Mutations create new variations because changes in genes can change proteins, which may result in traits that are beneficial, harmful, or have no noticeable effect.",
+      "scientificIdeas": [
+        "Chromosomes are found in all cells and contain many genes.",
+        "Each gene encodes a specific protein that the cell will produce.",
+        "Proteins carry out important functions in cells and the body and traits depend on the tasks these proteins carry out.",
+        "Mutations are changes to genes located on chromosomes.",
+        "When a gene changes, the protein produced by that gene may be changed as well.",
+        "Some changes to the gene do not cause changes to the protein, and therefore the mutation will not affect the organism.",
+        "Changes to genes can alter the structure and function of the protein encoded by that gene, which can lead to harmful or beneficial effects.",
+        "Changes to genes in a body cell will only affect that individual and the cells produced from that original cell. Generally, these mutations do not lead to sustained variation.",
+        "Changes to genes in reproductive cells can be passed to offspring and future generations, which introduces new variation in a population.",
+        "Mutations are rare, but are a potential source of new variation of genes."
+      ],
+      "studentIdeas": [
+        "Variation refers to all the different types of organisms (biodiversity), not the small differences within a kind.",
+        "All mutations are bad or harmful.",
+        "All mutations refer to dramatic and visible changes.",
+        "Mutations always create completely new traits, rather than new variations in existing traits.",
+        "If a gene mutates, the organism will die or be severely damaged.",
+        "Mutations in body cells will affect offspring.",
+        "Differences caused by the environment (like a suntan or scar) can be inherited.",
+        "Mutations are common and the main reason that offspring look different from their parents or siblings."
+      ]
+    },
+    {
+      "code": "7.LS3.3",
+      "grade": "7",
+      "statement": "Predict the probability of individual dominant and recessive alleles to be transmitted from each parent to offspring during sexual reproduction and represent the phenotypic and genotypic patterns using ratios.",
+      "bigIdea": "Sexual reproduction increases variation because offspring inherit new combinations of alleles when gametes from each parent combine.",
+      "scientificIdeas": [
+        "Chromosomes contain many genes. There are different variations for each gene that can be found among individuals of the same kind.",
+        "Organisms can have more than one chromosome, but the location of particular genes on chromosomes will be consistent across all members in that kind.",
+        "The different variations of a gene will produce different proteins, or no protein. These various proteins may interact differently in organisms which leads to different phenotypes.",
+        "All cells contain two different copies of each chromosome. Each copy can be the same allele or different alleles.",
+        "Gametes are a unique type of cell which contain only a single copy of each gene.",
+        "Sexual reproduction involves the fusion of two gametes -- one from each parent -- which can lead to new allele combinations in offspring.",
+        "Even within families, siblings inherit different allele combinations, so they are similar, but not identical to each other.",
+        "The appearance of traits depends on the interaction between both alleles.",
+        "Some variations of a trait only appear when both inherited alleles produce a particular protein.",
+        "Some variations of a trait appear when just one inherited allele produces a particular protein.",
+        "Across many offspring, patterns of traits become visible as predictable combinations of alleles and phenotypes.",
+        "Probability models (e.g., Punnett squares) show the likelihood of a trait but cannot predict the exact outcome for individual offspring.",
+        "Many traits are affected by multiple genes. Simple models for predicting possible allele combinations are limited to traits where the genotype is determined by a single gene."
+      ],
+      "studentIdeas": [
+        "Each trait is inherited as a whole unit from one parent (e.g., I got my eyes from my mom and my hair from my dad).",
+        "All variation comes from mutations, as opposed to the mixing of alleles.",
+        "Recessive traits have reliable patterns, like always skipping a generation (e.g., That trait from your grandfather on your mom's side of the family).",
+        "Every trait is controlled by exactly one gene.",
+        "A Punnett square shows exactly what traits an offspring will have.",
+        "Each Punnett square corresponds with one actual offspring (e.g., works like a checklist).",
+        "Patterns of inheritance are only observable in a family; there will be different variations across the populations.",
+        "Having more siblings changes the probability of the traits of future siblings (e.g., since we had a boy, we're more likely to have a girl next)."
+      ]
+    },
+    {
+      "code": "Bio1.LS3.3",
+      "grade": "Biology",
+      "statement": "Ask questions to clarify that variation of traits arises from differences in genes (alleles) and how cells regulate gene expression.",
+      "bigIdea": "Variation in the appearance and behaviors of individuals is due, in part, to the existence of multiple possible alleles for each gene as well as mechanisms that determine when a particular gene may be expressed.",
+      "scientificIdeas": [
+        "The gene pool of a population consists of the genes of all members in the population.",
+        "Every organism has a unique collection of genes that encode the range of proteins it produces.",
+        "For a given characteristic, each member of the population will have two copies of that gene with the potential to have two different alleles.",
+        "There can be more than two possible alleles for each different gene.",
+        "Offspring receive one variation of each gene from each parent when gametes combine during fertilization. Offspring can possess allele combinations that are different than their parents.",
+        "A gene is a section of DNA (a type of nucleic acid) that can be tightly condensed to form chromosomes.",
+        "An organism has two copies of nearly all the genes in its genome.",
+        "The copies of each gene are not necessarily the same -- organisms frequently have two different alleles for the same gene.",
+        "The process that produces a protein begins with the transcription of the gene.",
+        "Each gene has a coding portion that is transcribed during protein synthesis as well as regulatory portions.",
+        "Proteins bind to regulatory portions of genes and prevent the transcription of that gene.",
+        "The proteins that bind to regulatory portions of genes can unbind in the presence of certain other molecules."
+      ],
+      "studentIdeas": [
+        "Genes are always \"on.\"",
+        "The only way for phenotypic differences to arise is to have different allele combinations.",
+        "There are large genetic differences between individuals since there are so many different alleles."
+      ]
+    },
+    {
+      "code": "Bio1.LS3.4",
+      "grade": "Biology",
+      "statement": "Construct an explanation based on evidence that genetic variations may result from (a) new genetic combinations via the processes of crossing over and random segregation of chromosomes during meiosis, (b) mutations that occur during replication, and/or (c) mutations caused by environmental factors. Evidence should include that mutations that occur in gametes can be passed to offspring.",
+      "bigIdea": "There are multiple factors that contribute to variation observed in a population. These factors include the sorting of genes that occur during the development of reproductive cells, as well as changes to the physical DNA molecule.",
+      "scientificIdeas": [
+        "Sexual reproduction involves the production and fusion of haploid reproductive cells (gametes) from diploid cells (gametophytes).",
+        "There are a variety of types of haploid reproductive cells found in different types of organisms, such as pollen, spores, eggs, and sperm.",
+        "Crossing over and random segregation occur during the formation of gametes and can produce gametes with unique allele combinations. Random segregation leads to gametes with new variations in the combinations of alleles found on different chromosomes. Crossing over leads to new variations in the combinations of alleles within a single chromosome.",
+        "New alleles for a gene occur because of changes to the DNA. Organisms produce proteins through a series of chemical reactions that begin with DNA molecules. A DNA molecule is a long chain of complementarily paired nucleotides. The nucleotide order determines the protein produced during protein synthesis. Mutations are changes to the order of nucleotides that can therefore change the protein encoded by a gene or prevent the expression of the entire gene. Not all changes to the order of nucleotides result in new alleles.",
+        "Not all changes to alleles can pass from parent to offspring. Organisms obtain their unique genotype when gametes fuse during fertilization. New alleles might arise during gamete formation or very early in embryogenesis. Mutations that occur in a parent's body cells are not likely to change the DNA of the parent's gametes."
+      ],
+      "studentIdeas": [
+        "Gametes contain all the parent's alleles.",
+        "Random segregation and crossing over produce new alleles.",
+        "Mutations will always result in new phenotypes."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

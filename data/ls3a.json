@@ -1,0 +1,211 @@
+{
+  "componentIdea": {
+    "code": "LS3.A",
+    "title": "Inheritance of Traits"
+  },
+  "discipline": "LS",
+  "chapterOverview": {
+    "guidingQuestion": "How are characteristics of one generation related to the previous generation?",
+    "purpose": "The purpose of this component idea is to explain why organisms look similar to their parents because of inheritance, and that differences between in the characteristics in parent and offspring can be explained by interactions with the environment and the role of DNA (genes).",
+    "centralIdeas": [
+      "Organisms carry out chemical reactions that produce proteins using genetic information stored in their DNA.",
+      "Proteins control the activities of cells, and ultimately many of an organism's characteristics.",
+      "Interactions with the environment, the combination of a portion of each parent's genes during fertilization, and occasionally to random mutations all help explain differences in the appearance and behaviors between parents and offspring."
+    ]
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Organisms have characteristics that can be similar or different. Young animals are very much, but not exactly, like their parents and resemble other animals of the same kind. Plants also are very much, but not exactly, like their parents and resemble other plants of the same kind. -- NRC, 2012",
+      "progression": "In the earliest grades, students are introduced to the idea of characteristics as the visible features of living things. At first, these should be limited to features students can observe directly. For example, they might build a word wall of descriptions by looking at a group of dogs: brown fur, black fur, tan fur, white fur. Listing these features helps them recognize \"fur color\" as a characteristic. Students might also collect leaves or bark rubbings around the schoolyard, noticing characteristics such as leaf shape, vein patterns, or the arrangement of leaves on a stem.\n\nOnce students understand what characteristics are, they can begin to compare parents and their offspring. This component idea is about inheritance, comparisons should be made between direct parent--offspring pairs of the same type of organism contrasted with another non-familial member of the same species. For example, students could compare a puppy to its parents and notice more similarities than when the same puppy is compared to a different set of parents. Students should notice that there are more common characteristics among relatives, compared to non-relatives. This type of comparison helps them move beyond general features like \"four legs\" to notice more specific details. Students should also identify differences between parents and offspring. Typically, their lists will show more similarities than differences when offspring are compared to their parents, and more differences when compared to unrelated organisms.\n\nA common theme among children's books involves animals being raised by another species and noticing how they are different -- such as the Ugly Duckling. While these stories may support the ideas of characteristics, they do not align well with this progression about inheritance between parents and offspring.\n\nEarly elementary discussions of characteristics raise a big question -- why do animals look more like their parents, and less like other non-related members of their species? In late elementary students will observe that differences can arise due to environmental factors. By middle school, students learn that a gene passed from parent to offspring can explain patterns in similarity.\n\nIt is important to distinguish the inheritance progression (LS3.A) from the variation (LS3.B) progression. Inheritance is relevant in similarities between parent and offspring, while variation explores the range of differences among organisms of the same type."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Many characteristics of organisms are inherited from their parents. Other characteristics result from individuals' interactions with the environment, which can range from diet to learning. Many characteristics involve both inheritance and environment. -- NRC, 2012",
+      "progression": "In early elementary school, students learned to describe organisms' visible characteristics and to notice two patterns: offspring look like their parents, but they are not exact copies of their parents and even though they're not exact copies, organisms resemble their parents more than they resemble unrelated organisms of the same kind. These observations may lead students to wonder \"Why are organisms not exact copies of their parents?\" and \"Why do organisms look more like their parents than others that they're not related to?\" In later elementary, students will begin to answer the first question as they learn that the environment and relatedness each influence how an organism looks. In middle school, students will learn that genes explain parent-offspring resemblances.\n\nAn organism's characteristics are a combination of the features they inherit from their parents, and effects of the environment. While single events might produce marks in the bark of a tree, or cuts and scrapes, differences between parents and offspring arise from sustained differences as well. For example, a plant may grow taller or shorter depending on the nutrients in the soil, or its leaves may turn yellow when water or sunlight is lacking. These environmentally influenced characteristics do not follow predictable patterns of inheritance, unlike inherited traits such as leaf shape or the presence of thorns. Students also begin to recognize that some behaviors are inherited, but many others are learned through interaction with the environment. In some cases, both inheritance and environment work together to influence a characteristic. There are some behaviors in organisms that can be explained by inheritance, but organisms learn many behaviors when they interact with their surroundings. Some characteristics develop because of a combination of inheritance and environment.\n\nStudents at this grade band are not yet expected to learn about cells, DNA, or the molecular mechanisms of inheritance. Those ideas are reserved for later learning in middle and high school. For now, the emphasis is on distinguishing between inherited and environmental causes of characteristics, building a foundation for the mechanistic explanations that come later."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Genes are located in the chromosomes of cells, with each chromosome pair containing two variants of each of many distinct genes. Each distinct gene chiefly controls the production of a specific protein, which in turn affects the traits of the individual (e.g., human skin color results from the actions of proteins that control the production of the pigment melanin). Changes (mutations) to genes can result in changes to proteins, which can affect the structures and functions of the organism and thereby change traits.\n\nSexual reproduction provides for transmission of genetic information to offspring through egg and sperm cells. These cells, which contain only one chromosome of each parent's chromosome pair, unite to form a new individual (offspring). Thus, offspring possess one instance of each parent's chromosome pair (forming a new chromosome pair). Variations of inherited traits between parent and offspring arise from genetic differences that result from the subset of chromosomes (and therefore genes) inherited or (more rarely) from mutations. (Boundary: The stress here is on the impact of gene transmission in reproduction, not the mechanism.) -- NRC, 2012",
+      "progression": "This progression began with observations prompting two questions: \"Why do organisms look more like their parents than unrelated organisms of the same kind?\" and \"Why don't organisms look exactly like their parents?\" So far, students have uncovered that some appearances are caused by inheritance while others are shaped by interactions with their environments. Some characteristics can be influenced by both inheritance and environment. In middle school, students begin to explore the physical mechanisms that control inheritance and begin to explain the patterns uncovered in earlier grades.\n\nThe understanding that life is organized at the cellular level creates access to a mechanism that explains patterns of inheritance. Students learn that all living things are made of cells and that an organism's cells contain chromosomes. Each chromosome contains many genes, which are instructions for making proteins. These proteins affect the traits of an organism. A physical connection between parents and offspring is revealed when students understand that the contents of an organism's cells are determined by the fusion of the parents' reproductive cells. Offspring are similar because the genes that influence their traits come from their parents, but they are different because the offspring is a partial composite of both parent's genes and also due to environmental factors and, to a lesser extent, to mutations.\n\nStudents should learn that dominant and recessive genes relate to the effect of the proteins in an organism. For example, the albinism trait occurs when organisms are unable to produce melanin. The trait is recessive because an organism's cells can produce melanin even if the cells only have one allele producing the melanin. Dominant phenotypes occur when only one allele produces enough of a given protein to cause the phenotype.\n\nAt this grade band, students are not yet expected to understand the molecular structure of DNA or the full processes of transcription and translation. The focus is on genes, proteins, and chromosomes as the basic mechanism of inheritance. High school biology will return to these ideas with more detail about DNA structure, gene regulation, and the molecular basis for inheritance."
+    },
+    "Biology": {
+      "nrcQuote": "In all organisms, the genetic instructions for forming species' characteristics are carried in the chromosomes. Each chromosome consists of a single, very long DNA molecule, and each gene on the chromosome is a particular segment of that DNA. The instructions for forming species' characteristics are carried in DNA. All cells in an organism have the same genetic content, but the genes used (expressed) by the cell may be regulated in different ways. Not all DNA codes for a protein; some segments of DNA are involved in regulatory or structural functions, and some have no as-yet-known function. -- NRC, 2012",
+      "progression": "Inheritance describes an observable pattern that organisms possess characteristics that are a blend of their parents' characteristics. Parent generations produce molecules of DNA that are passed to their offspring. The similarities between the genomes of parents and their offspring explain the similarities in the characteristics between parent generations and their offspring since an organism's characteristics arise from the expression of its genome.\n\nThe progression of traits begins with students learning to think about an organism as a collection of features, such as leaf shape and arrangement, texture of bark, or fur color. By comparing parents to offspring, students uncover that organisms look more like their parents and less like unrelated organisms, even organisms of the same type. Students also learn that organisms do not look exactly like either parent and that interactions with the environment can explain some differences between parent and offspring. By the end of the intermediate grades, students should be able to describe the inheritance as a pattern.\n\nStudents should reach high school with an understanding that inheritance explains why there are similarities between parents and their offspring. In middle school, students learn that chromosomes contain genes from both parents and that the transfer of these genes from parent to offspring is the mechanism for inheritance. Students have not learned specifically about DNA, nor that genes are also organized. It is important for students to understand that all cells contain all genes, and that the expression of different genes explains the variety of cells that arise as the cells in multicellular organisms divide and differentiate.\n\nIn middle school, students learn that an organism's appearance and behaviors have a basis in their genes. This development makes it possible for students to begin to understand a mechanism for inheritance. The gene -- as a segment of a chromosome -- provides a physical connection between parent and offspring that can explain why organisms resemble their parents.\n\nIn high school, the mechanism for inheritance is completed. There is overlap between some of these ideas and ideas about gene structure. Some of the biology ideas from LS1.A also help students understand ideas about gene regulation. The standards in this component idea support an understanding of how every cell in a multicellular organism comes to possess a full copy of its genome."
+    }
+  },
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "featuresCompared", "label": "Features Compared" },
+      { "key": "focusOfUnderstanding", "label": "Focus of Understanding" }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "featuresCompared": "Visible external features",
+        "focusOfUnderstanding": "Organisms resemble parents but are not identical"
+      },
+      {
+        "gradeBand": "3-5",
+        "featuresCompared": "External features, growth, behavior",
+        "focusOfUnderstanding": "Distinguish inheritance from environmental causes"
+      },
+      {
+        "gradeBand": "6-8",
+        "featuresCompared": "Traits tied to genes (alleles)",
+        "focusOfUnderstanding": "Genes on chromosomes code for proteins that affect traits"
+      },
+      {
+        "gradeBand": "9-12",
+        "featuresCompared": "Traits tied to regulated gene expression",
+        "focusOfUnderstanding": "Gene expression and regulation explain trait similarities and differences."
+      }
+    ],
+    "narrative": "The progression begins by introducing the concept of \"characteristics\" which are observable features that make organisms alike or different. Since this progression is about inheritance, it is important that examples and discussions focus on organisms of the same kind but comparing related individuals to each other compared to unrelated individuals. Comparing two different types of organisms that look alike but are different species does not align to the progression.\n\nBy upper elementary, students should be considering that some characteristics follow patterns across generations, but others do not. The general idea is that if an organism has a characteristic that it acquires because of its environment, that characteristic will not necessarily be passed to its offspring. For example, a plant that grows in the sun may have seedlings with less vigorous growth if they germinate in a shaded space.\n\nPrior to middle school, students were seeing finding patterns of inheritance. In middle school, students uncover the mechanism for inheritance. They learn about the existence of genes on chromosomes that influence traits. It is acceptable for middle school students to have an \"always on\" view of genes, but by high school students learn that genes are turned on and off by a variety of factors and that an organism's features and behaviors can change depending on the state of its genes."
+  },
+  "standards": [
+    {
+      "code": "K.LS3.1",
+      "grade": "K",
+      "statement": "Collect and analyze observational data to show that young living things are like, but not exactly like, their parents.",
+      "bigIdea": "All living things have characteristics we can see. A clear pattern is that young organisms share more characteristics with their parents than with unrelated organisms of the same kind.",
+      "note": "Observations aligned to LS3.A focus should on comparing offspring to parents vs offspring to non-familial members of the same species.",
+      "scientificIdeas": [
+        "We can describe the way that organisms look (their characteristics). Examples include things like size, shape, color, markings, etc.",
+        "Living organisms all come from other living organisms (e.g., plants come from seeds made by other plants, baby animals have parents).",
+        "Parents and offspring often share the same characteristics (e.g., both have thorns, both have white fur, both have the same leaf shape).",
+        "Young organisms are similar to their parents but are not exact copies (e.g., a puppy might have more spots than its parents, a calf's tail may be longer or shorter than its parents).",
+        "Organisms may have some similar characteristics to one parent and other characteristics shared with their other parent.",
+        "When many characteristics are compared, offspring will share more characteristics with their parents than with unrelated organisms of the same kind."
+      ],
+      "studentIdeas": [
+        "People look very different from their parents, but animals look almost the same.",
+        "Plants do not have parents -- they just grow from the ground.",
+        "If a parent has a feature (e.g., spots, horns, thorns, etc.), the baby must have the exact same feature.",
+        "Differences between parent and offspring happen because something was \"wrong\" with the offspring."
+      ]
+    },
+    {
+      "code": "5.LS3.1",
+      "grade": "5",
+      "statement": "Distinguish between inherited characteristics and those characteristics that result from direct interaction with the environment. Apply this concept by giving examples of characteristics of living organisms that are influenced by both inheritance and the environment.",
+      "bigIdea": "Inheritance explains why organisms have similar characteristics to their parents. Characteristics can also be influenced by interactions with the environment. Many characteristics involve inheritance and the environment working together.",
+      "scientificIdeas": [
+        "Organisms have features that we can describe.",
+        "All living things come from earlier living things -- offspring have parents.",
+        "Offspring resemble their parents because many characteristics are inherited.",
+        "Organisms also interact with their environment, and these interactions can influence their characteristics (e.g., light, nutrition, exercise).",
+        "The appearance of an organism can change depending on how well its needs are met.",
+        "Some characteristics are shaped by both inheritance and environment (e.g., adult size is inherited by parents, but nutrition can influence growth).",
+        "Some changes to appearance occur quickly (suntan), while others accumulate over time. Some are temporary, while others may last a lifetime."
+      ],
+      "studentIdeas": [
+        "All changes to the appearance of an organism are permanent.",
+        "The environment can only change the appearance of an organism when it harms or damages the organism (e.g., scars or lack of nutrients).",
+        "A characteristic can have only one cause---inheritance or environment, but not a blend of the two.",
+        "If two organisms look different, they cannot be related.",
+        "Related organisms will always look like nearly identical copies of each other."
+      ]
+    },
+    {
+      "code": "7.LS3.1",
+      "grade": "7",
+      "statement": "Evaluate and communicate information that chromosomes contain many distinct genes which code for the production of proteins, impacting the traits of an individual.",
+      "bigIdea": "Inheritance causes offspring to resemble parents due to transfer of genes from parents to offspring. These genes provide the instructions for making proteins, which play a role in shaping the traits of the organism.",
+      "scientificIdeas": [
+        "The large-scale characteristics of the organism (e.g., flower color) are the cumulative effects of proteins at the cellular level.",
+        "Genes are portions of chromosomes within the cells of living things.",
+        "Each gene provides the instructions for making one protein.",
+        "Genes are the physical units that transfer from parents to offspring during reproduction.",
+        "Genes have different versions, called alleles, which produce different proteins that act differently in the body.",
+        "Some alleles mask the activity of other alleles.",
+        "Proteins control the structures and functions of cells."
+      ],
+      "studentIdeas": [
+        "An allele is the same thing as a trait.",
+        "A gene and an allele are the same thing.",
+        "All cells in an organism use all of their genes all the time."
+      ]
+    },
+    {
+      "code": "7.LS3.3",
+      "grade": "7",
+      "statement": "Predict the probability of individual dominant and recessive alleles to be transmitted from each parent to offspring during sexual reproduction and represent the phenotypic and genotypic patterns using ratios.",
+      "bigIdea": "In sexual reproduction, offspring inherit one allele for each gene from each parent. This explains why offspring resemble their parents but are not identical, and why inheritance follows consistent patterns across organisms.",
+      "note": "This standard overlaps with component idea LS3.B because it explains how variation arises among related individuals.",
+      "scientificIdeas": [
+        "Gametes are a special type of cell which contains only one allele for each gene.",
+        "When a pair of gametes combine, the resulting cell will contain two copies of each gene.",
+        "Because each offspring receives a different combination of alleles, they resemble their parents but are not identical to them.",
+        "The combinations of alleles influence which proteins are produced and shapes the organism's traits.",
+        "The appearance of various traits depends on interaction of both copies of each gene.",
+        "In some cases, one functional allele produces enough protein to result in a particular phenotype.",
+        "Some phenotypes only appear if neither allele produces a functional protein.",
+        "In most cases, each offspring is the result of separate egg and sperm. The combination of alleles among siblings is not affected by other siblings.",
+        "Across many offspring, patterns become visible as predictable combinations of alleles and phenotypes.",
+        "Models for predicting traits in offspring produce probabilities, not exact predictions.",
+        "A dominant allele is a variation where the protein produced has an effect on the body. With many genes, a single dominant allele will produce the observable phenotype. (e.g., melanin protein causes skin pigmentation).",
+        "A recessive allele is a variant where the protein produced does not have a noticeable effect on the body (e.g., the melanin gene produces a protein that is an altered form of the melanin protein that does not cause skin pigmentation)."
+      ],
+      "studentIdeas": [
+        "Dominant alleles are \"stronger,\" \"better,\" or \"more common\" than recessive alleles.",
+        "Recessive alleles are \"hidden\" and have no effect at all.",
+        "If both parents have a trait, then all of their offspring will have that trait.",
+        "Punnett squares predict exactly what one individual offspring will look like, rather than showing probabilities across many offspring.",
+        "Offspring will always look like a \"blend\" or \"mix\" of their parents' traits.",
+        "The same allele combination always produces the exact same trait, without variation.",
+        "Traits always follow simple dominant/recessive patterns (no exceptions).",
+        "Randomness in inheritance means \"anything can happen\" rather than \"some outcomes are more likely than others.\""
+      ]
+    },
+    {
+      "code": "Bio1.LS3.1",
+      "grade": "Biology",
+      "statement": "Engage in an argument from evidence that the process of cellular division (mitosis) creates diploid daughter cells that are genetically identical to the diploid parent cells.",
+      "bigIdea": "Proliferation of single-celled organisms and the growth and proliferation of multicellular organisms depends on the ability of one cell to reproduce and distribute its entire genome to future cell generations.",
+      "scientificIdeas": [
+        "Organisms are a collection of physical and behavioral characteristics. These characteristics are determined by the expression of genes in the organism's genome.",
+        "The cell is the basic unit of life. Some organisms consist of only a single cell, while other organisms consist of many united cells.",
+        "The preservation of an organism's genome through successive divisions is essential to the existence of a variety of species of living organisms. Without the ability to preserve its genome, cell lineages would not exist.",
+        "In sexually reproducing organisms, the larger organism develops through successive divisions from a single cell.",
+        "Every cell in the larger organism contains a complete copy of the organism's genome; therefore, organisms must possess mechanisms for each cell to receive its copy of the larger genome.",
+        "A cell acquires its copy of the genome as part of the reproductive process.",
+        "In organisms that reproduce sexually, the development of the larger organisms arises from a single fertilized embryo. This embryo consists of two copies of each gene and in successive divisions of the embryo, every cell receives a copy of the duplicated genome.",
+        "The formation of genetically identical cells depends on two essential features -- the replication of the organism's DNA and the division of the cell into two new cells that each receive one complete set of the original cell's DNA.",
+        "The cells that result from cell division have two copies of every gene -- the same copies as the original cell.",
+        "Cells produce various structures to support the distribution of the replicated DNA to daughter cells."
+      ],
+      "studentIdeas": [
+        "Mitosis only occurs in single-celled organisms.",
+        "All single-celled organisms go through mitosis."
+      ]
+    },
+    {
+      "code": "Bio1.LS3.2",
+      "grade": "Biology",
+      "statement": "Engage in an argument from evidence that the process of meiosis exists to create genetic variation in a population from the creation of new combinations of genetic material in each of the haploid gametes.",
+      "bigIdea": "Individuals look similar to, but not exactly like their parents. Meiosis provides a mechanism to explain why an individual does not look exactly like either parent, but rather a blend of their parents.",
+      "note": "Emphasis should be on ideas of the benefits of a duplicate genome, with less emphasis on the individual steps of meiosis that create specialized reproductive cells.",
+      "scientificIdeas": [
+        "It is advantageous to have duplicate copies of all genes. Duplicate copies increase the likelihood that beneficial mutations can arise and can provide a mechanism to mask harmful mutations. These competitive advantages have facilitated the survival and proliferation of organisms that utilize sexual reproduction.",
+        "Organisms are a collection of traits, and organisms share many characteristics with their parents.",
+        "Chromosomes are a physical structure that passes from parent to offspring. Each chromosome is a single strand of DNA. On every chromosome there are many genes.",
+        "Every gene on a chromosome has the potential to create a protein. The interactions among these proteins and other biomolecules are responsible for an organism's characteristics.",
+        "Some aspects of an organism's appearance and behavior are determined by that organism's interactions with its surroundings.",
+        "Individuals possess two copies of nearly every gene. Both genes have the potential to be expressed, and the organism's characteristics are determined by the combined expression of both copies.",
+        "There are some sex-linked genes where individuals may have only one copy of a particular gene.",
+        "The duplication of the organism's genome occurs because individuals receive one copy of each gene from each parent.",
+        "Organisms that reproduce sexually produce specialized reproductive cells (i.e., pollen, spores, sperm, eggs). Each reproductive cell contains only one copy of each gene in the organism's genome. The union of two reproductive cells results in an offspring with a unique genome consisting of one copy of each gene from each parent.",
+        "Reproductive cells are a type of cell and like all other types of cells, they arise from the existing cells.",
+        "The formation of reproductive cells must be a unique process because it creates cells with only one copy of each gene from a cell that originally possesses two copies of each gene.",
+        "Some reproductive cells can remain viable even under conditions where the larger organism may not survive."
+      ],
+      "studentIdeas": [
+        "Organisms only have one copy of each gene.",
+        "Pollen, spores, eggs, and sperm are not cells."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}
