@@ -1,0 +1,172 @@
+{
+  "componentIdea": {
+    "code": "ESS3.A",
+    "title": "Natural Resources"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "How do humans depend on Earth's resources?",
+    "purpose": "Everything that people use (materials, fuels, food, water, and energy) comes from Earth's systems. Since these resources vary in availability, renewability, and distribution, human societies navigate ongoing decisions, opportunities, and tradeoffs as they meet their needs. Growing populations and emerging technologies impact the ways humans obtain and use resources, impacting Earth's systems from local to global scales. Across the Earth and Human Activity (ESS3) chapters students explore how Earth's processes affect human societies and how human activities, in turn, influence Earth's systems. ESS3.A focuses on resource dependence and the ways that human choices about acquiring and using resources shape interactions among Earth's systems.",
+    "centralIdeas": "Humans depend on the environment to provide the materials they need. Civilizations develop in places where their needs are met. Growing populations and greater expectations for comfort and convenience have increased the types of quantities of natural resources used by humans. Scientific discoveries change the ways that humans meet their needs and their environmental impacts. There are no natural processes to break down some materials made by humans. These materials are effectively permanent, and the atoms in these materials do not return to their natural cycles. As we understand more about Earth's systems, our models offer better predictions about the effects of our decisions on the environment."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Living things need water, air, and resources from the land, and they try to live in places that have the things they need. Humans use natural resources for everything they do: for example, they use soil and water to grow food, wood to burn to provide heat or to build shelters, and materials such as iron or copper extracted from Earth to make cooking pans. – NRC, 2012",
+      "progression": "Young children already have many experiences using natural materials in their daily lives. They see water coming from a faucet, walk on concrete sidewalks and gravel driveways, hold metal toys, and look through glass windows. Although they may not yet recognize where these materials come from, early elementary standards help students begin to understand that Earth is the source of the materials humans use to meet basic needs.\n\nAt this age, students think in very concrete and local terms. Students are not likely to consider that a spoon is made from minerals extracted from rocks. A glass jar appears to be a manufactured object rather than something made from sand. Soil is something plants grow in, not a mixture of tiny rock pieces and other materials formed over time. The purpose of instruction in this grade band is to begin shifting students' awareness and help them realize the things people use every day come from materials found in Earth's land, water, and air.\n\nStudents can learn this through firsthand experiences with familiar, minimally processed materials. For example, observe that small rocks and pebbles are used to make gravel paths or even see these bits of sand and rock inside of broken concrete. Exploring these materials helps students see that many human-made objects begin with things found directly in nature. These investigations also enable students to recognize that the properties of materials often determine how the materials are used. For example, the hardness and rocks make them useful for walls and paths, the malleability of clay is useful for shaping, sand can be melted for making glass.\n\nStudents should focus on the observable relationship between Earth's resources and everyday human needs. They learn that people \"get\" materials from places in the environment and use them in ways that help them live. This is an early foundation for later ideas about renewability, availability, and trade-offs.\n\nThe goal for the K–2 grades is for students to begin to recognize that humans rely on Earth's materials, and many objects they use every day originate directly from rocks, soil, sand, and water. This understanding prepares them for later learning about natural sources of materials, renewable and nonrenewable resources, and the mechanisms that determine how resources form and where they are found."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. All materials, energy, and fuels that humans use are derived from natural sources, and their use affects the environment in multiple ways. Some resources are renewable over time, and others are not. – NRC, 2012",
+      "progression": "In upper elementary grades, students expand their understanding of natural resources beyond the familiar materials they encounter every day. They begin to recognize that all materials, including fuels and other energy sources, humans use originate from Earth's land, water, air, or living things, even if those materials are processed or transported before they reach the places where people live. This shift helps students see that objects, such as metal tools, batteries, glass containers, plastic items, and different kinds of fuels, begin as substances found in Earth's systems.\n\nStudents in this grade band can now see patterns across examples. They may notice, for instance, that the metals used in wires, nails, and household tools come from minerals in rocks; the sand used for glass must be heated to extremely high temperatures; and fuels such as oil, natural gas, or coal come from underground deposits. These examples help students understand that materials differ not because of where they come from but because of their properties, which influences how humans choose to use them. Design tasks provide opportunities for students to select materials for their physical properties, such as metal for strength, sand-derived glass for transparency, or gravel and rock for stable surfaces.\n\nAt this stage, students are also ready to learn that resources fall into two broad categories: those that can be replaced in a relatively short time (renewable) and those that take much longer to form (nonrenewable). This is their first introduction to temporal scales beyond direct experience. While students are not expected to explain the processes that form fossil fuels or minerals, they should understand that some resources accumulate over long periods of time and cannot be quickly replaced once used.\n\nThis grade band also marks the point where students begin to consider that using resources affects the environment. This does not require complex mechanisms; simple, familiar examples are sufficient. For example, clearing land to obtain rocks, sand, or clay changes the shape of the land; using water for drinking or cleaning can reduce the amount available elsewhere; burning fuels generates smoke that enters the air. These ideas introduce the concept of basic trade-offs where actions taken to meet human needs can also have effects that people may want to reduce or avoid.\n\nSpatial scale also expands in these grades. Students start to understand that some resources are gathered nearby, while others come from far away. A metal object may contain minerals mined in another state or country. A glass bottle may have begun as sand from a distant region. While students do not yet study resource distribution, they begin to recognize that materials people use are not always found locally.\n\nThe goal for grades upper elementary is for students to see that all material and fuel humans use has a natural origin, that resources differ in how quickly they can be replaced, and that using resources involves simple trade-offs. These ideas set up the foundation for later learning about limited resources, uneven distribution, geologic formation, and more complex environmental and societal decisions in the middle grades."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Humans depend on Earth's land, ocean, atmosphere, and biosphere for many different resources. Minerals, fresh water, and biosphere resources are limited, and many are not renewable or replaceable over human lifetimes. These resources are distributed unevenly around the planet as a result of past geological processes (link to ESS2.B). Renewable energy resources, and the technologies to exploit them, are being rapidly developed. – NRC, 2012",
+      "progression": "By middle school, students are ready to move beyond recognizing that all materials humans use come from the Earth to understanding why those resources occur where they do and why some are more available than others. This grade band marks an important conceptual shift: students begin to connect natural resources to geological processes, Earth's history, and the structure of Earth's systems. These ideas help students understand that resources are not randomly placed across the planet but result from mechanisms operating over long periods of time.\n\nStudents at this level can reason about processes that occur on geologic timescales. They can understand that many mineral deposits formed as molten rock cooled, that fossil fuels accumulated from ancient organic matter buried under layers of sediment, and that freshwater aquifers result from long-term cycles of rainfall, infiltration, and storage underground. Although middle school students do not need to master the full complexity of these processes, they should recognize that resource formation takes time and that many resources cannot be easily or quickly replaced.\n\nThis is also the grade band where students learn that resources are not uniformly distributed across Earth. Using maps, datasets, or case examples, they begin to see how plate motions, rock formation, erosion, ancient environments, and other geological factors create patterns in where minerals, fossil fuels, and freshwater are found. Understanding these patterns helps them move from the idea that resources can simply be collected from anywhere to the more sophisticated idea that people must locate, access, and manage resources based on where Earth's processes have placed them.\n\nAs students develop these ideas, they also recognize that human dependence on resources leads to trade-offs, particularly when resources are limited or concentrated in certain areas. This includes trade-offs in how land is used, how water is shared, and how fuels and minerals are obtained. Students begin to understand that increasing population, increased consumption, or greater demand for certain materials can amplify these trade-offs.\n\nSpatial scale expands significantly in middle school. Students now think easily across regional, national, and global contexts. They can recognize that a mineral found in one region may be essential for manufacturing elsewhere, or that water availability varies dramatically from place to place. Temporal scale also broadens as students link short-term human needs with the long-term geological processes that determine which resources exist today.\n\nThe goal for the middle grades is for students to understand that resource availability depends on long-term Earth processes, that resources are limited and unevenly distributed, and that these constraints naturally lead to trade-offs in how humans meet their needs. These ideas prepare students for high school, where they will integrate Earth processes, technological solutions, and human decision-making to evaluate the economic, environmental, and social trade-offs involved in resource extraction and energy production."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "understandingOfResources",
+        "label": "Understanding of Resources"
+      },
+      {
+        "key": "useDecisionsAndTradeoffs",
+        "label": "Use, Decisions, and Trade-offs"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "understandingOfResources": "Resources are materials that humans get from Earth and use to meet basic needs (air, water, clothing, shelter, tools).",
+        "useDecisionsAndTradeoffs": "Humans get and use familiar, natural materials from Earth. No discussion of environmental impact."
+      },
+      {
+        "gradeBand": "3-5",
+        "understandingOfResources": "All materials and fuels come from natural sources, and some are renewable; others are not.",
+        "useDecisionsAndTradeoffs": "Using resources affects the environment; simple trade-offs can change effects."
+      },
+      {
+        "gradeBand": "6-8",
+        "understandingOfResources": "Resources are limited, not uniformly distributed, and connected to geological processes.",
+        "useDecisionsAndTradeoffs": "Human dependence on resources interacts with limitations, scarcity, and uneven distribution."
+      },
+      {
+        "gradeBand": "9-12",
+        "understandingOfResources": "Availability of resources shapes societal development and depends on long-term Earth processes.",
+        "useDecisionsAndTradeoffs": "Resource extraction and energy production involve economic, environmental, and social trade-offs that technologies and policies can impact."
+      }
+    ],
+    "narrative": "Students' understanding of natural resources develops from concrete ideas about basic needs in the earliest grades to a systems-level perspective on resource availability and societal decision-making by high school. This progression mirrors students' growing ability to reason about materials they cannot directly observe, processes that occur over long periods of time, and geographic patterns that span regions and continents. It also reflects an evolving understanding of human agency where young learners simply notice that people use materials from the environment, while older students recognize that resource choices involve trade-offs shaped by Earth's systems and human relationships.\n\nEarly elementary students recognize that humans and other living things need air, water, and materials from the land to survive. Their observations are rooted in the immediate and local experiences. For example, tools may be made of metal, or that wood is used to build homes. At this stage, students connect natural materials to familiar uses but are not yet required to consider how resource use affects the environment or how resource availability varies from place to place. Discussions about resource availability are also limited: resources appear steady and ever-present, and students do not consider that resources might run out or take time to form.\n\nBy upper elementary school, students broaden their understanding of resources beyond their immediate surroundings. They learn that all materials humans use (i.e., fuels and manufactured goods) originate from natural sources. This includes recognizing that some resources, such as sunlight or wind, are renewable over relatively short time spans, while others, such as fossil fuels or minerals, take far longer to form and are not replaceable within a human lifetime. Students begin to see that resource use affects the environment, and they can identify simple trade-offs, such as using land for farming versus maintaining habitats. Their sense of scale expands from the local to the regional and even global, as they learn that resources may come from distant places.\n\nIn middle school, students connect resource availability to Earth's geologic processes and history. They learn that mineral deposits, freshwater sources, fertile soils, and fossil fuels are distributed unevenly across the planet because of processes such as plate motion, erosion, sedimentation, and past climate patterns. This marks a substantial conceptual shift: resources are no longer seen as simply \"found\" but as formed through mechanisms operating over millions of years. Students begin to understand that human dependence on these limited and unevenly distributed resources creates trade-offs involving scarcity, environmental impacts, and competing needs. Their spatial scale now becomes global, and the temporal scale spans from human lifetimes to geologic time. This allows students to reason why some resources are abundant in certain regions but rare in others.\n\nHigh school students integrate ideas from Earth science, ecology, and human systems to understand that resource availability shapes societal development. They examine how long-term processes affect modern choices about energy and materials. Students analyze trade-offs associated with resource extraction and energy production, considering economic benefits, environmental impacts, and social factors. Importantly, they also explore how technologies and policies can change these trade-offs by improving efficiency, reducing unintended effects, or enabling the use of alternative resources."
+  },
+  "standards": [
+    {
+      "code": "K.ESS3.1",
+      "grade": "K",
+      "statement": "Use a model to represent the relationship between the basic needs (shelter, food, water) of different plants and animals (including humans) and the places they live.",
+      "bigIdea": "Humans and other living things use materials from the places where they live. The land, water, air, and living things in an environment provide the resources that organisms use for shelter, water, food, and tools.",
+      "scientificIdeas": [
+        "Organisms must meet basic needs to survive. Organisms obtain food and water from their surroundings.",
+        "Throughout human history, we have developed various tools and technologies to meet these needs comfortably (e.g., clay pots used to gather water and glass panes to let light into buildings).",
+        "People gather materials from their surroundings to craft simple tools (e.g., sand to make glass, clay to make bricks, metal to make pots).",
+        "People can use things in their immediate surroundings to construct tools or shelter. (e.g., stones can be sharpened to create arrowheads; branches and dirt can be used to construct shelters).",
+        "Different places provide different materials (e.g., different types of stone, wood, etc.).",
+        "Types of tools and shelters depend on available materials.",
+        "Materials have different properties that make them suitable for different purposes (e.g., large leaves can be layered to keep out rain).",
+        "Humans can treat materials in different ways to make them into different technologies (e.g., heating sand cools to glass, wet clay can be shaped and will harden when dried or fired; paper can be made from pulp, stones can be hewn)."
+      ],
+      "commonStudentIdeas": [
+        "Things like glass, metal, or bricks are mined in their final form, rather than gathered from natural materials.",
+        "Modern objects \"come from stores.\"",
+        "Tools are separate from nature. (e.g., Humans make things, animals use nature).",
+        "All places provide the same materials, so organisms can use the same resources anywhere.",
+        "Organisms only get food and water from their surroundings, and not materials used for conveniences."
+      ]
+    },
+    {
+      "code": "4.ESS3.1",
+      "grade": "4",
+      "statement": "Obtain and combine information to describe that energy, fuels, and materials are derived from natural resources and that some resources are renewable (e.g., sunlight, wind, water) and some are not (e.g., fossil fuels and minerals).",
+      "bigIdea": "Everything people use (materials and fuels) comes from a natural resource found on Earth. Some of these resources can be replaced over time, while others cannot.",
+      "scientificIdeas": [
+        "Energy is required for heating things (e.g., cooking, lighting) and making things move (transportation, exercise).",
+        "Energy is not a thing people can mine. It must come from some source or fuel (e.g., solar power comes from the sun; food provides energy for people, water flowing downhill, or fossil fuels and wood that can be burned).",
+        "Every different type of material (object) is made entirely of materials taken from the Earth.",
+        "Some resources can be replaced relatively quickly as they are used (e.g., sunlight, wind, water, wood).",
+        "Some resources form slowly or only exist in limited amounts (e.g., fossil fuels and minerals).",
+        "Any given place will have only a limited set of resources available there. Some resources may be unavailable or need to be brought in from other places.",
+        "Gathering and using any resource has effects on the environment."
+      ],
+      "commonStudentIdeas": [
+        "Fuels like gasoline or coal are \"already energy\" and ready to be used as soon as they are extracted.",
+        "Technologies like solar panels or wind turbines are machines that make energy, rather than capture energy.",
+        "Renewable resources can never run out.",
+        "Materials that do not look natural (e.g., plastic forks) do not come from natural sources.",
+        "Minerals and metals exist in their final form in nature (e.g., aluminum is mined in chunks and then rolled into sheets to make aluminum foil and formed, rather than processed).",
+        "Using renewable resources has no effect on the environment.",
+        "All materials are available everywhere on Earth (e.g., If I dug deep enough in my backyard, I would eventually find oil.)"
+      ]
+    },
+    {
+      "code": "6.ESS3.1",
+      "grade": "6",
+      "statement": "Use data to explain the consumption and sustainability of natural resources (non-renewable and renewable) and the resulting impact on Earth's system.",
+      "bigIdea": "Use of natural resources leads to trade-offs when availability, renewal rates, and impacts differ across Earth's environments.",
+      "scientificIdeas": [
+        "Natural resources vary in how quickly they can be replaced (e.g., water in a well-supplied watershed fills quickly, while fossil fuels and mineral deposits form slowly).",
+        "Sustainability depends on how quickly a resource is used compared to how fast it is replenished or replaced.",
+        "Fuels like gasoline, coal, and natural gas began as the remains of living organisms that stored energy while they were living. Humans have learned to make that energy useful.",
+        "The Sun provides energy for all living systems which store this energy as chemical energy. Energy derived from fossil fuels releases the energy stored by things that once lived. The processes that form fossil fuels are extremely slow.",
+        "Non-renewable resources form over geologic timescales, so they decrease in availability as people use them.",
+        "Renewable resources can still become limited depending on environmental conditions. (e.g., drought can affect hydropower).",
+        "Using resources can affect Earth's systems by changing land use, air and water quality, or altering cycles of energy and matter.",
+        "Different environments provide different types and amounts of resources because of local conditions including climate, landforms, vegetation, geology (e.g., solar power may not be practical in all places or may be more effective in some regions than others).",
+        "Trade-offs arise when choosing resources for similar purposes (e.g., gasoline vs electric vehicles)."
+      ],
+      "commonStudentIdeas": [
+        "Renewable resources can never run out.",
+        "Fossil fuels \"refill\" after humans use them.",
+        "All resources are available in similar amounts.",
+        "All resource use is sustainable if we \"use less.\"",
+        "Renewable resources have no environmental impacts.",
+        "Electricity and gasoline are natural resources (instead of products made from natural resources).",
+        "All effects of resources are immediate – ignore cumulative effects, such as water table drops."
+      ]
+    },
+    {
+      "code": "6.ESS3.2",
+      "grade": "6",
+      "statement": "Investigate and compare existing and developing technologies that utilize renewable and alternative energy resources.",
+      "bigIdea": "Humans develop technologies to find, access, capture, and convert energy from natural resources. New innovations can change how efficiently and responsibly these resources are used.",
+      "scientificIdeas": [
+        "All energy used by humans comes from natural resources, even when technologies used to capture it are highly engineered. (e.g., solar panels still require light; nuclear reactors still require radioactive materials).",
+        "Obtaining renewable resources may require tools or technologies made from non-renewable resources.",
+        "Technologies allow humans to access energy sources (drilling, mining, collecting biomass, building turbines).",
+        "Different technologies rely on different mechanisms (solar energy captures energy from light, turbines capture energy from moving air, hydroelectric systems capture energy from moving water, bioenergy captures energy from living systems).",
+        "The development of new materials improves the efficiency of energy capture.",
+        "Innovations can reduce unintended impacts of different types of energy capture.",
+        "New technologies may not be suited for use in all areas.",
+        "Improving efficiency of devices that use energy can help humans rely less on fuels that are hard to access, limited, or have negative impacts.",
+        "Comparing technologies considers inputs, outputs, efficiency, and effects and not just whether they are renewable."
+      ],
+      "commonStudentIdeas": [
+        "Individual energy use always decreases since technologies have become more efficient.",
+        "New technologies create energy, rather than capture it from existing processes.",
+        "All electricity comes from the same basic process.",
+        "Renewable energies have no drawbacks.",
+        "If a technology exists, it can be used anywhere, regardless of local conditions."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

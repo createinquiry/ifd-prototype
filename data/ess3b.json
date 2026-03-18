@@ -1,0 +1,143 @@
+{
+  "componentIdea": {
+    "code": "ESS3.B",
+    "title": "Natural Hazards"
+  },
+  "discipline": "ESS",
+  "chapterOverview": {
+    "guidingQuestion": "How do natural hazards affect individuals and societies?",
+    "purpose": "Natural processes produce hazards that affect people. The hazards cannot be eliminated, but understanding Earth's systems helps people forecast and prepare. Human activities influence the frequency and severity of some hazards. Across the Earth and Human Activity (ESS3) chapters students explore how Earth's processes affect human societies and how human activities, in turn, influence Earth's systems. ESS3.B focuses on hazards that impact people and how individuals and groups prepare and influence these hazards.",
+    "centralIdeas": "Natural processes can create sudden or gradual changes to Earths systems. Some of these changes can be negative. Humans cannot eliminate hazards, but it is possible to make decisions that minimize the negative effects. It is possible to design warning systems for some types of natural hazards. Human activities can cause some natural hazards to become more intense or more frequent."
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Some kinds of severe weather are more likely than others in a given region. Weather scientists forecast severe weather so that communities can prepare for and respond to these events. – NRC, 2012",
+      "progression": "In the early grades, students begin learning about natural hazards through the kinds of severe weather they already know from personal experience, such as rainstorms, winter weather, heat waves, or thunderstorms. These events shape many parts of their daily lives, including how they get to school, which activities they can participate in, and the choices their families make to stay safe. Because severe weather is both familiar and relevant, it provides an accessible entry point for young students to understand that weather conditions can sometimes create risks for people and communities.\n\nAt this grade band, students explore the idea that scientists study weather patterns, so they can forecast when certain kinds of severe weather may be more likely. Students learn that forecasts are not ideas that come from nowhere, but helpful tools created by observing and interpreting patterns in the environment. The emphasis is not on explaining the mechanisms that create severe weather, but on making sense of why weather forecasts matter in everyday life. When students see that communities use forecasts to take safety actions (e.g., taking shelter, changing plans, closing schools, adjusting transportation), they begin to understand that science helps people prepare for events that could cause harm.\n\nIt is important to be mindful of student experiences and the ways that severe weather may have recently impacted student communities. A variety of severe weather types are included in this introduction to provide instructional options that are accessible to students, without reminding them of personal devastation that has affected them directly.\n\nStudents also start recognizing that different places experience different kinds of severe weather and that where we live influences the types of preparation that are most important. These early ideas form the foundation for understanding how natural events shape human decisions, which will be expanded in later grades as students learn about a broader range of hazards and the ways communities design solutions to reduce risks."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. A variety of hazards result from natural processes (e.g., earthquakes, tsunamis, volcanic eruptions, severe weather, floods, coastal erosion). Humans cannot eliminate natural hazards but can take steps to reduce their impacts. – NRC, 2012",
+      "progression": "In early elementary school the standards focus on severe weather, and most of the discussions should have focused on the types of weather students might encounter in Tennessee. Discussions included the ways that people prepare for severe weather and the idea that severe weather is predictable to a certain degree.\n\nIn upper elementary grades, students extend their understanding of natural hazards beyond the kinds of severe weather they already know. They begin to learn about a wider range of hazards that result from natural Earth processes, such as floods, landslides, volcanic eruptions, and earthquakes. Many of these hazards may be unfamiliar or may not occur in the places where students live, yet they still affect people's lives. Students start to recognize that hazards can disrupt transportation, damage homes or crops, change access to resources, or influence the cost and availability of goods that come from other regions. This helps students see that events happening far away can still impact their everyday lives.\n\nAt this grade band, students also deepen their understanding of what it means for a hazard to pose a risk. They learn that natural hazards cannot be prevented, but that people can reduce their impact by preparing, planning, and designing solutions that help keep communities safe (e.g., levees, evacuation plans, retaining walls, or early warning systems). Students begin to evaluate solutions by considering the types of hazards that are common in a particular place and why some solutions may be more effective than others depending on local conditions.\n\nInstruction focuses on connecting the science content to meaningful decisions that communities make. Students explore how forecasting, monitoring, and planning inform actions such as strengthening infrastructure, adjusting travel routes, or protecting natural areas that help reduce impacts. These learning experiences build on the foundation established in K–2 and prepare students for middle school, where they will connect natural hazards more directly to Earth's systems and examine why certain hazards occur in specific locations."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Some natural hazards, such as volcanic eruptions and severe weather, are preceded by phenomena that allow for reliable predictions. Others, such as earthquakes, occur suddenly and with no notice, and thus they are not yet predictable. However, mapping the history of natural hazards in a region, combined with an understanding of related geological forces can help forecast the locations and likelihoods of future events. – NRC, 2012",
+      "progression": "In earlier grades, students learned that weather forecasts help people prepare for severe weather and that communities design solutions to reduce the impact of hazards typical to a place.\n\nIn the middle grades, students deepen their understanding of natural hazards by connecting them to the Earth systems ideas they are developing in ESS2. Students have learned that processes in the geosphere, hydrosphere, and atmosphere shape Earth's surface and influence the environment. Now they begin to apply that knowledge to explain why certain natural hazards occur in specific places, why some hazards give warning signals, and why others occur suddenly with little or no notice.\n\nThis grade band introduces an important distinction in how scientists think about prediction. Students learn that some hazards, such as volcanic eruptions or certain forms of severe weather, have precursor signals that can be monitored. Other hazards, such as earthquakes, do not provide reliable warning signs even though scientists understand the forces that cause them. To make sense of these differences, students use maps, historical records, and data about plate boundaries, hotspots, and atmospheric patterns to recognize where hazards tend to cluster and why. This helps them understand that scientists often forecast the likelihood of future events rather than predicting an exact time or day.\n\nStudents also explore how scientific knowledge and community decisions are connected. Mapping hazard patterns and understanding their causes helps communities identify which areas face higher risks. This information influences land-use planning, decisions about where to build homes and critical infrastructure, and the development of evacuation plans or community warning systems. These ideas help students see how Earth science contributes to real-world decision-making and why understanding natural hazards matters for public safety.\n\nThis foundation prepares students for high school, where they will consider how human activities can amplify hazard impacts and examine how natural hazards have shaped human populations and the development of societies."
+    },
+    "Biology": {
+      "nrcQuote": "",
+      "progression": ""
+    }
+  },
+  "progression": {
+    "columns": [
+      {
+        "key": "gradeBand",
+        "label": "Grade Band"
+      },
+      {
+        "key": "predictabilityAndForecasting",
+        "label": "Predictability and Forecasting"
+      },
+      {
+        "key": "humanResponses",
+        "label": "Human Responses"
+      }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "predictabilityAndForecasting": "Scientists forecast local severe weather (e.g., heavy rain, snow, ice, thunderstorms, heat).",
+        "humanResponses": "Forecasting uses simple patterns to help people take basic safety actions to reduce harm."
+      },
+      {
+        "gradeBand": "3-5",
+        "predictabilityAndForecasting": "Hazards cannot be eliminated, but data can inform us about reasonable risks in an area.",
+        "humanResponses": "Humans can design solutions that reduce the harm caused by the types of hazards that are typical to a place."
+      },
+      {
+        "gradeBand": "6-8",
+        "predictabilityAndForecasting": "Hazards may/may not have precursors.",
+        "humanResponses": "Historical human records and understanding of Earth's systems can help forecast likelihood of future events."
+      },
+      {
+        "gradeBand": "9-12",
+        "predictabilityAndForecasting": "Humans' activity can impact the frequency and intensity of future events.",
+        "humanResponses": "Natural hazards have shaped human history, affecting where humans live, affecting population sizes."
+      }
+    ],
+    "narrative": "Young learners make sense of natural hazards through forms of severe weather they have already seen in their own lives, such as rainstorms, winter weather, heat waves, and thunderstorms. They come to understand forecasting as a way of using simple weather patterns to anticipate when certain kinds of severe weather may be more likely. The focus in this grade band is on how forecasts help communities take basic safety actions (e.g., taking shelter, adjusting daily routines, or closing schools) before a hazard occurs. At this stage, instruction emphasizes the usefulness of preparation rather than the causes of the weather itself.\n\nIn upper elementary school, students expand their thinking from familiar local weather hazards to a wider range of natural hazards that occur because of Earth processes, such as floods, landslides, volcanic eruptions, and earthquakes. Students are now able to reason about hazards that may happen in places other than where they live and to recognize that different locations experience different types of risks. They learn that natural hazards cannot be eliminated, but people can reduce harm by preparing and designing solutions (e.g., evacuation plans, retaining walls, levees, or warning systems). At this stage, forecasting is still understood in broad terms as using patterns and data to understand when certain hazards may be more or less likely, and the focus is on how appropriate human responses can lessen the impacts of these events.\n\nIn middle school, students begin using their understanding of Earth's systems to explain why hazards occur where they do and how predictable they might be. They learn that some natural hazards have precursor signals that make reliable predictions possible, such as changes in volcanic activity or the development of severe weather systems, while others, such as earthquakes, can occur suddenly without warning. Students use maps, historical records, and data about plate boundaries, hotspots, and atmospheric or oceanic conditions to forecast the likelihood of future events. These forecasting tools support more sophisticated forms of human response, such as making decisions about land use, construction practices, and community preparedness. Students learn that forecasts guide risk reduction even when events cannot be predicted precisely.\n\nBy high school, students have developed the background knowledge needed to connect specific hazard mechanisms to the ways humans can influence the frequency or intensity of some natural hazards. They explore how human activities, such as changes in land use or contributions to climate change, can alter the conditions that shape future hazards. Students also consider the broader historical impacts of natural hazards, such as how they have influenced where humans live, affected population sizes, or driven human migration. This grade band integrates students' understanding of forecasting, mechanisms, and long-term patterns so they can evaluate how natural hazards and human decisions interact to shape both environmental and societal outcomes."
+  },
+  "standards": [
+    {
+      "code": "K.ESS3.2",
+      "grade": "K",
+      "statement": "Explain the purpose of weather forecasting to prepare for, and respond to, severe weather in Tennessee.",
+      "bigIdea": "Weather forecasts help Tennesseans stay safe by predicting when certain kinds of weather may be more likely. Communities use these forecasts to make decisions that keep Tennesseans safe.",
+      "scientificIdeas": [
+        "Severe weather happens in patterns that scientists observe through measurements such as temperature, wind, precipitation, and cloud cover.",
+        "Weather forecasts use patterns to predict when certain kinds of severe weather may occur (e.g., snow is more likely on cloudy, cold days; extreme heat is more likely during the summer).",
+        "Forecasts help people because they give people time to prepare before the weather arrives (e.g., put frost covers on faucets, plastic film over drafty windows).",
+        "Communities use forecasts to take safety actions, such as delaying travel, taking shelter, closing schools, or changing outdoor plans.",
+        "There are less impacts from severe weather when people plan accordingly.",
+        "Forecasts reduce the impact of severe weather, but they cannot prevent the weather from happening.",
+        "Forecasts are not always perfect, but they are still helpful for keeping people safe."
+      ],
+      "commonStudentIdeas": [
+        "Severe weather will always happen when it is predicted.",
+        "If forecasts can't be perfect, they are not useful.",
+        "Weather forecasts are guesses.",
+        "Safety actions aren't connected to decisions about safety (e.g., snow days happen so that I can play in the snow)."
+      ]
+    },
+    {
+      "code": "3.ESS3.1",
+      "grade": "3",
+      "statement": "Evaluate existing solutions that reduce the impact of natural hazards (e.g., fires, landslides, earthquakes, volcanic eruptions, floods, severe weather) on the environment.",
+      "bigIdea": "Natural hazards cannot be prevented, but people can do things that reduce their impacts. Communities use information about the types of hazards that are common in a place to design solutions that help protect people, property, and the environment.",
+      "scientificIdeas": [
+        "Natural hazards result from Earth processes such as heavy rainfall, ground shaking, volcanic activity, etc.",
+        "Different places experience different types of natural hazards more often than others.",
+        "Historical records can help people learn about the types of hazards that may happen somewhere.",
+        "Humans cannot stop hazards, but they can design solutions that reduce harm or protect resources (e.g., spillways on dams, retaining walls, controlled burns).",
+        "Some solutions can be built (e.g., barriers, supports) while others involve planning and procedures (e.g., evacuation routes, choosing where to build a home based on flood maps).",
+        "Evaluation of a solution requires considering whether it reduces the impacts of the hazards, is appropriate for the type of hazards, and will work in a specific place or situation.",
+        "Solutions may reduce some impacts but have trade-offs or limitations."
+      ],
+      "commonStudentIdeas": [
+        "Natural hazards can be eliminated by building the right thing.",
+        "One solution will work for all types of hazards.",
+        "Hazards are only important if they happen where students live.",
+        "The most noticeable/biggest solution is always the best solution.",
+        "All solutions must be built.",
+        "Hazards are preventable if people can \"fix\" the environment.",
+        "Solutions are only effective if they eliminate all the damage."
+      ]
+    },
+    {
+      "code": "8.ESS3.1",
+      "grade": "8",
+      "statement": "Collect data, map, and describe patterns in the locations of volcanoes and earthquakes related to tectonic plate boundaries, interactions, and hotspots in order to forecast the locations and likelihoods of future events.",
+      "bigIdea": "Natural hazards such as earthquakes and volcanic eruptions occur in recognizable patterns that reflect the movement and interactions of Earth's tectonic plates. By mapping these patterns and analyzing historical data, scientists can forecast where future events are more likely to occur even though the exact timing cannot be predicted.",
+      "scientificIdeas": [
+        "Earths lithosphere is divided into tectonic plates that move and interact in ways that create patterns of earthquakes and volcanoes.",
+        "Collecting and mapping data on past earthquakes reveals patterns that often match the locations of plate boundaries and hotspots.",
+        "Mapped patterns help scientists forecast where hazards are more likely, even though they cannot predict when specific events will occur.",
+        "Some hazards have precursor signals that make reliable predictions possible (e.g., ground deformation, gas emissions, or earthquakes before volcanic eruptions).",
+        "Earthquakes do not provide consistent precursor signals.",
+        "Hazard forecasts inform community decisions related to land use, building codes, emergency planning, and public safety."
+      ],
+      "commonStudentIdeas": [
+        "Earthquakes and volcanoes occur randomly across Earth's surface.",
+        "All volcanic eruptions and earthquakes can be predicted if scientists have the right instruments.",
+        "If scientists learn how earthquakes work, they should be able to predict exactly when they will occur.",
+        "Earthquakes are equally likely in all locations.",
+        "When a large event happens, it means that the area will not experience another one for a long time.",
+        "Hotspots are openings that exist briefly, rather than long lasting geologic features.",
+        "Communities can prevent hazards from occurring if they can change the environment."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}
