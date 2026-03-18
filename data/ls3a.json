@@ -63,7 +63,7 @@
   },
   "standards": [
     {
-      "code": "K.LS3.1",
+      "code": "K.LS3.1-a",
       "grade": "K",
       "statement": "Collect and analyze observational data to show that young living things are like, but not exactly like, their parents.",
       "bigIdea": "All living things have characteristics we can see. A clear pattern is that young organisms share more characteristics with their parents than with unrelated organisms of the same kind.",
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "code": "7.LS3.3",
+      "code": "7.LS3.3-a",
       "grade": "7",
       "statement": "Predict the probability of individual dominant and recessive alleles to be transmitted from each parent to offspring during sexual reproduction and represent the phenotypic and genotypic patterns using ratios.",
       "bigIdea": "In sexual reproduction, offspring inherit one allele for each gene from each parent. This explains why offspring resemble their parents but are not identical, and why inheritance follows consistent patterns across organisms.",

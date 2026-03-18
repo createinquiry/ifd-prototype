@@ -63,7 +63,7 @@
   },
   "standards": [
     {
-      "code": "K.LS3.1",
+      "code": "K.LS3.1-b",
       "grade": "K",
       "statement": "Collect and analyze observational data to show that young living things are like, but not exactly like, their parents.",
       "bigIdea": "Each kind of living thing has a defining set of characteristics we can see, and each of those characteristics can have different appearances across individuals of the same kind.",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "code": "7.LS3.3",
+      "code": "7.LS3.3-b",
       "grade": "7",
       "statement": "Predict the probability of individual dominant and recessive alleles to be transmitted from each parent to offspring during sexual reproduction and represent the phenotypic and genotypic patterns using ratios.",
       "bigIdea": "Sexual reproduction increases variation because offspring inherit new combinations of alleles when gametes from each parent combine.",
