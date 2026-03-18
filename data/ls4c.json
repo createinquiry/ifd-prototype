@@ -1,0 +1,164 @@
+{
+  "componentIdea": {
+    "code": "LS4.C",
+    "title": "Adaptation"
+  },
+  "discipline": "LS",
+  "chapterOverview": {
+    "guidingQuestion": "How does the environment influence populations of organisms over multiple generations?",
+    "purpose": "This strand examines how adaptation leads to a population that is better suited to its environment.",
+    "centralIdeas": [
+      "When an environment changes, characteristics that may not have been favorable under prior conditions may become advantageous.",
+      "Over generations, natural selection causes favored characteristics may become more common in the population.",
+      "It is possible for new species to arise from existing species when there are significant changes to the environment that separate parts of existing populations."
+    ]
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Living things can survive only where their needs are met. If some places are too hot or too cold or have too little water or food, plants and animals may not be able to live there. -- NRC, 2012",
+      "progression": "Adaptation is a process that occurs over time when there are changes to the place where an organism lives.\n\nAt the beginning of this progression, students should consider that some places have conditions where few or no organisms can survive. The factors that cause this may be too hot, too cold, too dry, or too little available food. The intent is for students to see that there are factors that might make it hard for organisms to survive in some places.\n\nIn the past, it might have been common to assign a habitat project to address these ideas. Researching an organism to design a suitable habitat is not likely to address the ideas of this progression. Instead, consider asking students to investigate whether they find the same number of living things everywhere around the school. By sampling various places around the school they can see that very few things live in places like sidewalks or concrete pads. They can then study the features of these sites further to uncover how the conditions (being hot and dry) are different in these places, as opposed to the places where many things survive. Similar data across seasons can show the effect of cold on the number of organisms found around the school.\n\nMany early readers oversimplify this idea by focusing on special features of animals in extreme places, such as thick fur in the Arctic. While such features are real, this framing can cause students to equate \"adaptation\" with a body part or behavior. At this grade band, the emphasis should be on the pattern that very few kinds of organisms can survive in extreme conditions, and that even those organisms exist in small numbers. This helps students see adaptation not as a single trait, but as the result of a longer process in which only certain kinds of organisms are able to persist where conditions are harsh.\n\nIn later grades, students will see that even places where organisms live may not be suitable for all organisms to live there. This is a first step towards understanding that the process of adaptation has resulted in a collection of organisms in any given place that are best suited for that place. If the conditions in that place change, then after time the types and characteristics of organisms living there will change as well."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Changes in an organism's habitat are sometimes beneficial to it and sometimes harmful. For any particular environment, some kinds of organisms survive well, some survive less well, and some cannot survive at all. -- NRC, 2012",
+      "progression": "In early elementary school, students learned that organisms can only live where their basic needs are met and that there are places where almost nothing can survive.\n\nIn late elementary school, the focus shifts from which places support life to how changes in a place's conditions can alter which species can live there. A habitat is the set of conditions and resources in a place (e.g., temperature, rainfall, water availability, shelter, food, and the presence of other organisms). When those conditions change, such as droughts, flooding, wildfire, temperature shifts, or the arrival of a new competitor or food source, the match between species and place can change. Some kinds of organisms will survive well, others will survive less well, and some may no longer survive there at all.\n\nStudents can investigate this idea in practical ways. For example, they might map the types of plants growing around the school at different seasons, noting how shifts in temperature or rainfall affect which plants are present. They could also use before-and-after snapshots of a familiar place, such as a stream in a dry versus a wet season, to observe how changing conditions affect the living things found there.\n\nStudents might also track animals that visit or live around the schoolyard at different times. For example, they could record the types of birds seen in the fall versus the spring or compare the number of insects in sunny versus shady spots. Over time, they will notice that different conditions support different groups of animals, such as more pollinators when flowers are blooming or fewer amphibians during a dry spell.\n\nThese experiences make visible the principle that changing conditions change who can live there, laying the foundation for middle school learning, where students connect these changes to shifts in traits within populations over generations."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Adaptation by natural selection acting over generations is one important process by which species change over time in response to changes in environmental conditions. Traits that support successful survival and reproduction in the new environment become more common; those that do not become less common. Thus, the distribution of traits in a population changes. In separated populations with different conditions, the changes can be large enough that the populations, provided they remain separated (a process called reproductive isolation), evolve to become separate species. -- NRC, 2012",
+      "progression": "Before this grade, students have uncovered two foundational ideas: (1) no one place is suited to all types of living things, and (2) changes to an environment may be beneficial for some organisms and harmful for others. In middle school, students build on these ideas by exploring how changes in environmental conditions drive the process of adaptation at the population level.\n\nAdaptation occurs when natural selection acts on populations in response to environmental pressures. Traits that may have been favorable may lose their advantage when conditions change, and traits that provide a new advantage may become more common over many generations. While students often describe a visible feature, such as a bird's beak, as \"an adaptation,\" it is important that instruction highlight adaptation as a process that unfolds over time, not a part of an individual organism.\n\nInstructionally, this means shifting emphasis from \"what features animals have\" to how the match between traits and environment changes survival outcomes. Students might compare examples across different scales of change. For example, gradual changes like climate shifts or soil composition versus sudden changes like droughts, disease outbreaks, or habitat destruction. These cases illustrate that some changes provide enough time for populations to adapt, while others may be too rapid, leading to species decline or extinction.\n\nThis grade band also introduces the idea that when populations of the same species are separated into different environments, each group may adapt to its unique conditions. Over time, these divergent changes can become large enough that the separated populations no longer interbreed, marking the beginning of speciation. Students at this stage may still hold early historical views about adaptation. For example, believing that organisms acquire traits in response to their needs and pass them directly to offspring. Engaging these ideas creates an opportunity to show that adaptation is not directed by need but emerges through the differential survival and reproduction of individuals in changing environments."
+    },
+    "Biology": {
+      "nrcQuote": "Natural selection is the result of four factors: (1) the potential for a species to increase in number, (2) the genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for an environment's limited supply of the resources that individuals need in order to survive and reproduce, and (4) the ensuing proliferation of those organisms that are better able to survive and reproduce in that environment. Natural selection leads to adaptation --that is, to a population dominated by organisms that are anatomically, behaviorally, and physiologically well-suited to survive and reproduce in a specific environment. That is, the differential survival and reproduction of organisms in a population that have an advantageous heritable trait leads to an increase in the proportion of individuals in future generations that have the trait and to a decrease in the proportion of individuals that do not. Adaptation also means that the distribution of traits in a population can change when conditions change.\n\nChanges in the physical environment, whether naturally occurring or human-induced, have thus contributed to the expansion of some species, the emergence of new distinct species as populations diverge under different conditions, and the decline -- and sometimes the extinction -- of some species. Species become extinct because they can no longer survive and reproduce in their altered environment. If members cannot adjust to change that is too fast or too drastic, the opportunity for the species' evolution is lost. -- NRC, 2012",
+      "progression": "The early portions of this progression help students understand that there is a connection between the environmental conditions and the living things in that place. This begins with the observation that some places can be so harsh that very few things can live there. Then students learn that changes to the environment can affect which organisms survive there.\n\nIn middle school, students learn that an organism's traits are a result of genes. Some variants of a trait can provide advantages to individuals. These individuals are more likely to survive, reproduce, and therefore pass their traits on to their offspring. Over generations, natural selection causes the advantageous traits to be passed on more often. The focus in middle school was on the trait, and not on the population.\n\nHigh school standards discuss adaptation as a phenomenon that occurs at the scale of the whole population. Natural selection causes characteristics to become more common in a population when individuals with the beneficial characteristics have more offspring than individuals without the advantageous characteristics. Adaptation is a process driven by natural selection that leads, over time, to a population that is better suited to its environment.\n\nWhen environmental conditions remain stable long enough, most of the population will take on certain sets of characteristics. This idea connects back to earlier standards relating the environment to the organisms. In periods with frequent environmental disruption, there may not be time for natural selection to cause a particular characteristic to become dominant. Levels of disruption can be significant enough that species might not have the capacity to adapt and will no longer survive in the changed environment.\n\nA combination of factors must exist for adaptation to occur."
+    }
+  },
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "environmentalConditions", "label": "Environmental Conditions" },
+      { "key": "consequencesForOrganisms", "label": "Consequences for Organisms/Populations" }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "environmentalConditions": "Fixed; conditions may be too hot, too cold, too dry or there may not be enough food or water.",
+        "consequencesForOrganisms": "Living things can only survive where their needs are met. Some places support few or no organisms."
+      },
+      {
+        "gradeBand": "3-5",
+        "environmentalConditions": "Changing; conditions in an organism's habitat can change (e.g., shifts in temperature, rainfall, soil conditions, resource availability).",
+        "consequencesForOrganisms": "Some organisms survive well under new conditions, others less well, and some cannot survive at all."
+      },
+      {
+        "gradeBand": "6-8",
+        "environmentalConditions": "Changing: Conditions in environmental pressures (e.g., climate shifts, predator/prey dynamics, habitat alteration)",
+        "consequencesForOrganisms": "Across generations, traits that improve survival and reproduction become more common. Isolation populations can diverge to become unique species."
+      },
+      {
+        "gradeBand": "9-12",
+        "environmentalConditions": "Changing; Environmental conditions can be sudden, gradual, natural, or human induced.",
+        "consequencesForOrganisms": "Genetic variation is affected by environmental changes. Scale of change and capacity to adapt drives outcomes ranging for varying changes in allele frequency to possible extinction."
+      }
+    ],
+    "narrative": "Adaptation is a response to environmental change. The scientific idea of adaptation emerged gradually, and a student's understanding reflects a historical progression on how and why species change, emerge, or become extinct.\n\nStudents begin by considering the survival needs of organisms in unchanging conditions. The goal is for students to recognize that living things can only survive where their basic needs are met. Some places are too hot, too cold, too dry, or lack enough food or water to support life. This mirrors ancient and early naturalists' observations that certain plants and animals were found only in particular places. Early observers noted that organisms seemed \"suited\" to their environments, and assumed species were fixed. The idea of living within environmental limits serves as the earliest step toward understanding adaptation.\n\nIn late elementary grades, students learn that habitats can change in ways that benefit some organisms while harming others. For example, a drought may reduce water sources, favoring drought-tolerant species but making survival harder for others. This reflects a stage in the history of science when people recognized that survival depended on changing conditions but had not yet explained how species themselves could change.\n\nBy middle school, students recognize that species can change over time and begin to see inheritance as necessary component of this change. Students may believe that organism acquire traits during their lifetimes and then pass them on, an idea once common in early theories of adaptation. Middle school students should understand that adaptation is driven by the environment. Traits that once were favorable may lose their advantage when conditions change, and isolated populations may eventually diverge into new species.\n\nIn high school, students connect adaptation to genetics, learning that natural selection operates on heritable variation produced by mutations and recombination. Adaptation is tracked through changes in allele frequencies, which can lead to populations becoming better suited to their environments, the emergence of new species, or extinction when change is too rapid. Tracking allele frequencies allows adaptation to be observed in the present, not just inferred from the past."
+  },
+  "standards": [
+    {
+      "code": "3.LS4.1",
+      "grade": "3",
+      "statement": "Use evidence to explain the cause-and-effect relationship between a naturally changing habitat and how well an organism survives.",
+      "bigIdea": "Organisms depend on their environment to survive. When the environment changes, some organisms survive well, some survive less well, and some may no longer survive there at all.",
+      "scientificIdeas": [
+        "Living organisms depend on their surroundings to meet their needs.",
+        "Organisms live only where their needs are met and where they can tolerate the physical conditions (temperature, sunlight, soil, wind, moisture, etc.).",
+        "A habitat is the specific place where an organism lives, shaped by conditions and resources.",
+        "Habitats can change in ways such as seasonal shifts, droughts, floods, or the arrival of new organisms.",
+        "When a habitat changes, not all organisms are affected in the same way: some may thrive, some may survive less well, and some may no longer survive there at all.",
+        "Some changes are temporary, while others are long-lasting and may permanently alter which organisms can survive in that place."
+      ],
+      "studentIdeas": [
+        "It is possible to prevent the environment from changing.",
+        "Any change to the environment affects all organisms in the same way.",
+        "Organisms will always be able to find a way to survive if they try hard enough.",
+        "If organisms move away, it means they did not need that environment.",
+        "Animals choose the best environment to live in (rather than being limited by conditions).",
+        "Plants and animals can simply \"get used to\" new conditions if they stay there long enough."
+      ]
+    },
+    {
+      "code": "8.LS4.4",
+      "grade": "8",
+      "statement": "Develop a scientific explanation of how natural selection plays a role in determining the survival and reproduction of a species in a changing environment.",
+      "bigIdea": "Environmental changes affect which traits in a population are favorable. When changes occur traits that are better suited for survival and reproduction become more common, while others become less common. With time and separation, this process can cause populations to diverge into independent species.",
+      "scientificIdeas": [
+        "A population is made up of individuals of the same species living in the same place.",
+        "A species is defined by the ability of its members to reproduce and produce fertile offspring.",
+        "Environments can change gradually (e.g., climate shifts, soil changes) or suddenly (e.g., drought, fire, introduction of a new predator).",
+        "Environmental changes create pressures that affect which traits are favorable for survival and reproduction.",
+        "Traits that improve survival and reproduction become more common across generations.",
+        "Traits that no longer provide an advantage become less common across generations.",
+        "If a population is divided into separate groups that experience different environments, each group may adapt in different ways.",
+        "Over many generations, these divergent changes can result in the groups no longer interbreeding, marking the formation of new species.",
+        "If environmental change is too rapid or severe, populations may not adapt quickly enough and may decline or become extinct."
+      ],
+      "studentIdeas": [
+        "Adaptation happens quickly, as individual organisms change in order to survive.",
+        "Organisms develop new traits because they \"need to\" in a changed environment.",
+        "All organisms in a population change in the same way at the same time.",
+        "Adaptations are only physical features (like claws, teeth, or fur), not processes.",
+        "A species can choose to change its traits to survive.",
+        "Organisms can mix and match traits from parents to create whatever trait is needed.",
+        "If a population is split, the two groups will remain the same species forever.",
+        "Students may not understand that species are defined by the ability to reproduce together."
+      ]
+    },
+    {
+      "code": "Bio1.LS4.3",
+      "grade": "Biology",
+      "statement": "Analyze and interpret data that natural selection is influenced by (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those organisms that are better able to survive and reproduce in the environment.",
+      "bigIdea": "Natural selection drives adaptation and is a result of several factors that must exist at once.",
+      "scientificIdeas": [
+        "A population consists of a group of the same species.",
+        "Adaptation leads to populations where most organisms in a population possess those characteristics that provide the greatest advantages in their environment.",
+        "Natural selection is the mechanism that results in populations that are adapted to their environment.",
+        "Adaptation in a population can be tracked by changes in allele frequency.",
+        "Rates of adaptation do not happen at a set or uniform rate. Different factors can affect how quickly adaptation happens.",
+        "Sudden changes where the frequency of advantageous alleles increases indicate that a population is experiencing high selective pressures.",
+        "Adaptations occur when favorable characteristics are passed from one generation to the next. A species that cannot reproduce will not be able to pass on favorable characteristics because future generations will not arise.",
+        "Genetic variation refers to the number of different alleles in the gene pool of a population. New alleles arise in a population through mutations, or when individuals from other populations introduce new genes into the population. Low genetic variation in a population reduces a species' ability to adapt because there are fewer possible outcomes to selective pressure. A variety of alleles in a gene pool increases the chances that some members might survive and that those genes will be inherited.",
+        "Competition is low when resources are abundant. Survival rates are high and most alleles in the population are maintained across generations. Competition is high when a population reaches its carrying capacity because there are no excess resources. Levels of competition are highest within a species (intraspecific competition) because individuals of the same species will have the most similar needs. The result is that intraspecific competition is the greatest contribution to allele shifts. Intraspecific is a less significant factor because the needs of individuals may not align as closely."
+      ],
+      "studentIdeas": [
+        "Adaptations will always be physical parts (tail, talons, stems, etc.) on a plant or animal.",
+        "Adaptations arise quickly.",
+        "Adaptation is always caused by predator/prey relationships."
+      ]
+    },
+    {
+      "code": "Bio1.LS4.4",
+      "grade": "Biology",
+      "statement": "Construct an explanation based on evidence for how natural selection leads to adaptation in populations.",
+      "bigIdea": "Differences among organisms of the same species can provide advantages in survival and reproduction for some members. Over generations, the advantageous characteristic becomes prevalent in the population.",
+      "scientificIdeas": [
+        "An organism's physical and behavioral characteristics are determined, in part, by its genes.",
+        "Genetic differences can lead to expressed differences between individual members of the same species.",
+        "Some differences between individuals make it more likely that certain individuals -- with greater fitness -- will survive and reproduce relative to other individuals of the same species.",
+        "An organism receives its unique combination of genes from its parents.",
+        "When a particular advantage is encoded in an organism's DNA, then it is possible for that organism's offspring to inherit the advantage.",
+        "If selective pressures in the environment remain relatively consistent, then offspring that inherit an advantageous characteristic will also be more likely to survive and reproduce.",
+        "Adaptation leads to advantageous characteristics becoming increasingly common in a population over time.",
+        "Changes to the environment can favor different sets of characteristics and/or influence how quickly a characteristic becomes common throughout a population.",
+        "Sexual selection for a trait will make that trait more common over generations.",
+        "Selective pressures can lead to tradeoffs. Selection for a trait for one reason (e.g., sexual selection) can be detrimental for other reasons (e.g., it is harder to escape predators)."
+      ],
+      "studentIdeas": [
+        "There are differences between species, but not within the same species.",
+        "If a parent possesses an advantageous characteristic, then its offspring will also (always) inherit the genes for that advantageous characteristic.",
+        "Neutral or disadvantageous characteristics disappear rapidly from populations when advantageous variations arise."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "componentIdea": {
+    "code": "LS4.A",
+    "title": "Evidence of Common Ancestry"
+  },
+  "discipline": "LS",
+  "chapterOverview": {
+    "guidingQuestion": "What evidence shows that different species are related?",
+    "purpose": "Earth's history and present day include many organisms that share common characteristics (unity), even among organisms that appear very different (diversity). Common ancestry explains the similarities, and lineages branch and radiate into new forms that reflect the differences we see.",
+    "centralIdeas": [
+      "Earth's species change over time: some become extinct and new ones emerge.",
+      "Evidence such as fossils shows these shifts.",
+      "New species emerge from existing species as they respond to opportunities and environmental pressures.",
+      "This process explains Earth's many different types of living things and the common features they share."
+    ]
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. Some kinds of plants and animals that once lived on Earth (e.g., dinosaurs) are no longer found anywhere, although others now living (e.g., lizards) resemble them in some ways. -- NRC, 2012",
+      "progression": "Young students are often fascinated by dinosaurs and other organisms that are no longer found living on Earth. They can use scientific illustrations to compare features of living things and extinct things. For example, they might notice that some dinosaurs, like some animals today, had four legs, wings, claws, etc. The goal is to show that while some organisms that once lived on Earth are no longer found anywhere (diversity) these extinct organisms have similarities to existing ones (unity). Standards in this component idea connect with others exploring grouping and patterns such as those in component ideas LS1.A, LS3.A, and PS1.A.\n\nAlthough there is no Tennessee standard for this grade band, these early observations lay important groundwork for later grades. Students are likely to think about fossils whenever they discuss organisms like dinosaurs that are no longer found on Earth. Fossils, however, are addressed in later grades. By late elementary, students grasp that organisms have both internal and external structures that can be fossilized, preserving details about organisms and their habitat. In middle school, they learn about the chemical processes involved in fossilization and why it is rare. This knowledge helps them understand how the fossil record supports explanations for life's diversity and similarities among living things, as well as limitations of the fossil record."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Fossils provide evidence about the types of organisms (both visible and microscopic) that lived long ago and also about the nature of their environments. Fossils can be compared with one another and to living organisms according to their similarities and differences. -- NRC, 2012",
+      "progression": "There is not an earlier standard for this grade band in Tennessee standards. However, students typically reach late elementary school with existing ideas about organisms that once existed on Earth but are now extinct. They may have seen artists' renderings and may be able to share similarities between the external features of extinct and extant organisms.\n\nScientists have not always recognized fossils as connections between the past and present. Since ancient times, people have noticed unusual rock shapes that look different from other stones around them, including mysterious instances where one type of rock is found inside of another rock. These shapes reminded people of shells, bones, or wood and raised questions about what they might mean. Up through the middle-ages people explained them as \"turned to stone,\" imagining a seemingly magical process where plants or animals could instantly be transformed into rock. Then in the 1600s came perhaps the first assertion that natural processes could produce stone from the remains of something that was once alive.\n\nIn late elementary students should develop an understanding that fossils are rocks, and that these rocks began at the body parts of things that once lived. Students can apply some properties of matter, such as hardness, as evidence that bones and rocks are different materials. However, they're not likely to understand how chemical tests provide evidence of chemical transformation until middle school.\n\nStudents are likely to think of enormous bones when they think of fossils. Despite the impressive scale of these fossils, such fossils are relatively uncommon compared to the fossils of various microbes that allow scientists to infer what different places on Earth were like in the past. As students learn about the microscopic world, they may learn about plankton through discussions of the life cycles of marine organisms or about microbes in discussions of marine food chains. Uncovering that these tiny organisms can also become fossils can lead to new questions about different locations. For example, \"Why are marine fossils such as crinoids so common across Tennessee, even though it's hundreds of miles from any ocean?\" For now, it is sufficient for students to understand that the diverse types of fossils found at a location suggest that locations have looked significantly different at various points across Earth's history.\n\nIn middle school, students will learn about chemical reactions which provides access to understanding the processes of fossil formation. As students learn about formation of various, they will be able to understand how the history of Earth's diversity is preserved in its geology, including the reasons why so many individual organisms are not preserved."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Fossils are mineral replacements, preserved remains, or traces of organisms that lived in the past. Thousands of layers of sedimentary rock not only provide evidence of the history of Earth itself but also of changes in organisms whose fossil remains have been found in those layers. The collection of fossils and their placement in chronological order (e.g., through the location of the sedimentary layers in which they are found or through radioactive dating) is known as the fossil record. It documents the existence, diversity, extinction, and change of many life forms throughout the history of life on Earth. Because of the conditions necessary for their preservation, not all types of organisms that existed in the past have left fossils that can be retrieved. Anatomical similarities and differences between various organisms living today and between them and organisms in the fossil record enable the reconstruction of evolutionary history and the inference of lines of evolutionary descent. Comparison of the embryological development of different species also reveals similarities that show relationships not evident in the fully formed anatomy. -- NRC, 2012",
+      "progression": "Throughout elementary school, students have explored records, such as fossils and scientific drawings, of plants and animals that once lived on Earth but are now extinct. There were two key observations to be made: some extinct organisms share features with plants and animals alive today (unity), and living organisms also show many differences from one another and from organisms that lived in the past (diversity).\n\nIt is easy to see similarities among living things today. But new species do not appear in a single lifetime -- they emerge gradually over many generations. The only record that spans the immense time needed for these changes is the geologic record, where layers of rock preserve fossils that show species that show both similarities and differences across Earth's history.\n\nBy this point, students should understand that fossils are rocks, not bones, shells, or other structures. With new knowledge in physical science, they are prepared to connect fossilization to chemical processes, by applying their new knowledge that all matter is made from a limited number of elements that can be rearranged and replaced during chemical reactions. Students are likely to ask intuitive questions about fossils, such as, \"Why are fossils so rare when so many living things cover Earth?\" They develop an appreciation for the immense time and undisturbed conditions that are necessary for fossilization reactions to occur to address such questions.\n\nWith an understanding of the fossil record and the processes of fossilization, students have the necessary background to explore the idea of common ancestry as the scientific explanation of both unity and diversity. Common ancestry means that living things share common ancestors that are now extinct. Inheritance explains why they have similar features while environmental pressures lead to differences.\n\nBy the end of middle school, students' understanding of evidence for common ancestry resembles that of scientists in the late 1940s. They can use the fossil record, anatomy and embryology, and principles of inheritance to explain both similarities (unity) and differences (diversity) among organisms.\n\nHigh school standards introduce students to more recent evidence revealed using modern technologies. This includes evidence such as similarities during early development that are not visible in adults. For example, pharyngeal pouches are embryonic structures found all vertebrates (unity), but these structures develop into different final forms by birth: parts of ear, tonsils, etc. in mammals; gills in fish; part of the jaws and throat in birds and reptiles. As they learn about the molecular components of living things they can explore evidence in DNA sequences or amino acid sequences across living things."
+    },
+    "Biology": {
+      "nrcQuote": "Genetic information, like the fossil record, also provides evidence of evolution. DNA sequences vary among species, but there are many overlaps; in fact, the ongoing branching that produces multiple lines of descent can be inferred by comparing the DNA sequences of different organisms. Such information is also derivable from the similarities and differences in amino acid sequences and from anatomical and embryological evidence. -- NRC, 2012",
+      "progression": "Earth has been inhabited and is presently inhabited by an incredible diversity of living things. While the term \"diversity\" may suggest \"differences,\" there are a variety of common features among groups of organisms. Students have been observing common features among extinct and extant organisms since the earliest grades. In high school, students merge their understandings of cell division and cell differentiation to explain how organisms that may have very different adult forms can still possess similarities during embryonic development. For example, fish, humans and other vertebrata have a pharyngeal pouch in embryonic stages. Though this feature is common in embryonic stages, as the embryo develops, the pouches develop into gills in fishes and a variety of structures in the inner ear of humans. These changes make some similarities harder to recognize.\n\nStudents have discussed fossils in various ways since late elementary school. Students begin to explore the fossil record in middle school. Throughout the fossil record we observe transitional fossils that link current organisms to ancestral forms. Evidence supporting the explanation of common ancestry and biological evolution extends to the molecular scale where we see common stages of DNA and translated amino acid sequences."
+    }
+  },
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "evidenceOfUnity", "label": "Evidence of Unity" },
+      { "key": "evidenceOfDiversity", "label": "Evidence of Diversity" }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "evidenceOfUnity": "Living organisms today share features with extinct organisms (e.g., lizards and dinosaurs both have claws)",
+        "evidenceOfDiversity": "Some kinds of organisms that once lived on Earth (e.g., dinosaurs) are no longer found anywhere."
+      },
+      {
+        "gradeBand": "3-5",
+        "evidenceOfUnity": "Fossils can be compared to each other and modern organisms to see similarities in structures (e.g., teeth, bones, shells).",
+        "evidenceOfDiversity": "Fossils show that many types of organisms lived long ago and their environments."
+      },
+      {
+        "gradeBand": "6-8",
+        "evidenceOfUnity": "Anatomical structures and embryological development are shared among both living and extinct species.",
+        "evidenceOfDiversity": "The fossil record documents extinction and emergence of new life forms over Earth's history; fossils show change in organisms across layers of rock."
+      },
+      {
+        "gradeBand": "9-12",
+        "evidenceOfUnity": "Similar DNA, amino acid sequences, and embryological features point to common ancestry across diverse organisms.",
+        "evidenceOfDiversity": "Lineages branch and radiate into new forms over time, supported by transitional fossils and biogeographic patterns."
+      }
+    ],
+    "narrative": "In early elementary school, student observations set the stage for seeing unity within diversity. Building on their exploration of the external features of organisms, students compare scientific drawings of extinct organisms with living ones. They can notice that even very different organisms may share common features.\n\nIn grades 3--5, students learn that many different organisms have internal skeletons or hard external structures (LS1.A). This allows students to begin to explore fossils and to see fossils as something more than just \"old bones.\" They can compare fossilized structures to those of living organisms, using them as evidence of both shared features and the presence of now-extinct life forms. Students are also learning that there is a microscopic world of living things, such as plankton, diatoms, or pollen (LS1.C). Most of the fossils on Earth are microscopic, not big bones. These tiny fossils give scientists a huge amount of evidence about past life and environments.\n\nBy grades 6--8, students' growing understanding of chemical reactions (PS1.A, PS1.B) helps them understand how fossils form and why fossilization is rare. This unlocks the idea of the fossil record as a timeline, not just a collection of specimens. Students can now see patterns of extinction and emergence of new organisms across layers of rock.\n\nMiddle school students are also learning about body systems and the development of organisms from a single cell (LS1.A, LS1.B). They can begin to understand that there are stages of embryonic development which allows them to observe that there are similarities that may not be observable in adults but show up during early development. This is the first of the less visible, but powerful lines of evidence to support modern explanations of similarities and differences.\n\nStudents had access to the basic types of evidence needed to explain how organisms are related by the end of middle school. In high school biology, students' work with cells (LS1.A), DNA (LS1.B), and proteins (LS1.C) unlock molecular evidence which builds deeper support for explanations of the unity and diversity of life. They can now compare DNA and amino acid sequences to identify conserved features across lineages. This molecular evidence, combined with fossils, anatomy, embryology, and biogeography, provides a converging set of lines of evidence that explain both the unity and diversity of life as outcomes of common ancestry and branching descent."
+  },
+  "standards": [
+    {
+      "code": "4.LS4.1",
+      "grade": "4",
+      "statement": "Obtain, evaluate, and communicate information about what a fossil is and ways a fossil can provide information about the past, such as a) the nature of environments and b) animals that existed long ago but no longer exist.",
+      "bigIdea": "Fossils are rocks that began as the remains of or traces of living things. They show that many different kinds of living things have lived on Earth throughout its history (diversity) and that some organisms that once lived share features with organisms living things today (unity).",
+      "scientificIdeas": [
+        "Fossils are rocks when we find them today, but long ago they began as the remains or traces of living things.",
+        "Fossils are usually found within rocks that form as layers of dirt and sand accumulate gradually.",
+        "Fossils are different from bones, shells, or wood because the original material has been replaced or filled in by minerals (rocks).",
+        "As living things grow, they consume matter in the form of food and use it to make new bones and tissues. This matter is the starting point of a fossil.",
+        "Fossils can show how organisms lived in their environment and other organisms they may have interacted with when they were alive.",
+        "Fossils can be very large (like dinosaur bones) or very small (like shells of plankton of microbes).",
+        "Fossils provide clues about what environments were once like (e.g., seashell fossils in Tennessee show that the area was once covered by ocean).",
+        "Fossils show that many different kinds of things once lived on Earth but are no longer found living on Earth today.",
+        "Some extinct organisms share features with organisms that are alive today.",
+        "Different places on Earth have unique histories shown by the different types of fossils found in each place."
+      ],
+      "studentIdeas": [
+        "Fossils are \"just rocks\" that happen to look like living things.",
+        "Fossils are the actual bones, shells, or wood of organisms (not mineral replacements).",
+        "All organisms that once lived must have left fossils for us to find.",
+        "Fossils can tell us exactly what organisms looked like.",
+        "Only big animals can become fossils.",
+        "Only animals can become fossils.",
+        "Animals can become extinct, but plants cannot -- the types of plants found on Earth have not changed.",
+        "The types of organisms that live in a place now (in Tennessee, near my house, etc.) are the same types of organisms that have always lived here."
+      ]
+    },
+    {
+      "code": "8.LS4.1",
+      "grade": "8",
+      "statement": "Using evidence from the geologic timescale, analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, and change in life forms throughout Earth's history.",
+      "bigIdea": "Fossils found in layers of rock show how life on Earth has changed over long spans of time, including times of increasing diversity and times of widespread extinction.",
+      "scientificIdeas": [
+        "Fossils form through chemical reactions where minerals replace the original remains of the organism.",
+        "Fossils are typically found in sedimentary rocks, which form very slowly over large periods of time.",
+        "The position of a fossil within rock layers can determine its relative age -- older fossils will be found in layers of rock that formed first.",
+        "Most species that have ever lived are now extinct.",
+        "Certain organisms will be more abundant in the fossil record due to their unique features (e.g., organisms with shells and skeletons are more likely to fossilize).",
+        "Fossilization is rare because it takes very specific conditions for fossils to form (rapid burial, no disturbances, presence of mineral-rich water to supply reactants).",
+        "The fossil record shows periods where global environmental changes led to increasing diversity. (Increasing oxygen levels - from microbial photosynthesis - and accessible habitat - from the breakup of supercontinents led to emergence of many species during the Cambrian Explosion.)",
+        "The fossil record also shows times of widespread extinction (e.g., volcanic eruptions and asteroid impacts).",
+        "Extinction events are caused by environmental changes, which also create new opportunities for new species to emerge as access to resources increases.",
+        "Since fossilization is rare and incomplete, the fossil record preserves only a part of Earth's history of life.",
+        "Most extinctions are gradual losses (e.g., trilobites, mammoths) that happen as environments change gradually, or species are outcompeted."
+      ],
+      "studentIdeas": [
+        "At a single point in Earth's history the number of species on was at a maximum and has decreased constantly since that time.",
+        "Every organism that has lived on Earth will be present in the fossil record.",
+        "When living things die and get buried, their bodies will remain -- nothing happens underground.",
+        "Fossils can form quickly in spans of time that are relatable to human lifetimes - 100s or 1000s or years.",
+        "Mass extinctions happen immediately after a catastrophic event - rather than resulting from of a chain of events initiated with a single moment."
+      ]
+    },
+    {
+      "code": "8.LS4.2",
+      "grade": "8",
+      "statement": "Construct an explanation addressing similarities and differences of the anatomical structures and genetic information between extinct and extant organisms using evidence of common ancestry and patterns between taxa.",
+      "bigIdea": "Comparing the structures of living and extinct organisms shows similarities that can be explained by inherited genetic information which suggests relatedness.",
+      "note": "Addressing similarities in DNA sequences is not addressed until high school where students encounter the molecular nature of DNA in Biology 1.",
+      "scientificIdeas": [
+        "Genes are located on chromosomes and get passed from parent to offspring.",
+        "Genes have a strong influence on the traits of organisms (which can also be affected by the environment).",
+        "Organisms of the same type are not identical because there is genetic variation within traits.",
+        "Organisms, whether extinct or living, have traits that are shared by organisms of the same type because of genetic relatedness.",
+        "Organisms with more similarities in structure share more inherited information.",
+        "Greater amounts of shared inherited information suggest they share common ancestors.",
+        "Differences among organisms arise gradually over many generations, not during the lifetime of individuals.",
+        "Inheritance of genes explains why some similarities between organisms remain even as populations change over time. Genes are passed on if they do not make it harder for an organism to survive and reproduce.",
+        "Comparing structures and genetic information together provides stronger evidence than either alone."
+      ],
+      "studentIdeas": [
+        "If organisms are related, they should look the same.",
+        "Organisms can change their traits (therefore genes) in order to survive in their environment.",
+        "All traits are controlled by a single gene, so changes should be obvious.",
+        "Similarities between organisms suggest that one organism turned into another (e.g., dinosaurs must have turned into birds because they both lay eggs).",
+        "Extinct organisms are not connected to living things because they are completely different kinds.",
+        "Differences between organisms mean that they cannot be related since related things should be \"the same.\"",
+        "All similarities are evidence of relatedness (e.g., whales and fish both have fins, so they must be related). (Note: This idea may be common since students will not address the concept that some shared features emerge in separate species due to similar environments until high school.)",
+        "One species completely turns into another, and the old species disappears all at once. (Ignores that there will be overlap between species.)"
+      ]
+    },
+    {
+      "code": "Bio1.LS4.1",
+      "grade": "Biology",
+      "statement": "Analyze and interpret scientific data that common ancestry and biological evolution are supported by multiple lines of empirical evidence (e.g., DNA sequences, amino acid sequences, anatomical structures, the fossil record, biogeography, or order of appearance of structures during embryological development).",
+      "bigIdea": "Common ancestry and biological evolution can explain the common features shared among various groups of organisms. Advancements in technology have provided lines of evidence and new representations of this evidence which continues to support existing explanations.",
+      "scientificIdeas": [
+        "Organisms can be classified/grouped on the basis common features. (Note: The idea is to identify common features, not to memorize specific features that are common within.)",
+        "Common features may include internal and external parts, which may have different functions despite similar appearances in different organisms.",
+        "Organisms share common features during embryonic stages. Ultimately these shared embryonic features may develop into different structures as cells continue to differentiate into adult forms.",
+        "Common ancestry is the scientific explanation for common features.",
+        "A feature that is common among a group of originated in an earlier ancestor shared by the group.",
+        "Fossilized remains of organisms that once lived include transitional fossils that possess intermediate forms that existed between an ancient ancestor of a more recent organism.",
+        "The present and historical distribution of Earth's species supports common ancestry. Organisms that have been geographically isolated together possess distinct features that are unique to organisms in that area. These features emerge after a place becomes isolated. When a population becomes geographically divided and the separate populations remain isolated, the unique pressures in each environment can favor the selection of different features in each environment. Features shared between these population originated in a common ancestor before the populations were divided.",
+        "Patterns in similarities in DNA/amino acid sequences support those groupings first inferred based on common features. Organisms grouped based on common features have many genes in common. Genes common in different species often have many conserved nucleotide sequences."
+      ],
+      "studentIdeas": [
+        "More recent ancestors are more advanced than earlier ancestors.",
+        "Organisms with a common ancestor will only differ by a single trait.",
+        "When two organisms share a common ancestor, it means that one of the organisms is a more advanced version of the other organism."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "componentIdea": {
+    "code": "LS4.D",
+    "title": "Biodiversity and Humans"
+  },
+  "discipline": "LS",
+  "chapterOverview": {
+    "guidingQuestion": "What is biodiversity, how do humans affect it, and how does it affect humans?",
+    "purpose": "Healthy ecosystems provide for the species living there, including humans. This strand explores the way that the health and stability of an ecosystem relate directly to its biodiversity and how humans impact biodiversity.",
+    "centralIdeas": [
+      "Humans are part of the environment.",
+      "Our environment provides both resources and services.",
+      "Healthy environments provide the most abundant and widest range of benefits.",
+      "There are different scales to measure health -- variety of genes in a population, variety of species in an ecosystem, or variety of ecosystems on Earth.",
+      "These are all measures of biodiversity."
+    ]
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. There are many different kinds of living things in any area, and they exist in different places on land and in water. -- NRC, 2012",
+      "progression": "Young students are naturally curious about living things, especially when they encounter something that seems unusual or out of place, such as a brightly colored insect, a strangely shaped plant, or an animal they rarely see. Their first ideas about biodiversity often begin with a sense of wonder at these oddities. This resembles the way people in ancient and Renaissance times described the diversity of life through lists of remarkable or curious forms. At this age, children may not yet think in terms of ecosystems or classification, but they can recognize that there are many kinds of living things in the world and that noticing these differences is both exciting and meaningful.\n\nIn the earliest grades, students are not expected to use the word biodiversity, but they can begin to appreciate that even small places contain many kinds of living things. Careful observation in familiar places like schoolyards or neighborhoods helps them notice plants and animals that are easily overlooked. Students can also see that different kinds of organisms live on land compared to those that live in water, or even sunny vs shaded spots. These observations build a foundation for later ideas that humans depend on plants and animals to meet their needs and that the variety of life in an area contributes to the health of the environment.\n\nYoung students can begin to see the way that humans depend on living things, such as understanding that things like paper, wood, and cotton come from plants and animals provide things like milk and even work. Understanding that individual organisms provide resources and services helps prepare students to understand the idea of ecosystem services in later grades."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Scientists have identified and classified many plants and animals. Populations of organisms live in a variety of habitats, and changes in those habitats affect the organisms living there. Humans, like all other organisms, obtain living and non-living resources from their environments. -- NRC, 2012",
+      "progression": "In early grades, students should have had opportunities to make careful observations of the variety of things living around them. These observations give students a sense that many different kinds of things live in a place -- even when it's not obvious.\n\nIn later elementary grades, students begin to see that living things are not spread evenly everywhere but live only in particular habitats where conditions meet their needs. Even though students are not expected to know the term \"biodiversity,\" they should develop a broader understanding of life to include both a range of different kinds of things and a range of different habitats.\n\nClassification provides a way to catalog the types of organisms living in a particular place. When the organisms in a place have been classified, it is possible to compare that place to other places where the same organism or group of organisms might be found. Classification lets us view Earth's biodiversity as a sort of account balance because it provides a way to quantify living things. In later grades, students will learn to view the emergence of new species as a deposit to this \"account\" while extinctions lower this balance.\n\nIt is not necessary for students to memorize the levels of the Linnean Classification System or even to know simpler levels such as genus and species. At this grade level, the idea of biodiversity is uncomplicated and focuses primarily on whether an area has many different types of organisms living there.\n\nStudents also begin to see how changes in habitats affect organisms, and that the loss of one species can ripple through its habitat, altering the survival of others. These insights prepare students for later ideas about ecosystems, interdependence, and ecosystem services. At this grade level, the focus should remain on tangible resources humans use from their environments, such as food, water, air, and shelter, which lays the groundwork for understanding the more abstract idea of ecosystem services in later grades."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Biodiversity is the wide range of existing life forms that have adapted to the variety of conditions on Earth, from terrestrial to marine ecosystems. Biodiversity includes genetic variation within a species, in addition to species variation in different habitats and ecosystem types (e.g., forests, grasslands, wetlands). Changes in biodiversity can influence humans' resources, such as food, energy, and medicines, as well as ecosystem services that humans rely on---for example, water purification and recycling. -- NRC, 2012",
+      "progression": "In earlier grades, students developed a sense that biodiversity means there are many different kinds of organisms and habitats, and that humans depend on this diversity for resources. By the end of elementary school, they also learned that changes to habitats can affect organisms living there, and that the loss of one kind of organism may reduce the resources available to humans. In middle school, students extend this foundation by considering biodiversity at new scales: the diversity of entire ecosystems and the genetic diversity within species.\n\nEcosystem diversity provides humans with important benefits, often called ecosystem services. Healthy ecosystems regulate water and climate, recycle matter, and support agriculture by processes such as pollination and soil formation. When ecosystems are damaged through human activity, such as deforestation, pollution, or the loss of wetlands, these services are diminished, creating challenges for human health, food supply, and community stability. Maintaining ecosystem biodiversity therefore sustains both the organisms that live there and the human societies that depend on them.\n\nBiodiversity also exists within species through genetic diversity, the variety of alleles carried by the members of a population. These alleles can shape how organisms respond to changing environments, disease, and other challenges. Because humans have not studied or identified all alleles in all living things, there are many potential benefits hidden in nature that remain undiscovered. For example, genetic engineering allows scientists to transfer existing alleles across species, such as moving the human insulin gene into bacteria to produce medicine. However, humans cannot invent new alleles. Once alleles are lost through population decline or extinction, their potential uses are lost forever.\n\nLooking ahead to high school, students will expand these ideas to see biodiversity as a dynamic process that changes through time. Biodiversity can increase through speciation and decrease through extinction, and the rates of these changes depend on the resources and niches available. Human actions not only influence which species and alleles persist today but also shape the opportunities for new biodiversity to emerge in the future."
+    },
+    "Biology": {
+      "nrcQuote": "Biodiversity is increased by the formation of new species (speciation) and decreased by the loss of species (extinction). Biological extinction, being irreversible, is a critical factor in reducing the planet's natural capital.\n\nHumans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. These problems have the potential to cause a major wave of biological extinctions---as many species or populations of a given species, unable to survive in changed environments, die out---and the effects may be harmful to humans and other living things. Thus, sustaining biodiversity so that ecosystem functioning, and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value. -- NRC, 2012",
+      "progression": "In elementary grades, students learned that scientists use careful observations to classify living things. Classifying and cataloging living things make it possible for scientists to quantify biodiversity. In middle school, students learn about chromosomes and genetic diversity and think about biodiversity at different scales.\n\nExtinction reduces levels of biodiversity. This is easier to understand when we think about the extinction of an entire species, but as population sizes decrease genetic diversity will suffer first. Smaller population sizes mean smaller gene pools and therefore certain alleles may be lost from the gene pool well before the species becomes extinct. This also means that the survivability of the species decreases because the expression of genetic variation is the means that allows the species to be resilient against environmental changes.\n\nSpeciation increases levels of biodiversity. Genetically, a new species emerges as members of an existing species become reproductively isolated. In other words, a subset of a species becomes genetically unique to the point that they are no longer able to produce viable offspring with members of the original population. The conditions that lead to speciation result in unique combinations of alleles. These pressures, therefore, increase both genetic and species diversity.\n\nChanges to DNA can also lead to genetic diversity. Mutations that lead to the formation of new alleles. New alleles represent an increase in biodiversity.\n\nA variety of things directly and indirectly affect levels of biodiversity. Humans can make design decisions that support biodiversity either by preventing the loss of biodiversity or without purposeful decision making. Human activities can have neutral or negative consequences on biodiversity -- often unintentionally."
+    }
+  },
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "howHumansDependOnBiodiversity", "label": "How humans depend on biodiversity" },
+      { "key": "howHumansImpactBiodiversity", "label": "How humans impact biodiversity" }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "howHumansDependOnBiodiversity": "There are many kinds of living things that help provide food, shelter, and materials to humans.",
+        "howHumansImpactBiodiversity": "Human activities (like building and planting) change places. This can reduce the kinds of living things in a place."
+      },
+      {
+        "gradeBand": "3-5",
+        "howHumansDependOnBiodiversity": "Different organisms live in different kinds of habitats that provide humans with living and non-living resources.",
+        "howHumansImpactBiodiversity": "Changes to habitats affect can impact the kinds of organisms that live there, and interconnected groups of organisms"
+      },
+      {
+        "gradeBand": "6-8",
+        "howHumansDependOnBiodiversity": "Humans depend on genetic diversity and ecosystem diversity for things like food, medicine, and ecosystem services.",
+        "howHumansImpactBiodiversity": "Human activities (land use, pollution, overexploitation) reduce biodiversity at all scales -- genes, species, ecosystems."
+      },
+      {
+        "gradeBand": "9-12",
+        "howHumansDependOnBiodiversity": "Biodiversity changes over time, speciation adds diversity, and extinction removes it. The process affects the resources and services humans depend on.",
+        "howHumansImpactBiodiversity": "Human activity can affect the rates of speciation and extinction. Loss of niches reduces the capacity for new species, conservation and restoration can counteract negative impacts."
+      }
+    ],
+    "narrative": "Human understanding of the diversity of life has developed from an appreciation of the beauty and curiosity of living things to an understanding that diversity is functional and tied to survival. Students' understanding of biodiversity develops over time in ways that parallel shifts in how scientists themselves have come to understand the living world.\n\nIn early elementary school, students begin by noticing the many kinds of organisms in their surroundings. Just as ancient observers cataloged shells, plants, or animals without much explanation beyond their differences, young learners focus on the simple idea of variety. Students, like observers from antiquity through the renaissance, are likely to be most curious about the least familiar kinds of living things.\n\nBy upper elementary school, students connect organisms to the habitats where they live and begin to see that classification provides a way to organize this diversity. This type of observation and cataloging resembles the understanding of the 16th--18th centuries, when naturalists developed taxonomic systems that grouped species and linked them to the environments in which they were found. Early naturalists developed catalogs of living things in an attempt to show order in the natural world.\n\nIn middle school, the concept of biodiversity expands to include genetic and ecosystem diversity. Students recognize that variation within species can be just as important as variation among species or across ecosystems. This mirrors the 19th- and early 20th-century advances which connected adaptation and natural selection to genetic variation and highlighted the interdependence of organisms within ecosystems. As humans began to expand and colonize new parts of the world, they understood the economic value of new plants and animals. At this level, students can also see that once lost, alleles cannot be recreated, making genetic diversity a critical resource for the future of food, medicine, and ecosystem resilience.\n\nBy high school biology, students understand that biodiversity is not static but dynamic, changing through speciation and extinction. This parallels discoveries in paleontology and evolutionary biology that revealed long-term patterns in the rise and fall of species, as well as contemporary evidence of human-driven biodiversity change. Students learn that extinction permanently reduces the diversity of life, while speciation can restore or add to it. Human activities influence both rates, often by accelerating extinctions or reducing the ecological niches needed for new species to emerge."
+  },
+  "standards": [
+    {
+      "code": "3.LS4.2",
+      "grade": "3",
+      "statement": "Use evidence to determine the changes between an environment's biodiversity and human resources.",
+      "bigIdea": "Biodiversity includes different kinds or organisms and different kinds of habitats, each shaped by the network of interactions among organisms. Humans depend on this diversity for material resources.",
+      "scientificIdeas": [
+        "Biodiversity includes the variety of living things in an area and the variety of habitats where they live.",
+        "Habitats include both living (plants, animals, microbes) and non-living (water, soil, air, sunlight). Organisms depend on both living and non-living components.",
+        "Organisms need particular materials and conditions to survive and obtain these from other living things and their surroundings.",
+        "Habitats support networks of interactions among organisms (e.g., food, shelter, pollination).",
+        "Organizing observations of living things into groups or lists makes it possible to describe and compare biodiversity in different habitats.",
+        "Since habitats are interconnected, the loss of one kind of organism affects others that rely on it.",
+        "Humans, like other organisms, depend on organisms for material resources such as food, water, shelter, clothing, and fuel.",
+        "Humans can affect habitats (cutting down trees, pollution, development) which can reduce biodiversity by changing the conditions that organisms need.",
+        "Human impacts can positively or negatively affect the ability of a place to provide for human needs."
+      ],
+      "studentIdeas": [
+        "A habitat is just a place where animals live (students often exclude plants, microbes, or humans).",
+        "Environments and habitats are fixed and unchanging, so once an organism lives somewhere, it always can.",
+        "Organisms can live anywhere if they try hard enough.",
+        "Plants don't really have habitats because they don't move around like animals.",
+        "Plants are part of the background of a habitat.",
+        "Humans are separate from habitats and don't depend on living things in the same way as animals do.",
+        "The variety of living things in an area is just for beauty or interest, not something that affects survival.",
+        "If one organism disappears, it only affects that organism --- not the other kinds of organisms in the habitat.",
+        "Habitats only include the living parts (plants and animals), not soil, water, air, or sunlight.",
+        "Human activities (cutting trees, building, pollution) only harm nature, but don't affect humans themselves.",
+        "Humans can always make artificial replacements (factories, machines, inventions), so they don't really depend on biodiversity."
+      ]
+    },
+    {
+      "code": "6.LS4.1",
+      "grade": "6",
+      "statement": "Explain how changes to biodiversity in a system would impact human resources (e.g., food, medicine, and clean water) and \"ecosystem services\" (e.g., climate stabilization, decomposition of waste, and pollination).",
+      "bigIdea": "Biodiversity at the level of ecosystems and genes provides humans with essential resources and services, and changes to this diversity can reduce both the stability of ecosystems and the potential benefits available to people.",
+      "scientificIdeas": [
+        "Healthy ecosystems support essential services such as pollination, soil formation, water purification, and climate regulation.",
+        "Humans rely on these ecosystem services for food production, clean water, and stable living conditions.",
+        "Different types of ecosystems provide different sets of services and resources.",
+        "Human activities such as deforestation, pollution, and habitat destruction can reduce ecosystem diversity, weakening these services.",
+        "When ecosystems lose diversity, they become less resilient to disturbances, and the benefits they provide to humans are diminished.",
+        "Restoring or protecting ecosystem diversity (e.g., reforestation, wetland preservation, pollinator habitats) can strengthen ecosystem services and human well-being.",
+        "Genetic diversity within species means there are many alleles that influence traits such as resistance to disease, tolerance of environmental stress, or production of useful substances.",
+        "Humans benefit from this diversity in agriculture (e.g., crop varieties that resist drought or pests) and medicine (e.g., alleles used to produce treatments such as insulin).",
+        "Many alleles have not yet been studied; they may hold undiscovered benefits for future food, health, or technological needs.",
+        "Humans cannot design new alleles. Once genetic variation is lost, its potential benefits are gone forever.",
+        "Activities that reduce population sizes or drive species toward extinction also reduce genetic diversity, shrinking the range of options available for future use.",
+        "Preserving genetic diversity through conservation of species and habitats protects the potential benefits of biodiversity for humans."
+      ],
+      "studentIdeas": [
+        "Biodiversity is only important because it makes things beautiful or fun to study.",
+        "Humans can create new genes or alleles as needed, so genetic diversity isn't important.",
+        "Genetic diversity is only important within the human pool of genes.",
+        "All medicines and food improvements are human inventions.",
+        "All alleles show up in the appearance of organisms and if most organisms look similar to each other, then they will have identical alleles.",
+        "As long as there are lots of plants and animals somewhere, then there is high biodiversity.",
+        "Ecosystems help plants and animals that live there, but humans don't live in ecosystems and so they don't benefit.",
+        "Humans only harm ecosystems. They cannot help them."
+      ]
+    },
+    {
+      "code": "Bio1.LS4.5",
+      "grade": "Biology",
+      "statement": "Obtain, evaluate, and communicate information about how changes in environmental conditions may result in (1) increases in the number of individuals of some species, (2) the emergence of new species over time, and (3) the extinction of other species.",
+      "bigIdea": "Environmental changes -- including those caused by humans -- can lead to changes in Earth's biodiversity including species loss or emergence.",
+      "scientificIdeas": [
+        "Living things depend on living and non-living components in their environment. When the environment changes, some resources they depend on may become unavailable.",
+        "Living things are only able to survive within a narrow range of conditions (e.g., temperature, sunlight, precipitation, pH, etc.)",
+        "Human activity can cause changes to the conditions in an organism's habitat.",
+        "A species is a group of organisms that are reproductively isolated from other organisms.",
+        "A population consists of organisms belonging to the same species with a shared gene pool.",
+        "A new species' emergence begins when some factor makes portions of the population isolated.",
+        "A variety of factors can cause isolation. The common outcome is that gene flow to a portion of the population differs and allele frequencies in each group can begin to diverge.",
+        "Mutations can lead to the formation of new alleles in either group.",
+        "Differences in selective pressures acting on each group cause differences in alleles to accumulate in ways that affect morphology, behavior, physiology, reproduction, etc.",
+        "Eventually, the two groups differ so much that they are no longer able to interbreed.",
+        "Extinctions cause Earth's species diversity to decrease.",
+        "Speciation causes Earth's species diversity to increase."
+      ],
+      "studentIdeas": [
+        "Species can become extinct, but new species do not emerge.",
+        "All species on Earth now have been on Earth since the planet formed."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}

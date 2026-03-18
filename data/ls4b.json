@@ -1,0 +1,187 @@
+{
+  "componentIdea": {
+    "code": "LS4.B",
+    "title": "Natural Selection"
+  },
+  "discipline": "LS",
+  "chapterOverview": {
+    "guidingQuestion": "How does genetic variation among organisms affect survival and reproduction?",
+    "purpose": "This strand examines why some traits become more common than others in a population of organisms over time.",
+    "centralIdeas": [
+      "Natural selection has several key components.",
+      "There must be variation in a population. Variation refers to multiple forms of a single characteristic.",
+      "The variation must create advantages in the survival and reproduction of some members of the population over other members.",
+      "And it must be possible to pass the beneficial variation on to offspring.",
+      "Under these conditions, some traits will become more common in a population over many generations."
+    ]
+  },
+  "gradeBandIntro": {
+    "K-2": {
+      "nrcQuote": "By the end of grade 2. [Intentionally left blank] -- NRC, 2012",
+      "progression": "There is no K-2 content for this component idea. In these grades, LS1 standards explore the function of external structures of organisms. LS3 standards compare parents to offspring or individuals to other members of their species. These LS1 and LS3 concepts provide background knowledge that help students understand the principle of natural selection in later grades."
+    },
+    "3-5": {
+      "nrcQuote": "By the end of grade 5. Sometimes the differences in characteristics between individuals of the same species provide advantages in surviving, finding mates, and reproducing. -- NRC, 2012",
+      "progression": "Elementary students often assume that each species has one \"true\" version and that differences are flaws. For example, they may picture the \"real\" skunk as mostly black with a narrow stripe and see a skunk with a broad white stripe and white tail as less correct. From this point of view, variation looks like a mistake. The standards in this grade band help students shift from seeing variation as imperfection to recognizing that differences can sometimes be useful. For example, a skunk with heavier white markings may be easier for drivers to spot at night, reducing the chance of it being hit.\n\nWhen students recognize that some variation provides advantages, they are ready for the introduction of the concept of natural selection in middle school. Natural selection is a process where traits that provide an advantage become more common in a population over generations. Three conditions must be met for natural selection to occur: there must be variation in a population, that variation must affect survival or reproduction, and offspring must be able to inherit the variation. For example, if skunks with more white coloration are less likely to be hit by cars (advantage), and if the trait can be inherited, then over time the amount of white coloration in a suburban skunk population would be expected to increase.\n\nIt may be helpful to introduce examples of human selection in elementary school to act as a bridge to learning about natural selection in middle school. The idea that nature itself can influence which variations become more common may feel abstract to students, while human choices may feel more concrete. For example, a farmer might choose to save and plant seeds from sunflowers with more orange in their flowers. That farmer may also choose to protect the orange-flowered plants (survive) and then collect and replant their seeds so that they reproduce. Over multiple growing seasons the orange-flowered variation will become more common in those fields.\n\nNatural and artificial selection are not part of the 3-5 standards but shows where this concept is headed."
+    },
+    "6-8": {
+      "nrcQuote": "By the end of grade 8. Genetic variations among individuals in a population give some individuals an advantage in surviving and reproducing in their environment. This is known as natural selection. It leads to the predominance of certain traits in a population and the suppression of others. In artificial selection, humans have the capacity to influence certain characteristics of organisms by selective breeding. One can choose desired parental traits determined by genes, which are then passed on to offspring. -- NRC, 2012",
+      "progression": "In earlier grades, students learned that variations are not imperfections and that sometimes variations can provide advantages. This shift from seeing species as having a \"perfect form\" to seeing variation as natural and useful prepares students for the concept of natural selection in middle school.\n\nBefore students can understand natural selection, they need to connect two related ideas: organisms inherit traits from one generation to the next and that there are variations of these traits. Humans have applied these ideas in agriculture since the earliest human civilizations, long before the term \"artificial selection\" was introduced in the mid-1800s to distinguish it from \"natural selection.\"\n\nAlthough natural selection is often taught before artificial selection, historically humans first recognized the power of selective breeding. For this reason, it may be useful to being with artificial selection. Students can see how humans deliberately favor traits for specific purposes, such as crop yield or appearance. Once that foundation is laid, it may be easier for students to understand that nature also \"selects\" traits, though without intention. Unlike humans, nature does not have goals.\n\nIn middle school, students understand that genes on chromosomes control traits. This means that some alleles become more common over many generations as the resulting phenotype becomes more common. By high school students move beyond seeing natural selection only in terms of visible traits and begin to connect the process to its molecular basis."
+    },
+    "Biology": {
+      "nrcQuote": "Natural selection occurs only if there is both (1) variation in the genetic information between organisms in a population, and (2) variation in the expression of that genetic information---that is, trait variation---that leads to differences in performance among individuals. The traits that positively affect survival are more likely to be reproduced and thus are more common in the population. -- NRC, 2012",
+      "progression": "Natural selection was introduced in earlier grades. Standards have focused only on those characteristics that provide advantages with respect to survival, finding a mate, and producing offspring. Natural selection only occurs when the advantages can be inherited and when the affected individuals reach reproductive age and pass the traits on to their young.\n\nGene expression is a critical development in high school genetics. In middle school, students learn that an organism's collection of traits is a result of the variety of genes in its genome. New traits can emerge in an organism when there are changes to the organism's genes (DNA). However, not all changes to DNA result in differences in an individual being more successful at surviving, finding a mate, or producing offspring. Some changes to DNA may have no effect, even at the level of the protein associated with the gene. Other changes might affect the protein associated with a particular gene, but if that gene is not expressed, these changes may not cause meaningful differences. Still, other mutations might affect portions of a gene responsible for regulating the expression of the gene but have no effect on the structure or function of the protein itself.\n\nThere is a pattern in nature where heritable traits with positive outcomes become more common in a population. This occurs because in each generation, affected individuals are more likely to reproduce. Repeated over many generations, the composition of the population shifts so that a greater proportion of the population exhibits advantageous characteristics."
+    }
+  },
+  "progression": {
+    "columns": [
+      { "key": "gradeBand", "label": "Grade Band" },
+      { "key": "typeOfVariation", "label": "Type of Variation" },
+      { "key": "scaleOfResults", "label": "Scale of Results" }
+    ],
+    "table": [
+      {
+        "gradeBand": "K-2",
+        "typeOfVariation": "No Content",
+        "scaleOfResults": "No content"
+      },
+      {
+        "gradeBand": "3-5",
+        "typeOfVariation": "Observable traits (fur color, beak shape, germination timing)",
+        "scaleOfResults": "Some individuals are more likely to survive reproduce."
+      },
+      {
+        "gradeBand": "6-8",
+        "typeOfVariation": "Inherited genes leading to trait variation.",
+        "scaleOfResults": "Populations change as advantageous traits become more common"
+      },
+      {
+        "gradeBand": "9-12",
+        "typeOfVariation": "Allele frequency",
+        "scaleOfResults": "Advantageous alleles become more common in populations."
+      }
+    ],
+    "narrative": "Many chapter progressions are written like a historical timeline of scientific discoveries. Young students begin with early ideas, often the ones people could notice without special tools or technology. By the end of high school, students build toward the modern scientific explanations and the evidence that supports them.\n\nThis chapter is different. Humans practiced artificial selection long before scientists described natural selection. Yet the progression does not treat artificial selection as the first step toward understanding natural selection. Instead, artificial selection appears later in middle school, often after students have already learned about natural selection.\n\nIn late elementary school, teachers are not expected to teach artificial selection. However, examples from artificial selection can be paired with familiar survival examples to reinforce the idea that some variations give individuals advantages. For instance, a flower grower may choose plants with brighter colors, while in nature animals with thicker fur, different beak shapes, or colors that provide camouflage may have an advantage in their environments. These parallels help students see that certain traits can increase the chances of survival or reproduction, without yet naming the process as selection.\n\nArtificial selection can be used as a conceptual bridge towards natural selection in middle school where both of these concepts are formally introduced. If students can understand that breeders influence traits in a population intentionally, then they may more easily understand that nature has the same effect unintentionally and across many traits simultaneously.\n\nBy high school, students explore the impact of natural selection on an organism's genetic information. They learn that selection can affect the genes of organisms over time when there are genetic differences that manifest in ways that make survival more or less likely."
+  },
+  "standards": [
+    {
+      "code": "5.LS4.1",
+      "grade": "5",
+      "statement": "Use evidence to construct an explanation for how variations in characteristics among individuals within the same species may provide advantages to these individuals in their survival and reproduction.",
+      "bigIdea": "Sometimes the differences between individuals that are the same species are helpful and allow some individuals advantages over others.",
+      "scientificIdeas": [
+        "Every type of organism has a certain set of characteristics. It is possible to have variations of each characteristic (e.g., fur can be light or dark color, fruit can be round or oblong shaped).",
+        "Since there is variation in each characteristic, no two individuals are exactly the same.",
+        "Organisms of the same type share nearly identical needs, and each must meet those needs within the conditions of its environment.",
+        "Some differences give individuals advantages, making it more likely that they will survive and reproduce.",
+        "Variations can matter in different ways: they may help survive challenging or changing conditions, they may help the individual reproduce or increase the chance that offspring survive.",
+        "Other variations may be neutral or even harmful to the individual.",
+        "Advantageous characteristics are not always visible (e.g., some seeds don't germinate until they've been exposed to long periods of cold, which can prevent seeds from germinating in the middle of winter).",
+        "When organisms survive and reproduce, their offspring may inherit their advantageous traits."
+      ],
+      "studentIdeas": [
+        "All members of a species are basically identical.",
+        "All differences are an advantage.",
+        "There is a \"perfect version\" of each species and differences from this version are flaws or mistakes.",
+        "If an organism has an advantage, it will always survive.",
+        "Only visible characteristics can be advantages."
+      ]
+    },
+    {
+      "code": "8.LS4.3",
+      "grade": "8",
+      "statement": "Construct an explanation based on evidence that explains how genetic variations of traits in a population increase some individuals' probability of surviving and reproducing.",
+      "bigIdea": "Certain variations of traits can be advantageous in nature. Nature (e.g., environmental conditions) serves as an indifferent selective agent: organisms with these variations are more likely to survive and reproduce so these traits become more common in the population over generations.",
+      "scientificIdeas": [
+        "Genes provide the instructions for traits in organisms.",
+        "Since there are different versions (alleles) of each gene, it is possible for individual organisms of the same type to look and behave differently from each other.",
+        "Differences in appearance and behavior may be beneficial to some individuals more than others of the same species.",
+        "All organisms of the same species have the same general needs for survival and will survive only under certain conditions.",
+        "Individual organisms that survive and reproduce will pass their genes on to the next generation when parent's sex cells combine.",
+        "Only alleles that get passed from parent to offspring can become more common in a population.",
+        "Some variations become less common when individuals with those traits do not survive or reproduce.",
+        "Nature selects all traits at once, whereas humans select for one or a small number of traits.",
+        "Over generations, advantageous traits become more common in a population.",
+        "Common needs and limited resources create competition, which is one source of pressure that may affect which members of a population survive.",
+        "Changes to the environment may accelerate normal rates of change in a population by limiting resources or changing local conditions."
+      ],
+      "studentIdeas": [
+        "All members of a species are basically the same, or there is one \"true\" version of a species.",
+        "Traits change because organisms need them. (e.g., the giraffe's neck grew so that it could reach food).",
+        "Nature decides or chooses which organisms survive.",
+        "Populations change suddenly.",
+        "Traits that develop over an organism's lifetime get passed on (e.g., gaining muscle means that offspring will be more muscular).",
+        "All variations will be helpful.",
+        "If a variation is helpful in one situation, it will be helpful in all situations.",
+        "The strongest will survive -- confusing physical strength with reproductive success.",
+        "Natural selection has a goal -- moves towards a perfect organism."
+      ]
+    },
+    {
+      "code": "8.LS4.5",
+      "grade": "8",
+      "statement": "Obtain, evaluate, and communicate information about the technologies that have changed the way humans use artificial selection to influence the inheritance of desired traits in other organisms.",
+      "bigIdea": "Certain variations of traits can be useful or desirable to humans. Humans deliberately select those variations: organisms with the desirable variations are more likely to survive and reproduce, so these traits become more common in the population over generations.",
+      "scientificIdeas": [
+        "Genes provide the instructions for traits in organisms.",
+        "Different versions of a gene (alleles) lead to variation in traits.",
+        "Humans prefer certain traits in plants and animals for practical or aesthetic reasons.",
+        "Humans can influence inheritance by selecting which organisms survive and reproduce.",
+        "Traits that humans deliberately select can become more common in a population over generations.",
+        "Traits chosen by humans may not be advantageous in the wild and may reduce survival without human support.",
+        "Modern technologies (e.g., cloning, genetic modification, selective breeding methods) allow humans to influence inheritance more directly than traditional breeding."
+      ],
+      "studentIdeas": [
+        "Scientists can create new genes that don't already exist.",
+        "Artificial selection always improves a species.",
+        "Artificial selection works instantly.",
+        "Humans can control inheritance.",
+        "Any trait that humans select will be beneficial in nature.",
+        "Artificial selection is completely different from natural selection."
+      ]
+    },
+    {
+      "code": "Bio1.LS4.2",
+      "grade": "Biology",
+      "statement": "Apply concepts of statistics (i.e., probability) to support explanations that organisms in a population with an advantageous heritable trait tend to increase in proportion to organisms lacking this trait.",
+      "bigIdea": "New variations of a trait arise through changes to genes that result in phenotypic changes. It is possible to support the idea that the new variation of the trait is advantageous based on the increasing frequency of the variation in the population.",
+      "scientificIdeas": [
+        "Traits are a result of the interaction of proteins with other biomolecules.",
+        "Each trait results from the interaction of one or more proteins in an organism.",
+        "Organisms make a variety of different proteins through a chain of chemical reactions beginning with DNA in the cell's nucleus. These proteins control an organism's traits.",
+        "An organism's DNA is divided into genes where each gene is the starting place for production of a single protein.",
+        "Some portions of a gene encode the production of a protein, while other portions of a gene control the expression of a gene.",
+        "Changes to an organism's DNA can result in changes to the proteins produced or the control over the production of the protein.",
+        "Selective pressures act on variations that affect the performance of the individual.",
+        "Species tend to have significant variation within a population and less variation across different populations.",
+        "There can be multiple variants of a trait among members of the same species.",
+        "Certain variations of a trait may provide advantages in survival, finding a mate, and reproduction for individuals of a species.",
+        "If an individual dies before they reproduce, their combination of genes does not pass to future generations.",
+        "Individuals who are more likely to survive, find a mate, and reproduce are more likely to pass their genes on than other individuals.",
+        "An advantageous variation becomes more common in a population due to the cumulative effects of the advantage from one generation to the next.",
+        "Natural selection only affects traits where one variant provides an advantage to some members of a species.",
+        "Added together, the dominant and recessive alleles will account for all the alleles in a population.",
+        "At equilibrium, the proportions of each variant remain relatively stable across generations.",
+        "When environmental conditions are stable the proportion of alleles in the population can reach equilibrium.",
+        "New alleles (from new members in the population, new mutations, etc.) cause a population to push a trait out of equilibrium.",
+        "A trait will leave the equilibrium state when a characteristic provides an advantage in survival, finding a mate, and reproducing.",
+        "Artificial selection can cause a population to fall out of equilibrium.",
+        "Selective pressures acting on a population will return a system to equilibrium."
+      ],
+      "studentIdeas": [
+        "After enough time, natural selection will remove all recessive alleles from a population.",
+        "After enough time, only dominant alleles will occur in a population.",
+        "Dominant alleles will always be more common in a population.",
+        "Genetic variation will decrease over time as dominant alleles push out recessive alleles in the population.",
+        "There can only be one recessive allele and one dominant allele for a particular gene.",
+        "Changes to allele frequencies always happen quickly. (Note: Typically, it only happens due to external pressure, such as isolating a portion of a population).",
+        "Changes to allele frequencies only happen slowly. (Typical, but external or artificial pressures can accelerate changes in frequency.)",
+        "In an equilibrium state, the different variations of a trait occur in equal proportions."
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "02-28-2026",
+    "source": "TN Science IFDs - 03-26 release"
+  }
+}
